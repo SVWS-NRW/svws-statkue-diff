@@ -204,7 +204,7 @@ ID;Schulform;Flag;SNR;FSP;Jahrgang;KZ_Bereich;Beschreibung;geaendert
 47;"S";"1";null;null;"71";null;"Jahrgang der Schule für Kranke";
 48;"S";"1";null;null;"85";null;"Schule für Geistigbehinderte: Berufspraxisstufe in Vollzeitform";
 49;"S";"1";null;null;"86";null;"Schule für Geistigbehinderte: Berufspraxisstufe in Teilzeitform";
-50;"S";"1";null;null;"90";null;"Hausfrüherziehung für Hör- bzw. Sehgeschädigte";
+50;"S";"1";null;null;"90";null;"Hausfrüherziehung für hör- bzw. sehgeschädigte Kinder";
 131;"S";"1";null;null;"E1";0;"Schuleingangsphase, 1. Schulbesuchsjahr";
 122;"S";"1";null;null;"E2";0;"Schuleingangsphase, 2. Schulbesuchsjahr";
 132;"S";"1";null;null;"E3";0;"Schuleingangsphase, 3. Schulbesuchsjahr";

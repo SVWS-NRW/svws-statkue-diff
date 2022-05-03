@@ -9,7 +9,7 @@ SF;Flag;BKAnlage;BKTyp;BKIndex;Beschreibung;geaendert
 "SK";"1";"*";"**";990;"integrierte Form";
 "SR";"1";"*";"**";990;"Standard für diese Schulform";
 "V";"1";"*";"**";990;"Standard für diese Schulform";
-"G";"4";"*";"**";990;"Standard für diese Schulform";
+"G";"4";"*";"**";990;"Stammgliederung der Schule";
 "GE";"7";"*";"**";990;"Standard für diese Schulform";
 "GE";"8";"*";"**";990;"Standard für diese Schulform";
 "FW";"9";"*";"**";990;"Allgemeinbildender Bereich";
@@ -31,9 +31,9 @@ SF;Flag;BKAnlage;BKTyp;BKIndex;Beschreibung;geaendert
 "SB";"3";"A";"08";50;"Vorpraktikum (VP)";
 "BK";"3";"A";"09";55;"Klassen für Schüler/innen ohne Ausbildungsverhältnis (BS 1j; VZ)";
 "SB";"3";"A";"09";55;"Klassen für Schüler/innen ohne Ausbildungsverhältnis (BS 1j; VZ)";
-"BK";"2";"A";"10";56;"Berufsabschluss/mittlerer Schulabschluss (BKAZVO) (BAB/FOR; VZ)";
 "SB";"2";"A";"10";56;"Berufsabschluss/mittlerer Schulabschluss (BKAZVO) (BAB/FOR; VZ)";
-"BK";"2";"A";"11";56;"Berufsabschluss/Fachhochschulreife (BKAZVO) (BAB/FHR; VZ)";
+"BK";"3";"A";"10";56;"Berufsabschluss/mittlerer Schulabschluss (BKAZVO) (BAB/FOR; VZ)";
+"BK";"3";"A";"11";56;"Berufsabschluss/Fachhochschulreife (BKAZVO) (BAB/FHR; VZ)";
 "BK";"1";"A";"12";57;"Ausbildungsvorbereitung (BS 1j; VZ)";
 "SB";"1";"A";"12";57;"Ausbildungsvorbereitung (BS 1j; VZ)";
 "BK";"1";"A";"13";58;"Ausbildungsvorbereitung (BS 1j; TZ)";
@@ -64,6 +64,8 @@ SF;Flag;BKAnlage;BKTyp;BKIndex;Beschreibung;geaendert
 "SB";"1";"B";"09";93;"Berufsabschl./Hauptschulab.Kl. 10 oder mittl. Schulab. (BAB/HSA10-FOR, 3j. TZ)";
 "BK";"1";"B";"10";93;"Berufsabschl./Hauptschulab.Kl. 10 oder mittl. Schulab. (BAB/HSA10-FOR, 4j. TZ)";
 "SB";"1";"B";"10";93;"Berufsabschl./Hauptschulab.Kl. 10 oder mittl. Schulab. (BAB/HSA10-FOR, 4j. TZ)";
+"BK";"4";"B";"11";94;"Berufsab./Hauptschulab.Kl. 10 oder mittl. Schulab. (BAB/HSA10-FOR, 3j. TZ berufsb.)";
+"SB";"4";"B";"11";94;"Berufsab./Hauptschulab.Kl. 10 oder mittl. Schulab. (BAB/HSA10-FOR, 3j. TZ berufsb.)";
 "FW";"4";"B";"T";0;"Schule für Kranke: Berufsbildend (Teilzeit)";
 "S";"4";"B";"T";0;"Schule für Kranke: Berufsbildend (Teilzeit)";
 "FW";"4";"B";"V";0;"Schule für Kranke: Berufsbildend (Vollzeit)";
@@ -122,14 +124,14 @@ SF;Flag;BKAnlage;BKTyp;BKIndex;Beschreibung;geaendert
 "BK";"3";"E";"12";270;"Berufspraktikum Erzieher/innen (FS/BP/Erz 2j; TZ)";
 "BK";"1";"E";"13";210;"Fachschule Teilzeit (BW 3j; TZ)";
 "SK";"1";"E";"R";990;"kooperative Form: Erweiterungsebene";
-"G";"4";"E";"VB";990;"Evangelische Bekenntnisschule";
+"G";"4";"E";"VB";990;"angeschlossene evangelische Bekenntnisschule";
 "GY";"1";"G";"01";990;"Aufbaugymnasium";
 "WB";"1";"G";"02";990;"Bildungsgang Abendgymnasium";
 "GE";"1";"G";"GS";990;"Gemeinschaftsschule auslaufend: integrierte Form";
 "SK";"1";"G";"GS";990;"Gemeinschaftsschule auslaufend: integrierte Form";
 "GE";"1";"G";"GY";990;"Gemeinschaftsschule auslaufend: Gymnasialbildungsgang";
 "SK";"1";"G";"GY";990;"Gemeinschaftsschule auslaufend: Gymnasialbildungsgang";
-"G";"4";"G";"MS";990;"Gemeinschaftsschule";
+"G";"4";"G";"MS";990;"angeschlossene Gemeinschaftsschule";
 "SK";"1";"G";"R";990;"kooperative Form: Grundebene";
 "GE";"1";"G";"RH";990;"Gemeinschaftsschule auslaufend: teilintegrierte Form";
 "SK";"1";"G";"RH";990;"Gemeinschaftsschule auslaufend: teilintegrierte Form";
@@ -157,7 +159,7 @@ SF;Flag;BKAnlage;BKTyp;BKIndex;Beschreibung;geaendert
 "WB";"1";"R";"02";990;"Bildungsgang Abendrealschule";
 "GM";"1";"R";"H";990;"teilintegrierte Form (äußere Fachleistungsdifferenzierung)";
 "SK";"1";"R";"H";990;"teilintegrierte Form";
-"G";"4";"R";"KB";990;"Katholische  Bekenntnisschule";
+"G";"4";"R";"KB";990;"angeschlossene katholische  Bekenntnisschule";
 "GE";"1";"S";"RH";990;"Sekundarschule auslaufend: teilintegrierte Form";
 "GE";"1";"S";"SI";990;"Sekundarschule auslaufend: integrierte Form";
 "BK";"3";"X";"01";280;"Ehem. Kollegschule: Allgemeine Hochschulreife (AHR 3j; VZ) - ausgelaufen!";
@@ -168,6 +170,6 @@ SF;Flag;BKAnlage;BKTyp;BKIndex;Beschreibung;geaendert
 "BK";"3";"X";"06";330;"Ehem. Kollegschule: Berufsabschluss und Allgemeine Hochschulreife (BAB/AHR 3j; VZ) - ausgelaufen!";
 "BK";"3";"X";"07";340;"Ehem. Kollegschule: Berufsabschluss und Fachoberschulreife (BAB/FOR 3j; VZ) - ausgelaufen!";
 "BK";"3";"X";"08";350;"Ehem. Kollegschule: Berufsabschluss mit Zusatzqualifikation (BAB/ZQ 3j; VZ) - ausgelaufen!";
-"GE";"7";"Y";"8";990;"Lehrplan G8";
+"GE";"7";"Y";"8";990;"Lehrplan G8, nur Jahrgang Q2";
 "BK";"3";"Z";"01";370;"Kooperationsklasse Hauptschule (HS 2j; VZ)";
 "SB";"4";"Z";"01";370;"Kooperationsklasse Hauptschule (HS 2j; VZ)";

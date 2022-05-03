@@ -2,7 +2,9 @@ ID;Kurztext;Langtext;Beginn;Ende;Sort;geaendert
 72;"310";"Seiteneinsteiger/-in: Entlastung für berufsbegleitende Ausbildung für Universitätsabsolventen OBAS";2010-08-01T00:00;null;310;
 73;"315";"Seiteneinsteiger/-in: Entlastung für berufsbegleitende Ausbildung für FH - Absolventen";2010-08-01T00:00;null;315;
 74;"320";"Seiteneinsteiger/-in: Entlastung für Pädagogische Einführung in den Schuldienst";2010-08-01T00:00;null;320;
+93;"321";"Werkstattlehrer/-in: Praktisch-pädagogische Einführung";2021-04-01T00:00;null;321;
 80;"325";"Teilnahme an Qualifizierungsmaßnahme: Einführung in die Grundschuldidaktik";2019-08-01T00:00;null;325;
+94;"326";"Teilnehmer/-in am Landesprogramm Internationale Lehrkräfte fördern (ILF): Entlastung für Qualifizierung";2021-04-01T00:00;null;326;
 75;"330";"Tätigkeit als schulische/-r Ausbilder/-in OBAS (§ 11 Abs. 5 i. V. mit § 9 Abs. 2)";2012-08-01T00:00;null;330;
 76;"340";"Erfahrene Lehrkraft: Entlastung für Pädagogische Einführung in den Schuldienst";2012-08-01T00:00;null;340;
 1;"500";"Wahrnehmung besonderer schulischer Aufgaben / Ausgleich besonderer unterrichtlicher Belastungen";1900-01-01T00:00;null;500;
@@ -44,6 +46,7 @@ ID;Kurztext;Langtext;Beginn;Ende;Sort;geaendert
 60;"745";"Bildungspolitische Sonderaufgaben";1900-01-01T00:00;null;745;
 61;"750";"Sonstiger Ausgleichsbedarf, der aus wechselnden Ausgleichs- und Mehrbedarfen finanziert ist.";1900-01-01T00:00;null;750;
 71;"765";"Tätigkeit als schulische/-r Mentor/-in: Praxissemester";2013-08-01T00:00;null;765;
+95;"766";"Tätigkeit im Programm Lehrkräfte Plus: Entlastung für die Betreuung von Teilnehmern/-innen";2021-04-01T00:00;null;766;
 83;"770";"Individuelle Beratung der Schülerinnen und Schüler im Rahmen des Schulversuchs Talentschule";2020-04-01T00:00;null;770;
 84;"771";"Innerschulischer Transfer der Maßnahmen im Rahmen des Schulversuchs Talentschule";2020-04-01T00:00;null;771;
 85;"772";"Durchführung soziales Training im Rahmen des Schulversuchs Talentschule";2020-04-01T00:00;null;772;
@@ -59,7 +62,6 @@ ID;Kurztext;Langtext;Beginn;Ende;Sort;geaendert
 35;"815";"Projekt: Abitur-Online";1900-01-01T00:00;null;815;
 36;"820";"Sonstiger Ausgleichsbedarf, der aus Zeitbudget finanziert ist.";1900-01-01T00:00;null;820;
 37;"850";"Förderung lernschwacher und begabter Schülerinnen und Schüler";1900-01-01T00:00;null;850;
-38;"855";"sonderpädagogischer Förderbedarf, z. B. Lese- und Rechtschreibschwächen, Lernbehinderungen";1900-01-01T00:00;null;855;
 39;"860";"Zusätzliche Berufsorientierungsprojekte";1900-01-01T00:00;null;860;
 41;"875";"Landes- und Bundeswettbewerbe, Landessschülertheater ";1900-01-01T00:00;null;875;
 42;"880";"Nichtschüler-, Änderungs- und Feststellungsprüfungen";1900-01-01T00:00;null;880;
