@@ -22,11 +22,11 @@ ID;Kurztext;Langtext;Beginn;Ende;Sort;geaendert
 20;"31";"für die Sekundarstufe II und Sonderpädagogik";1900-01-01T00:00;null;2000;
 21;"32";"für die Sekundarstufe II (mit beruflicher Fachrichtung)";1900-01-01T00:00;null;2100;
 22;"35";"Berufskolleg";1900-01-01T00:00;null;2200;
-46;"49";"Berufskolleg mit einer beruflichen Fachrichtung (§ 59 LVO)";2019-08-01T00:00;null;2250;
+46;"49";"Berufskolleg mit einer beruflichen Fachrichtung (§ 40 LVO)";2019-08-01T00:00;null;2250;
 23;"40";"Fachhochschullehrer/-in";1900-01-01T00:00;null;2300;
 24;"50";"Fachlehrer/-in an Sonderschulen";1900-01-01T00:00;null;2400;
 25;"51";"Religionslehrer/-in, Geistliche/-r, Katechet/-in";1900-01-01T00:00;null;2500;
-26;"52";"Fachlehrer/-in mit der Befähigung für die Laufbahn des Werkstattlehrers";1900-01-01T00:00;null;2600;
+26;"52";"Fachlehrer/-in mit der Befähigung für die Laufbahn des Werkstattlehrers  (§ 36 LVO)";1900-01-01T00:00;null;2600;
 27;"53";"Fachlehrer/-in";1900-01-01T00:00;null;2700;
 28;"54";"Fachlehrer/-in für Kurzschrift und Maschinenschreiben";1900-01-01T00:00;null;2800;
 29;"55";"Fachlehrer/-in mit der Befähigung für die Laufbahn des technischen Lehrers an beruflichen Schulen";1900-01-01T00:00;null;2900;
