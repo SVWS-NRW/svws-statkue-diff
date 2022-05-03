@@ -189,7 +189,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "GE";null;null;"G8";"Altgriechisch, regulärer Beginn in Jahrgang 8";null;"1";7;3;
 "GE";null;null;"GE";"Geschichte";null;"1";7;6;
 "GE";null;null;"GH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Neugriechisch";null;"1";7;7;
-"GE";null;null;"GL";"Gesellschaftslehre (Integration: Erdkunde, Geschichte, Politik)";null;"1";7;8;
+"GE";null;null;"GL";"Gesellschaftslehre (Integration: Erdkunde, Geschichte, Politik bzw. W-P)";null;"1";7;8;
 "GE";null;null;"GM";"Unterricht in der Herkunftssprache - Neugriechisch";null;"1";7;9;
 "GE";null;null;"GQ";"Altgriechisch, außerhalb des regulären Fachunterrichts";0;"1";7;5;
 "GE";null;null;"H0";"Hebräisch, regulärer Beginn in der Einführungsphase";0;"1";8;0;
@@ -200,6 +200,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "GE";null;null;"HQ";"Hebräisch, außerhalb des regulären Fachunterrichts";0;"1";8;5;
 "GE";null;null;"HR";"Jüdische Religionslehre";null;"1";8;7;
 "GE";null;null;"HU";"Hausunterricht";null;"1";8;8;
+"GE";null;null;"HW";"Hauswirtschaft (nur SI)";0;"1";8;4;
 "GE";null;null;"I0";"Italienisch, regulärer Beginn in der Einführungsphase";0;"1";9;4;
 "GE";null;null;"I5";"Italienisch, regulärer Beginn in Jahrgang 5";null;"1";9;1;
 "GE";null;null;"I6";"Italienisch, regulärer Beginn in Jahrgang 6";0;"1";9;2;
@@ -407,7 +408,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "GM";null;null;"G8";"Altgriechisch, regulärer Beginn in Jahrgang 8";0;"1";7;4;
 "GM";null;null;"GE";"Geschichte";0;"1";7;7;
 "GM";null;null;"GH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Neugriechisch";0;"1";7;8;
-"GM";null;null;"GL";"Gesellschaftslehre (Integration: Erdkunde, Geschichte, Politik)";0;"1";7;9;
+"GM";null;null;"GL";"Gesellschaftslehre (Integration: Erdkunde, Geschichte, Politik bzw. W-P)";0;"1";7;9;
 "GM";null;null;"GM";"Unterricht in der Herkunftssprache - Neugriechisch";0;"1";7;10;
 "GM";null;null;"GQ";"Altgriechisch, außerhalb des regulären Fachunterrichts";0;"1";7;6;
 "GM";null;null;"H0";"Hebräisch, regulärer Beginn in der Einführungsphase";0;"1";8;5;
@@ -419,6 +420,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "GM";null;null;"HQ";"Hebräisch, außerhalb des regulären Fachunterrichts";0;"1";8;6;
 "GM";null;null;"HR";"Jüdische Religionslehre";0;"1";8;8;
 "GM";null;null;"HU";"Hausunterricht";0;"1";8;9;
+"GM";null;null;"HW";"Hauswirtschaft (einschl. Ernährungslehre)";0;"1";8;4;
 "GM";null;null;"I0";"Italienisch, regulärer Beginn in der Einführungsphase";0;"1";9;5;
 "GM";null;null;"I5";"Italienisch, regulärer Beginn in Jahrgang 5";0;"1";9;1;
 "GM";null;null;"I6";"Italienisch, regulärer Beginn in Jahrgang 6";0;"1";9;2;
@@ -920,6 +922,8 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "H";null;null;"VF";"Fächer im genehmigten Schulversuch und sonstige Fächer";null;"1";22;1;
 "H";null;null;"VH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Bulgarisch";0;"1";22;2;
 "H";null;null;"VM";"Unterricht in der Herkunftssprache - Bulgarisch";0;"1";22;3;
+"H";null;null;"WP";"Wirtschaft-Politik (nur Realschulbildungsgang)";0;"1";23;2;
+"H";null;null;"WW";"Wirtschaft (nur Realschulbildungsgang)";0;"1";23;3;
 "H";null;null;"XH";"Herkunftssprache anstelle einer Pflichtfremdsprache - sonstige Sprache";0;"1";24;1;
 "H";null;null;"XM";"Unterricht in der Herkunftssprache - sonstige Sprache";null;"1";24;2;
 "H";null;null;"YH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Koreanisch";0;"1";25;1;
@@ -970,7 +974,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "PS";null;null;"G8";"Altgriechisch, regulärer Beginn in Jahrgang 8";0;"1";7;3;
 "PS";null;null;"GE";"Geschichte";0;"1";7;6;
 "PS";null;null;"GH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Neugriechisch";0;"1";7;7;
-"PS";null;null;"GL";"Gesellschaftslehre (Integration: Erdkunde, Geschichte, Politik)";0;"1";7;8;
+"PS";null;null;"GL";"Gesellschaftslehre (Integration: Erdkunde, Geschichte, Politik bzw. W-P))";0;"1";7;8;
 "PS";null;null;"GM";"Unterricht in der Herkunftssprache - Neugriechisch";0;"1";7;9;
 "PS";null;null;"GQ";"Altgriechisch, außerhalb des regulären Fachunterrichts";0;"1";7;5;
 "PS";null;null;"H0";"Hebräisch, regulärer Beginn in der Einführungsphase";0;"1";8;4;
@@ -981,7 +985,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "PS";null;null;"HQ";"Hebräisch, außerhalb des regulären Fachunterrichts";0;"1";8;5;
 "PS";null;null;"HR";"Jüdische Religionslehre";0;"1";8;7;
 "PS";null;null;"HU";"Hausunterricht";0;"1";8;8;
-"PS";null;null;"HW";"Hauswirtschaft (einschließlich Ernährungslehre)";0;"1";8;9;
+"PS";null;null;"HW";"Hauswirtschaft (nur SI)";0;"1";8;9;
 "PS";null;null;"I0";"Italienisch, regulärer Beginn in der Einführungsphase";0;"1";9;4;
 "PS";null;null;"I5";"Italienisch, regulärer Beginn in Jahrgang 5";0;"1";9;1;
 "PS";null;null;"I6";"Italienisch, regulärer Beginn in Jahrgang 6";0;"1";9;2;
@@ -1079,6 +1083,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "PS";null;null;"VH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Bulgarisch";0;"1";22;2;
 "PS";null;null;"VM";"Unterricht in der Herkunftssprache - Bulgarisch";0;"1";22;3;
 "PS";null;null;"VO";"vokalpraktischer Grundkurs";0;"1";22;4;
+"PS";null;null;"WP";"Wirtschaft-Politik (nur SI)";0;"1";23;2;
 "PS";null;null;"WW";"Wirtschaftslehre (nur SI)";0;"1";23;4;
 "PS";null;null;"XH";"Herkunftssprache anstelle einer Pflichtfremdsprache - sonstige Sprache";0;"1";24;1;
 "PS";null;null;"XM";"Unterricht in der Herkunftssprache - sonstige Sprache";0;"1";24;2;
@@ -1261,6 +1266,8 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "R";null;null;"VF";"Fächer im genehmigten Schulversuch und sonstige Fächer";null;"1";22;1;
 "R";null;null;"VH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Bulgarisch";0;"1";22;2;
 "R";null;null;"VM";"Unterricht in der Herkunftssprache - Bulgarisch";0;"1";22;3;
+"R";null;null;"WP";"Wirtschaft-Politik";0;"1";23;1;
+"R";null;null;"WW";"Wirtschaft";0;"1";23;3;
 "R";null;null;"XH";"Herkunftssprache anstelle einer Pflichtfremdsprache - sonstige Sprache";0;"1";24;1;
 "R";null;null;"XM";"Unterricht in der Herkunftssprache - sonstige Sprache";null;"1";24;2;
 "R";null;null;"YH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Koreanisch";0;"1";25;1;
@@ -1754,7 +1761,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SK";null;null;"G8";"Altgriechisch, regulärer Beginn in Jahrgang 8";0;"1";7;4;
 "SK";null;null;"GE";"Geschichte";0;"1";7;6;
 "SK";null;null;"GH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Neugriechisch";0;"1";7;7;
-"SK";null;null;"GL";"Gesellschaftslehre (Integration: Erdkunde, Geschichte, Politik)";0;"1";7;8;
+"SK";null;null;"GL";"Gesellschaftslehre (Integration: Erdkunde, Geschichte, Politik bzw. W-P))";0;"1";7;8;
 "SK";null;null;"GM";"Unterricht in der Herkunftssprache - Neugriechisch";0;"1";7;9;
 "SK";null;null;"GQ";"Altgriechisch, außerhalb des regulären Fachunterrichts";0;"1";7;5;
 "SK";null;null;"H5";"Hebräisch, regulärer Beginn in Jahrgang 5";0;"1";8;1;
