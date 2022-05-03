@@ -263,7 +263,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "GE";null;null;"R6";"Russisch, regulärer Beginn in Jahrgang 6";0;"1";18;2;
 "GE";null;null;"R8";"Russisch, regulärer Beginn in Jahrgang 8";null;"1";18;3;
 "GE";null;null;"RH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Arabisch";null;"1";18;6;
-"GE";null;null;"RK";"Recht (nur SII)/Rechtskundlicher Unterricht (nur SI)";null;"1";18;7;
+"GE";null;null;"RK";"Recht (nur SII)";null;"1";18;7;
 "GE";null;null;"RM";"Unterricht in der Herkunftssprache - Russisch";null;"1";18;8;
 "GE";null;null;"RQ";"Russisch, außerhalb des regulären Fachunterrichts";0;"1";18;5;
 "GE";null;null;"S0";"Spanisch, regulärer Beginn in der Einführungsphase";0;"1";19;4;
@@ -489,7 +489,6 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "GM";null;null;"R7";"Russisch, regulärer Beginn in Jahrgang 7";0;"1";18;3;
 "GM";null;null;"R8";"Russisch, regulärer Beginn in Jahrgang 8";0;"1";18;4;
 "GM";null;null;"RH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Arabisch";0;"1";18;7;
-"GM";null;null;"RK";"Rechtskundlicher Unterricht";0;"1";18;8;
 "GM";null;null;"RM";"Unterricht in der Herkunftssprache - Russisch";0;"1";18;9;
 "GM";null;null;"RQ";"Russisch, außerhalb des regulären Fachunterrichts";0;"1";18;6;
 "GM";null;null;"S0";"Spanisch, regulärer Beginn in der Einführungsphase";0;"1";19;5;
@@ -721,7 +720,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "GY";null;null;"R7";"Russisch, regulärer Beginn in Jahrgang 7";null;"1";18;3;
 "GY";null;null;"R8";"Russisch, regulärer Beginn in Jahrgang 8";null;"1";18;4;
 "GY";null;null;"RH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Arabisch";null;"1";18;7;
-"GY";null;null;"RK";"Recht (nur SII)/Rechtskundlicher Unterricht (nur SI)";null;"1";18;8;
+"GY";null;null;"RK";"Recht (nur SII)";null;"1";18;8;
 "GY";null;null;"RM";"Unterricht in der Herkunftssprache - Russisch";null;"1";18;9;
 "GY";null;null;"RQ";"Russisch, außerhalb des regulären Fachunterrichts";0;"1";18;6;
 "GY";null;null;"S0";"Spanisch, regulärer Beginn in der Einführungsphase";0;"1";19;5;
@@ -901,7 +900,6 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "H";null;null;"QM";"Unterricht in der Herkunftssprache - Farsi";0;"1";17;2;
 "H";null;null;"R";"Russisch";0;"1";18;1;
 "H";null;null;"RH";"Herkunftssprache anst. einer Pflichtfremdsprache - Arabisch (nur BG Realschule)";0;"1";18;2;
-"H";null;null;"RK";"Rechtskundlicher Unterricht";null;"1";18;3;
 "H";null;null;"RM";"Unterricht in der Herkunftssprache - Russisch";null;"1";18;4;
 "H";null;null;"S";"Spanisch (nur Bildungsgang Realschule)";0;"1";19;1;
 "H";null;null;"S3";"Sport für Jungen";null;"1";19;6;
@@ -1047,7 +1045,6 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "PS";null;null;"R6";"Russisch, regulärer Beginn in Jahrgang 6";0;"1";18;2;
 "PS";null;null;"R8";"Russisch, regulärer Beginn in Jahrgang 8";0;"1";18;3;
 "PS";null;null;"RH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Arabisch";0;"1";18;6;
-"PS";null;null;"RK";"Rechtskundlicher Unterricht";0;"1";18;7;
 "PS";null;null;"RM";"Unterricht in der Herkunftssprache - Russisch";0;"1";18;8;
 "PS";null;null;"RQ";"Russisch, außerhalb des regulären Fachunterrichts";0;"1";18;5;
 "PS";null;null;"S0";"Spanisch, regulärer Beginn in der Einführungsphase";0;"1";19;4;
@@ -1235,7 +1232,6 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "R";null;null;"R7";"Russisch, regulärer Beginn in Jahrgang 7";0;"1";18;3;
 "R";null;null;"R8";"Russisch, regulärer Beginn in Jahrgang 8";0;"1";18;4;
 "R";null;null;"RH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Arabisch";null;"1";18;6;
-"R";null;null;"RK";"Rechtskundlicher Unterricht";null;"1";18;7;
 "R";null;null;"RM";"Unterricht in der Herkunftssprache - Russisch";null;"1";18;8;
 "R";null;null;"RQ";"Russisch, außerhalb des regulären Fachunterrichts";0;"1";18;5;
 "R";null;null;"S3";"Sport für Jungen";null;"1";19;10;
@@ -1387,7 +1383,6 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "S";null;null;"QM";"Unterricht in der Herkunftssprache - Farsi";0;"1";17;1;
 "S";null;null;"R";"Aufbaurealschule/Schule für Kranke: Russisch";0;"1";18;1;
 "S";null;null;"RH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Arabisch";0;"1";18;2;
-"S";null;null;"RK";"Aufbaurealschule/Schule für Kranke: Rechtskundlicher Unterricht";0;"1";18;3;
 "S";null;null;"RM";"Unterricht in der Herkunftssprache - Russisch";null;"1";18;4;
 "S";null;null;"S";"Aufbaurealshule/Schule für Kranke: Spanisch";0;"1";19;1;
 "S";null;null;"S3";"Sport für Jungen";0;"1";19;7;
@@ -1458,7 +1453,6 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SB";null;null;"I";"Italienisch";null;"1";9;0;
 "SB";null;null;"IF";"Informatik";0;"1";9;0;
 "SB";null;null;"IL";"Islamische Religionslehre";0;"1";9;0;
-"SB";null;null;"IR";"Modellversuch Islamkunde in deutscher Sprache";0;"1";9;0;
 "SB";null;null;"K";"Japanisch";0;"1";11;0;
 "SB";null;null;"KN";"Katholische Religionslehre (konfessionell kooperativ)";0;"1";11;0;
 "SB";null;null;"KO";"Kommunikation";0;"1";11;0;
@@ -1619,7 +1613,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SG";null;null;"R6";"Russisch, regulärer Beginn in Jahrgang 6";0;"1";18;3;
 "SG";null;null;"R8";"Russisch, regulärer Beginn in Jahrgang 8";0;"1";18;4;
 "SG";null;null;"RH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Arabisch";null;"1";18;6;
-"SG";null;null;"RK";"Recht/Rechtskundlicher Unterricht";null;"1";18;7;
+"SG";null;null;"RK";"Recht (nur SII)";null;"1";18;7;
 "SG";null;null;"RM";"Unterricht in der Herkunftssprache - Russisch";null;"1";18;8;
 "SG";null;null;"RQ";"Russisch, außerhalb des regulären Fachunterrichts";0;"1";18;5;
 "SG";null;null;"S0";"Spanisch, regulärer Beginn in der Einführungsphase";0;"1";19;1;
@@ -1836,7 +1830,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SK";null;null;"R7";"Russisch, regulärer Beginn in Jahrgang 7";0;"1";18;3;
 "SK";null;null;"R8";"Russisch, regulärer Beginn in Jahrgang 8";0;"1";18;4;
 "SK";null;null;"RH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Arabisch";0;"1";18;7;
-"SK";null;null;"RK";"Rechtskundlicher Unterricht";0;"1";18;8;
+"SK";null;null;"RK";"Recht";0;"1";18;7;
 "SK";null;null;"RM";"Unterricht in der Herkunftssprache - Russisch";0;"1";18;9;
 "SK";null;null;"RQ";"Russisch, außerhalb des regulären Fachunterrichts";0;"1";18;6;
 "SK";null;null;"S3";"Sport für Jungen";0;"1";19;11;
@@ -2017,7 +2011,6 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SR";null;null;"R6";"Russisch, regulärer Beginn in Jahrgang 6";0;"1";18;2;
 "SR";null;null;"R8";"Russisch, regulärer Beginn in Jahrgang 8";0;"1";18;3;
 "SR";null;null;"RH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Arabisch";null;"1";18;5;
-"SR";null;null;"RK";"Rechtskundlicher Unterricht";null;"1";18;6;
 "SR";null;null;"RM";"Unterricht in der Herkunftssprache - Russisch";null;"1";18;7;
 "SR";null;null;"RQ";"Russisch, außerhalb des regulären Fachunterrichts";0;"1";18;4;
 "SR";null;null;"S3";"Sport für Jungen";null;"1";19;9;
@@ -2127,7 +2120,6 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "V";null;null;"PM";"Unterricht in der Herkunftssprache - Polnisch";null;"1";16;3;
 "V";null;null;"PP";"Praktische Philosophie";null;"1";16;4;
 "V";null;null;"QM";"Unterricht in der Herkunftssprache - Farsi";0;"1";17;1;
-"V";null;null;"RK";"Rechtskundlicher Unterricht";null;"1";18;1;
 "V";null;null;"RM";"Unterricht in der Herkunftssprache - Russisch";null;"1";18;2;
 "V";null;null;"S3";"Sport für Jungen";null;"1";19;1;
 "V";null;null;"S4";"Sport für Mädchen";null;"1";19;2;

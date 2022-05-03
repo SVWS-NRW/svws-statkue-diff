@@ -630,6 +630,11 @@ SF;Art;Beschreibung;KZ_Bereich;KZ_Bereich_JG;AbgangsJG;Flag;geaendert
 "R";"A";"Ohne Abschluss (nur für kürzlich zugewanderte Seiteneinsteiger, die nicht aus JG9 versetzt wurden)";0;0;"1B";"1";
 "SK";"A";"Ohne Abschluss (nur für kürzlich zugewanderte Seiteneinsteiger, die nicht aus JG9 versetzt wurden)";0;0;"1B";"1";
 "V";"A";"Ohne Abschluss (nur für kürzlich zugewanderte Seiteneinsteiger, die nicht aus JG9 versetzt wurden)";0;0;"1B";"1";
+"GM";"B";"Hauptschulabschluss (ohne Berechtigung zum Besuch der Klasse 10, Typ B) (ohne weiteren Abschluss im Jahrgang 10)";0;0;"1B";"1";
+"H";"B";"Hauptschulabschluss (ohne Berechtigung zum Besuch der Klasse 10, Typ B)";0;0;"1B";"1";
+"R";"B";"Hauptschulabschluss (ohne Berechtigung zum Besuch der Klasse 10, Typ B)";0;0;"1B";"1";
+"SK";"B";"Hauptschulabschluss (ohne Berechtigung zum Besuch der Klasse 10, Typ B)";0;0;"1B";"1";
+"V";"B";"Hauptschulabschluss (ohne Berechtigung zum Besuch der Klasse 10, Typ B)";0;0;"1B";"1";
 "V";"C";"Hauptschulabschluss (mit Berechtigung zum Besuch der Klasse 10, Typ B) (ohne weiteren Abschluss im Jahrgang 10)";null;0;"1B";"1";
 "GM";"C";"Hauptschulabschluss (mit Berechtigung zum Besuch der Klasse 10, Typ B) (ohne weiteren Abschluss im Jahrgang 10)";0;0;"1B";"1";
 "H";"C";"Hauptschulabschluss (mit Berechtigung zum Besuch der Klasse 10, Typ B) (ohne weiteren Abschluss im Jahrgang 10)";0;0;"1B";"1";
@@ -691,6 +696,8 @@ SF;Art;Beschreibung;KZ_Bereich;KZ_Bereich_JG;AbgangsJG;Flag;geaendert
 "GM";"I";"Mittlerer Schulabschluss (Fachoberschulreife) (mit Berechtigung zum Besuch der Qualifikationsphase I bzw. mit Versetzungsvermerk; § 40 Abs. 2 APO-GOSt)";0;0;"EF";"1";
 "GY";"I";"Mittlerer Schulabschluss (Fachoberschulreife) (mit Berechtigung zum Besuch der Qualifikationsphase I bzw. mit Versetzungsvermerk; § 40 Abs. 2 APO-GOSt)";0;0;"EF";"1";
 "GE";"M";"Abschlusszeugnis der Förderschule, Förderschwerpunkt geistige Entwicklung";0;0;"EF";"1";
+"GE";"M";"Abschlusszeugnis der Förderschule, Förderschwerpunkt geistige Entwicklung";0;0;"EF";"1";
+"GY";"M";"Abschlusszeugnis der Förderschule, Förderschwerpunkt geistige Entwicklung";0;0;"EF";"1";
 "GE";"O";"Hauptschulabschluss nach Klasse 9 (mit Berechtigung zum Besuch der gymnasialen Oberstufe; § 43 Abs. 3 i.V.m. § 40 Abs. 4 S. 2 APO-SI) (ohne weiteren Abschluss in EF)";0;0;"EF";"1";
 "GM";"O";"Hauptschulabschluss nach Klasse 9 (mit Berechtigung zum Besuch der gymnasialen Oberstufe; § 43 Abs. 3 i.V.m. § 40 Abs. 4 S. 2 APO-SI) (ohne weiteren Abschluss in EF)";0;0;"EF";"1";
 "GY";"O";"Hauptschulabschluss nach Klasse 9 (mit Berechtigung zum Besuch der gymnasialen Oberstufe; § 43 Abs. 3 i.V.m. § 40 Abs. 4 S. 2 APO-SI) (ohne weiteren Abschluss im Jahrgang EF)";0;0;"EF";"1";

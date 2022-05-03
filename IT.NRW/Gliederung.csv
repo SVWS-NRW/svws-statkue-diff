@@ -38,11 +38,14 @@ SF;Flag;BKAnlage;BKTyp;BKIndex;Beschreibung;geaendert
 "SB";"1";"A";"12";57;"Ausbildungsvorbereitung (BS 1j; VZ)";
 "BK";"1";"A";"13";58;"Ausbildungsvorbereitung (BS 1j; TZ)";
 "SB";"1";"A";"13";58;"Ausbildungsvorbereitung (BS 1j; TZ)";
-"BK";"1";"A";"14";59;"Berufsabschluss (nach §50 BBiG/§40 HwO)/mittlerer Schulabschluss BAB/FOR; VZ";
+"BK";"1";"A";"14";61;"Berufsabschluss (nach §50 BBiG/§40 HwO)/mittlerer Schulabschluss BAB/FOR; VZ";
 "SB";"1";"A";"14";59;"Berufsabschluss (nach §50 BBiG/§40 HwO)/mittlerer Schulabschluss (BAB/FOR; VZ)";
-"BK";"1";"A";"15";59;"Berufsabschluss (nach §50 BBiG/§40 HwO)/Fachhochschulreife BAB/FHR; VZ";
-"BK";"1";"A";"16";59;"Fachklassen (nach §2 BKAZVO) BAB; VZ";
+"BK";"3";"A";"14";59;"Berufsabschluss (nach §50 BBiG/§40 HwO)/mittlerer Schulabschluss BAB/FOR; VZ";
+"BK";"1";"A";"15";62;"Berufsabschluss (nach §50 BBiG/§40 HwO)/mittlerer Schulabschluss BAB/FOR; VZ";
+"BK";"3";"A";"15";59;"Berufsabschluss (nach §50 BBiG/§40 HwO)/mittlerer Schulabschluss BAB/FOR; VZ";
+"BK";"1";"A";"16";63;"Fachklassen (nach §2 BKAZVO) BAB; VZ";
 "SB";"1";"A";"16";59;"Fachklassen (nach §2 BKAZVO) (BAB; VZ)";
+"BK";"3";"A";"16";59;"Fachklassen (nach §2 BKAZVO) BAB; VZ";
 "FW";"4";"A";"B";0;"Schule für Kranke: Allgemeinbildend";
 "S";"4";"A";"B";0;"Schule für Kranke: Allgemeinbildend";
 "BK";"3";"B";"01";60;"Berufsabschluss/Fachoberschulreife (BAB/FOR 2j; VZ)";
@@ -93,7 +96,8 @@ SF;Flag;BKAnlage;BKTyp;BKIndex;Beschreibung;geaendert
 "SB";"1";"C";"11";141;"Fachoberschule Kl. 12B (BK/FHR 3j; TZ)";
 "BK";"1";"C";"12";145;"Berufsabschluss/Fachhochschulreife (mit  Berufspraktikum) BAB/FHR 3,5j; VZ";
 "SB";"1";"C";"12";145;"Berufsabschluss/Fachhochschulreife (mit  Berufspraktikum) BAB/FHR 3,5j; VZ";
-"BK";"4";"C";"13";146;"Berufsabschluss/Fachhochschulreife (gestuft) (BAB/FHR 3j; VZ)";
+"BK";"1";"C";"13";146;"Berufsabschluss/Fachhochschulreife (gestuft) (BAB/FHR 3j; VZ)";
+"SB";"1";"C";"13";146;"Berufsabschluss/Fachhochschulreife (gestuft) (BAB/FHR 3j; VZ)";
 "BK";"1";"D";"01";160;"Berufsabschluss/Allg. Hochschulreife (mit Berufspraktikum) (BAB/AHR 4j; VZ)";
 "SB";"1";"D";"01";160;"Berufsabschluss/allg. Hochschulreife (mit Berufspraktikum) (BAB/AHR 4j; VZ)";
 "BK";"1";"D";"02";170;"Berufl. Kenntnisse/Allg. Hochschulreife (BK/AHR 3j; VZ)";

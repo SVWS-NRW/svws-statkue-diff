@@ -75,8 +75,8 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "GE";"**";"**";"63";"SPA";"Wahlpflichtunterricht: Schwerpunktübergreifende Angebote (GY)";0;"2";
 "GE";"**";"**";"64";"F3";"Nur Bildungsgang Gymnasium: Einzelfach im math.-naturwiss., techn., gesellschaftswiss,künstlerischen Schwerpunkt";0;"1";
 "GE";"**";"**";"64";"F3";"Nur Bildungsgang Gymnasium: Einzelfach im math.-naturwiss., techn., gesellschaftswiss,künstlerischen Schwerpunkt";0;"2";
-"GE";"**";"**";"65";"FS3";"Wahlpflichtunterricht der Klassen 08 und 09: 3. Fremdsprache (Bildungsgang Gymnasium)";0;"1";
-"GE";"**";"**";"65";"FS3";"Wahlpflichtunterricht der Klassen 08 und 09: 3. Fremdsprache (Bildungsgang Gymnasium)";0;"2";
+"GE";"**";"**";"65";"FS3";"Wahlpflichtunterricht der Klassen 09 und 10 (08 bis 09 bei G8): 3. Fremdsprache (Bildungsgang Gymnasium)";0;"1";
+"GE";"**";"**";"65";"FS3";"Wahlpflichtunterricht der Klassen 09 und 10 (08 bis 09 bei G8): 3. Fremdsprache (Bildungsgang Gymnasium)";0;"2";
 "GE";"**";"**";"67";"WPU";"Nur Bildungsgang Gymnasium: Arbeitsgemeinschaften aufgrund der Regelung in § 3 Abs. 6 APO-SI";0;"1";
 "GE";"**";"**";"67";"WPU";"Nur Bildungsgang Gymnasium: Arbeitsgemeinschaften aufgrund der Regelung in § 3 Abs. 6 APO-SI";0;"2";
 "GE";"**";"**";"71";"AB3";"3. Abiturfach";0;"1";
@@ -178,8 +178,8 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "GM";"**";"**";"64";"WP1MU";"Wahlpflichtbereich: Musisch-künstlerisch (Bildungsgang Realschule)";0;"1";
 "GM";"**";"**";"64";"F3";"Wahlplflichtunterricht: Einzelfach im math.-natur., techn., gesellschafts, künstlerischen Schwerpunkt (GY)";0;"2";
 "GM";"**";"**";"64";"WP1MU";"Wahlpflichtbereich: Musisch-künstlerisch (Bildungsgang Realschule)";0;"2";
-"GM";"**";"**";"65";"FS3";"Wahlpflichtunterricht der Klassen 08 und 09: 3. Fremdsprache (Bildungsgang Gymnasium)";0;"1";
-"GM";"**";"**";"65";"FS3";"Wahlpflichtunterricht der Klassen 08 und 09: 3. Fremdsprache (Bildungsgang Gymnasium)";0;"2";
+"GM";"**";"**";"65";"FS3";"Wahlpflichtunterricht der Klassen 09 und 10: 3. Fremdsprache (Bildungsgang Gymnasium)";0;"1";
+"GM";"**";"**";"65";"FS3";"Wahlpflichtunterricht der Klassen 09 und 10: 3. Fremdsprache (Bildungsgang Gymnasium)";0;"2";
 "GM";"**";"**";"67";"WPII";"Arbeitsgemeinschaften aufgrund der Regelung in § 3 Abs. 6 APO-SI (Bildungsgang Hauptschule)";0;"1";
 "GM";"**";"**";"67";"WPII";"Arbeitsgemeinschaften aufgrund der Regelung in § 3 Abs. 6 APO-SI (Bildungsgang Realschule)";0;"1";
 "GM";"**";"**";"67";"WPII";"Arbeitsgemeinschaften aufgrund der Regelung in § 3 Abs. 6 APO-SI (Bildungsgang Gymnasium)";0;"1";
@@ -242,7 +242,7 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "GY";"**";"**";"62";"WPII";"Wahlpflichtunterricht: Fächerkombination im math.-naturwiss, gesellschaftswiss. oder künstlerischen Schwerpunkt";0;"1";
 "GY";"**";"**";"63";"SPA";"Wahlpflichtunterricht: Schwerpunktübergreifende Angebote";0;"1";
 "GY";"**";"**";"64";"F3";"Wahlplflichtunterricht: Einzelfach im math.-natur., techn., gesellschaftswiss, künstlerischen Schwerpunkt";0;"1";
-"GY";"**";"**";"65";"FS3";"Wahlpflichtunterricht: 3. Fremdsprache";0;"1";
+"GY";"**";"**";"65";"FS3";"Wahlpflichtunterricht der Klassen 09 und 10 (08 und 09 bei G8) 3. Fremdsprache";0;"1";
 "GY";"**";"**";"67";"WPU";"Wahlplflichtbereich: Arbeitsgemeinschaften aufgrund der Regelung in § 3 Abs. 6 APO-SI";0;"1";
 "GY";"**";"**";"71";"AB3";"3. Abiturfach";0;"1";
 "GY";"**";"**";"71";"AB4";"4. Abiturfach";0;"1";
@@ -554,6 +554,8 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "SK";"**";"**";"63";"WP1NT";"Wahlpflichtbereich: Naturwissenschaftlich (nur im Bildungsgang Realschule)";0;"2";
 "SK";"**";"**";"64";"WP1MU";"Wahlpflichtbereich: Musisch-künstlerisch (nur im Bildungsgang Realschule)";0;"1";
 "SK";"**";"**";"64";"WP1MU";"Wahlpflichtbereich: Musisch-künstlerisch (nur im Bildungsgang Realschule)";0;"2";
+"SK";"**";"**";"65";"FS3";"Wahlpflichtunterricht der Klassen 09 und 10: 3. Fremdsprache (Bildungsgang Gymnasium)";0;"1";
+"SK";"**";"**";"65";"FS3";"Wahlpflichtunterricht der Klassen 09 und 10: 3. Fremdsprache (Bildungsgang Gymnasium)";0;"2";
 "SK";"**";"**";"67";"WPII";"Arbeitsgemeinschaften aufgrund Regelung § 3 Abs. 6 APO-SI  (nur im Bildungsgang Haupt-, Realschule und Gymnasium)";0;"1";
 "SK";"**";"**";"67";"WPII";"Arbeitsgemeinschaften aufgrund Regelung § 3 Abs. 6 APO-SI  (nur im Bildungsgang Haupt-, Realschule und Gymnasium)";0;"2";
 "SK";"**";"**";"81";"SPFU";"Sportförderunterricht";0;"1";

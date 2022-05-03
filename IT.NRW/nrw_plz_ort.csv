@@ -1,4 +1,4 @@
-ID;PLZ;REGSCHL;ORT;STAND;Sortierung;ART
+ID;PLZ;RegSchl;Ort;Stand;Sortierung;Art
 123343;"32049";"05758012";"Herford";"09.04.2020";null;6
 123344;"32051";"05758012";"Herford";"09.04.2020";null;6
 123345;"32052";"05758012";"Herford";"09.04.2020";null;6
@@ -630,8 +630,8 @@ ID;PLZ;REGSCHL;ORT;STAND;Sortierung;ART
 127520;"51427";"05378004";"Bergisch Gladbach";"09.04.2020";null;6
 127521;"51429";"05378004";"Bergisch Gladbach";"09.04.2020";null;6
 127545;"51465";"05378004";"Bergisch Gladbach";"09.04.2020";null;6
-127546;"51467";"05378004";"Bergisch Gladbach";"09.04.2020";null;6
 127547;"51467";"05315000";"Köln";"09.04.2020";null;6
+127546;"51467";"05378004";"Bergisch Gladbach";"09.04.2020";null;6
 127548;"51469";"05378004";"Bergisch Gladbach";"09.04.2020";null;6
 127556;"51491";"05378024";"Overath";"09.04.2020";null;6
 127565;"51503";"05378028";"Rösrath";"09.04.2020";null;6
