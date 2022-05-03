@@ -47,6 +47,10 @@ ID;Kurztext;Langtext;Beginn;Ende;Sort;geaendert
 83;"770";"Individuelle Beratung der Schülerinnen und Schüler im Rahmen des Schulversuchs Talentschule";2020-04-01T00:00;null;770;
 84;"771";"Innerschulischer Transfer der Maßnahmen im Rahmen des Schulversuchs Talentschule";2020-04-01T00:00;null;771;
 85;"772";"Durchführung soziales Training im Rahmen des Schulversuchs Talentschule";2020-04-01T00:00;null;772;
+89;"773";"Berufsfeld- oder fachbereichsübergreifende Berufsorientierung im Rahmen des Schulversuchs Talentschule";2020-04-01T00:00;null;773;
+90;"774";"Erweiterte Blockpraktika/Praxismodul „Berufliche Orientierung“ im Rahmen des Schulversuchs Talentschule";2020-04-01T00:00;null;774;
+91;"775";"Sprachförderung im Rahmen des Schulversuchs Talentschule";2020-04-01T00:00;null;775;
+92;"776";"Übergangssicherung/Datenmonitoring im Rahmen des Schulversuchs Talentschule";2020-04-01T00:00;null;776;
 86;"777";"Kooperation mit externen Partnern im Rahmen des Schulversuchs Talentschule";2020-04-01T00:00;null;777;
 87;"778";"Verwaltungstätigkeiten zur Unterstützung der Schulleitung bei den Landesaufgaben im Schulversuch Talentschule";2020-04-01T00:00;null;778;
 88;"779";"Sonstige Tätigkeiten im Rahmen des Schulversuchs Talentschule";2020-04-01T00:00;null;779;
@@ -63,7 +67,6 @@ ID;Kurztext;Langtext;Beginn;Ende;Sort;geaendert
 44;"900";"Tätigkeit als schulische/-r Ausbildungsbeauftragte/-r OVP";1900-01-01T00:00;null;900;
 45;"910";"Außerunterrichtliche Tätigkeit in der offenen Ganztagsschule";1900-01-01T00:00;"31.07.2012";910;
 79;"915";"Unterrichtsausfallstatistik";2018-08-01T00:00;null;915;
-81;"920";"Einsatz als sozialpädagogische Fachkraft in der Schuleingangsphase";1900-01-01T00:00;null;920;
 47;"930";"Einsatz als sozialpädagogische Fachkraft";1900-01-01T00:00;null;930;
 53;"935";"Tätigkeit als Verwaltungsassistent/ Verwaltungsassistentin";2008-08-01T00:00;null;935;
 82;"936";"LOGINEO: Anrechnungsstunde zur Betreuung und Pflege";2020-04-01T00:00;null;936;
