@@ -1,0 +1,8 @@
+ID;Kurztext;Langtext;ASDSchluessel;Beginn;Ende;Sort;geaendert
+1;"RUHEST";"Eintritt in den Ruhestand";"11";1900-01-01T00:00;null;100;
+2;"UNFÄHIGK";"Dienst-, Erwerbs-, Berufsunfähigkeit";"12";1900-01-01T00:00;null;200;
+3;"TOD";"Tod";"13";1900-01-01T00:00;null;300;
+4;"AndBuLand";"Übertritt in den Schuldienst eines anderen Bundeslandes";"14";1900-01-01T00:00;null;400;
+5;"WECHSEL";"Wechsel innerhalb des Landes von der berichtenden Schule an eine andere Schule";"15";1900-01-01T00:00;null;500;
+6;"BEFRIST";"Befristete Abgänge";"16";1900-01-01T00:00;null;600;
+7;"SONSTIG";"Sonstige Abgänge";"17";1900-01-01T00:00;null;700;
