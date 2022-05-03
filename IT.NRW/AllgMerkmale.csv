@@ -1,5 +1,5 @@
 ID;SF;Kurztext;StatistikKrz;Langtext;Schule;Schueler;Beginn;Ende;Sort;geaendert
-1;"G";"GANZTAG";null;"Ganztagsschule";1;1;1900-01-01T00:00;null;100;
+2;"G";"GANZTAG";null;"Ganztagsschule";1;1;1900-01-01T00:00;null;100;
 2;"G";"OFFGANZ";null;"Offene Ganztagsschule";1;1;1900-01-01T00:00;null;200;
 3;"BK";"JVA";null;"JVA-Schüler";1;1;1900-01-01T00:00;null;700;
 4;"H";"BUS";null;"BUS-Projekt";1;1;1900-01-01T00:00;null;400;
