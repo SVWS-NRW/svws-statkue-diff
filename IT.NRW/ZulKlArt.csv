@@ -6,6 +6,7 @@ KlArt;FSP;Bezeichnung;Schulform;geaendert
 "RK";"LB";"Regelklasse";"FW";
 "RK";"**";"Regelklasse";"G";
 "SG";"**";"Deutschförderklasse (gemäß BASS 13-63 Nr. 3, Nummer 3.5.1)";"G";
+"PK";"**";"Profilklasse (gemäß § 21 Abs. 3 APO-S I) (nur Bildungsgang GY9)";"GE";
 "RK";"**";"Regelklasse";"GE";
 "SG";"**";"Deutschförderklasse (gemäß BASS 13-63 Nr. 3, Nummer 3.5.1)";"GE";
 "1A";"**";"Klasse 10 Typ A (nur Bildungsgang Hauptschule)";"GM";
@@ -13,6 +14,7 @@ KlArt;FSP;Bezeichnung;Schulform;geaendert
 "AB";"**";"Klassen im Jahrgang 10 ohne Differenzierung in Typ A und Typ B (nur Bildungsgang Hauptschule)";"GM";
 "RK";"**";"Regelklasse";"GM";
 "SG";"**";"Deutschförderklasse (gemäß BASS 13-63 Nr. 3, Nummer 3.5.1)";"GM";
+"PK";"**";"Profilklasse (gemäß § 21 Abs. 3 APO-S I)";"GY";
 "RK";"**";"Regelklasse";"GY";
 "SG";"**";"Deutschförderklasse (gemäß BASS 13-63 Nr. 3, Nummer 3.5.1)";"GY";
 "1A";"**";"Klasse 10 Typ A";"H";
@@ -30,13 +32,17 @@ KlArt;FSP;Bezeichnung;Schulform;geaendert
 "AM";"**";"Frühförderung: SKG (Ambulante Maßnahmen für blinde, gehörlose, sehbeh. und schwerh. Kinder)";"S";
 "PG";"**";"Frühförderung: SKG (Präsenzgruppe)";"S";
 "RK";"**";"Regelklasse";"S";
+"SG";"**";"Deutschförderklasse (gemäß BASS 13-63 Nr. 3, Nummer 3.5.1)";"S";
 "RK";"**";"Regelklasse  (-Jahrgang SII)";"SG";
+"SG";"**";"Deutschförderklasse (gemäß BASS 13-63 Nr. 3, Nummer 3.5.1)";"SG";
 "1A";"**";"Klasse 10 Typ A (nur Bildungsgang Hauptschule)";"SK";
 "1B";"**";"Klasse 10 Typ B (nur Bildungsgang Hauptschule)";"SK";
 "AB";"**";"Klassen im Jahrgang 10 ohne Differenzierung in Typ A und Typ B (nur Bildungsgang Hauptschule)";"SK";
+"PK";"**";"Profilklasse (gemäß § 21 Abs. 3 APO-S I) (nur Bildungsgang GY)";"SK";
 "RK";"**";"Regelklasse";"SK";
 "SG";"**";"Deutschförderklasse (gemäß BASS 13-63 Nr. 3, Nummer 3.5.1)";"SK";
 "RK";"**";"Regelklasse";"SR";
+"SG";"**";"Deutschförderklasse (gemäß BASS 13-63 Nr. 3, Nummer 3.5.1)";"SR";
 "1A";"**";"Klasse 10 Typ A";"V";
 "1B";"**";"Klasse 10 Typ B";"V";
 "AB";"**";"Klassen im Jahrgang 10 ohne Differenzierung in Typ A und Typ B";"V";

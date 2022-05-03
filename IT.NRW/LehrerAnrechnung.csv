@@ -44,6 +44,12 @@ ID;Kurztext;Langtext;Beginn;Ende;Sort;geaendert
 60;"745";"Bildungspolitische Sonderaufgaben";1900-01-01T00:00;null;745;
 61;"750";"Sonstiger Ausgleichsbedarf, der aus wechselnden Ausgleichs- und Mehrbedarfen finanziert ist.";1900-01-01T00:00;null;750;
 71;"765";"Tätigkeit als schulische/-r Mentor/-in: Praxissemester";2013-08-01T00:00;null;765;
+83;"770";"Individuelle Beratung der Schülerinnen und Schüler im Rahmen des Schulversuchs Talentschule";2020-04-01T00:00;null;770;
+84;"771";"Innerschulischer Transfer der Maßnahmen im Rahmen des Schulversuchs Talentschule";2020-04-01T00:00;null;771;
+85;"772";"Durchführung soziales Training im Rahmen des Schulversuchs Talentschule";2020-04-01T00:00;null;772;
+86;"777";"Kooperation mit externen Partnern im Rahmen des Schulversuchs Talentschule";2020-04-01T00:00;null;777;
+87;"778";"Verwaltungstätigkeiten zur Unterstützung der Schulleitung bei den Landesaufgaben im Schulversuch Talentschule";2020-04-01T00:00;null;778;
+88;"779";"Sonstige Tätigkeiten im Rahmen des Schulversuchs Talentschule";2020-04-01T00:00;null;779;
 32;"800";"Zeitbudget, Steigerung der Berufsfähigkeit (Förderschulen)";1900-01-01T00:00;"31.07.2012";800;
 33;"805";"Zeitbudget, Modellvorhaben 'Selbstständige Schule'";1900-01-01T00:00;"31.07.2008";805;
 35;"815";"Projekt: Abitur-Online";1900-01-01T00:00;null;815;
@@ -60,6 +66,7 @@ ID;Kurztext;Langtext;Beginn;Ende;Sort;geaendert
 81;"920";"Einsatz als sozialpädagogische Fachkraft in der Schuleingangsphase";1900-01-01T00:00;null;920;
 47;"930";"Einsatz als sozialpädagogische Fachkraft";1900-01-01T00:00;null;930;
 53;"935";"Tätigkeit als Verwaltungsassistent/ Verwaltungsassistentin";2008-08-01T00:00;null;935;
+82;"936";"LOGINEO: Anrechnungsstunde zur Betreuung und Pflege";2020-04-01T00:00;null;936;
 48;"940";"Betreung und Aufsicht im Ganztagsbereich der Ganztagsschulen";1900-01-01T00:00;"31.07.2012";940;
 54;"945";"Lehrerwochenstunden, die nicht verplant sind";2008-08-01T00:00;null;945;
 49;"950";"Ausgleichsbedarf, der aus Flexiblen Mitteln finanziert wird";1900-01-01T00:00;null;950;

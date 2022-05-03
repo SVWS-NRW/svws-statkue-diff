@@ -1,9 +1,6 @@
 SF;Art;Beschreibung;KZ_Bereich;KZ_Bereich_JG;AbgangsJG;Flag;geaendert
 "BK";"0A";"Ohne Abschluss";1;9;"**";"1";
 "SB";"0A";"Ohne Abschluss";1;9;"**";"1";
-"BK";"0A";"Ohne Abschluss";3;12;"**";"1";
-"SB";"0A";"Ohne Abschluss";3;12;"**";"1";
-"BK";"0A";"Ohne Abschluss";4;12;"**";"1";
 "BK";"0A";"Ohne Abschluss";5;1;"**";"1";
 "SB";"0A";"Ohne Abschluss";5;1;"**";"1";
 "BK";"0A";"Ohne Abschluss";6;1;"**";"1";
@@ -58,9 +55,6 @@ SF;Art;Beschreibung;KZ_Bereich;KZ_Bereich_JG;AbgangsJG;Flag;geaendert
 "BK";"0A";"Ohne Abschluss";35;8;"**";"1";
 "BK";"0A";"Ohne Abschluss";36;11;"**";"1";
 "BK";"0A";"Ohne Abschluss";37;8;"**";"1";
-"BK";"0D";"Hauptschulabschluss nach Klasse 10";3;12;"**";"1";
-"SB";"0D";"Hauptschulabschluss nach Klasse 10";3;12;"**";"1";
-"BK";"0D";"Hauptschulabschluss nach Klasse 10";4;12;"**";"1";
 "BK";"0D";"Hauptschulabschluss nach Klasse 10";7;13;"**";"1";
 "SB";"0D";"Hauptschulabschluss nach Klasse 10";7;13;"**";"1";
 "BK";"0D";"Hauptschulabschluss nach Klasse 10";8;13;"**";"1";
@@ -87,9 +81,6 @@ SF;Art;Beschreibung;KZ_Bereich;KZ_Bereich_JG;AbgangsJG;Flag;geaendert
 "SB";"0D";"Ein dem Hauptschulabschluss nach Klasse 10 gleichwertiger Abschluss (für G8 Schüler)";27;9;"**";"1";
 "BK";"0D";"Ein dem Hauptschulabschluss nach Klasse 10 gleichwertiger Abschluss (für G8 Schüler)";28;8;"**";"1";
 "SB";"0D";"Ein dem Hauptschulabschluss nach Klasse 10 gleichwertiger Abschluss (für G8 Schüler)";28;8;"**";"1";
-"BK";"0F";"Mittlerer Schulabschluss (Fachoberschulreife ohne Qualifikationsvermerk)";3;12;"**";"1";
-"SB";"0F";"Mittlerer Schulabschluss (Fachoberschulreife ohne Qualifikationsvermerk)";3;12;"**";"1";
-"BK";"0F";"Mittlerer Schulabschluss (Fachoberschulreife ohne Qualifikationsvermerk)";4;12;"**";"1";
 "BK";"0F";"Mittlerer Schulabschluss (Fachoberschulreife ohne Qualifikationsvermerk)";7;13;"**";"1";
 "SB";"0F";"Mittlerer Schulabschluss (Fachoberschulreife ohne Qualifikationsvermerk)";7;13;"**";"1";
 "BK";"0F";"Mittlerer Schulabschluss (Fachoberschulreife ohne Qualifikationsvermerk)";8;13;"**";"1";
@@ -104,8 +95,6 @@ SF;Art;Beschreibung;KZ_Bereich;KZ_Bereich_JG;AbgangsJG;Flag;geaendert
 "SB";"0F";"Mittlerer Schulabschluss (Fachoberschulreife ohne Berechtigung zum Besuch der gymnasialen Oberstufe)";17;3;"**";"1";
 "BK";"0F";"Mittlerer Schulabschluss (Fachoberschulreife ohne Berechtigung zum Besuch der gymnasialen Oberstufe)";18;4;"**";"1";
 "SB";"0F";"Mittlerer Schulabschluss (Fachoberschulreife ohne Berechtigung zum Besuch der gymnasialen Oberstufe)";18;4;"**";"1";
-"BK";"0G";"Mittlerer Schulabschluss (Fachoberschulreife mit Qualifikationsvermerk)";3;12;"**";"1";
-"SB";"0G";"Mittlerer Schulabschluss (Fachoberschulreife mit Qualifikationsvermerk)";3;12;"**";"1";
 "BK";"0G";"Mittlerer Schulabschluss (Fachoberschulreife mit Qualifikationsvermerk)";7;13;"**";"1";
 "SB";"0G";"Mittlerer Schulabschluss (Fachoberschulreife mit Qualifikationsvermerk)";7;13;"**";"1";
 "BK";"0G";"Mittlerer Schulabschluss (Fachoberschulreife mit Qualifikationsvermerk)";12;4;"**";"1";
@@ -186,9 +175,6 @@ SF;Art;Beschreibung;KZ_Bereich;KZ_Bereich_JG;AbgangsJG;Flag;geaendert
 "SB";"4K";"Berufliche Kenntnisse, Fähigkeiten und Fertigkeiten und Allgemeine Hochschulreife";27;12;"**";"1";
 "BK";"4K";"Berufliche Kenntnisse, Fähigkeiten und Fertigkeiten und Allgemeine Hochschulreife";28;3;"**";"1";
 "SB";"4K";"Berufliche Kenntnisse, Fähigkeiten und Fertigkeiten und Allgemeine Hochschulreife";28;3;"**";"1";
-"BK";"5A";"Berufsabschluss (für Schüler, die bereits die Qualifikation des Hauptschulabschlusses der Klasse 10 oder einen höheren Abschluss erreicht hatten)";3;12;"**";"1";
-"SB";"5A";"Berufsabschluss (für Schüler, die bereits die Qualifikation des Hauptschulabschlusses der Klasse 10 oder einen höheren Abschluss erreicht hatten)";3;12;"**";"1";
-"BK";"5A";"Berufsabschluss (für Schüler, die bereits die Qualifikation des Hauptschulabschlusses der Klasse 10 oder einen höheren Abschluss erreicht hatten)";4;12;"**";"1";
 "BK";"5A";"Berufsabschluss (für Schüler, die bereits die Qualifikation des Hauptschulabschlusses der Klasse 10 oder einen höheren Abschluss erreicht hatten)";7;13;"**";"1";
 "SB";"5A";"Berufsabschluss (für Schüler, die bereits die Qualifikation des Hauptschulabschlusses der Klasse 10 oder einen höheren Abschluss erreicht hatten)";7;13;"**";"1";
 "BK";"5A";"Berufsabschluss (für Schüler, die bereits die Qualifikation des Hauptschulabschlusses der Klasse 10 oder einen höheren Abschluss erreicht hatten)";8;13;"**";"1";
@@ -207,9 +193,6 @@ SF;Art;Beschreibung;KZ_Bereich;KZ_Bereich_JG;AbgangsJG;Flag;geaendert
 "SB";"5A";"Berufsabschluss";19;12;"**";"1";
 "BK";"5A";"Berufsabschluss";20;2;"**";"1";
 "SB";"5A";"Berufsabschluss";20;2;"**";"1";
-"BK";"5D";"Berufsabschluss und Hauptschulabschluss nach Klasse 10";3;12;"**";"1";
-"SB";"5D";"Berufsabschluss und Hauptschulabschluss nach Klasse 10";3;12;"**";"1";
-"BK";"5D";"Berufsabschluss und Hauptschulabschluss nach Klasse 10";4;12;"**";"1";
 "BK";"5D";"Berufsabschluss und Hauptschulabschluss nach Klasse 10";7;13;"**";"1";
 "SB";"5D";"Berufsabschluss und Hauptschulabschluss nach Klasse 10";7;13;"**";"1";
 "BK";"5D";"Berufsabschluss und Hauptschulabschluss nach Klasse 10";8;13;"**";"1";
@@ -224,9 +207,6 @@ SF;Art;Beschreibung;KZ_Bereich;KZ_Bereich_JG;AbgangsJG;Flag;geaendert
 "SB";"5D";"Berufsabschluss und ein dem Hauptschulabschluss nach Klasse 10 gleichwertiger Abschluss";17;3;"**";"1";
 "BK";"5D";"Berufsabschluss und ein dem Hauptschulabschluss nach Klasse 10 gleichwertiger Abschluss";18;4;"**";"1";
 "SB";"5D";"Berufsabschluss und ein dem Hauptschulabschluss nach Klasse 10 gleichwertiger Abschluss";18;4;"**";"1";
-"BK";"5F";"Berufsabschluss und Mittlerer Schulabschluss (Fachoberschulreife ohne Qualifikationsvermerk)";3;12;"**";"1";
-"SB";"5F";"Berufsabschluss und Mittlerer Schulabschluss (Fachoberschulreife ohne Qualifikationsvermerk)";3;12;"**";"1";
-"BK";"5F";"Berufsabschluss und Mittlerer Schulabschluss (Fachoberschulreife ohne Qualifikationsvermerk)";4;12;"**";"1";
 "BK";"5F";"Berufsabschluss und Mittlerer Schulabschluss (Fachoberschulreife ohne Qualifikationsvermerk)";7;13;"**";"1";
 "SB";"5F";"Berufsabschluss und Mittlerer Schulabschluss (Fachoberschulreife ohne Qualifikationsvermerk)";7;13;"**";"1";
 "BK";"5F";"Berufsabschluss und Mittlerer Schulabschluss (Fachoberschulreife ohne Qualifikationsvermerk)";8;13;"**";"1";
@@ -241,9 +221,6 @@ SF;Art;Beschreibung;KZ_Bereich;KZ_Bereich_JG;AbgangsJG;Flag;geaendert
 "SB";"5F";"Berufsabschluss und Mittlerer Schulabschluss (Fachoberschulreife ohne Berechtigung zum Besuch der gymnasialen Oberstufe)";17;3;"**";"1";
 "BK";"5F";"Berufsabschluss und Mittlerer Schulabschluss (Fachoberschulreife ohne Berechtigung zum Besuch der gymnasialen Oberstufe)";18;4;"**";"1";
 "SB";"5F";"Berufsabschluss und Mittlerer Schulabschluss (Fachoberschulreife ohne Berechtigung zum Besuch der gymnasialen Oberstufe)";18;4;"**";"1";
-"BK";"5G";"Berufsabschluss und Mittlerer Schulabschluss (Fachoberschulreife mit Qualifikationsvermerk)";3;12;"**";"1";
-"SB";"5G";"Berufsabschluss und Mittlerer Schulabschluss (Fachoberschulreife mit Qualifikationsvermerk)";3;12;"**";"1";
-"BK";"5G";"Berufsabschluss und Mittlerer Schulabschluss (Fachoberschulreife mit Qualifikationsvermerk)";4;12;"**";"1";
 "BK";"5G";"Berufsabschluss und Mittlerer Schulabschluss (Fachoberschulreife mit Qualifikationsvermerk)";7;13;"**";"1";
 "SB";"5G";"Berufsabschluss und Mittlerer Schulabschluss (Fachoberschulreife mit Qualifikationsvermerk)";7;13;"**";"1";
 "BK";"5G";"Berufsabschluss und Mittlerer Schulabschluss (Fachoberschulreife mit Qualifikationsvermerk)";8;13;"**";"1";
@@ -257,7 +234,6 @@ SF;Art;Beschreibung;KZ_Bereich;KZ_Bereich_JG;AbgangsJG;Flag;geaendert
 "SB";"5G";"Berufsabschluss und Mittlerer Schulabschluss (Fachoberschulreife mit Berechtigung zum Besuch der gymnasialen Oberstufe)";17;3;"**";"1";
 "BK";"5G";"Berufsabschluss und Mittlerer Schulabschluss (Fachoberschulreife mit Berechtigung zum Besuch der gymnasialen Oberstufe)";18;4;"**";"1";
 "SB";"5G";"Berufsabschluss und Mittlerer Schulabschluss (Fachoberschulreife mit Berechtigung zum Besuch der gymnasialen Oberstufe)";18;4;"**";"1";
-"BK";"5J";"Berufsabschluss und Fachhochschulreife";4;12;"**";"1";
 "BK";"5J";"Berufsabschluss und Fachhochschulreife";8;13;"**";"1";
 "BK";"5J";"Berufsabschluss und Fachhochschulreife";9;13;"**";"1";
 "SB";"5J";"Berufsabschluss und Fachhochschulreife";9;13;"**";"1";
@@ -319,9 +295,6 @@ SF;Art;Beschreibung;KZ_Bereich;KZ_Bereich_JG;AbgangsJG;Flag;geaendert
 "SB";"8Q";"Vertiefte berufliche Kenntnisse, Fähigkeiten und Fertigkeiten und fachgebundene Hochschulreife";30;2;"**";"1";
 "BK";"9A";"Schulwechsler, die ihre Ausbildung an einer anderen Schule fortsetzen (ohne Bildungsgangabbrecher)";1;9;"**";"1";
 "SB";"9A";"Schulwechsler, die ihre Ausbildung an einer anderen Schule fortsetzen (ohne Bildungsgangabbrecher)";1;9;"**";"1";
-"BK";"9A";"Schulwechsler, die ihre Ausbildung an einer anderen Schule fortsetzen (ohne Bildungsgangabbrecher)";3;12;"**";"1";
-"SB";"9A";"Schulwechsler, die ihre Ausbildung an einer anderen Schule fortsetzen (ohne Bildungsgangabbrecher)";3;12;"**";"1";
-"BK";"9A";"Schulwechsler, die ihre Ausbildung an einer anderen Schule fortsetzen (ohne Bildungsgangabbrecher)";4;12;"**";"1";
 "BK";"9A";"Schulwechsler, die ihre Ausbildung an einer anderen Schule fortsetzen (ohne Bildungsgangabbrecher)";5;1;"**";"1";
 "SB";"9A";"Schulwechsler, die ihre Ausbildung an einer anderen Schule fortsetzen (ohne Bildungsgangabbrecher)";5;1;"**";"1";
 "BK";"9A";"Schulwechsler, die ihre Ausbildung an einer anderen Schule fortsetzen (ohne Bildungsgangabbrecher)";6;1;"**";"1";
@@ -717,6 +690,7 @@ SF;Art;Beschreibung;KZ_Bereich;KZ_Bereich_JG;AbgangsJG;Flag;geaendert
 "GE";"I";"Mittlerer Schulabschluss (Fachoberschulreife) (mit Berechtigung zum Besuch der Qualifikationsphase I bzw. mit Versetzungsvermerk; § 40 Abs. 2 APO-GOSt)";0;0;"EF";"1";
 "GM";"I";"Mittlerer Schulabschluss (Fachoberschulreife) (mit Berechtigung zum Besuch der Qualifikationsphase I bzw. mit Versetzungsvermerk; § 40 Abs. 2 APO-GOSt)";0;0;"EF";"1";
 "GY";"I";"Mittlerer Schulabschluss (Fachoberschulreife) (mit Berechtigung zum Besuch der Qualifikationsphase I bzw. mit Versetzungsvermerk; § 40 Abs. 2 APO-GOSt)";0;0;"EF";"1";
+"GE";"M";"Abschlusszeugnis der Förderschule, Förderschwerpunkt geistige Entwicklung";0;0;"EF";"1";
 "GE";"O";"Hauptschulabschluss nach Klasse 9 (mit Berechtigung zum Besuch der gymnasialen Oberstufe; § 43 Abs. 3 i.V.m. § 40 Abs. 4 S. 2 APO-SI) (ohne weiteren Abschluss in EF)";0;0;"EF";"1";
 "GM";"O";"Hauptschulabschluss nach Klasse 9 (mit Berechtigung zum Besuch der gymnasialen Oberstufe; § 43 Abs. 3 i.V.m. § 40 Abs. 4 S. 2 APO-SI) (ohne weiteren Abschluss in EF)";0;0;"EF";"1";
 "GY";"O";"Hauptschulabschluss nach Klasse 9 (mit Berechtigung zum Besuch der gymnasialen Oberstufe; § 43 Abs. 3 i.V.m. § 40 Abs. 4 S. 2 APO-SI) (ohne weiteren Abschluss im Jahrgang EF)";0;0;"EF";"1";
@@ -737,10 +711,14 @@ SF;Art;Beschreibung;KZ_Bereich;KZ_Bereich_JG;AbgangsJG;Flag;geaendert
 "GY";"I";"Mittlerer Schulabschluss (Fachoberschulreife) (mit Berechtigung zum Besuch der Qualifikationsphase I bzw. Zuerkennung bei Abwesenheit in EF, z.B. bei Auslandsjahr)";0;0;"Q1";"1";
 "SG";"H";"Fachhochschulreife (schulischer Teil) (ohne Abitur)";null;0;"Q2";"1";
 "GE";"H";"Fachhochschulreife (schulischer Teil)";0;0;"Q2";"1";
+"GM";"H";"Fachhochschulreife (schulischer Teil)";0;0;"Q2";"1";
 "GY";"H";"Fachhochschulreife (schulischer Teil)";0;0;"Q2";"1";
 "SG";"I";"Mittlerer Schulabschluss - Fachoberschulreife mit Berechtigung zum Besuch der Qualifikationsphase 1 (ohne Abitur und ohne Fachhochschulreife)";null;0;"Q2";"1";
 "GE";"I";"Mittlerer Schulabschluss (Fachoberschulreife)";0;0;"Q2";"1";
+"GM";"I";"Mittlerer Schulabschluss (Fachoberschulreife)";0;0;"Q2";"1";
 "GY";"I";"Mittlerer Schulabschluss (Fachoberschulreife)";0;0;"Q2";"1";
 "SG";"K";"Abitur (allgemeine Hochschulreife)";null;0;"Q2";"1";
 "GE";"K";"Abitur (allgemeine Hochschulreife)";0;0;"Q2";"1";
+"GM";"K";"Abitur (allgemeine Hochschulreife)";0;0;"Q2";"1";
 "GY";"K";"Abitur (allgemeine Hochschulreife)";0;0;"Q2";"1";
+"GY";"M";"Abschlusszeugnis der Förderschule, Förderschwerpunkt geistige Entwicklung";0;0;"Q2";"1";

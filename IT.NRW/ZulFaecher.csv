@@ -37,7 +37,6 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "BK";null;null;"I";"Italienisch";-1;"1";9;0;
 "BK";null;null;"IF";"Informatik";0;"1";9;0;
 "BK";null;null;"IL";"Islamische Religionslehre";0;"1";9;0;
-"BK";null;null;"IR";"Modellversuch Islamkunde in deutscher Sprache";0;"1";9;0;
 "BK";null;null;"K";"Japanisch";0;"1";11;0;
 "BK";null;null;"KN";"Katholische Religionslehre (konfessionell kooperativ)";0;"1";11;0;
 "BK";null;null;"KO";"Kommunikation";null;"1";11;0;
@@ -118,7 +117,6 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "G";null;null;"HU";"Hausunterricht";null;"1";8;2;
 "G";null;null;"IL";"Islamische Religionslehre";0;"1";9;3;
 "G";null;null;"IM";"Unterricht in der Herkunftssprache - Italienisch";null;"1";9;1;
-"G";null;null;"IR";"Modellversuch Islamkunde in deutscher Sprache";0;"1";9;2;
 "G";null;null;"KN";"Katholische Religionslehre (konfessionell kooperativ)";0;"1";11;2;
 "G";null;null;"KR";"Katholische Religionslehre";null;"1";11;1;
 "G";null;null;"KU";"Kunst";null;"1";11;3;
@@ -147,7 +145,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "G";null;null;"XM";"Unterricht in der Herkunftssprache - sonstige Sprache";null;"1";24;1;
 "G";null;null;"YM";"Unterricht in der Herkunftssprache - Koreanisch";0;"1";25;1;
 "G";null;null;"YR";"orthodoxe Religionslehre (Syrisch)";0;"1";25;2;
-"G";null;null;"ZF";"Zusätzliche Förderung in der Schuleingangsphase";0;"1";26;1;
+"G";null;null;"ZF";"Zusätzliche Förderung";0;"1";26;1;
 "G";null;null;"ZM";"Unterricht in der Herkunftssprache - Kurdische Sprachen (Sorani, Komanci, Zaza)";0;"1";26;2;
 "G";null;null;null;"Kein Eintrag";0;"2";0;0;
 "GE";null;null;"A";"Arabisch";0;"1";1;1;
@@ -169,7 +167,6 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "GE";null;null;"C8";"Chinesisch, regulärer Beginn in Jahrgang 8";0;"1";3;3;
 "GE";null;null;"CH";"Chemie";null;"1";3;6;
 "GE";null;null;"CM";"Unterricht in der Herkunftssprache - Kroatisch";null;"1";3;7;
-"GE";null;null;"CO";"Chor";null;"1";3;8;
 "GE";null;null;"CQ";"Chinesisch, außerhalb des regulären Fachunterrichts";0;"1";3;5;
 "GE";null;null;"D";"Deutsch";null;"1";4;1;
 "GE";null;null;"DH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Rumänisch";0;"1";4;2;
@@ -215,7 +212,6 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "GE";null;null;"IM";"Unterricht in der Herkunftssprache - Italienisch";null;"1";9;10;
 "GE";null;null;"IN";"Instrumentalpraktischer Grundkurs";0;"1";9;13;
 "GE";null;null;"IQ";"Italienisch, außerhalb des regulären Fachunterrichts";0;"1";9;5;
-"GE";null;null;"IR";"Modellversuch Islamkunde in deutscher Sprache";0;"1";9;11;
 "GE";null;null;"JH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Niederländisch";0;"1";10;1;
 "GE";null;null;"K0";"Japanisch, regulärer Beginn in der Einführungsphase";0;"1";11;4;
 "GE";null;null;"K5";"Japanisch, regulärer Beginn in Jahrgang 5";0;"1";11;1;
@@ -267,7 +263,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "GE";null;null;"R6";"Russisch, regulärer Beginn in Jahrgang 6";0;"1";18;2;
 "GE";null;null;"R8";"Russisch, regulärer Beginn in Jahrgang 8";null;"1";18;3;
 "GE";null;null;"RH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Arabisch";null;"1";18;6;
-"GE";null;null;"RK";"Rechtskunde";null;"1";18;7;
+"GE";null;null;"RK";"Recht (nur SII)/Rechtskundlicher Unterricht (nur SI)";null;"1";18;7;
 "GE";null;null;"RM";"Unterricht in der Herkunftssprache - Russisch";null;"1";18;8;
 "GE";null;null;"RQ";"Russisch, außerhalb des regulären Fachunterrichts";0;"1";18;5;
 "GE";null;null;"S0";"Spanisch, regulärer Beginn in der Einführungsphase";0;"1";19;4;
@@ -387,7 +383,6 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "GM";null;null;"C8";"Chinesisch, regulärer Beginn in Jahrgang 8";0;"1";3;4;
 "GM";null;null;"CH";"Chemie";0;"1";3;7;
 "GM";null;null;"CM";"Unterricht in der Herkunftssprache - Kroatisch";0;"1";3;8;
-"GM";null;null;"CO";"Chor";0;"1";3;9;
 "GM";null;null;"CQ";"Chinesisch, außerhalb des regulären Fachunterrichts";0;"1";3;6;
 "GM";null;null;"D";"Deutsch";0;"1";4;1;
 "GM";null;null;"DH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Rumänisch";0;"1";4;2;
@@ -437,7 +432,6 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "GM";null;null;"IM";"Unterricht in der Herkunftssprache - Italienisch";0;"1";9;11;
 "GM";null;null;"IN";"Instrumentalpraktischer Grundkurs";0;"1";9;14;
 "GM";null;null;"IQ";"Italienisch, außerhalb des regulären Fachunterrichts";0;"1";9;6;
-"GM";null;null;"IR";"Modellversuch Islamkunde in deutscher Sprache";0;"1";9;12;
 "GM";null;null;"JH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Niederländisch";0;"1";10;1;
 "GM";null;null;"K0";"Japanisch, regulärer Beginn in der Einführungsphase";0;"1";11;5;
 "GM";null;null;"K5";"Japanisch, regulärer Beginn in Jahrgang 5";0;"1";11;1;
@@ -495,7 +489,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "GM";null;null;"R7";"Russisch, regulärer Beginn in Jahrgang 7";0;"1";18;3;
 "GM";null;null;"R8";"Russisch, regulärer Beginn in Jahrgang 8";0;"1";18;4;
 "GM";null;null;"RH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Arabisch";0;"1";18;7;
-"GM";null;null;"RK";"Rechtskunde";0;"1";18;8;
+"GM";null;null;"RK";"Rechtskundlicher Unterricht";0;"1";18;8;
 "GM";null;null;"RM";"Unterricht in der Herkunftssprache - Russisch";0;"1";18;9;
 "GM";null;null;"RQ";"Russisch, außerhalb des regulären Fachunterrichts";0;"1";18;6;
 "GM";null;null;"S0";"Spanisch, regulärer Beginn in der Einführungsphase";0;"1";19;5;
@@ -624,7 +618,6 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "GY";null;null;"C8";"Chinesisch, regulärer Beginn in Jahrgang 8";null;"1";3;4;
 "GY";null;null;"CH";"Chemie";null;"1";3;7;
 "GY";null;null;"CM";"Unterricht in der Herkunftssprache - Kroatisch";null;"1";3;8;
-"GY";null;null;"CO";"Chor";null;"1";3;9;
 "GY";null;null;"CQ";"Chinesisch, außerhalb des regulären Fachunterrichts";0;"1";3;6;
 "GY";null;null;"D";"Deutsch";null;"1";4;1;
 "GY";null;null;"DH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Rumänisch";0;"1";4;2;
@@ -673,7 +666,6 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "GY";null;null;"IM";"Unterricht in der Herkunftssprache - Italienisch";null;"1";9;11;
 "GY";null;null;"IN";"Instrumentalpraktischer Grundkurs";0;"1";9;14;
 "GY";null;null;"IQ";"Italienisch, außerhalb des regulären Fachunterrichts";0;"1";9;6;
-"GY";null;null;"IR";"Modellversuch Islamkunde in deutscher Sprache";0;"1";9;12;
 "GY";null;null;"JH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Niederländisch";0;"1";10;1;
 "GY";null;null;"K0";"Japanisch, regulärer Beginn in der Einführungsphase";0;"1";11;5;
 "GY";null;null;"K5";"Japanisch, regulärer Beginn in Jahrgang 5";null;"1";11;1;
@@ -729,7 +721,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "GY";null;null;"R7";"Russisch, regulärer Beginn in Jahrgang 7";null;"1";18;3;
 "GY";null;null;"R8";"Russisch, regulärer Beginn in Jahrgang 8";null;"1";18;4;
 "GY";null;null;"RH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Arabisch";null;"1";18;7;
-"GY";null;null;"RK";"Recht";null;"1";18;8;
+"GY";null;null;"RK";"Recht (nur SII)/Rechtskundlicher Unterricht (nur SI)";null;"1";18;8;
 "GY";null;null;"RM";"Unterricht in der Herkunftssprache - Russisch";null;"1";18;9;
 "GY";null;null;"RQ";"Russisch, außerhalb des regulären Fachunterrichts";0;"1";18;6;
 "GY";null;null;"S0";"Spanisch, regulärer Beginn in der Einführungsphase";0;"1";19;5;
@@ -856,7 +848,6 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "H";null;null;"BM";"Unterricht in der Herkunftssprache - Bosnisch";null;"1";2;3;
 "H";null;null;"CH";"Chemie";0;"1";3;1;
 "H";null;null;"CM";"Unterricht in der Herkunftssprache - Kroatisch";null;"1";3;2;
-"H";null;null;"CO";"Chor";null;"1";3;3;
 "H";null;null;"D";"Deutsch";null;"1";4;1;
 "H";null;null;"DH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Rumänisch";0;"1";4;2;
 "H";null;null;"E";"Englisch";null;"1";5;1;
@@ -881,7 +872,6 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "H";null;null;"IK";"Individuelles Lernen (dem Kernstundenkontingent entnommen)";0;"1";9;3;
 "H";null;null;"IL";"Islamische Religionslehre";0;"1";9;8;
 "H";null;null;"IM";"Unterricht in der Herkunftssprache - Italienisch";null;"1";9;6;
-"H";null;null;"IR";"Modellversuch Islamkunde in deutscher Sprache";0;"1";9;7;
 "H";null;null;"JH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Niederländisch";0;"1";10;1;
 "H";null;null;"KN";"Katholische Religionslehre (konfessionell kooperativ)";0;"1";11;2;
 "H";null;null;"KR";"Katholische Religionslehre";null;"1";11;1;
@@ -911,7 +901,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "H";null;null;"QM";"Unterricht in der Herkunftssprache - Farsi";0;"1";17;2;
 "H";null;null;"R";"Russisch";0;"1";18;1;
 "H";null;null;"RH";"Herkunftssprache anst. einer Pflichtfremdsprache - Arabisch (nur BG Realschule)";0;"1";18;2;
-"H";null;null;"RK";"Rechtskunde";null;"1";18;3;
+"H";null;null;"RK";"Rechtskundlicher Unterricht";null;"1";18;3;
 "H";null;null;"RM";"Unterricht in der Herkunftssprache - Russisch";null;"1";18;4;
 "H";null;null;"S";"Spanisch (nur Bildungsgang Realschule)";0;"1";19;1;
 "H";null;null;"S3";"Sport für Jungen";null;"1";19;6;
@@ -959,7 +949,6 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "PS";null;null;"C8";"Chinesisch, regulärer Beginn in Jahrgang 8";0;"1";3;4;
 "PS";null;null;"CH";"Chemie";0;"1";3;7;
 "PS";null;null;"CM";"Unterricht in der Herkunftssprache - Kroatisch";0;"1";3;8;
-"PS";null;null;"CO";"Chor";0;"1";3;9;
 "PS";null;null;"CQ";"Chinesisch, außerhalb des regulären Fachunterrichts";0;"1";3;6;
 "PS";null;null;"D";"Deutsch";0;"1";4;1;
 "PS";null;null;"DH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Rumänisch";0;"1";4;2;
@@ -1007,7 +996,6 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "PS";null;null;"IM";"Unterricht in der Herkunftssprache - Italienisch";0;"1";9;10;
 "PS";null;null;"IN";"Instrumentalpraktischer Grundkurs";0;"1";9;13;
 "PS";null;null;"IQ";"Italienisch, außerhalb des regulären Fachunterrichts";0;"1";9;5;
-"PS";null;null;"IR";"Modellversuch Islamkunde in deutscher Sprache";0;"1";9;11;
 "PS";null;null;"JH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Niederländisch";0;"1";10;1;
 "PS";null;null;"K0";"Japanisch, regulärer Beginn in der Einführungsphase";0;"1";11;4;
 "PS";null;null;"K5";"Japanisch, regulärer Beginn in Jahrgang 5";0;"1";11;1;
@@ -1059,7 +1047,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "PS";null;null;"R6";"Russisch, regulärer Beginn in Jahrgang 6";0;"1";18;2;
 "PS";null;null;"R8";"Russisch, regulärer Beginn in Jahrgang 8";0;"1";18;3;
 "PS";null;null;"RH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Arabisch";0;"1";18;6;
-"PS";null;null;"RK";"Rechtskunde";0;"1";18;7;
+"PS";null;null;"RK";"Rechtskundlicher Unterricht";0;"1";18;7;
 "PS";null;null;"RM";"Unterricht in der Herkunftssprache - Russisch";0;"1";18;8;
 "PS";null;null;"RQ";"Russisch, außerhalb des regulären Fachunterrichts";0;"1";18;5;
 "PS";null;null;"S0";"Spanisch, regulärer Beginn in der Einführungsphase";0;"1";19;4;
@@ -1104,7 +1092,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "PS";null;null;"Z5";"Neugriechisch, regulärer Beginn in Jahrgang 5";0;"1";26;1;
 "PS";null;null;"Z6";"Neugriechisch, regulärer Beginn in Jahrgang 6";0;"1";26;2;
 "PS";null;null;"Z8";"Neugriechisch, regulärer Beginn in Jahrgang 8";0;"1";26;3;
-"PS";null;null;"ZF";"Zusätzliche Förderung in der Schuleingangsphase";0;"1";26;6;
+"PS";null;null;"ZF";"Zusätzliche Förderung";0;"1";26;6;
 "PS";null;null;"ZH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Kurdische Sprachen";0;"1";26;7;
 "PS";null;null;"ZM";"Unterricht in der Herkunftssprache - Kurdische Sprachen (Sorani, Komanci, Zaza)";0;"1";26;8;
 "PS";null;null;"ZQ";"Neugriechisch, außerhalb des regulären Fachunterrichts";0;"1";26;5;
@@ -1171,7 +1159,6 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "R";null;null;"BM";"Unterricht in der Herkunftssprache - Bosnisch";null;"1";2;3;
 "R";null;null;"CH";"Chemie";null;"1";3;1;
 "R";null;null;"CM";"Unterricht in der Herkunftssprache - Kroatisch";null;"1";3;2;
-"R";null;null;"CO";"Chor";null;"1";3;3;
 "R";null;null;"D";"Deutsch";null;"1";4;1;
 "R";null;null;"DH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Rumänisch";0;"1";4;2;
 "R";null;null;"E";"Englisch";null;"1";5;1;
@@ -1204,7 +1191,6 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "R";null;null;"IL";"Islamische Religionslehre";0;"1";9;10;
 "R";null;null;"IM";"Unterricht in der Herkunftssprache - Italienisch";null;"1";9;11;
 "R";null;null;"IQ";"Italienisch, außerhalb des regulären Fachunterrichts";0;"1";9;5;
-"R";null;null;"IR";"Modellversuch Islamkunde in deutscher Sprache";0;"1";9;12;
 "R";null;null;"JH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Niederländisch";0;"1";10;1;
 "R";null;null;"KN";"Katholische Religionslehre (konfessionell kooperativ)";0;"1";11;2;
 "R";null;null;"KR";"Katholische Religionslehre";null;"1";11;1;
@@ -1249,7 +1235,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "R";null;null;"R7";"Russisch, regulärer Beginn in Jahrgang 7";0;"1";18;3;
 "R";null;null;"R8";"Russisch, regulärer Beginn in Jahrgang 8";0;"1";18;4;
 "R";null;null;"RH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Arabisch";null;"1";18;6;
-"R";null;null;"RK";"Rechtskunde";null;"1";18;7;
+"R";null;null;"RK";"Rechtskundlicher Unterricht";null;"1";18;7;
 "R";null;null;"RM";"Unterricht in der Herkunftssprache - Russisch";null;"1";18;8;
 "R";null;null;"RQ";"Russisch, außerhalb des regulären Fachunterrichts";0;"1";18;5;
 "R";null;null;"S3";"Sport für Jungen";null;"1";19;10;
@@ -1337,7 +1323,6 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "S";null;null;"BN";"Braille'sche Punktschrift";0;"1";2;4;
 "S";null;null;"CH";"Chemie";0;"1";3;1;
 "S";null;null;"CM";"Unterricht in der Herkunftssprache - Kroatisch";null;"1";3;2;
-"S";null;null;"CO";"Chor";0;"1";3;3;
 "S";null;null;"D";"Sprache und Kommunikation";0;"1";4;3;
 "S";null;null;"D";"Sprache, Sprachgestaltung";0;"1";4;2;
 "S";null;null;"D";"Sprache, Lesen und Schreiben";0;"1";4;4;
@@ -1367,7 +1352,6 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "S";null;null;"IH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Italienisch";0;"1";9;3;
 "S";null;null;"IL";"Islamische Religionslehre";0;"1";9;6;
 "S";null;null;"IM";"Unterricht in der Herkunftssprache - Italienisch";0;"1";9;4;
-"S";null;null;"IR";"Modellversuch Islamkunde in deutscher Sprache";0;"1";9;5;
 "S";null;null;"JH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Niederländisch";0;"1";10;1;
 "S";null;null;"KN";"Katholische Religionslehre (konfessionell kooperativ)";0;"1";11;2;
 "S";null;null;"KR";"Katholische Religionslehre";0;"1";11;1;
@@ -1403,7 +1387,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "S";null;null;"QM";"Unterricht in der Herkunftssprache - Farsi";0;"1";17;1;
 "S";null;null;"R";"Aufbaurealschule/Schule für Kranke: Russisch";0;"1";18;1;
 "S";null;null;"RH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Arabisch";0;"1";18;2;
-"S";null;null;"RK";"Aufbaurealschule/Schule für Kranke: Rechtskunde";0;"1";18;3;
+"S";null;null;"RK";"Aufbaurealschule/Schule für Kranke: Rechtskundlicher Unterricht";0;"1";18;3;
 "S";null;null;"RM";"Unterricht in der Herkunftssprache - Russisch";null;"1";18;4;
 "S";null;null;"S";"Aufbaurealshule/Schule für Kranke: Spanisch";0;"1";19;1;
 "S";null;null;"S3";"Sport für Jungen";0;"1";19;7;
@@ -1432,7 +1416,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "S";null;null;"YH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Koreanisch";0;"1";25;1;
 "S";null;null;"YM";"Unterricht in der Herkunftssprache - Koreanisch";0;"1";25;2;
 "S";null;null;"YR";"orthodoxe Religionslehre (Syrisch)";0;"1";25;3;
-"S";null;null;"ZF";"Zusätzliche Förderung in der Schuleingangsphase";0;"1";26;1;
+"S";null;null;"ZF";"Zusätzliche Förderung";0;"1";26;1;
 "S";null;null;"ZH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Kurdische Sprachen";0;"1";26;3;
 "S";null;null;"ZM";"Unterricht in der Herkunftssprache - Kurdische Sprachen (Sorani, Komanci, Zaza)";0;"1";26;2;
 "S";null;null;null;"Kein Eintrag";0;"2";0;0;
@@ -1539,7 +1523,6 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SG";null;null;"C8";"Chinesisch, regulärer Beginn in Jahrgang 8";0;"1";3;4;
 "SG";null;null;"CH";"Chemie";null;"1";3;6;
 "SG";null;null;"CM";"Unterricht in der Herkunftssprache - Kroatisch";null;"1";3;7;
-"SG";null;null;"CO";"Chor";null;"1";3;8;
 "SG";null;null;"CQ";"Chinesisch, außerhalb des regulären Fachunterrichts";0;"1";3;5;
 "SG";null;null;"D";"Deutsch";null;"1";4;1;
 "SG";null;null;"DH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Rumänisch";0;"1";4;2;
@@ -1584,7 +1567,6 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SG";null;null;"IM";"Unterricht in der Herkunftssprache - Italienisch";null;"1";9;9;
 "SG";null;null;"IN";"Instrumentalpraktischer Grundkurs";0;"1";9;12;
 "SG";null;null;"IQ";"Italienisch, außerhalb des regulären Fachunterrichts";0;"1";9;7;
-"SG";null;null;"IR";"Modellversuch Islamkunde in deutscher Sprache";0;"1";9;10;
 "SG";null;null;"JH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Niederländisch";0;"1";10;1;
 "SG";null;null;"K0";"Japanisch, regulärer Beginn in der Einführungsphase";0;"1";11;1;
 "SG";null;null;"K5";"Japanisch, regulärer Beginn in Jahrgang 5";null;"1";11;2;
@@ -1637,7 +1619,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SG";null;null;"R6";"Russisch, regulärer Beginn in Jahrgang 6";0;"1";18;3;
 "SG";null;null;"R8";"Russisch, regulärer Beginn in Jahrgang 8";0;"1";18;4;
 "SG";null;null;"RH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Arabisch";null;"1";18;6;
-"SG";null;null;"RK";"Rechtskunde";null;"1";18;7;
+"SG";null;null;"RK";"Recht/Rechtskundlicher Unterricht";null;"1";18;7;
 "SG";null;null;"RM";"Unterricht in der Herkunftssprache - Russisch";null;"1";18;8;
 "SG";null;null;"RQ";"Russisch, außerhalb des regulären Fachunterrichts";0;"1";18;5;
 "SG";null;null;"S0";"Spanisch, regulärer Beginn in der Einführungsphase";0;"1";19;1;
@@ -1754,7 +1736,6 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SK";null;null;"C8";"Chinesisch, regulärer Beginn in Jahrgang 8";0;"1";3;4;
 "SK";null;null;"CH";"Chemie";0;"1";3;6;
 "SK";null;null;"CM";"Unterricht in der Herkunftssprache - Kroatisch";0;"1";3;7;
-"SK";null;null;"CO";"Chor";0;"1";3;8;
 "SK";null;null;"CQ";"Chinesisch, außerhalb des regulären Fachunterrichts";0;"1";3;5;
 "SK";null;null;"D";"Deutsch";0;"1";4;1;
 "SK";null;null;"DH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Rumänisch";0;"1";4;2;
@@ -1802,7 +1783,6 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SK";null;null;"IL";"Islamische Religionslehre";0;"1";9;13;
 "SK";null;null;"IM";"Unterricht in der Herkunftssprache - Italienisch";0;"1";9;11;
 "SK";null;null;"IQ";"Italienisch, außerhalb des regulären Fachunterrichts";0;"1";9;6;
-"SK";null;null;"IR";"Modellversuch Islamkunde in deutscher Sprache";0;"1";9;12;
 "SK";null;null;"JH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Niederländisch";0;"1";10;1;
 "SK";null;null;"K5";"Japanisch, regulärer Beginn in Jahrgang 5";0;"1";11;1;
 "SK";null;null;"K6";"Japanisch, regulärer Beginn in Jahrgang 6";0;"1";11;2;
@@ -1856,7 +1836,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SK";null;null;"R7";"Russisch, regulärer Beginn in Jahrgang 7";0;"1";18;3;
 "SK";null;null;"R8";"Russisch, regulärer Beginn in Jahrgang 8";0;"1";18;4;
 "SK";null;null;"RH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Arabisch";0;"1";18;7;
-"SK";null;null;"RK";"Rechtskunde";0;"1";18;8;
+"SK";null;null;"RK";"Rechtskundlicher Unterricht";0;"1";18;8;
 "SK";null;null;"RM";"Unterricht in der Herkunftssprache - Russisch";0;"1";18;9;
 "SK";null;null;"RQ";"Russisch, außerhalb des regulären Fachunterrichts";0;"1";18;6;
 "SK";null;null;"S3";"Sport für Jungen";0;"1";19;11;
@@ -1967,7 +1947,6 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SR";null;null;"BM";"Unterricht in der Herkunftssprache - Bosnisch";null;"1";2;3;
 "SR";null;null;"CH";"Chemie";null;"1";3;1;
 "SR";null;null;"CM";"Unterricht in der Herkunftssprache - Kroatisch";null;"1";3;2;
-"SR";null;null;"CO";"Chor";null;"1";3;3;
 "SR";null;null;"D";"Deutsch";null;"1";4;1;
 "SR";null;null;"DH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Rumänisch";0;"1";4;2;
 "SR";null;null;"E";"Englisch";null;"1";5;1;
@@ -1997,7 +1976,6 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SR";null;null;"IL";"Islamische Religionslehre";0;"1";9;11;
 "SR";null;null;"IM";"Unterricht in der Herkunftssprache - Italienisch";null;"1";9;9;
 "SR";null;null;"IQ";"Italienisch, außerhalb des regulären Fachunterrichts";0;"1";9;4;
-"SR";null;null;"IR";"Modellversuch Islamkunde in deutscher Sprache";0;"1";9;10;
 "SR";null;null;"JH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Niederländisch";0;"1";10;1;
 "SR";null;null;"KN";"Katholische Religionslehre (konfessionell kooperativ)";0;"1";11;2;
 "SR";null;null;"KR";"Katholische Religionslehre";null;"1";11;1;
@@ -2039,7 +2017,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SR";null;null;"R6";"Russisch, regulärer Beginn in Jahrgang 6";0;"1";18;2;
 "SR";null;null;"R8";"Russisch, regulärer Beginn in Jahrgang 8";0;"1";18;3;
 "SR";null;null;"RH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Arabisch";null;"1";18;5;
-"SR";null;null;"RK";"Rechtskunde";null;"1";18;6;
+"SR";null;null;"RK";"Rechtskundlicher Unterricht";null;"1";18;6;
 "SR";null;null;"RM";"Unterricht in der Herkunftssprache - Russisch";null;"1";18;7;
 "SR";null;null;"RQ";"Russisch, außerhalb des regulären Fachunterrichts";0;"1";18;4;
 "SR";null;null;"S3";"Sport für Jungen";null;"1";19;9;
@@ -2115,7 +2093,6 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "V";null;null;"BM";"Unterricht in der Herkunftssprache - Bosnisch";null;"1";2;2;
 "V";null;null;"CH";"Chemie";null;"1";3;1;
 "V";null;null;"CM";"Unterricht in der Herkunftssprache - Kroatisch";null;"1";3;2;
-"V";null;null;"CO";"Chor";null;"1";3;3;
 "V";null;null;"D";"Deutsch";null;"1";4;1;
 "V";null;null;"E";"Englisch";null;"1";5;1;
 "V";null;null;"EB";"Erweitertes Bildungsangebot";0;"1";5;2;
@@ -2134,7 +2111,6 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "V";null;null;"IK";"Individuelles Lernen (dem Kernstundenkontingent entnommen)";0;"1";9;2;
 "V";null;null;"IL";"Islamische Religionslehre";0;"1";9;6;
 "V";null;null;"IM";"Unterricht in der Herkunftssprache - Italienisch";null;"1";9;4;
-"V";null;null;"IR";"Modellversuch Islamkunde in deutscher Sprache";0;"1";9;5;
 "V";null;null;"KN";"Katholische Religionslehre (konfessionell kooperativ)";0;"1";11;2;
 "V";null;null;"KR";"Katholische Religionslehre";null;"1";11;1;
 "V";null;null;"KU";"Kunst";null;"1";11;3;
@@ -2151,7 +2127,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "V";null;null;"PM";"Unterricht in der Herkunftssprache - Polnisch";null;"1";16;3;
 "V";null;null;"PP";"Praktische Philosophie";null;"1";16;4;
 "V";null;null;"QM";"Unterricht in der Herkunftssprache - Farsi";0;"1";17;1;
-"V";null;null;"RK";"Rechtskunde";null;"1";18;1;
+"V";null;null;"RK";"Rechtskundlicher Unterricht";null;"1";18;1;
 "V";null;null;"RM";"Unterricht in der Herkunftssprache - Russisch";null;"1";18;2;
 "V";null;null;"S3";"Sport für Jungen";null;"1";19;1;
 "V";null;null;"S4";"Sport für Mädchen";null;"1";19;2;
@@ -2177,7 +2153,6 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "WB";null;null;"BI";"Biologie";0;"1";2;1;
 "WB";null;null;"C";"Chinesisch";0;"1";3;1;
 "WB";null;null;"CH";"Chemie";0;"1";3;2;
-"WB";null;null;"CO";"Chor";0;"1";3;3;
 "WB";null;null;"D";"Deutsch";0;"1";4;1;
 "WB";null;null;"E";"Englisch";0;"1";5;1;
 "WB";null;null;"EK";"Erdkunde/Geographie";0;"1";5;2;
@@ -2195,7 +2170,6 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "WB";null;null;"I";"Italienisch";0;"1";9;1;
 "WB";null;null;"IF";"Informatik";0;"1";9;2;
 "WB";null;null;"IL";"Islamische Religionslehre";0;"1";9;4;
-"WB";null;null;"IR";"Modellversuch Islamkunde in deutscher Sprache";0;"1";9;3;
 "WB";null;null;"K";"Japanisch";0;"1";11;1;
 "WB";null;null;"KN";"Katholische Religionslehre (konfessionell kooperativ)";0;"1";11;3;
 "WB";null;null;"KR";"Katholische Religionslehre/ Theologie";0;"1";11;2;
@@ -2214,7 +2188,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "WB";null;null;"PP";"Praktische Philosophie";null;"1";16;6;
 "WB";null;null;"PS";"Psychologie";0;"1";16;7;
 "WB";null;null;"R";"Russisch";0;"1";18;1;
-"WB";null;null;"RK";"Rechtskunde";0;"1";18;2;
+"WB";null;null;"RK";"Recht";0;"1";18;2;
 "WB";null;null;"S";"Spanisch";0;"1";19;1;
 "WB";null;null;"SL";"Soziologie";0;"1";19;2;
 "WB";null;null;"SP";"Sport";0;"1";19;3;
