@@ -1,0 +1,1830 @@
+Schulform;Fach;Bezeichnung;Fachkuerzel;Kurzbezeichnung;AbJahrgang;IstFremdsprache;IstHKFS;IstAusRegUFach;IstErsatzPflichtFS;IstKonfKoop;NurSII;ExportASD
+"BK";"A";"Arabisch";null;null;null;0;0;0;0;0;0;0
+"BK";"AB";"Arbeits- und Betriebswirtschaftslehre";null;null;null;0;0;0;0;0;0;0
+"BK";"AG";"Neigungs- und Projektgruppen";null;null;null;0;0;0;0;0;0;0
+"BK";"AV";"Arbeitsvorbereitung";null;null;null;0;0;0;0;0;0;0
+"BK";"BA";"Berufs- und Arbeitspädagogik";null;null;null;0;0;0;0;0;0;0
+"BK";"BF";"Bürowirtschaft";null;null;null;0;0;0;0;0;0;0
+"BK";"BG";"Betrieb und Gesellschaft/Politik";null;null;null;0;0;0;0;0;0;0
+"BK";"BI";"Biologie";null;null;null;0;0;0;0;0;0;0
+"BK";"BK";"Betriebsinformatik";null;null;null;0;0;0;0;0;0;0
+"BK";"BP";"Betriebspraxis";null;null;null;0;0;0;0;0;0;0
+"BK";"BR";"Betriebslehre";null;null;null;0;0;0;0;0;0;0
+"BK";"BS";"Betriebssoziologie / Arbeitsrecht";null;null;null;0;0;0;0;0;0;0
+"BK";"BW";"Betriebswirtschaftslehre";null;null;null;0;0;0;0;0;0;0
+"BK";"BY";"Betriebssysteme / Netzwerke";null;null;null;0;0;0;0;0;0;0
+"BK";"C";"Chinesisch";null;null;null;0;0;0;0;0;0;0
+"BK";"CH";"Chemie";null;null;null;0;0;0;0;0;0;0
+"BK";"D";"Deutsch";null;null;null;0;0;0;0;0;0;0
+"BK";"DB";"Datenbanken";null;null;null;0;0;0;0;0;0;0
+"BK";"DM";"Didaktik u. Methodik der soz.päd. Praxis mit Übungen";null;null;null;0;0;0;0;0;0;0
+"BK";"DV";"Datenverarbeitung";null;null;null;0;0;0;0;0;0;0
+"BK";"E";"Englisch";null;null;null;0;0;0;0;0;0;0
+"BK";"EK";"Erdkunde";null;null;null;0;0;0;0;0;0;0
+"BK";"EL";"Ernährungs- und Nahrungsmittellehre";null;null;null;0;0;0;0;0;0;0
+"BK";"EN";"Evangelische Religionslehre (konfessionell kooperativ)";null;null;null;0;0;0;0;0;0;0
+"BK";"ER";"Evangelische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"BK";"F";"Französisch";null;null;null;0;0;0;0;0;0;0
+"BK";"FB";"Fächer des berufsbezogenen Bereichs";null;null;null;0;0;0;0;0;0;0
+"BK";"FK";"Fremdsprachliche Kommunikation";null;null;null;0;0;0;0;0;0;0
+"BK";"FP";"Fachpraxis";null;null;null;0;0;0;0;0;0;0
+"BK";"FU";"Förderunterricht";null;null;null;0;0;0;0;0;0;0
+"BK";"GA";"Geräte- und Maschinenlehre";null;null;null;0;0;0;0;0;0;0
+"BK";"GB";"Grundbildung";null;null;null;0;0;0;0;0;0;0
+"BK";"GE";"Geschichte";null;null;null;0;0;0;0;0;0;0
+"BK";"GL";"Gesellschaftslehre";null;null;null;0;0;0;0;0;0;0
+"BK";"GS";"Gestaltungslehre";null;null;null;0;0;0;0;0;0;0
+"BK";"HR";"Jüdische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"BK";"HU";"Hausunterricht";null;null;null;0;0;0;0;0;0;0
+"BK";"HY";"Hygiene";null;null;null;0;0;0;0;0;0;0
+"BK";"I";"Italienisch";null;null;null;0;0;0;0;0;0;0
+"BK";"IF";"Informatik";null;null;null;0;0;0;0;0;0;0
+"BK";"IL";"Islamische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"BK";"K";"Japanisch";null;null;null;0;0;0;0;0;0;0
+"BK";"KN";"Katholische Religionslehre (konfessionell kooperativ)";null;null;null;0;0;0;0;0;0;0
+"BK";"KO";"Kommunikation";null;null;null;0;0;0;0;0;0;0
+"BK";"KR";"Katholische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"BK";"KS";"Kurzschrift";null;null;null;0;0;0;0;0;0;0
+"BK";"KU";"Kunsterziehung";null;null;null;0;0;0;0;0;0;0
+"BK";"L";"Latein";null;null;null;0;0;0;0;0;0;0
+"BK";"LI";"Literatur";null;null;null;0;0;0;0;0;0;0
+"BK";"M";"Mathematik";null;null;null;0;0;0;0;0;0;0
+"BK";"MD";"Medienerziehung";null;null;null;0;0;0;0;0;0;0
+"BK";"ME";"Mechanik";null;null;null;0;0;0;0;0;0;0
+"BK";"MP";"Meß- und Prüftechnik";null;null;null;0;0;0;0;0;0;0
+"BK";"MU";"Musik";null;null;null;0;0;0;0;0;0;0
+"BK";"MW";"Methodik des wissenschaftl. orientierten Arbeitens";null;null;null;0;0;0;0;0;0;0
+"BK";"N";"Niederländisch";null;null;null;0;0;0;0;0;0;0
+"BK";"NM";"Unterricht in der Herkunftssprache - Niederländisch";null;null;null;0;0;0;0;0;0;0
+"BK";"NW";"Naturwissenschaften";null;null;null;0;0;0;0;0;0;0
+"BK";"OL";"Organisationslehre/Büroorganisation";null;null;null;0;0;0;0;0;0;0
+"BK";"OR";"Orthodoxe Religionslehre";null;null;null;0;0;0;0;0;0;0
+"BK";"PA";"Pädagogik";null;null;null;0;0;0;0;0;0;0
+"BK";"PH";"Physik";null;null;null;0;0;0;0;0;0;0
+"BK";"PK";"Politik";null;null;null;0;0;0;0;0;0;0
+"BK";"PL";"Philosophie";null;null;null;0;0;0;0;0;0;0
+"BK";"PP";"Praktische Philosophie";null;null;null;0;0;0;0;0;0;0
+"BK";"PS";"Psychologie";null;null;null;0;0;0;0;0;0;0
+"BK";"PU";"Fachübergreifender Unterricht";null;null;null;0;0;0;0;0;0;0
+"BK";"PW";"Personalwirtschaft und Soziologie/Politik";null;null;null;0;0;0;0;0;0;0
+"BK";"QM";"Unterricht in der Herkunftssprache - Farsi";null;null;null;0;0;0;0;0;0;0
+"BK";"R";"Russisch";null;null;null;0;0;0;0;0;0;0
+"BK";"RE";"Rechnungswesen";null;null;null;0;0;0;0;0;0;0
+"BK";"RW";"Recht und Verwaltung";null;null;null;0;0;0;0;0;0;0
+"BK";"S";"Spanisch";null;null;null;0;0;0;0;0;0;0
+"BK";"SE";"Softwareentwicklung und -engineering";null;null;null;0;0;0;0;0;0;0
+"BK";"SG";"sonderpädag. Förderung für Schüler/-innen mit sonderpädag. Förderbedarf";null;null;null;0;0;0;0;0;0;0
+"BK";"SI";"Spiel";null;null;null;0;0;0;0;0;0;0
+"BK";"SL";"Soziologie";null;null;null;0;0;0;0;0;0;0
+"BK";"SP";"Sport";null;null;null;0;0;0;0;0;0;0
+"BK";"SR";"Sonstige Sprachen";null;null;null;0;0;0;0;0;0;0
+"BK";"SW";"Sozialwissenschaften";null;null;null;0;0;0;0;0;0;0
+"BK";"T";"Türkisch";null;null;null;0;0;0;0;0;0;0
+"BK";"TG";"Technische Grundbildung";null;null;null;0;0;0;0;0;0;0
+"BK";"TI";"Technische Informatik";null;null;null;0;0;0;0;0;0;0
+"BK";"TV";"Textverarbeitung";null;null;null;0;0;0;0;0;0;0
+"BK";"TZ";"Technisches Zeichnen / Fachzeichnen";null;null;null;0;0;0;0;0;0;0
+"BK";"UM";"Unterricht in der Herkunftssprache - Rumänisch";null;null;null;0;0;0;0;0;0;0
+"BK";"VE";"Verwaltungskunde";null;null;null;0;0;0;0;0;0;0
+"BK";"VK";"Verkaufskunde";null;null;null;0;0;0;0;0;0;0
+"BK";"VM";"Unterricht in der Herkunftssprache - Bulgarisch";null;null;null;0;0;0;0;0;0;0
+"BK";"VP";"Volkswirtschaftslehre/Politik";null;null;null;0;0;0;0;0;0;0
+"BK";"VT";"Verfahrenstechnik";null;null;null;0;0;0;0;0;0;0
+"BK";"VW";"Volkswirtschaftslehre";null;null;null;0;0;0;0;0;0;0
+"BK";"WG";"Wirtschaftsgeographie";null;null;null;0;0;0;0;0;0;0
+"BK";"WI";"Wirtschaftsinformatik/Organisationslehre";null;null;null;0;0;0;0;0;0;0
+"BK";"WW";"Wirtschaftslehre";null;null;null;0;0;0;0;0;0;0
+"BK";"YM";"Unterricht in der Herkunftssprache - Koreanisch";null;null;null;0;0;0;0;0;0;0
+"BK";"YR";"Syrisch-orthodoxe Religionslehre";null;null;null;0;0;0;0;0;0;0
+"BK";"Z";"Neugriechisch";null;null;null;0;0;0;0;0;0;0
+"BK";"ZM";"Unterricht in der Herkunftssprache - Kurdische Sprachen (Sorani, Komanci, Zaza)";null;null;null;0;0;0;0;0;0;0
+"BK";"ZW";"Zeichnen / Werken";null;null;null;0;0;0;0;0;0;0
+"FW";"E";"Englisch";null;null;null;0;0;0;0;0;0;0
+"FW";"F";"Französisch";null;null;null;0;0;0;0;0;0;0
+"FW";"G";"Altgriechisch";null;null;null;0;0;0;0;0;0;0
+"FW";"I";"Italienisch";null;null;null;0;0;0;0;0;0;0
+"FW";"L";"Latein";null;null;null;0;0;0;0;0;0;0
+"FW";"R";"Russisch";null;null;null;0;0;0;0;0;0;0
+"FW";"SR";"Sonstige Fremdsprachen";null;null;null;0;0;0;0;0;0;0
+"FW";"XX";"Sonstige Fächer ohne Fremdsprachen (kein Import nach ASDPC)";null;null;null;0;0;0;0;0;0;0
+"G";"AM";"Unterricht in der Herkunftssprache - Arabisch";null;null;null;0;0;0;0;0;0;0
+"G";"AR";"Alevitische Religionslehre nach den Grundsätzen des AABF";null;null;null;0;0;0;0;0;0;0
+"G";"BM";"Unterricht in der Herkunftssprache - Bosnisch";null;null;null;0;0;0;0;0;0;0
+"G";"CM";"Unterricht in der Herkunftssprache - Kroatisch";null;null;null;0;0;0;0;0;0;0
+"G";"D";"Deutsch";null;null;null;0;0;0;0;0;0;0
+"G";"E";"Englisch";null;null;null;0;0;0;0;0;0;0
+"G";"EM";"Unterricht in der Herkunftssprache - Serbisch";null;null;null;0;0;0;0;0;0;0
+"G";"EN";"Evangelische Religionslehre (konfessionell kooperativ)";null;null;null;0;0;0;0;0;0;0
+"G";"ER";"Evangelische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"G";"FU";"Förderunterricht";null;null;null;0;0;0;0;0;0;0
+"G";"GM";"Unterricht in der Herkunftssprache - Neugriechisch";null;null;null;0;0;0;0;0;0;0
+"G";"HR";"Jüdische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"G";"HU";"Hausunterricht";null;null;null;0;0;0;0;0;0;0
+"G";"IL";"Islamische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"G";"IM";"Unterricht in der Herkunftssprache - Italienisch";null;null;null;0;0;0;0;0;0;0
+"G";"KN";"Katholische Religionslehre (konfessionell kooperativ)";null;null;null;0;0;0;0;0;0;0
+"G";"KR";"Katholische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"G";"KU";"Kunst";null;null;null;0;0;0;0;0;0;0
+"G";"LM";"Unterricht in der Herkunftssprache - Albanisch";null;null;null;0;0;0;0;0;0;0
+"G";"M";"Mathematik";null;null;null;0;0;0;0;0;0;0
+"G";"MB";"Religionsunterricht der mennonitischen Brüdergemeinden in NRW als Schulversuch";null;null;null;0;0;0;0;0;0;0
+"G";"MM";"Unterricht in der Herkunftssprache - Mazedonisch";null;null;null;0;0;0;0;0;0;0
+"G";"MU";"Musik";null;null;null;0;0;0;0;0;0;0
+"G";"NM";"Unterricht in der Herkunftssprache - Niederländisch";null;null;null;0;0;0;0;0;0;0
+"G";"OM";"Unterricht in der Herkunftssprache - Portugiesisch";null;null;null;0;0;0;0;0;0;0
+"G";"OR";"Orthodoxe Religionslehre";null;null;null;0;0;0;0;0;0;0
+"G";"PM";"Unterricht in der Herkunftssprache - Polnisch";null;null;null;0;0;0;0;0;0;0
+"G";"QM";"Unterricht in der Herkunftssprache - Farsi";null;null;null;0;0;0;0;0;0;0
+"G";"RM";"Unterricht in der Herkunftssprache - Russisch";null;null;null;0;0;0;0;0;0;0
+"G";"S3";"Sport für Jungen";null;null;null;0;0;0;0;0;0;0
+"G";"S4";"Sport für Mädchen";null;null;null;0;0;0;0;0;0;0
+"G";"SG";"sonderpädag. Förderung für Schüler/-innen mit sonderpädag. Förderbedarf";null;null;null;0;0;0;0;0;0;0
+"G";"SM";"Unterricht in der Herkunftssprache - Spanisch";null;null;null;0;0;0;0;0;0;0
+"G";"SP";"Sport";null;null;null;0;0;0;0;0;0;0
+"G";"SU";"Sachunterricht";null;null;null;0;0;0;0;0;0;0
+"G";"TM";"Unterricht in der Herkunftssprache - Türkisch";null;null;null;0;0;0;0;0;0;0
+"G";"UM";"Unterricht in der Herkunftssprache - Rumänisch";null;null;null;0;0;0;0;0;0;0
+"G";"UU";"fächerübergreifender Unterricht (Sprache/Sachunt./Mathematik/Förderunt.)";null;null;null;0;0;0;0;0;0;0
+"G";"VF";"Fächer im genehmigten Schulversuch und sonstige Fächer";null;null;null;0;0;0;0;0;0;0
+"G";"VM";"Unterricht in der Herkunftssprache - Bulgarisch";null;null;null;0;0;0;0;0;0;0
+"G";"XM";"Unterricht in der Herkunftssprache - sonstige Sprache";null;null;null;0;0;0;0;0;0;0
+"G";"YM";"Unterricht in der Herkunftssprache - Koreanisch";null;null;null;0;0;0;0;0;0;0
+"G";"YR";"orthodoxe Religionslehre (Syrisch)";null;null;null;0;0;0;0;0;0;0
+"G";"ZF";"Zusätzliche Förderung";null;null;null;0;0;0;0;0;0;0
+"G";"ZM";"Unterricht in der Herkunftssprache - Kurdische Sprachen (Sorani, Komanci, Zaza)";null;null;null;0;0;0;0;0;0;0
+"GE";"A";"Arabisch";null;null;null;0;0;0;0;0;0;0
+"GE";"AH";"Arbeitslehre - Schwerpunkt Hauswirtschaft (nur Regelunterricht)";null;null;null;0;0;0;0;0;0;0
+"GE";"AL";"Arbeitslehre - Integration Hauswirtschaft, Technik, Wirtschaftslehre";null;null;null;0;0;0;0;0;0;0
+"GE";"AM";"Unterricht in der Herkunftssprache - Arabisch";null;null;null;0;0;0;0;0;0;0
+"GE";"AR";"Alevitische Religionslehre nach den Grundsätzen des AABF";null;null;null;0;0;0;0;0;0;0
+"GE";"AT";"Arbeitslehre - Schwerpunkt Technik (nur Regelunterricht)";null;null;null;0;0;0;0;0;0;0
+"GE";"AW";"Arbeitslehre - Schwerpunkt Wirtschaft (nur Regelunterricht)";null;null;null;0;0;0;0;0;0;0
+"GE";"AX";"Arbeitslehre - Technik/Wirtschaft (nur Wahlpflichtunterricht)";null;null;null;0;0;0;0;0;0;0
+"GE";"AY";"Arbeitslehre - Hauswirtschaft/Wirtschaft (nur Wahlpflichtunterricht)";null;null;null;0;0;0;0;0;0;0
+"GE";"BH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Bosnisch";null;null;null;0;0;0;0;0;0;0
+"GE";"BI";"Biologie";null;null;null;0;0;0;0;0;0;0
+"GE";"BM";"Unterricht in der Herkunftssprache - Bosnisch";null;null;null;0;0;0;0;0;0;0
+"GE";"BV";"Berufsvorbereitung";null;null;null;0;0;0;0;0;0;0
+"GE";"C0";"Chinesisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"GE";"C5";"Chinesisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"GE";"C6";"Chinesisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"GE";"C7";"Chinesisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"GE";"C8";"Chinesisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"GE";"CH";"Chemie";null;null;null;0;0;0;0;0;0;0
+"GE";"CM";"Unterricht in der Herkunftssprache - Kroatisch";null;null;null;0;0;0;0;0;0;0
+"GE";"CQ";"Chinesisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"GE";"D";"Deutsch";null;null;null;0;0;0;0;0;0;0
+"GE";"DH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Rumänisch";null;null;null;0;0;0;0;0;0;0
+"GE";"DS";"Darstellen und Gestalten";null;null;null;0;0;0;0;0;0;0
+"GE";"E";"Englisch";null;null;null;0;0;0;0;0;0;0
+"GE";"EH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Serbisch";null;null;null;0;0;0;0;0;0;0
+"GE";"EK";"Erdkunde/Geographie";null;null;null;0;0;0;0;0;0;0
+"GE";"EL";"Ernährungslehre";null;null;null;0;0;0;0;0;0;0
+"GE";"EM";"Unterricht in der Herkunftssprache - Serbisch";null;null;null;0;0;0;0;0;0;0
+"GE";"EN";"Evangelische Religionslehre (konfessionell kooperativ)";null;null;null;0;0;0;0;0;0;0
+"GE";"ER";"Evangelische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"GE";"F0";"Französisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"GE";"F5";"Französisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"GE";"F6";"Französisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"GE";"F7";"Französisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"GE";"F8";"Französisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"GE";"FQ";"Französisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"GE";"G0";"Altgriechisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"GE";"G5";"Altgriechisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"GE";"G6";"Altgriechisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"GE";"G7";"Altgriechisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"GE";"G8";"Altgriechisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"GE";"GE";"Geschichte";null;null;null;0;0;0;0;0;0;0
+"GE";"GH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Neugriechisch";null;null;null;0;0;0;0;0;0;0
+"GE";"GL";"Gesellschaftslehre (Integration: Erdkunde, Geschichte, Politik bzw. W-P)";null;null;null;0;0;0;0;0;0;0
+"GE";"GM";"Unterricht in der Herkunftssprache - Neugriechisch";null;null;null;0;0;0;0;0;0;0
+"GE";"GQ";"Altgriechisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"GE";"H0";"Hebräisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"GE";"H5";"Hebräisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"GE";"H6";"Hebräisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"GE";"H7";"Hebräisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"GE";"H8";"Hebräisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"GE";"HH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Kroatisch";null;null;null;0;0;0;0;0;0;0
+"GE";"HQ";"Hebräisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"GE";"HR";"Jüdische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"GE";"HU";"Hausunterricht";null;null;null;0;0;0;0;0;0;0
+"GE";"HW";"Hauswirtschaft (nur SI)";null;null;null;0;0;0;0;0;0;0
+"GE";"I0";"Italienisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"GE";"I5";"Italienisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"GE";"I6";"Italienisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"GE";"I7";"Italienisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"GE";"I8";"Italienisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"GE";"IE";"Individuelles Lernen (Ergänzungsstunden, Ganztag- und Betreuungsangebote)";null;null;null;0;0;0;0;0;0;0
+"GE";"IF";"Informatik";null;null;null;0;0;0;0;0;0;0
+"GE";"IH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Italienisch";null;null;null;0;0;0;0;0;0;0
+"GE";"IK";"Individuelles Lernen (dem Kernstundenkontingent entnommen)";null;null;null;0;0;0;0;0;0;0
+"GE";"IL";"Islamische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"GE";"IM";"Unterricht in der Herkunftssprache - Italienisch";null;null;null;0;0;0;0;0;0;0
+"GE";"IN";"Instrumentalpraktischer Grundkurs";null;null;null;0;0;0;0;0;0;0
+"GE";"IQ";"Italienisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"GE";"JH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Niederländisch";null;null;null;0;0;0;0;0;0;0
+"GE";"K0";"Japanisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"GE";"K5";"Japanisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"GE";"K6";"Japanisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"GE";"K7";"Japanisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"GE";"K8";"Japanisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"GE";"KN";"Katholische Religionslehre (konfessionell kooperativ)";null;null;null;0;0;0;0;0;0;0
+"GE";"KQ";"Japanisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"GE";"KR";"Katholische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"GE";"KU";"Kunst";null;null;null;0;0;0;0;0;0;0
+"GE";"L0";"Lateinisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"GE";"L5";"Lateinisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"GE";"L6";"Lateinisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"GE";"L7";"Lateinisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"GE";"L8";"Lateinisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"GE";"LH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Albanisch";null;null;null;0;0;0;0;0;0;0
+"GE";"LI";"Grundkurs in Literatur";null;null;null;0;0;0;0;0;0;0
+"GE";"LM";"Unterricht in der Herkunftssprache - Albanisch";null;null;null;0;0;0;0;0;0;0
+"GE";"LQ";"Lateinisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"GE";"M";"Mathematik";null;null;null;0;0;0;0;0;0;0
+"GE";"MH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Mazedonisch";null;null;null;0;0;0;0;0;0;0
+"GE";"MM";"Unterricht in der Herkunftssprache - Mazedonisch";null;null;null;0;0;0;0;0;0;0
+"GE";"MU";"Musik";null;null;null;0;0;0;0;0;0;0
+"GE";"N0";"Niederländisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"GE";"N5";"Niederländisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"GE";"N6";"Niederländisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"GE";"N7";"Niederländisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"GE";"N8";"Niederländisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"GE";"NH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Polnisch";null;null;null;0;0;0;0;0;0;0
+"GE";"NM";"Unterricht in der Herkunftssprache - Niederländisch";null;null;null;0;0;0;0;0;0;0
+"GE";"NQ";"Niederländisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"GE";"NW";"Naturwissenschaften (Integration: Physik, Chemie, Biologie)";null;null;null;0;0;0;0;0;0;0
+"GE";"O0";"Portugiesisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"GE";"O5";"Portugiesisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"GE";"O6";"Portugiesisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"GE";"O7";"Portugiesisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"GE";"O8";"Portugiesisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"GE";"OH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Portugiesisch";null;null;null;0;0;0;0;0;0;0
+"GE";"OM";"Unterricht in der Herkunftssprache - Portugiesisch";null;null;null;0;0;0;0;0;0;0
+"GE";"OQ";"Portugiesisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"GE";"OR";"Orthodoxe Religionslehre";null;null;null;0;0;0;0;0;0;0
+"GE";"PA";"Erziehungswissenschaft (nur SII)";null;null;null;0;0;0;0;0;0;0
+"GE";"PH";"Physik";null;null;null;0;0;0;0;0;0;0
+"GE";"PK";"Politik (nur SI)";null;null;null;0;0;0;0;0;0;0
+"GE";"PL";"Philosophie (nur SII)";null;null;null;0;0;0;0;0;0;0
+"GE";"PM";"Unterricht in der Herkunftssprache - Polnisch";null;null;null;0;0;0;0;0;0;0
+"GE";"PP";"Praktische Philosophie";null;null;null;0;0;0;0;0;0;0
+"GE";"PS";"Psychologie (nur SII)";null;null;null;0;0;0;0;0;0;0
+"GE";"PX";"Projektkurs (Pseudofach: nicht für ASD)";null;null;null;0;0;0;0;0;0;0
+"GE";"QH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Farsi";null;null;null;0;0;0;0;0;0;0
+"GE";"QM";"Unterricht in der Herkunftssprache - Farsi";null;null;null;0;0;0;0;0;0;0
+"GE";"R0";"Russisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"GE";"R5";"Russisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"GE";"R6";"Russisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"GE";"R7";"Russisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"GE";"R8";"Russisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"GE";"RH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Arabisch";null;null;null;0;0;0;0;0;0;0
+"GE";"RK";"Recht (nur SII)";null;null;null;0;0;0;0;0;0;0
+"GE";"RM";"Unterricht in der Herkunftssprache - Russisch";null;null;null;0;0;0;0;0;0;0
+"GE";"RQ";"Russisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"GE";"S0";"Spanisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"GE";"S3";"Sport für Jungen";null;null;null;0;0;0;0;0;0;0
+"GE";"S4";"Sport für Mädchen";null;null;null;0;0;0;0;0;0;0
+"GE";"S5";"Spanisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"GE";"S6";"Spanisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"GE";"S7";"Spanisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"GE";"S8";"Spanisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"GE";"SG";"sonderpädag. Förderung für Schüler/-innen mit sonderpädag. Förderbedarf";null;null;null;0;0;0;0;0;0;0
+"GE";"SH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Spanisch";null;null;null;0;0;0;0;0;0;0
+"GE";"SM";"Unterricht in der Herkunftssprache - Spanisch";null;null;null;0;0;0;0;0;0;0
+"GE";"SP";"Sport";null;null;null;0;0;0;0;0;0;0
+"GE";"SQ";"Spanisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"GE";"SR";"sonstige Sprachen";null;null;null;0;0;0;0;0;0;0
+"GE";"SW";"Sozialwissenschaften (nur SII)";null;null;null;0;0;0;0;0;0;0
+"GE";"SZ";"Sozialwissenschaften/Wirtschaft (nur SII)";null;null;null;0;0;0;0;0;0;0
+"GE";"T0";"Türkisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"GE";"T5";"Türkisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"GE";"T6";"Türkisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"GE";"T7";"Türkisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"GE";"T8";"Türkisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"GE";"TC";"Technik (nur SII)";null;null;null;0;0;0;0;0;0;0
+"GE";"TH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Türkisch";null;null;null;0;0;0;0;0;0;0
+"GE";"TM";"Unterricht in der Herkunftssprache - Türkisch";null;null;null;0;0;0;0;0;0;0
+"GE";"TQ";"Türkisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"GE";"TX";"Textilgestaltung";null;null;null;0;0;0;0;0;0;0
+"GE";"UH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Russisch";null;null;null;0;0;0;0;0;0;0
+"GE";"UM";"Unterricht in der Herkunftssprache - Rumänisch";null;null;null;0;0;0;0;0;0;0
+"GE";"UW";"Unterweisung";null;null;null;0;0;0;0;0;0;0
+"GE";"VF";"Fächer im genehmigten Schulversuch und sonstige Fächer";null;null;null;0;0;0;0;0;0;0
+"GE";"VH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Bulgarisch";null;null;null;0;0;0;0;0;0;0
+"GE";"VM";"Unterricht in der Herkunftssprache - Bulgarisch";null;null;null;0;0;0;0;0;0;0
+"GE";"VO";"vokalpraktischer Grundkurs";null;null;null;0;0;0;0;0;0;0
+"GE";"VX";"Vertiefungsfach (Pseudofach: nicht für ASD)";null;null;null;0;0;0;0;0;0;0
+"GE";"WP";"Wirtschaft-Politik (nur SI)";null;null;null;0;0;0;0;0;0;0
+"GE";"WW";"Wirtschaftslehre (nur SI)";null;null;null;0;0;0;0;0;0;0
+"GE";"XH";"Herkunftssprache anstelle einer Pflichtfremdsprache - sonstige Sprache";null;null;null;0;0;0;0;0;0;0
+"GE";"XM";"Unterricht in der Herkunftssprache - sonstige Sprache";null;null;null;0;0;0;0;0;0;0
+"GE";"YH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Koreanisch";null;null;null;0;0;0;0;0;0;0
+"GE";"YM";"Unterricht in der Herkunftssprache - Koreanisch";null;null;null;0;0;0;0;0;0;0
+"GE";"YR";"orthodoxe Religionslehre (Syrisch)";null;null;null;0;0;0;0;0;0;0
+"GE";"Z0";"Neugriechisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"GE";"Z5";"Neugriechisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"GE";"Z6";"Neugriechisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"GE";"Z7";"Neugriechisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"GE";"Z8";"Neugriechisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"GE";"ZH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Kurdische Sprachen";null;null;null;0;0;0;0;0;0;0
+"GE";"ZM";"Unterricht in der Herkunftssprache - Kurdische Sprachen (Sorani, Komanci, Zaza)";null;null;null;0;0;0;0;0;0;0
+"GE";"ZQ";"Neugriechisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"GM";"AH";"Arbeitslehre - Schwerpunkt Hauswirtschaft (nur Regelunterricht)";null;null;null;0;0;0;0;0;0;0
+"GM";"AL";"Arbeitslehre - Integration Hauswirtschaft, Technik, Wirtschaftslehre";null;null;null;0;0;0;0;0;0;0
+"GM";"AM";"Unterricht in der Herkunftssprache - Arabisch";null;null;null;0;0;0;0;0;0;0
+"GM";"AR";"Alevitische Religionslehre nach den Grundsätzen des AABF";null;null;null;0;0;0;0;0;0;0
+"GM";"AT";"Arbeitslehre - Schwerpunkt Technik (nur Regelunterricht)";null;null;null;0;0;0;0;0;0;0
+"GM";"AW";"Arbeitslehre - Schwerpunkt Wirtschaft (nur Regelunterricht)";null;null;null;0;0;0;0;0;0;0
+"GM";"AX";"Arbeitslehre - Technik/Wirtschaft (nur Wahlpflichtunterricht)";null;null;null;0;0;0;0;0;0;0
+"GM";"AY";"Arbeitslehre - Hauswirtschaft/Wirtschaft (nur Wahlpflichtunterricht)";null;null;null;0;0;0;0;0;0;0
+"GM";"BH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Bosnisch";null;null;null;0;0;0;0;0;0;0
+"GM";"BI";"Biologie";null;null;null;0;0;0;0;0;0;0
+"GM";"BM";"Unterricht in der Herkunftssprache - Bosnisch";null;null;null;0;0;0;0;0;0;0
+"GM";"C0";"Chinesisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"GM";"C5";"Chinesisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"GM";"C6";"Chinesisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"GM";"C7";"Chinesisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"GM";"C8";"Chinesisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"GM";"CH";"Chemie";null;null;null;0;0;0;0;0;0;0
+"GM";"CM";"Unterricht in der Herkunftssprache - Kroatisch";null;null;null;0;0;0;0;0;0;0
+"GM";"CQ";"Chinesisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"GM";"D";"Deutsch";null;null;null;0;0;0;0;0;0;0
+"GM";"DH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Rumänisch";null;null;null;0;0;0;0;0;0;0
+"GM";"DS";"Darstellen und Gestalten";null;null;null;0;0;0;0;0;0;0
+"GM";"E";"Englisch";null;null;null;0;0;0;0;0;0;0
+"GM";"EH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Serbisch";null;null;null;0;0;0;0;0;0;0
+"GM";"EK";"Erdkunde/Geographie";null;null;null;0;0;0;0;0;0;0
+"GM";"EL";"Ernährungslehre (nur Bildungsgang Gymnasium)";null;null;null;0;0;0;0;0;0;0
+"GM";"EM";"Unterricht in der Herkunftssprache - Serbisch";null;null;null;0;0;0;0;0;0;0
+"GM";"EN";"Evangelische Religionslehre (konfessionell kooperativ)";null;null;null;0;0;0;0;0;0;0
+"GM";"ER";"Evangelische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"GM";"F0";"Französisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"GM";"F5";"Französisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"GM";"F6";"Französisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"GM";"F7";"Französisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"GM";"F8";"Französisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"GM";"FQ";"Französisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"GM";"G0";"Altgriechisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"GM";"G5";"Altgriechisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"GM";"G6";"Altgriechisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"GM";"G7";"Altgriechisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"GM";"G8";"Altgriechisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"GM";"GE";"Geschichte";null;null;null;0;0;0;0;0;0;0
+"GM";"GH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Neugriechisch";null;null;null;0;0;0;0;0;0;0
+"GM";"GL";"Gesellschaftslehre (Integration: Erdkunde, Geschichte, Politik bzw. W-P)";null;null;null;0;0;0;0;0;0;0
+"GM";"GM";"Unterricht in der Herkunftssprache - Neugriechisch";null;null;null;0;0;0;0;0;0;0
+"GM";"GQ";"Altgriechisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"GM";"H0";"Hebräisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"GM";"H5";"Hebräisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"GM";"H6";"Hebräisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"GM";"H7";"Hebräisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"GM";"H8";"Hebräisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"GM";"HH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Kroatisch";null;null;null;0;0;0;0;0;0;0
+"GM";"HQ";"Hebräisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"GM";"HR";"Jüdische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"GM";"HU";"Hausunterricht";null;null;null;0;0;0;0;0;0;0
+"GM";"HW";"Hauswirtschaft (einschl. Ernährungslehre)";null;null;null;0;0;0;0;0;0;0
+"GM";"I0";"Italienisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"GM";"I5";"Italienisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"GM";"I6";"Italienisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"GM";"I7";"Italienisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"GM";"I8";"Italienisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"GM";"IE";"Individuelles Lernen (Ergänzungsstunden, Ganztag- und Betreuungsangebote)";null;null;null;0;0;0;0;0;0;0
+"GM";"IF";"Informatik";null;null;null;0;0;0;0;0;0;0
+"GM";"IH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Italienisch";null;null;null;0;0;0;0;0;0;0
+"GM";"IK";"Individuelles Lernen (dem Kernstundenkontingent entnommen)";null;null;null;0;0;0;0;0;0;0
+"GM";"IL";"Islamische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"GM";"IM";"Unterricht in der Herkunftssprache - Italienisch";null;null;null;0;0;0;0;0;0;0
+"GM";"IN";"Instrumentalpraktischer Grundkurs";null;null;null;0;0;0;0;0;0;0
+"GM";"IQ";"Italienisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"GM";"JH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Niederländisch";null;null;null;0;0;0;0;0;0;0
+"GM";"K0";"Japanisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"GM";"K5";"Japanisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"GM";"K6";"Japanisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"GM";"K7";"Japanisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"GM";"K8";"Japanisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"GM";"KN";"Katholische Religionslehre (konfessionell kooperativ)";null;null;null;0;0;0;0;0;0;0
+"GM";"KQ";"Japanisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"GM";"KR";"Katholische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"GM";"KU";"Kunst";null;null;null;0;0;0;0;0;0;0
+"GM";"L0";"Lateinisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"GM";"L5";"Lateinisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"GM";"L6";"Lateinisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"GM";"L7";"Lateinisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"GM";"L8";"Lateinisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"GM";"LH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Albanisch";null;null;null;0;0;0;0;0;0;0
+"GM";"LI";"Grundkurs in Literatur";null;null;null;0;0;0;0;0;0;0
+"GM";"LM";"Unterricht in der Herkunftssprache - Albanisch";null;null;null;0;0;0;0;0;0;0
+"GM";"LQ";"Lateinisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"GM";"M";"Mathematik";null;null;null;0;0;0;0;0;0;0
+"GM";"MH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Mazedonisch";null;null;null;0;0;0;0;0;0;0
+"GM";"MM";"Unterricht in der Herkunftssprache - Mazedonisch";null;null;null;0;0;0;0;0;0;0
+"GM";"MU";"Musik";null;null;null;0;0;0;0;0;0;0
+"GM";"N0";"Niederländisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"GM";"N5";"Niederländisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"GM";"N6";"Niederländisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"GM";"N7";"Niederländisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"GM";"N8";"Niederländisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"GM";"NH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Polnisch";null;null;null;0;0;0;0;0;0;0
+"GM";"NM";"Unterricht in der Herkunftssprache - Niederländisch";null;null;null;0;0;0;0;0;0;0
+"GM";"NQ";"Niederländisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"GM";"NW";"Naturwissenschaften (Integration: Physik, Chemie, Biologie)";null;null;null;0;0;0;0;0;0;0
+"GM";"O0";"Portugiesisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"GM";"O5";"Portugiesisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"GM";"O6";"Portugiesisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"GM";"O7";"Portugiesisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"GM";"O8";"Portugiesisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"GM";"OH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Portugiesisch";null;null;null;0;0;0;0;0;0;0
+"GM";"OM";"Unterricht in der Herkunftssprache - Portugiesisch";null;null;null;0;0;0;0;0;0;0
+"GM";"OQ";"Portugiesisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"GM";"OR";"Orthodoxe Religionslehre";null;null;null;0;0;0;0;0;0;0
+"GM";"PA";"Erziehungswissenschaft/ Pädagogik (nur Bildungsg. Realschule und Gymnaisum)";null;null;null;0;0;0;0;0;0;0
+"GM";"PH";"Physik";null;null;null;0;0;0;0;0;0;0
+"GM";"PK";"Politik";null;null;null;0;0;0;0;0;0;0
+"GM";"PL";"Philosophie (nur SII)";null;null;null;0;0;0;0;0;0;0
+"GM";"PM";"Unterricht in der Herkunftssprache - Polnisch";null;null;null;0;0;0;0;0;0;0
+"GM";"PP";"Praktische Philosophie";null;null;null;0;0;0;0;0;0;0
+"GM";"PS";"Psychologie (nur Bildungsgang Realschule und Gymnasium)";null;null;null;0;0;0;0;0;0;0
+"GM";"PÖ";"Politik/Ökonomische Grundbildung (Realschulbildungsgang)";null;null;null;0;0;0;0;0;0;0
+"GM";"QH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Farsi";null;null;null;0;0;0;0;0;0;0
+"GM";"QM";"Unterricht in der Herkunftssprache - Farsi";null;null;null;0;0;0;0;0;0;0
+"GM";"R0";"Russisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"GM";"R5";"Russisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"GM";"R6";"Russisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"GM";"R7";"Russisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"GM";"R8";"Russisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"GM";"RH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Arabisch";null;null;null;0;0;0;0;0;0;0
+"GM";"RM";"Unterricht in der Herkunftssprache - Russisch";null;null;null;0;0;0;0;0;0;0
+"GM";"RQ";"Russisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"GM";"S0";"Spanisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"GM";"S3";"Sport für Jungen";null;null;null;0;0;0;0;0;0;0
+"GM";"S4";"Sport für Mädchen";null;null;null;0;0;0;0;0;0;0
+"GM";"S5";"Spanisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"GM";"S6";"Spanisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"GM";"S7";"Spanisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"GM";"S8";"Spanisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"GM";"SG";"sonderpädag. Förderung für Schüler/-innen mit sonderpädag. Förderbedarf";null;null;null;0;0;0;0;0;0;0
+"GM";"SH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Spanisch";null;null;null;0;0;0;0;0;0;0
+"GM";"SM";"Unterricht in der Herkunftssprache - Spanisch";null;null;null;0;0;0;0;0;0;0
+"GM";"SP";"Sport";null;null;null;0;0;0;0;0;0;0
+"GM";"SQ";"Spanisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"GM";"SR";"sonstige Sprachen";null;null;null;0;0;0;0;0;0;0
+"GM";"SW";"Sozialwissenschaften (Bildungsg. Realschule und Gymnasium)";null;null;null;0;0;0;0;0;0;0
+"GM";"SZ";"Sozialwissenschaften/Wirtschaft";null;null;null;0;0;0;0;0;0;0
+"GM";"T0";"Türkisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"GM";"T5";"Türkisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"GM";"T6";"Türkisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"GM";"T7";"Türkisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"GM";"T8";"Türkisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"GM";"TC";"Technik (nur Bildungsgang Realschule und Gymnaisum)";null;null;null;0;0;0;0;0;0;0
+"GM";"TH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Türkisch";null;null;null;0;0;0;0;0;0;0
+"GM";"TM";"Unterricht in der Herkunftssprache - Türkisch";null;null;null;0;0;0;0;0;0;0
+"GM";"TQ";"Türkisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"GM";"TX";"Textilgestaltung";null;null;null;0;0;0;0;0;0;0
+"GM";"UH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Russisch";null;null;null;0;0;0;0;0;0;0
+"GM";"UM";"Unterricht in der Herkunftssprache - Rumänisch";null;null;null;0;0;0;0;0;0;0
+"GM";"UW";"Unterweisung";null;null;null;0;0;0;0;0;0;0
+"GM";"VF";"Fächer im genehmigten Schulversuch und sonstige Fächer";null;null;null;0;0;0;0;0;0;0
+"GM";"VH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Bulgarisch";null;null;null;0;0;0;0;0;0;0
+"GM";"VM";"Unterricht in der Herkunftssprache - Bulgarisch";null;null;null;0;0;0;0;0;0;0
+"GM";"VO";"vokalpraktischer Grundkurs";null;null;null;0;0;0;0;0;0;0
+"GM";"WP";"Wirtschaft-Politik";null;null;null;0;0;0;0;0;0;0
+"GM";"WW";"Wirtschaftslehre";null;null;null;0;0;0;0;0;0;0
+"GM";"XH";"Herkunftssprache anstelle einer Pflichtfremdsprache - sonstige Sprache";null;null;null;0;0;0;0;0;0;0
+"GM";"XM";"Unterricht in der Herkunftssprache - sonstige Sprache";null;null;null;0;0;0;0;0;0;0
+"GM";"YH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Koreanisch";null;null;null;0;0;0;0;0;0;0
+"GM";"YM";"Unterricht in der Herkunftssprache - Koreanisch";null;null;null;0;0;0;0;0;0;0
+"GM";"YR";"orthodoxe Religionslehre (Syrisch)";null;null;null;0;0;0;0;0;0;0
+"GM";"Z0";"Neugriechisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"GM";"Z5";"Neugriechisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"GM";"Z6";"Neugriechisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"GM";"Z7";"Neugriechisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"GM";"Z8";"Neugriechisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"GM";"ZH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Kurdische Sprachen";null;null;null;0;0;0;0;0;0;0
+"GM";"ZM";"Unterricht in der Herkunftssprache - Kurdische Sprachen (Sorani, Komanci, Zaza)";null;null;null;0;0;0;0;0;0;0
+"GM";"ZQ";"Neugriechisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"GY";"A";"Arabisch";null;null;null;0;0;0;0;0;0;0
+"GY";"AM";"Unterricht in der Herkunftssprache - Arabisch";null;null;null;0;0;0;0;0;0;0
+"GY";"AR";"Alevitische Religionslehre nach den Grundsätzen des AABF";null;null;null;0;0;0;0;0;0;0
+"GY";"BH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Bosnisch";null;null;null;0;0;0;0;0;0;0
+"GY";"BI";"Biologie";null;null;null;0;0;0;0;0;0;0
+"GY";"BM";"Unterricht in der Herkunftssprache - Bosnisch";null;null;null;0;0;0;0;0;0;0
+"GY";"C0";"Chinesisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"GY";"C5";"Chinesisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"GY";"C6";"Chinesisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"GY";"C7";"Chinesisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"GY";"C8";"Chinesisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"GY";"CH";"Chemie";null;null;null;0;0;0;0;0;0;0
+"GY";"CM";"Unterricht in der Herkunftssprache - Kroatisch";null;null;null;0;0;0;0;0;0;0
+"GY";"CQ";"Chinesisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"GY";"D";"Deutsch";null;null;null;0;0;0;0;0;0;0
+"GY";"DH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Rumänisch";null;null;null;0;0;0;0;0;0;0
+"GY";"DS";"Darstellen und Gestalten";null;null;null;0;0;0;0;0;0;0
+"GY";"E";"Englisch";null;null;null;0;0;0;0;0;0;0
+"GY";"EH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Serbisch";null;null;null;0;0;0;0;0;0;0
+"GY";"EK";"Erdkunde/Geographie";null;null;null;0;0;0;0;0;0;0
+"GY";"EL";"Ernährungslehre";null;null;null;0;0;0;0;0;0;0
+"GY";"EM";"Unterricht in der Herkunftssprache - Serbisch";null;null;null;0;0;0;0;0;0;0
+"GY";"EN";"Evangelische Religionslehre (konfessionell kooperativ)";null;null;null;0;0;0;0;0;0;0
+"GY";"ER";"Evangelische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"GY";"F0";"Französisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"GY";"F5";"Französisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"GY";"F6";"Französisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"GY";"F7";"Französisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"GY";"F8";"Französisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"GY";"FQ";"Französisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"GY";"G0";"Altgriechisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"GY";"G5";"Altgriechisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"GY";"G6";"Altgriechisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"GY";"G7";"Altgriechisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"GY";"G8";"Altgriechisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"GY";"GE";"Geschichte";null;null;null;0;0;0;0;0;0;0
+"GY";"GH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Neugriechisch";null;null;null;0;0;0;0;0;0;0
+"GY";"GM";"Unterricht in der Herkunftssprache - Neugriechisch";null;null;null;0;0;0;0;0;0;0
+"GY";"GQ";"Altgriechisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"GY";"H0";"Hebräisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"GY";"H5";"Hebräisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"GY";"H6";"Hebräisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"GY";"H7";"Hebräisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"GY";"H8";"Hebräisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"GY";"HH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Kroatisch";null;null;null;0;0;0;0;0;0;0
+"GY";"HQ";"Hebräisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"GY";"HR";"Jüdische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"GY";"HU";"Hausunterricht";null;null;null;0;0;0;0;0;0;0
+"GY";"I0";"Italienisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"GY";"I5";"Italienisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"GY";"I6";"Italienisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"GY";"I7";"Italienisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"GY";"I8";"Italienisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"GY";"IE";"Individuelles Lernen (Ergänzungsstunden, Ganztag- und Betreuungsangebote)";null;null;null;0;0;0;0;0;0;0
+"GY";"IF";"Informatik";null;null;null;0;0;0;0;0;0;0
+"GY";"IH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Italienisch";null;null;null;0;0;0;0;0;0;0
+"GY";"IK";"Individuelles Lernen (dem Kernstundenkontingent entnommen)";null;null;null;0;0;0;0;0;0;0
+"GY";"IL";"Islamische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"GY";"IM";"Unterricht in der Herkunftssprache - Italienisch";null;null;null;0;0;0;0;0;0;0
+"GY";"IN";"Instrumentalpraktischer Grundkurs";null;null;null;0;0;0;0;0;0;0
+"GY";"IQ";"Italienisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"GY";"JH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Niederländisch";null;null;null;0;0;0;0;0;0;0
+"GY";"K0";"Japanisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"GY";"K5";"Japanisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"GY";"K6";"Japanisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"GY";"K7";"Japanisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"GY";"K8";"Japanisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"GY";"KN";"Katholische Religionslehre (konfessionell kooperativ)";null;null;null;0;0;0;0;0;0;0
+"GY";"KQ";"Japanisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"GY";"KR";"Katholische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"GY";"KU";"Kunst";null;null;null;0;0;0;0;0;0;0
+"GY";"L0";"Lateinisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"GY";"L5";"Lateinisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"GY";"L6";"Lateinisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"GY";"L7";"Lateinisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"GY";"L8";"Lateinisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"GY";"LH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Albanisch";null;null;null;0;0;0;0;0;0;0
+"GY";"LI";"Grundkurs in Literatur";null;null;null;0;0;0;0;0;0;0
+"GY";"LM";"Unterricht in der Herkunftssprache - Albanisch";null;null;null;0;0;0;0;0;0;0
+"GY";"LQ";"Lateinisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"GY";"M";"Mathematik";null;null;null;0;0;0;0;0;0;0
+"GY";"MH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Mazedonisch";null;null;null;0;0;0;0;0;0;0
+"GY";"MM";"Unterricht in der Herkunftssprache - Mazedonisch";null;null;null;0;0;0;0;0;0;0
+"GY";"MU";"Musik";null;null;null;0;0;0;0;0;0;0
+"GY";"N0";"Niederländisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"GY";"N5";"Niederländisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"GY";"N6";"Niederländisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"GY";"N7";"Niederländisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"GY";"N8";"Niederländisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"GY";"NH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Polnisch";null;null;null;0;0;0;0;0;0;0
+"GY";"NM";"Unterricht in der Herkunftssprache - Niederländisch";null;null;null;0;0;0;0;0;0;0
+"GY";"NQ";"Niederländisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"GY";"O0";"Portugiesisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"GY";"O5";"Portugiesisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"GY";"O6";"Portugiesisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"GY";"O7";"Portugiesisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"GY";"O8";"Portugiesisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"GY";"OH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Portugiesisch";null;null;null;0;0;0;0;0;0;0
+"GY";"OM";"Unterricht in der Herkunftssprache - Portugiesisch";null;null;null;0;0;0;0;0;0;0
+"GY";"OQ";"Portugiesisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"GY";"OR";"Orthodoxe Religionslehre";null;null;null;0;0;0;0;0;0;0
+"GY";"PA";"Erziehungswissenschaft (nur SII)";null;null;null;0;0;0;0;0;0;0
+"GY";"PH";"Physik";null;null;null;0;0;0;0;0;0;0
+"GY";"PK";"Politik (nur SI)";null;null;null;0;0;0;0;0;0;0
+"GY";"PL";"Philosophie (nur SII)";null;null;null;0;0;0;0;0;0;0
+"GY";"PM";"Unterricht in der Herkunftssprache - Polnisch";null;null;null;0;0;0;0;0;0;0
+"GY";"PP";"Praktische Philosophie";null;null;null;0;0;0;0;0;0;0
+"GY";"PS";"Psychologie (nur SII)";null;null;null;0;0;0;0;0;0;0
+"GY";"PX";"Projektkurs (Pseudofach: nicht für ASD)";null;null;null;0;0;0;0;0;0;0
+"GY";"QH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Farsi";null;null;null;0;0;0;0;0;0;0
+"GY";"QM";"Unterricht in der Herkunftssprache - Farsi";null;null;null;0;0;0;0;0;0;0
+"GY";"R0";"Russisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"GY";"R5";"Russisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"GY";"R6";"Russisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"GY";"R7";"Russisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"GY";"R8";"Russisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"GY";"RH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Arabisch";null;null;null;0;0;0;0;0;0;0
+"GY";"RK";"Recht (nur SII)";null;null;null;0;0;0;0;0;0;0
+"GY";"RM";"Unterricht in der Herkunftssprache - Russisch";null;null;null;0;0;0;0;0;0;0
+"GY";"RQ";"Russisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"GY";"S0";"Spanisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"GY";"S3";"Sport für Jungen";null;null;null;0;0;0;0;0;0;0
+"GY";"S4";"Sport für Mädchen";null;null;null;0;0;0;0;0;0;0
+"GY";"S5";"Spanisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"GY";"S6";"Spanisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"GY";"S7";"Spanisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"GY";"S8";"Spanisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"GY";"SG";"sonderpädag. Förderung für Schüler/-innen mit sonderpädag. Förderbedarf";null;null;null;0;0;0;0;0;0;0
+"GY";"SH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Spanisch";null;null;null;0;0;0;0;0;0;0
+"GY";"SM";"Unterricht in der Herkunftssprache - Spanisch";null;null;null;0;0;0;0;0;0;0
+"GY";"SP";"Sport";null;null;null;0;0;0;0;0;0;0
+"GY";"SQ";"Spanisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"GY";"SR";"sonstige Sprachen";null;null;null;0;0;0;0;0;0;0
+"GY";"SW";"Sozialwissenschaften (nur SII)";null;null;null;0;0;0;0;0;0;0
+"GY";"SZ";"Sozialwissenschaften/Wirtschaft (nur SII)";null;null;null;0;0;0;0;0;0;0
+"GY";"T0";"Türkisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"GY";"T5";"Türkisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"GY";"T6";"Türkisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"GY";"T7";"Türkisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"GY";"T8";"Türkisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"GY";"TC";"Technik";null;null;null;0;0;0;0;0;0;0
+"GY";"TH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Türkisch";null;null;null;0;0;0;0;0;0;0
+"GY";"TM";"Unterricht in der Herkunftssprache - Türkisch";null;null;null;0;0;0;0;0;0;0
+"GY";"TQ";"Türkisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"GY";"TX";"Textilgestaltung";null;null;null;0;0;0;0;0;0;0
+"GY";"UH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Russisch";null;null;null;0;0;0;0;0;0;0
+"GY";"UM";"Unterricht in der Herkunftssprache - Rumänisch";null;null;null;0;0;0;0;0;0;0
+"GY";"VF";"Fächer im genehmigten Schulversuch und sonstige Fächer";null;null;null;0;0;0;0;0;0;0
+"GY";"VH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Bulgarisch";null;null;null;0;0;0;0;0;0;0
+"GY";"VM";"Unterricht in der Herkunftssprache - Bulgarisch";null;null;null;0;0;0;0;0;0;0
+"GY";"VO";"vokalpraktischer Grundkurs";null;null;null;0;0;0;0;0;0;0
+"GY";"VX";"Vertiefungsfach (Pseudofach: nicht für ASD)";null;null;null;0;0;0;0;0;0;0
+"GY";"WP";"Wirtschaft-Politik (nur SI)";null;null;null;0;0;0;0;0;0;0
+"GY";"WW";"Wirtschaft (nur SI)";null;null;null;0;0;0;0;0;0;0
+"GY";"XH";"Herkunftssprache anstelle einer Pflichtfremdsprache - sonstige Sprache";null;null;null;0;0;0;0;0;0;0
+"GY";"XM";"Unterricht in der Herkunftssprache - sonstige Sprache";null;null;null;0;0;0;0;0;0;0
+"GY";"YH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Koreanisch";null;null;null;0;0;0;0;0;0;0
+"GY";"YM";"Unterricht in der Herkunftssprache - Koreanisch";null;null;null;0;0;0;0;0;0;0
+"GY";"YR";"orthodoxe Religionslehre (Syrisch)";null;null;null;0;0;0;0;0;0;0
+"GY";"Z0";"Neugriechisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"GY";"Z5";"Neugriechisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"GY";"Z6";"Neugriechisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"GY";"Z7";"Neugriechisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"GY";"Z8";"Neugriechisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"GY";"ZH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Kurdische Sprachen";null;null;null;0;0;0;0;0;0;0
+"GY";"ZM";"Unterricht in der Herkunftssprache - Kurdische Sprachen (Sorani, Komanci, Zaza)";null;null;null;0;0;0;0;0;0;0
+"GY";"ZQ";"Neugriechisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"H";"AH";"Arbeitslehre - Schwerpunkt Hauswirtschaft";null;null;null;0;0;0;0;0;0;0
+"H";"AM";"Unterricht in der Herkunftssprache - Arabisch";null;null;null;0;0;0;0;0;0;0
+"H";"AR";"Alevitische Religionslehre nach den Grundsätzen des AABF";null;null;null;0;0;0;0;0;0;0
+"H";"AT";"Arbeitslehre - Schwerpunkt Technik";null;null;null;0;0;0;0;0;0;0
+"H";"AW";"Arbeitslehre - Schwerpunkt Wirtschaft";null;null;null;0;0;0;0;0;0;0
+"H";"BH";"Herkunftssprache anstelle einer Pflichtfremdspr. - Bosnisch (nur BG Realschule)";null;null;null;0;0;0;0;0;0;0
+"H";"BI";"Biologie";null;null;null;0;0;0;0;0;0;0
+"H";"BM";"Unterricht in der Herkunftssprache - Bosnisch";null;null;null;0;0;0;0;0;0;0
+"H";"CH";"Chemie";null;null;null;0;0;0;0;0;0;0
+"H";"CM";"Unterricht in der Herkunftssprache - Kroatisch";null;null;null;0;0;0;0;0;0;0
+"H";"D";"Deutsch";null;null;null;0;0;0;0;0;0;0
+"H";"DH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Rumänisch";null;null;null;0;0;0;0;0;0;0
+"H";"E";"Englisch";null;null;null;0;0;0;0;0;0;0
+"H";"EB";"Erweitertes Bildungsangebot";null;null;null;0;0;0;0;0;0;0
+"H";"EH";"Herkunftssprache anstelle einer Pflichtfremdspr. - Serbisch (nur BG Realschule)";null;null;null;0;0;0;0;0;0;0
+"H";"EK";"Erdkunde";null;null;null;0;0;0;0;0;0;0
+"H";"EM";"Unterricht in der Herkunftssprache - Serbisch";null;null;null;0;0;0;0;0;0;0
+"H";"EN";"Evangelische Religionslehre (konfessionell kooperativ)";null;null;null;0;0;0;0;0;0;0
+"H";"ER";"Evangelische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"H";"F";"Französisch";null;null;null;0;0;0;0;0;0;0
+"H";"GE";"Geschichte";null;null;null;0;0;0;0;0;0;0
+"H";"GH";"Herkunftssprache anst. einer Pflichtfremdspr. - Neugriechisch (nur Realschul.BG)";null;null;null;0;0;0;0;0;0;0
+"H";"GM";"Unterricht in der Herkunftssprache - Neugriechisch";null;null;null;0;0;0;0;0;0;0
+"H";"HH";"Herkunftssprache anst. einer Pflichtfremdsprache - Kroatisch (nur BG Realschule)";null;null;null;0;0;0;0;0;0;0
+"H";"HR";"Jüdische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"H";"HU";"Hausunterricht";null;null;null;0;0;0;0;0;0;0
+"H";"HW";"Hauswirtschaft (einschl. Ernährungslehre)";null;null;null;0;0;0;0;0;0;0
+"H";"I";"Italienisch (nur Bildungsgang Realschule)";null;null;null;0;0;0;0;0;0;0
+"H";"IE";"Individuelles Lernen (Ergänzungsstunden, Ganztag- und Betreuungsangebote)";null;null;null;0;0;0;0;0;0;0
+"H";"IF";"Informatik";null;null;null;0;0;0;0;0;0;0
+"H";"IH";"Herkunftssprache anst. einer Pflichtfremdspr. - Italienisch (nur BG Realschule)";null;null;null;0;0;0;0;0;0;0
+"H";"IK";"Individuelles Lernen (dem Kernstundenkontingent entnommen)";null;null;null;0;0;0;0;0;0;0
+"H";"IL";"Islamische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"H";"IM";"Unterricht in der Herkunftssprache - Italienisch";null;null;null;0;0;0;0;0;0;0
+"H";"JH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Niederländisch";null;null;null;0;0;0;0;0;0;0
+"H";"KN";"Katholische Religionslehre (konfessionell kooperativ)";null;null;null;0;0;0;0;0;0;0
+"H";"KR";"Katholische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"H";"KU";"Kunst";null;null;null;0;0;0;0;0;0;0
+"H";"L";"Latein (nur Bildungsgang Realschule)";null;null;null;0;0;0;0;0;0;0
+"H";"LH";"Herkunftssprache anst. einer Pflichtfremdsprache - Albanisch (nur BG Realschule)";null;null;null;0;0;0;0;0;0;0
+"H";"LM";"Unterricht in der Herkunftssprache - Albanisch";null;null;null;0;0;0;0;0;0;0
+"H";"M";"Mathematik";null;null;null;0;0;0;0;0;0;0
+"H";"MH";"Herkunftssprache anst. einer Pflichtfremdspr. - Mazedonisch (nur BG Realschule)";null;null;null;0;0;0;0;0;0;0
+"H";"MM";"Unterricht in der Herkunftssprache - Mazedonisch";null;null;null;0;0;0;0;0;0;0
+"H";"MU";"Musik";null;null;null;0;0;0;0;0;0;0
+"H";"N";"Niederländisch";null;null;null;0;0;0;0;0;0;0
+"H";"NH";"Herkunftssprache anstelle einer Pflichtfremdspr. - Polnisch (nur BG Realschule)";null;null;null;0;0;0;0;0;0;0
+"H";"NM";"Unterricht in der Herkunftssprache - Niederländisch";null;null;null;0;0;0;0;0;0;0
+"H";"O";"Portugiesisch (nur Bildungsgang Realschule)";null;null;null;0;0;0;0;0;0;0
+"H";"OH";"Herkunftssprache anst. einer Pflichtfremdsp. - Portugiesisch (nur BG Realschule)";null;null;null;0;0;0;0;0;0;0
+"H";"OM";"Unterricht in der Herkunftssprache - Portugiesisch";null;null;null;0;0;0;0;0;0;0
+"H";"OR";"Orthodoxe Religionslehre";null;null;null;0;0;0;0;0;0;0
+"H";"PA";"Pädagogik (nur Bildungsgang Realschule)";null;null;null;0;0;0;0;0;0;0
+"H";"PH";"Physik";null;null;null;0;0;0;0;0;0;0
+"H";"PK";"Politik";null;null;null;0;0;0;0;0;0;0
+"H";"PM";"Unterricht in der Herkunftssprache - Polnisch";null;null;null;0;0;0;0;0;0;0
+"H";"PP";"Praktische Philosophie";null;null;null;0;0;0;0;0;0;0
+"H";"PS";"Psychologie (nur Bildungsgang Realschule)";null;null;null;0;0;0;0;0;0;0
+"H";"PÖ";"Politik/Ökonomische Grundbildung (Realschulbildungsgang)";null;null;null;0;0;0;0;0;0;0
+"H";"QH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Farsi";null;null;null;0;0;0;0;0;0;0
+"H";"QM";"Unterricht in der Herkunftssprache - Farsi";null;null;null;0;0;0;0;0;0;0
+"H";"R";"Russisch";null;null;null;0;0;0;0;0;0;0
+"H";"RH";"Herkunftssprache anst. einer Pflichtfremdsprache - Arabisch (nur BG Realschule)";null;null;null;0;0;0;0;0;0;0
+"H";"RM";"Unterricht in der Herkunftssprache - Russisch";null;null;null;0;0;0;0;0;0;0
+"H";"S";"Spanisch (nur Bildungsgang Realschule)";null;null;null;0;0;0;0;0;0;0
+"H";"S3";"Sport für Jungen";null;null;null;0;0;0;0;0;0;0
+"H";"S4";"Sport für Mädchen";null;null;null;0;0;0;0;0;0;0
+"H";"SG";"sonderpädag. Förderung für Schüler/-innen mit sonderpädag. Förderbedarf";null;null;null;0;0;0;0;0;0;0
+"H";"SH";"Herkunftssprache anst. einer Pflichtfremdsprache - Spanisch (nur BG Realschule)";null;null;null;0;0;0;0;0;0;0
+"H";"SM";"Unterricht in der Herkunftssprache - Spanisch";null;null;null;0;0;0;0;0;0;0
+"H";"SP";"Sport";null;null;null;0;0;0;0;0;0;0
+"H";"SR";"sonstige Sprachen (z.B. Arabisch, Chinesisch)";null;null;null;0;0;0;0;0;0;0
+"H";"SW";"Sozialwissenschaften  (nur BG Realschule im Wahlpflichtbereich Jhg.  07 - 10)";null;null;null;0;0;0;0;0;0;0
+"H";"T";"Türkisch";null;null;null;0;0;0;0;0;0;0
+"H";"TC";"Technik (nur Bildungsgang Realschule)";null;null;null;0;0;0;0;0;0;0
+"H";"TH";"Herkunftssprache anst. einer Pflichtfremdsprache - Türkisch (nur BG Realschule)";null;null;null;0;0;0;0;0;0;0
+"H";"TM";"Unterricht in der Herkunftssprache - Türkisch";null;null;null;0;0;0;0;0;0;0
+"H";"TX";"Textilgestaltung";null;null;null;0;0;0;0;0;0;0
+"H";"UH";"Herkunftssprache anst. einer Pflichtfremdsprache - Russisch (nur BG Realschule)";null;null;null;0;0;0;0;0;0;0
+"H";"UM";"Unterricht in der Herkunftssprache - Rumänisch";null;null;null;0;0;0;0;0;0;0
+"H";"VF";"Fächer im genehmigten Schulversuch und sonstige Fächer";null;null;null;0;0;0;0;0;0;0
+"H";"VH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Bulgarisch";null;null;null;0;0;0;0;0;0;0
+"H";"VM";"Unterricht in der Herkunftssprache - Bulgarisch";null;null;null;0;0;0;0;0;0;0
+"H";"WP";"Wirtschaft-Politik (nur Realschulbildungsgang)";null;null;null;0;0;0;0;0;0;0
+"H";"WW";"Wirtschaft (nur Realschulbildungsgang)";null;null;null;0;0;0;0;0;0;0
+"H";"XH";"Herkunftssprache anstelle einer Pflichtfremdsprache - sonstige Sprache";null;null;null;0;0;0;0;0;0;0
+"H";"XM";"Unterricht in der Herkunftssprache - sonstige Sprache";null;null;null;0;0;0;0;0;0;0
+"H";"YH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Koreanisch";null;null;null;0;0;0;0;0;0;0
+"H";"YM";"Unterricht in der Herkunftssprache - Koreanisch";null;null;null;0;0;0;0;0;0;0
+"H";"YR";"orthodoxe Religionslehre (Syrisch)";null;null;null;0;0;0;0;0;0;0
+"H";"Z";"Neugriechisch (nur Bildungsgang Realschule)";null;null;null;0;0;0;0;0;0;0
+"H";"ZH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Kurdische Sprachen";null;null;null;0;0;0;0;0;0;0
+"H";"ZM";"Unterricht in der Herkunftssprache - Kurdische Sprachen (Sorani, Komanci, Zaza)";null;null;null;0;0;0;0;0;0;0
+"PS";"AH";"Arbeitslehre - Schwerpunkt Hauswirtschaft (nur Regelunterricht)";null;null;null;0;0;0;0;0;0;0
+"PS";"AL";"Arbeitslehre - Integration Hauswirtschaft, Technik, Wirtschaftslehre";null;null;null;0;0;0;0;0;0;0
+"PS";"AM";"Unterricht in der Herkunftssprache - Arabisch";null;null;null;0;0;0;0;0;0;0
+"PS";"AR";"Alevitische Religionslehre nach den Grundsätzen des AABF";null;null;null;0;0;0;0;0;0;0
+"PS";"AT";"Arbeitslehre - Schwerpunkt Technik (nur Regelunterricht)";null;null;null;0;0;0;0;0;0;0
+"PS";"AW";"Arbeitslehre - Schwerpunkt Wirtschaft (nur Regelunterricht)";null;null;null;0;0;0;0;0;0;0
+"PS";"AX";"Arbeitslehre - Technik/Wirtschaft (nur Wahlpflichtunterricht)";null;null;null;0;0;0;0;0;0;0
+"PS";"AY";"Arbeitslehre - Hauswirtschaft/Wirtschaft (nur Wahlpflichtunterricht)";null;null;null;0;0;0;0;0;0;0
+"PS";"BH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Bosnisch";null;null;null;0;0;0;0;0;0;0
+"PS";"BI";"Biologie";null;null;null;0;0;0;0;0;0;0
+"PS";"BM";"Unterricht in der Herkunftssprache - Bosnisch";null;null;null;0;0;0;0;0;0;0
+"PS";"BV";"Berufsvorbereitung";null;null;null;0;0;0;0;0;0;0
+"PS";"C0";"Chinesisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"PS";"C5";"Chinesisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"PS";"C6";"Chinesisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"PS";"C8";"Chinesisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"PS";"CH";"Chemie";null;null;null;0;0;0;0;0;0;0
+"PS";"CM";"Unterricht in der Herkunftssprache - Kroatisch";null;null;null;0;0;0;0;0;0;0
+"PS";"CQ";"Chinesisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"PS";"D";"Deutsch";null;null;null;0;0;0;0;0;0;0
+"PS";"DH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Rumänisch";null;null;null;0;0;0;0;0;0;0
+"PS";"DS";"Darstellen und Gestalten";null;null;null;0;0;0;0;0;0;0
+"PS";"E";"Englisch";null;null;null;0;0;0;0;0;0;0
+"PS";"EH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Serbisch";null;null;null;0;0;0;0;0;0;0
+"PS";"EK";"Erdkunde/Geographie";null;null;null;0;0;0;0;0;0;0
+"PS";"EL";"Ernährungslehre";null;null;null;0;0;0;0;0;0;0
+"PS";"EM";"Unterricht in der Herkunftssprache - Serbisch";null;null;null;0;0;0;0;0;0;0
+"PS";"EN";"Evangelische Religionslehre (konfessionell kooperativ)";null;null;null;0;0;0;0;0;0;0
+"PS";"ER";"Evangelische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"PS";"F0";"Französisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"PS";"F5";"Französisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"PS";"F6";"Französisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"PS";"F8";"Französisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"PS";"FQ";"Französisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"PS";"FU";"Förderunterricht";null;null;null;0;0;0;0;0;0;0
+"PS";"G0";"Altgriechisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"PS";"G5";"Altgriechisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"PS";"G6";"Altgriechisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"PS";"G8";"Altgriechisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"PS";"GE";"Geschichte";null;null;null;0;0;0;0;0;0;0
+"PS";"GH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Neugriechisch";null;null;null;0;0;0;0;0;0;0
+"PS";"GL";"Gesellschaftslehre (Integration: Erdkunde, Geschichte, Politik bzw. W-P))";null;null;null;0;0;0;0;0;0;0
+"PS";"GM";"Unterricht in der Herkunftssprache - Neugriechisch";null;null;null;0;0;0;0;0;0;0
+"PS";"GQ";"Altgriechisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"PS";"H0";"Hebräisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"PS";"H5";"Hebräisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"PS";"H6";"Hebräisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"PS";"H8";"Hebräisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"PS";"HH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Kroatisch";null;null;null;0;0;0;0;0;0;0
+"PS";"HQ";"Hebräisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"PS";"HR";"Jüdische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"PS";"HU";"Hausunterricht";null;null;null;0;0;0;0;0;0;0
+"PS";"HW";"Hauswirtschaft (nur SI)";null;null;null;0;0;0;0;0;0;0
+"PS";"I0";"Italienisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"PS";"I5";"Italienisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"PS";"I6";"Italienisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"PS";"I8";"Italienisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"PS";"IE";"Individuelles Lernen (Ergänzungsstunden, Ganztag- und Betreuungsangebote)";null;null;null;0;0;0;0;0;0;0
+"PS";"IF";"Informatik";null;null;null;0;0;0;0;0;0;0
+"PS";"IH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Italienisch";null;null;null;0;0;0;0;0;0;0
+"PS";"IK";"Individuelles Lernen (dem Kernstundenkontingent entnommen)";null;null;null;0;0;0;0;0;0;0
+"PS";"IL";"Islamische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"PS";"IM";"Unterricht in der Herkunftssprache - Italienisch";null;null;null;0;0;0;0;0;0;0
+"PS";"IN";"Instrumentalpraktischer Grundkurs";null;null;null;0;0;0;0;0;0;0
+"PS";"IQ";"Italienisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"PS";"JH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Niederländisch";null;null;null;0;0;0;0;0;0;0
+"PS";"K0";"Japanisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"PS";"K5";"Japanisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"PS";"K6";"Japanisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"PS";"K8";"Japanisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"PS";"KN";"Katholische Religionslehre (konfessionell kooperativ)";null;null;null;0;0;0;0;0;0;0
+"PS";"KQ";"Japanisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"PS";"KR";"Katholische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"PS";"KU";"Kunst";null;null;null;0;0;0;0;0;0;0
+"PS";"L0";"Lateinisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"PS";"L5";"Lateinisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"PS";"L6";"Lateinisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"PS";"L8";"Lateinisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"PS";"LH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Albanisch";null;null;null;0;0;0;0;0;0;0
+"PS";"LI";"Grundkurs in Literatur";null;null;null;0;0;0;0;0;0;0
+"PS";"LM";"Unterricht in der Herkunftssprache - Albanisch";null;null;null;0;0;0;0;0;0;0
+"PS";"LQ";"Lateinisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"PS";"M";"Mathematik";null;null;null;0;0;0;0;0;0;0
+"PS";"MH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Mazedonisch";null;null;null;0;0;0;0;0;0;0
+"PS";"MM";"Unterricht in der Herkunftssprache - Mazedonisch";null;null;null;0;0;0;0;0;0;0
+"PS";"MU";"Musik";null;null;null;0;0;0;0;0;0;0
+"PS";"N0";"Niederländisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"PS";"N5";"Niederländisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"PS";"N6";"Niederländisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"PS";"N8";"Niederländisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"PS";"NH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Polnisch";null;null;null;0;0;0;0;0;0;0
+"PS";"NM";"Unterricht in der Herkunftssprache - Niederländisch";null;null;null;0;0;0;0;0;0;0
+"PS";"NQ";"Niederländisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"PS";"NW";"Naturwissenschaften (Integration: Physik, Chemie, Biologie)";null;null;null;0;0;0;0;0;0;0
+"PS";"O0";"Portugiesisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"PS";"O5";"Portugiesisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"PS";"O6";"Portugiesisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"PS";"O8";"Portugiesisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"PS";"OH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Portugiesisch";null;null;null;0;0;0;0;0;0;0
+"PS";"OM";"Unterricht in der Herkunftssprache - Portugiesisch";null;null;null;0;0;0;0;0;0;0
+"PS";"OQ";"Portugiesisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"PS";"OR";"Orthodoxe Religionslehre";null;null;null;0;0;0;0;0;0;0
+"PS";"PA";"Erziehungswissenschaft (nur SII)";null;null;null;0;0;0;0;0;0;0
+"PS";"PH";"Physik";null;null;null;0;0;0;0;0;0;0
+"PS";"PK";"Politik (nur SI)";null;null;null;0;0;0;0;0;0;0
+"PS";"PL";"Philosophie (nur SII)";null;null;null;0;0;0;0;0;0;0
+"PS";"PM";"Unterricht in der Herkunftssprache - Polnisch";null;null;null;0;0;0;0;0;0;0
+"PS";"PP";"Praktische Philosophie";null;null;null;0;0;0;0;0;0;0
+"PS";"PS";"Psychologie (nur SII)";null;null;null;0;0;0;0;0;0;0
+"PS";"QH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Farsi";null;null;null;0;0;0;0;0;0;0
+"PS";"QM";"Unterricht in der Herkunftssprache - Farsi";null;null;null;0;0;0;0;0;0;0
+"PS";"R0";"Russisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"PS";"R5";"Russisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"PS";"R6";"Russisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"PS";"R8";"Russisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"PS";"RH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Arabisch";null;null;null;0;0;0;0;0;0;0
+"PS";"RM";"Unterricht in der Herkunftssprache - Russisch";null;null;null;0;0;0;0;0;0;0
+"PS";"RQ";"Russisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"PS";"S0";"Spanisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"PS";"S3";"Sport für Jungen";null;null;null;0;0;0;0;0;0;0
+"PS";"S4";"Sport für Mädchen";null;null;null;0;0;0;0;0;0;0
+"PS";"S5";"Spanisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"PS";"S6";"Spanisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"PS";"S8";"Spanisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"PS";"SG";"sonderpädag. Förderung für Schüler/-innen mit sonderpädag. Förderbedarf";null;null;null;0;0;0;0;0;0;0
+"PS";"SH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Spanisch";null;null;null;0;0;0;0;0;0;0
+"PS";"SM";"Unterricht in der Herkunftssprache - Spanisch";null;null;null;0;0;0;0;0;0;0
+"PS";"SP";"Sport";null;null;null;0;0;0;0;0;0;0
+"PS";"SQ";"Spanisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"PS";"SR";"sonstige Sprachen";null;null;null;0;0;0;0;0;0;0
+"PS";"SU";"Sachunterricht (nur Primarstufe)";null;null;null;0;0;0;0;0;0;0
+"PS";"SW";"Sozialwissenschaften (nur SII)";null;null;null;0;0;0;0;0;0;0
+"PS";"SZ";"Sozialwissenschaften/Wirtschaft (nur SII)";null;null;null;0;0;0;0;0;0;0
+"PS";"T0";"Türkisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"PS";"T5";"Türkisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"PS";"T6";"Türkisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"PS";"T8";"Türkisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"PS";"TC";"Technik (nur SII)";null;null;null;0;0;0;0;0;0;0
+"PS";"TH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Türkisch";null;null;null;0;0;0;0;0;0;0
+"PS";"TM";"Unterricht in der Herkunftssprache - Türkisch";null;null;null;0;0;0;0;0;0;0
+"PS";"TQ";"Türkisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"PS";"TX";"Textilgestaltung";null;null;null;0;0;0;0;0;0;0
+"PS";"UH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Russisch";null;null;null;0;0;0;0;0;0;0
+"PS";"UM";"Unterricht in der Herkunftssprache - Rumänisch";null;null;null;0;0;0;0;0;0;0
+"PS";"UU";"fächerübergreifender Unterricht (Sprache/Sachunt./Mathematik/Förderunt.)";null;null;null;0;0;0;0;0;0;0
+"PS";"UW";"Unterweisung";null;null;null;0;0;0;0;0;0;0
+"PS";"VF";"Fächer im genehmigten Schulversuch und sonstige Fächer";null;null;null;0;0;0;0;0;0;0
+"PS";"VH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Bulgarisch";null;null;null;0;0;0;0;0;0;0
+"PS";"VM";"Unterricht in der Herkunftssprache - Bulgarisch";null;null;null;0;0;0;0;0;0;0
+"PS";"VO";"vokalpraktischer Grundkurs";null;null;null;0;0;0;0;0;0;0
+"PS";"WP";"Wirtschaft-Politik (nur SI)";null;null;null;0;0;0;0;0;0;0
+"PS";"WW";"Wirtschaftslehre (nur SI)";null;null;null;0;0;0;0;0;0;0
+"PS";"XH";"Herkunftssprache anstelle einer Pflichtfremdsprache - sonstige Sprache";null;null;null;0;0;0;0;0;0;0
+"PS";"XM";"Unterricht in der Herkunftssprache - sonstige Sprache";null;null;null;0;0;0;0;0;0;0
+"PS";"YH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Koreanisch";null;null;null;0;0;0;0;0;0;0
+"PS";"YM";"Unterricht in der Herkunftssprache - Koreanisch";null;null;null;0;0;0;0;0;0;0
+"PS";"YR";"orthodoxe Religionslehre (Syrisch)";null;null;null;0;0;0;0;0;0;0
+"PS";"Z0";"Neugriechisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"PS";"Z5";"Neugriechisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"PS";"Z6";"Neugriechisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"PS";"Z8";"Neugriechisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"PS";"ZF";"Zusätzliche Förderung";null;null;null;0;0;0;0;0;0;0
+"PS";"ZH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Kurdische Sprachen";null;null;null;0;0;0;0;0;0;0
+"PS";"ZM";"Unterricht in der Herkunftssprache - Kurdische Sprachen (Sorani, Komanci, Zaza)";null;null;null;0;0;0;0;0;0;0
+"PS";"ZQ";"Neugriechisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"R";"AH";"Arbeitslehre - Schwerpunkt Hauswirtschaft (nur Bildungsgang Hauptschule)";null;null;null;0;0;0;0;0;0;0
+"R";"AM";"Unterricht in der Herkunftssprache - Arabisch";null;null;null;0;0;0;0;0;0;0
+"R";"AR";"Alevitische Religionslehre nach den Grundsätzen des AABF";null;null;null;0;0;0;0;0;0;0
+"R";"AT";"Arbeitslehre - Schwerpunkt Technik (nur Bildungsgang Hauptschule)";null;null;null;0;0;0;0;0;0;0
+"R";"AW";"Arbeitslehre - Schwerpunkt Wirtschaft (nur Bildungsgang Hauptschule)";null;null;null;0;0;0;0;0;0;0
+"R";"BH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Bosnisch";null;null;null;0;0;0;0;0;0;0
+"R";"BI";"Biologie";null;null;null;0;0;0;0;0;0;0
+"R";"BM";"Unterricht in der Herkunftssprache - Bosnisch";null;null;null;0;0;0;0;0;0;0
+"R";"CH";"Chemie";null;null;null;0;0;0;0;0;0;0
+"R";"CM";"Unterricht in der Herkunftssprache - Kroatisch";null;null;null;0;0;0;0;0;0;0
+"R";"D";"Deutsch";null;null;null;0;0;0;0;0;0;0
+"R";"DH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Rumänisch";null;null;null;0;0;0;0;0;0;0
+"R";"E";"Englisch";null;null;null;0;0;0;0;0;0;0
+"R";"EB";"Erweitertes Bildungsangebot (nur Bildungsgang Hauptschule)";null;null;null;0;0;0;0;0;0;0
+"R";"EH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Serbisch";null;null;null;0;0;0;0;0;0;0
+"R";"EK";"Erdkunde";null;null;null;0;0;0;0;0;0;0
+"R";"EM";"Unterricht in der Herkunftssprache - Serbisch";null;null;null;0;0;0;0;0;0;0
+"R";"EN";"Evangelische Religionslehre (konfessionell kooperativ)";null;null;null;0;0;0;0;0;0;0
+"R";"ER";"Evangelische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"R";"F5";"Französisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"R";"F6";"Französisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"R";"F7";"Französisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"R";"F8";"Französisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"R";"FQ";"Französisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"R";"GE";"Geschichte";null;null;null;0;0;0;0;0;0;0
+"R";"GH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Neugriechisch";null;null;null;0;0;0;0;0;0;0
+"R";"GM";"Unterricht in der Herkunftssprache - Neugriechisch";null;null;null;0;0;0;0;0;0;0
+"R";"HH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Kroatisch";null;null;null;0;0;0;0;0;0;0
+"R";"HR";"Jüdische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"R";"HU";"Hausunterricht";null;null;null;0;0;0;0;0;0;0
+"R";"HW";"Hauswirtschaft (einschl. Ernährungslehre)";null;null;null;0;0;0;0;0;0;0
+"R";"I5";"Italienisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"R";"I6";"Italienisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"R";"I7";"Italienisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"R";"I8";"Italienisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"R";"IE";"Individuelles Lernen (Ergänzungsstunden, Ganztag- und Betreuungsangebote)";null;null;null;0;0;0;0;0;0;0
+"R";"IF";"Informatik";null;null;null;0;0;0;0;0;0;0
+"R";"IH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Italienisch";null;null;null;0;0;0;0;0;0;0
+"R";"IK";"Individuelles Lernen (dem Kernstundenkontingent entnommen)";null;null;null;0;0;0;0;0;0;0
+"R";"IL";"Islamische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"R";"IM";"Unterricht in der Herkunftssprache - Italienisch";null;null;null;0;0;0;0;0;0;0
+"R";"IQ";"Italienisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"R";"JH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Niederländisch";null;null;null;0;0;0;0;0;0;0
+"R";"KN";"Katholische Religionslehre (konfessionell kooperativ)";null;null;null;0;0;0;0;0;0;0
+"R";"KR";"Katholische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"R";"KU";"Kunst";null;null;null;0;0;0;0;0;0;0
+"R";"L5";"Latein, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"R";"L6";"Latein, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"R";"L7";"Latein, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"R";"L8";"Latein, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"R";"LH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Albanisch";null;null;null;0;0;0;0;0;0;0
+"R";"LM";"Unterricht in der Herkunftssprache - Albanisch";null;null;null;0;0;0;0;0;0;0
+"R";"LQ";"Latein , außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"R";"M";"Mathematik (auch angewandte Mathematik)";null;null;null;0;0;0;0;0;0;0
+"R";"MH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Mazedonisch";null;null;null;0;0;0;0;0;0;0
+"R";"MM";"Unterricht in der Herkunftssprache - Mazedonisch";null;null;null;0;0;0;0;0;0;0
+"R";"MU";"Musik";null;null;null;0;0;0;0;0;0;0
+"R";"N5";"Niederländisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"R";"N6";"Niederländisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"R";"N7";"Niederländisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"R";"N8";"Niederländisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"R";"NH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Polnisch";null;null;null;0;0;0;0;0;0;0
+"R";"NM";"Unterricht in der Herkunftssprache - Niederländisch";null;null;null;0;0;0;0;0;0;0
+"R";"NQ";"Niederländisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"R";"O5";"Portugiesisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"R";"O6";"Portugiesisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"R";"O7";"Portugiesisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"R";"O8";"Portugiesisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"R";"OH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Portugiesisch";null;null;null;0;0;0;0;0;0;0
+"R";"OM";"Unterricht in der Herkunftssprache - Portugiesisch";null;null;null;0;0;0;0;0;0;0
+"R";"OQ";"Portugiesisch , außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"R";"OR";"Orthodoxe Religionslehre";null;null;null;0;0;0;0;0;0;0
+"R";"PA";"Pädagogik (nur für Kursart 90)";null;null;null;0;0;0;0;0;0;0
+"R";"PH";"Physik";null;null;null;0;0;0;0;0;0;0
+"R";"PK";"Politik";null;null;null;0;0;0;0;0;0;0
+"R";"PM";"Unterricht in der Herkunftssprache - Polnisch";null;null;null;0;0;0;0;0;0;0
+"R";"PP";"Praktische Philosophie";null;null;null;0;0;0;0;0;0;0
+"R";"PS";"Psychologie (nur für Kursart 90)";null;null;null;0;0;0;0;0;0;0
+"R";"PÖ";"Politik/Ökonomische Grundbildung";null;null;null;0;0;0;0;0;0;0
+"R";"QH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Farsi";null;null;null;0;0;0;0;0;0;0
+"R";"QM";"Unterricht in der Herkunftssprache - Farsi";null;null;null;0;0;0;0;0;0;0
+"R";"R5";"Russisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"R";"R6";"Russisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"R";"R7";"Russisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"R";"R8";"Russisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"R";"RH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Arabisch";null;null;null;0;0;0;0;0;0;0
+"R";"RM";"Unterricht in der Herkunftssprache - Russisch";null;null;null;0;0;0;0;0;0;0
+"R";"RQ";"Russisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"R";"S3";"Sport für Jungen";null;null;null;0;0;0;0;0;0;0
+"R";"S4";"Sport für Mädchen";null;null;null;0;0;0;0;0;0;0
+"R";"S5";"Spanisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"R";"S6";"Spanisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"R";"S7";"Spanisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"R";"S8";"Spanisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"R";"SG";"sonderpädag. Förderung für Schüler/-innen mit sonderpädag. Förderbedarf";null;null;null;0;0;0;0;0;0;0
+"R";"SH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Spanisch";null;null;null;0;0;0;0;0;0;0
+"R";"SM";"Unterricht in der Herkunftssprache - Spanisch";null;null;null;0;0;0;0;0;0;0
+"R";"SP";"Sport";null;null;null;0;0;0;0;0;0;0
+"R";"SQ";"Spanisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"R";"SR";"sonstige Sprachen (z.B. Arabisch, Chinesisch)";null;null;null;0;0;0;0;0;0;0
+"R";"SW";"Sozialwissenschaften";null;null;null;0;0;0;0;0;0;0
+"R";"T5";"Türkisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"R";"T6";"Türkisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"R";"T7";"Türkisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"R";"T8";"Türkisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"R";"TC";"Technik";null;null;null;0;0;0;0;0;0;0
+"R";"TH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Türkisch";null;null;null;0;0;0;0;0;0;0
+"R";"TM";"Unterricht in der Herkunftssprache - Türkisch";null;null;null;0;0;0;0;0;0;0
+"R";"TQ";"Türkisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"R";"TX";"Textilgestaltung";null;null;null;0;0;0;0;0;0;0
+"R";"UH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Russisch";null;null;null;0;0;0;0;0;0;0
+"R";"UM";"Unterricht in der Herkunftssprache - Rumänisch";null;null;null;0;0;0;0;0;0;0
+"R";"VF";"Fächer im genehmigten Schulversuch und sonstige Fächer";null;null;null;0;0;0;0;0;0;0
+"R";"VH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Bulgarisch";null;null;null;0;0;0;0;0;0;0
+"R";"VM";"Unterricht in der Herkunftssprache - Bulgarisch";null;null;null;0;0;0;0;0;0;0
+"R";"WP";"Wirtschaft-Politik";null;null;null;0;0;0;0;0;0;0
+"R";"WW";"Wirtschaft";null;null;null;0;0;0;0;0;0;0
+"R";"XH";"Herkunftssprache anstelle einer Pflichtfremdsprache - sonstige Sprache";null;null;null;0;0;0;0;0;0;0
+"R";"XM";"Unterricht in der Herkunftssprache - sonstige Sprache";null;null;null;0;0;0;0;0;0;0
+"R";"YH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Koreanisch";null;null;null;0;0;0;0;0;0;0
+"R";"YM";"Unterricht in der Herkunftssprache - Koreanisch";null;null;null;0;0;0;0;0;0;0
+"R";"YR";"orthodoxe Religionslehre (Syrisch)";null;null;null;0;0;0;0;0;0;0
+"R";"Z5";"Neugriechisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"R";"Z6";"Neugriechisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"R";"Z7";"Neugriechisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"R";"Z8";"Neugriechisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"R";"ZH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Kurdische Sprachen";null;null;null;0;0;0;0;0;0;0
+"R";"ZM";"Unterricht in der Herkunftssprache - Kurdische Sprachen (Sorani, Komanci, Zaza)";null;null;null;0;0;0;0;0;0;0
+"R";"ZQ";"Neugriechisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"S";"AL";"Arbeitslehre/ Unterricht in der Werkstufe";null;null;null;0;0;0;0;0;0;0
+"S";"AM";"Unterricht in der Herkunftssprache - Arabisch";null;null;null;0;0;0;0;0;0;0
+"S";"AR";"Alevitische Religionslehre nach den Grundsätzen des AABF";null;null;null;0;0;0;0;0;0;0
+"S";"BH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Bosnisch";null;null;null;0;0;0;0;0;0;0
+"S";"BI";"Biologie";null;null;null;0;0;0;0;0;0;0
+"S";"BM";"Unterricht in der Herkunftssprache - Bosnisch";null;null;null;0;0;0;0;0;0;0
+"S";"BN";"Braille'sche Punktschrift";null;null;null;0;0;0;0;0;0;0
+"S";"CH";"Chemie";null;null;null;0;0;0;0;0;0;0
+"S";"CM";"Unterricht in der Herkunftssprache - Kroatisch";null;null;null;0;0;0;0;0;0;0
+"S";"D";"Sprache und Kommunikation";null;null;null;0;0;0;0;0;0;0
+"S";"D";"Deutsch";null;null;null;0;0;0;0;0;0;0
+"S";"D";"Sprache, Sprachgestaltung";null;null;null;0;0;0;0;0;0;0
+"S";"D";"Sprache, Lesen und Schreiben";null;null;null;0;0;0;0;0;0;0
+"S";"DH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Rumänisch";null;null;null;0;0;0;0;0;0;0
+"S";"E";"Englisch";null;null;null;0;0;0;0;0;0;0
+"S";"EH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Serbisch";null;null;null;0;0;0;0;0;0;0
+"S";"EK";"Erdkunde";null;null;null;0;0;0;0;0;0;0
+"S";"EM";"Unterricht in der Herkunftssprache - Serbisch";null;null;null;0;0;0;0;0;0;0
+"S";"EN";"Evangelische Religionslehre (konfessionell kooperativ)";null;null;null;0;0;0;0;0;0;0
+"S";"ER";"Evangelische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"S";"F";"Französisch";null;null;null;0;0;0;0;0;0;0
+"S";"G";"Aufbaurealschule/Schule für Kranke: Altgriechisch";null;null;null;0;0;0;0;0;0;0
+"S";"GE";"Geschichte";null;null;null;0;0;0;0;0;0;0
+"S";"GH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Neugriechisch";null;null;null;0;0;0;0;0;0;0
+"S";"GM";"Unterricht in der Herkunftssprache - Neugriechisch";null;null;null;0;0;0;0;0;0;0
+"S";"GP";"gesellschaftswissenschaftlicher Unterricht";null;null;null;0;0;0;0;0;0;0
+"S";"GP";"Geschichte / Politik";null;null;null;0;0;0;0;0;0;0
+"S";"GU";"Gesamtunterricht (nur für Förderschulkindergarten)";null;null;null;0;0;0;0;0;0;0
+"S";"H";"Aufbaurealschule/Schule für Kranke: Hebräisch";null;null;null;0;0;0;0;0;0;0
+"S";"HH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Kroatisch";null;null;null;0;0;0;0;0;0;0
+"S";"HR";"Jüdische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"S";"HU";"Hausunterricht";null;null;null;0;0;0;0;0;0;0
+"S";"HW";"Hauswirtschaft, Haushaltslehre";null;null;null;0;0;0;0;0;0;0
+"S";"I";"Aufbaurealschule/Schule für Kranke: Italienisch";null;null;null;0;0;0;0;0;0;0
+"S";"IF";"Informatik";null;null;null;0;0;0;0;0;0;0
+"S";"IH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Italienisch";null;null;null;0;0;0;0;0;0;0
+"S";"IL";"Islamische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"S";"IM";"Unterricht in der Herkunftssprache - Italienisch";null;null;null;0;0;0;0;0;0;0
+"S";"JH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Niederländisch";null;null;null;0;0;0;0;0;0;0
+"S";"KN";"Katholische Religionslehre (konfessionell kooperativ)";null;null;null;0;0;0;0;0;0;0
+"S";"KR";"Katholische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"S";"KU";"Kunst / Design, Kunst";null;null;null;0;0;0;0;0;0;0
+"S";"L";"Aufbaurealschule/Schule für Kranke: Latein";null;null;null;0;0;0;0;0;0;0
+"S";"LH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Albanisch";null;null;null;0;0;0;0;0;0;0
+"S";"LM";"Unterricht in der Herkunftssprache - Albanisch";null;null;null;0;0;0;0;0;0;0
+"S";"M";"Mathematik";null;null;null;0;0;0;0;0;0;0
+"S";"M";"Umgang mit Mengen, Zahlen und Größen";null;null;null;0;0;0;0;0;0;0
+"S";"MH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Mazedonisch";null;null;null;0;0;0;0;0;0;0
+"S";"MM";"Unterricht in der Herkunftssprache - Mazedonisch";null;null;null;0;0;0;0;0;0;0
+"S";"MU";"musisch-ästhetische Erziehung";null;null;null;0;0;0;0;0;0;0
+"S";"MU";"Musik";null;null;null;0;0;0;0;0;0;0
+"S";"MU";"rhythmisch- musikalische Erziehung";null;null;null;0;0;0;0;0;0;0
+"S";"MX";"Spezielle sonderpädagogische Maßnahme";null;null;null;0;0;0;0;0;0;0
+"S";"MY";"Fächerübergreifender Unterricht in SI und SII (Berufspraxisstufe)";null;null;null;0;0;0;0;0;0;0
+"S";"NH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Polnisch";null;null;null;0;0;0;0;0;0;0
+"S";"NM";"Unterricht in der Herkunftssprache - Niederländisch";null;null;null;0;0;0;0;0;0;0
+"S";"NW";"naturwissenschaftlicher Unterricht";null;null;null;0;0;0;0;0;0;0
+"S";"NW";"Physik / Chemie";null;null;null;0;0;0;0;0;0;0
+"S";"OH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Portugiesisch";null;null;null;0;0;0;0;0;0;0
+"S";"OM";"Unterricht in der Herkunftssprache - Portugiesisch";null;null;null;0;0;0;0;0;0;0
+"S";"OR";"Orthodoxe Religionslehre";null;null;null;0;0;0;0;0;0;0
+"S";"PA";"Aufbaurealschule/Schule für Kranke: Erziehungswissenschaft";null;null;null;0;0;0;0;0;0;0
+"S";"PH";"Physik";null;null;null;0;0;0;0;0;0;0
+"S";"PK";"Aufbaurealschule/Schule für Kranke: Politik";null;null;null;0;0;0;0;0;0;0
+"S";"PL";"Philosophie (nur Schule für Kranke)";null;null;null;0;0;0;0;0;0;0
+"S";"PM";"Unterricht in der Herkunftssprache - Polnisch";null;null;null;0;0;0;0;0;0;0
+"S";"PP";"Praktische Philosophie";null;null;null;0;0;0;0;0;0;0
+"S";"PS";"Aufbaurealschule/Schule für Kranke: Psychologie";null;null;null;0;0;0;0;0;0;0
+"S";"PÖ";"Politik/Ökonomische Grundbildung (Realschulbildungsgang)";null;null;null;0;0;0;0;0;0;0
+"S";"QH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Farsi";null;null;null;0;0;0;0;0;0;0
+"S";"QM";"Unterricht in der Herkunftssprache - Farsi";null;null;null;0;0;0;0;0;0;0
+"S";"R";"Aufbaurealschule/Schule für Kranke: Russisch";null;null;null;0;0;0;0;0;0;0
+"S";"RH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Arabisch";null;null;null;0;0;0;0;0;0;0
+"S";"RM";"Unterricht in der Herkunftssprache - Russisch";null;null;null;0;0;0;0;0;0;0
+"S";"S";"Aufbaurealshule/Schule für Kranke: Spanisch";null;null;null;0;0;0;0;0;0;0
+"S";"S3";"Sport für Jungen";null;null;null;0;0;0;0;0;0;0
+"S";"S4";"Sport für Mädchen";null;null;null;0;0;0;0;0;0;0
+"S";"SH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Spanisch";null;null;null;0;0;0;0;0;0;0
+"S";"SI";"Spiel";null;null;null;0;0;0;0;0;0;0
+"S";"SM";"Unterricht in der Herkunftssprache - Spanisch";null;null;null;0;0;0;0;0;0;0
+"S";"SP";"Sport";null;null;null;0;0;0;0;0;0;0
+"S";"SP";"Bewegungserziehung";null;null;null;0;0;0;0;0;0;0
+"S";"SR";"Sonstige Sprachen (z. B. Arabisch, Chinesisch)";null;null;null;0;0;0;0;0;0;0
+"S";"SU";"Sachunterricht (nur Primarstufe)";null;null;null;0;0;0;0;0;0;0
+"S";"SW";"Aufbaurealschule/Schule für Kranke: Sozialwissenschaften";null;null;null;0;0;0;0;0;0;0
+"S";"TC";"Technik";null;null;null;0;0;0;0;0;0;0
+"S";"TH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Türkisch";null;null;null;0;0;0;0;0;0;0
+"S";"TM";"Unterricht in der Herkunftssprache - Türkisch";null;null;null;0;0;0;0;0;0;0
+"S";"TX";"Textilgestaltung";null;null;null;0;0;0;0;0;0;0
+"S";"UH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Russisch";null;null;null;0;0;0;0;0;0;0
+"S";"UM";"Unterricht in der Herkunftssprache - Rumänisch";null;null;null;0;0;0;0;0;0;0
+"S";"UU";"fächerübergreifender Unterricht (Sprache/Sachunt./Mathematik/Förderunt.)";null;null;null;0;0;0;0;0;0;0
+"S";"VF";"Fächer im genehmigten Schulversuch und sonstige Fächer";null;null;null;0;0;0;0;0;0;0
+"S";"VH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Bulgarisch";null;null;null;0;0;0;0;0;0;0
+"S";"VM";"Unterricht in der Herkunftssprache - Bulgarisch";null;null;null;0;0;0;0;0;0;0
+"S";"W";"Werken";null;null;null;0;0;0;0;0;0;0
+"S";"WP";"Wirtschaft-Politik";null;null;null;0;0;0;0;0;0;0
+"S";"WW";"Wirtschaft";null;null;null;0;0;0;0;0;0;0
+"S";"XH";"Herkunftssprache anstelle einer Pflichtfremdsprache - sonstige Sprache";null;null;null;0;0;0;0;0;0;0
+"S";"XM";"Unterricht in der Herkunftssprache - sonstige Sprache";null;null;null;0;0;0;0;0;0;0
+"S";"YH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Koreanisch";null;null;null;0;0;0;0;0;0;0
+"S";"YM";"Unterricht in der Herkunftssprache - Koreanisch";null;null;null;0;0;0;0;0;0;0
+"S";"YR";"orthodoxe Religionslehre (Syrisch)";null;null;null;0;0;0;0;0;0;0
+"S";"ZF";"Zusätzliche Förderung";null;null;null;0;0;0;0;0;0;0
+"S";"ZH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Kurdische Sprachen";null;null;null;0;0;0;0;0;0;0
+"S";"ZM";"Unterricht in der Herkunftssprache - Kurdische Sprachen (Sorani, Komanci, Zaza)";null;null;null;0;0;0;0;0;0;0
+"SB";"A";"Arabisch";null;null;null;0;0;0;0;0;0;0
+"SB";"AB";"Arbeits- und Betriebswirtschaftslehre";null;null;null;0;0;0;0;0;0;0
+"SB";"AG";"Neigungs- und Projektgruppen";null;null;null;0;0;0;0;0;0;0
+"SB";"AV";"Arbeitsvorbereitung";null;null;null;0;0;0;0;0;0;0
+"SB";"BA";"Berufs- und Arbeitspädagogik";null;null;null;0;0;0;0;0;0;0
+"SB";"BF";"Bürowirtschaft";null;null;null;0;0;0;0;0;0;0
+"SB";"BG";"Betrieb und Gesellschaft/Politik";null;null;null;0;0;0;0;0;0;0
+"SB";"BI";"Biologie";null;null;null;0;0;0;0;0;0;0
+"SB";"BK";"Betriebsinformatik";null;null;null;0;0;0;0;0;0;0
+"SB";"BP";"Betriebspraxis";null;null;null;0;0;0;0;0;0;0
+"SB";"BR";"Betriebslehre";null;null;null;0;0;0;0;0;0;0
+"SB";"BS";"Betriebssoziologie / Arbeitsrecht";null;null;null;0;0;0;0;0;0;0
+"SB";"BW";"Betriebswirtschaftslehre";null;null;null;0;0;0;0;0;0;0
+"SB";"BY";"Betriebssysteme / Netzwerke";null;null;null;0;0;0;0;0;0;0
+"SB";"C";"Chinesisch";null;null;null;0;0;0;0;0;0;0
+"SB";"CH";"Chemie";null;null;null;0;0;0;0;0;0;0
+"SB";"D";"Deutsch";null;null;null;0;0;0;0;0;0;0
+"SB";"DB";"Datenbanken";null;null;null;0;0;0;0;0;0;0
+"SB";"DM";"Didaktik u. Methodik der soz.päd. Praxis mit Übungen";null;null;null;0;0;0;0;0;0;0
+"SB";"DV";"Datenverarbeitung";null;null;null;0;0;0;0;0;0;0
+"SB";"E";"Englisch";null;null;null;0;0;0;0;0;0;0
+"SB";"EK";"Erdkunde";null;null;null;0;0;0;0;0;0;0
+"SB";"EL";"Ernährungs- und Nahrungsmittellehre";null;null;null;0;0;0;0;0;0;0
+"SB";"EN";"Evangelische Religionslehre (konfessionell kooperativ)";null;null;null;0;0;0;0;0;0;0
+"SB";"ER";"Evangelische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"SB";"F";"Französisch";null;null;null;0;0;0;0;0;0;0
+"SB";"FB";"Fächer des berufsbezogenen Bereichs";null;null;null;0;0;0;0;0;0;0
+"SB";"FK";"Fremdsprachliche Kommunikation";null;null;null;0;0;0;0;0;0;0
+"SB";"FP";"Fachpraxis";null;null;null;0;0;0;0;0;0;0
+"SB";"FU";"Förderunterricht";null;null;null;0;0;0;0;0;0;0
+"SB";"GA";"Geräte- und Maschinenlehre";null;null;null;0;0;0;0;0;0;0
+"SB";"GB";"Grundbildung";null;null;null;0;0;0;0;0;0;0
+"SB";"GE";"Geschichte";null;null;null;0;0;0;0;0;0;0
+"SB";"GL";"Gesellschaftslehre";null;null;null;0;0;0;0;0;0;0
+"SB";"GS";"Gestaltungslehre";null;null;null;0;0;0;0;0;0;0
+"SB";"HR";"Jüdische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"SB";"HU";"Hausunterricht";null;null;null;0;0;0;0;0;0;0
+"SB";"HY";"Hygiene";null;null;null;0;0;0;0;0;0;0
+"SB";"I";"Italienisch";null;null;null;0;0;0;0;0;0;0
+"SB";"IF";"Informatik";null;null;null;0;0;0;0;0;0;0
+"SB";"IL";"Islamische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"SB";"K";"Japanisch";null;null;null;0;0;0;0;0;0;0
+"SB";"KN";"Katholische Religionslehre (konfessionell kooperativ)";null;null;null;0;0;0;0;0;0;0
+"SB";"KO";"Kommunikation";null;null;null;0;0;0;0;0;0;0
+"SB";"KR";"Katholische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"SB";"KS";"Kurzschrift";null;null;null;0;0;0;0;0;0;0
+"SB";"KU";"Kunsterziehung";null;null;null;0;0;0;0;0;0;0
+"SB";"L";"Latein";null;null;null;0;0;0;0;0;0;0
+"SB";"LI";"Literatur";null;null;null;0;0;0;0;0;0;0
+"SB";"M";"Mathematik";null;null;null;0;0;0;0;0;0;0
+"SB";"MD";"Medienerziehung";null;null;null;0;0;0;0;0;0;0
+"SB";"ME";"Mechanik";null;null;null;0;0;0;0;0;0;0
+"SB";"MP";"Meß- und Prüftechnik";null;null;null;0;0;0;0;0;0;0
+"SB";"MU";"Musik";null;null;null;0;0;0;0;0;0;0
+"SB";"MW";"Methodik des wissenschaftl. orientierten Arbeitens";null;null;null;0;0;0;0;0;0;0
+"SB";"N";"Niederländisch";null;null;null;0;0;0;0;0;0;0
+"SB";"NW";"Naturwissenschaften";null;null;null;0;0;0;0;0;0;0
+"SB";"OL";"Organisationslehre/Büroorganisation";null;null;null;0;0;0;0;0;0;0
+"SB";"OR";"Orthodoxe Religionslehre";null;null;null;0;0;0;0;0;0;0
+"SB";"PA";"Pädagogik";null;null;null;0;0;0;0;0;0;0
+"SB";"PH";"Physik";null;null;null;0;0;0;0;0;0;0
+"SB";"PK";"Politik";null;null;null;0;0;0;0;0;0;0
+"SB";"PL";"Philosophie";null;null;null;0;0;0;0;0;0;0
+"SB";"PP";"Praktische Philosophie";null;null;null;0;0;0;0;0;0;0
+"SB";"PS";"Psychologie";null;null;null;0;0;0;0;0;0;0
+"SB";"PU";"Fachübergreifender Unterricht";null;null;null;0;0;0;0;0;0;0
+"SB";"PW";"Personalwirtschaft und Soziologie/Politik";null;null;null;0;0;0;0;0;0;0
+"SB";"R";"Russisch";null;null;null;0;0;0;0;0;0;0
+"SB";"RE";"Rechnungswesen";null;null;null;0;0;0;0;0;0;0
+"SB";"RW";"Recht und Verwaltung";null;null;null;0;0;0;0;0;0;0
+"SB";"S";"Spanisch";null;null;null;0;0;0;0;0;0;0
+"SB";"SE";"Softwareentwicklung und -engineering";null;null;null;0;0;0;0;0;0;0
+"SB";"SG";"sonderpädag. Förderung für Schüler/-innen mit sonderpädag. Förderbedarf";null;null;null;0;0;0;0;0;0;0
+"SB";"SI";"Spiel";null;null;null;0;0;0;0;0;0;0
+"SB";"SL";"Soziologie";null;null;null;0;0;0;0;0;0;0
+"SB";"SP";"Sport";null;null;null;0;0;0;0;0;0;0
+"SB";"SR";"Sonstige Sprachen";null;null;null;0;0;0;0;0;0;0
+"SB";"SW";"Sozialwissenschaften";null;null;null;0;0;0;0;0;0;0
+"SB";"T";"Türkisch";null;null;null;0;0;0;0;0;0;0
+"SB";"TG";"Technische Grundbildung";null;null;null;0;0;0;0;0;0;0
+"SB";"TI";"Technische Informatik";null;null;null;0;0;0;0;0;0;0
+"SB";"TV";"Textverarbeitung";null;null;null;0;0;0;0;0;0;0
+"SB";"TZ";"Technisches Zeichnen / Fachzeichnen";null;null;null;0;0;0;0;0;0;0
+"SB";"VE";"Verwaltungskunde";null;null;null;0;0;0;0;0;0;0
+"SB";"VK";"Verkaufskunde";null;null;null;0;0;0;0;0;0;0
+"SB";"VP";"Volkswirtschaftslehre/Politik";null;null;null;0;0;0;0;0;0;0
+"SB";"VT";"Verfahrenstechnik";null;null;null;0;0;0;0;0;0;0
+"SB";"VW";"Volkswirtschaftslehre";null;null;null;0;0;0;0;0;0;0
+"SB";"WG";"Wirtschaftsgeographie";null;null;null;0;0;0;0;0;0;0
+"SB";"WI";"Wirtschaftsinformatik/Organisationslehre";null;null;null;0;0;0;0;0;0;0
+"SB";"WW";"Wirtschaftslehre";null;null;null;0;0;0;0;0;0;0
+"SB";"YR";"Syrisch-orthodoxe Religionslehre";null;null;null;0;0;0;0;0;0;0
+"SB";"Z";"Neugriechisch";null;null;null;0;0;0;0;0;0;0
+"SB";"ZW";"Zeichnen / Werken";null;null;null;0;0;0;0;0;0;0
+"SG";"A";"Arabisch";null;null;null;0;0;0;0;0;0;0
+"SG";"AL";"Arbeitslehre";null;null;null;0;0;0;0;0;0;0
+"SG";"AM";"Unterricht in der Herkunftssprache - Arabisch";null;null;null;0;0;0;0;0;0;0
+"SG";"AR";"Alevitische Religionslehre nach den Grundsätzen des AABF";null;null;null;0;0;0;0;0;0;0
+"SG";"BH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Bosnisch";null;null;null;0;0;0;0;0;0;0
+"SG";"BI";"Biologie";null;null;null;0;0;0;0;0;0;0
+"SG";"BM";"Unterricht in der Herkunftssprache - Bosnisch";null;null;null;0;0;0;0;0;0;0
+"SG";"C0";"Chinesisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"SG";"C5";"Chinesisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"SG";"C6";"Chinesisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"SG";"C7";"Chinesisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"SG";"C8";"Chinesisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"SG";"CH";"Chemie";null;null;null;0;0;0;0;0;0;0
+"SG";"CM";"Unterricht in der Herkunftssprache - Kroatisch";null;null;null;0;0;0;0;0;0;0
+"SG";"CQ";"Chinesisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"SG";"D";"Deutsch";null;null;null;0;0;0;0;0;0;0
+"SG";"DH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Rumänisch";null;null;null;0;0;0;0;0;0;0
+"SG";"E";"Englisch";null;null;null;0;0;0;0;0;0;0
+"SG";"EH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Serbisch";null;null;null;0;0;0;0;0;0;0
+"SG";"EK";"Erdkunde/Geographie";null;null;null;0;0;0;0;0;0;0
+"SG";"EL";"Ernährungslehre";null;null;null;0;0;0;0;0;0;0
+"SG";"EM";"Unterricht in der Herkunftssprache - Serbisch";null;null;null;0;0;0;0;0;0;0
+"SG";"EN";"Evangelische Religionslehre (konfessionell kooperativ)";null;null;null;0;0;0;0;0;0;0
+"SG";"ER";"Evangelische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"SG";"F0";"Französisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"SG";"F5";"Französisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"SG";"F6";"Französisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"SG";"F7";"Französisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"SG";"F8";"Französisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"SG";"FQ";"Französisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"SG";"G0";"Altgriechisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"SG";"G5";"Altgriechisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"SG";"G6";"Altgriechisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"SG";"G7";"Altgriechisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"SG";"G8";"Altgriechisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"SG";"GE";"Geschichte";null;null;null;0;0;0;0;0;0;0
+"SG";"GH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Neugriechisch";null;null;null;0;0;0;0;0;0;0
+"SG";"GM";"Unterricht in der Herkunftssprache - Neugriechisch";null;null;null;0;0;0;0;0;0;0
+"SG";"GQ";"Altgriechisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"SG";"H0";"Hebräisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"SG";"H5";"Hebräisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"SG";"H6";"Hebräisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"SG";"H7";"Hebräisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"SG";"H8";"Hebräisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"SG";"HH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Kroatisch";null;null;null;0;0;0;0;0;0;0
+"SG";"HQ";"Hebräisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"SG";"HR";"Jüdische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"SG";"HU";"Hausunterricht";null;null;null;0;0;0;0;0;0;0
+"SG";"HW";"Hauswirtschaftswissenschaft";null;null;null;0;0;0;0;0;0;0
+"SG";"I0";"Italienisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"SG";"I5";"Italienisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"SG";"I6";"Italienisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"SG";"I7";"Italienisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"SG";"I8";"Italienisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"SG";"IE";"Individuelles Lernen (Ergänzungsstunden, Ganztag- und Betreuungsangebote)";null;null;null;0;0;0;0;0;0;0
+"SG";"IF";"Informatik";null;null;null;0;0;0;0;0;0;0
+"SG";"IH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Italienisch";null;null;null;0;0;0;0;0;0;0
+"SG";"IK";"Individuelles Lernen (dem Kernstundenkontingent entnommen)";null;null;null;0;0;0;0;0;0;0
+"SG";"IL";"Islamische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"SG";"IM";"Unterricht in der Herkunftssprache - Italienisch";null;null;null;0;0;0;0;0;0;0
+"SG";"IN";"Instrumentalpraktischer Grundkurs";null;null;null;0;0;0;0;0;0;0
+"SG";"IQ";"Italienisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"SG";"JH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Niederländisch";null;null;null;0;0;0;0;0;0;0
+"SG";"K0";"Japanisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"SG";"K5";"Japanisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"SG";"K6";"Japanisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"SG";"K7";"Japanisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"SG";"K8";"Japanisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"SG";"KN";"Katholische Religionslehre (konfessionell kooperativ)";null;null;null;0;0;0;0;0;0;0
+"SG";"KQ";"Japanisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"SG";"KR";"Katholische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"SG";"KU";"Kunst";null;null;null;0;0;0;0;0;0;0
+"SG";"L0";"Lateinisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"SG";"L5";"Lateinisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"SG";"L6";"Lateinisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"SG";"L7";"Lateinisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"SG";"L8";"Lateinisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"SG";"LH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Albanisch";null;null;null;0;0;0;0;0;0;0
+"SG";"LI";"Grundkurs in Literatur";null;null;null;0;0;0;0;0;0;0
+"SG";"LM";"Unterricht in der Herkunftssprache - Albanisch";null;null;null;0;0;0;0;0;0;0
+"SG";"LQ";"Lateinisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"SG";"M";"Mathematik";null;null;null;0;0;0;0;0;0;0
+"SG";"MH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Makedonisch";null;null;null;0;0;0;0;0;0;0
+"SG";"MM";"Unterricht in der Herkunftssprache - Mazedonisch";null;null;null;0;0;0;0;0;0;0
+"SG";"MU";"Musik";null;null;null;0;0;0;0;0;0;0
+"SG";"MX";"Spezielle sonderpädagogische Maßnahme";null;null;null;0;0;0;0;0;0;0
+"SG";"N0";"Niederländisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"SG";"N5";"Niederländisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"SG";"N6";"Niederländisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"SG";"N7";"Niederländisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"SG";"N8";"Niederländisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"SG";"NH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Polnisch";null;null;null;0;0;0;0;0;0;0
+"SG";"NM";"Unterricht in der Herkunftssprache - Niederländisch";null;null;null;0;0;0;0;0;0;0
+"SG";"NQ";"Niederländisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"SG";"NW";"Lernbereich Naturwissenschaften (Jg. 05, 06)";null;null;null;0;0;0;0;0;0;0
+"SG";"O0";"Portugiesisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"SG";"O5";"Portugiesisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"SG";"O6";"Portugiesisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"SG";"O7";"Portugiesisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"SG";"O8";"Portugiesisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"SG";"OH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Portugiesisch";null;null;null;0;0;0;0;0;0;0
+"SG";"OM";"Unterricht in der Herkunftssprache - Portugiesisch";null;null;null;0;0;0;0;0;0;0
+"SG";"OQ";"Portugiesisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"SG";"OR";"Orthodoxe Religionslehre";null;null;null;0;0;0;0;0;0;0
+"SG";"PA";"Erziehungswissenschaft";null;null;null;0;0;0;0;0;0;0
+"SG";"PH";"Physik";null;null;null;0;0;0;0;0;0;0
+"SG";"PK";"Politik";null;null;null;0;0;0;0;0;0;0
+"SG";"PL";"Philosophie (nur SII)";null;null;null;0;0;0;0;0;0;0
+"SG";"PM";"Unterricht in der Herkunftssprache - Polnisch";null;null;null;0;0;0;0;0;0;0
+"SG";"PP";"Praktische Philosophie";null;null;null;0;0;0;0;0;0;0
+"SG";"PS";"Psychologie";null;null;null;0;0;0;0;0;0;0
+"SG";"PX";"Projektkurs (Pseudofach: nicht für ASD)";null;null;null;0;0;0;0;0;0;0
+"SG";"QH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Farsi";null;null;null;0;0;0;0;0;0;0
+"SG";"QM";"Unterricht in der Herkunftssprache - Farsi";null;null;null;0;0;0;0;0;0;0
+"SG";"R0";"Russisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"SG";"R5";"Russisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"SG";"R6";"Russisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"SG";"R7";"Russisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"SG";"R8";"Russisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"SG";"RH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Arabisch";null;null;null;0;0;0;0;0;0;0
+"SG";"RK";"Recht (nur SII)";null;null;null;0;0;0;0;0;0;0
+"SG";"RM";"Unterricht in der Herkunftssprache - Russisch";null;null;null;0;0;0;0;0;0;0
+"SG";"RQ";"Russisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"SG";"S0";"Spanisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"SG";"S3";"Sport für Jungen";null;null;null;0;0;0;0;0;0;0
+"SG";"S4";"Sport für Mädchen";null;null;null;0;0;0;0;0;0;0
+"SG";"S5";"Spanisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"SG";"S6";"Spanisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"SG";"S7";"Spanisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"SG";"S8";"Spanisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"SG";"SG";"sonderpädag. Förderung für Schüler/-innen mit sonderpädag. Förderbedarf";null;null;null;0;0;0;0;0;0;0
+"SG";"SH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Spanisch";null;null;null;0;0;0;0;0;0;0
+"SG";"SM";"Unterricht in der Herkunftssprache - Spanisch";null;null;null;0;0;0;0;0;0;0
+"SG";"SP";"Sport";null;null;null;0;0;0;0;0;0;0
+"SG";"SQ";"Spanisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"SG";"SR";"sonstige Sprachen";null;null;null;0;0;0;0;0;0;0
+"SG";"SW";"Sozialwissenschaften";null;null;null;0;0;0;0;0;0;0
+"SG";"SZ";"Sozialwissenschaften/Wirtschaft (nur SII)";null;null;null;0;0;0;0;0;0;0
+"SG";"T0";"Türkisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"SG";"T5";"Türkisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"SG";"T6";"Türkisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"SG";"T7";"Türkisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"SG";"T8";"Türkisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"SG";"TC";"Technik";null;null;null;0;0;0;0;0;0;0
+"SG";"TH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Türkisch";null;null;null;0;0;0;0;0;0;0
+"SG";"TM";"Unterricht in der Herkunftssprache - Türkisch";null;null;null;0;0;0;0;0;0;0
+"SG";"TQ";"Türkisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"SG";"TX";"Textilgestaltung";null;null;null;0;0;0;0;0;0;0
+"SG";"UH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Russisch";null;null;null;0;0;0;0;0;0;0
+"SG";"UM";"Unterricht in der Herkunftssprache - Rumänisch";null;null;null;0;0;0;0;0;0;0
+"SG";"VF";"Fächer im genehmigten Schulversuch und sonstige Fächer";null;null;null;0;0;0;0;0;0;0
+"SG";"VH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Bulgarisch";null;null;null;0;0;0;0;0;0;0
+"SG";"VM";"Unterricht in der Herkunftssprache - Bulgarisch";null;null;null;0;0;0;0;0;0;0
+"SG";"VO";"vokalpraktischer Grundkurs";null;null;null;0;0;0;0;0;0;0
+"SG";"VX";"Vertiefungsfach (Pseudofach: nicht für ASD)";null;null;null;0;0;0;0;0;0;0
+"SG";"WP";"Wirtschaft-Politik (nur SI)";null;null;null;0;0;0;0;0;0;0
+"SG";"WW";"Wirtschaft (nur SI)";null;null;null;0;0;0;0;0;0;0
+"SG";"XH";"Herkunftssprache anstelle einer Pflichtfremdsprache - sonstige Sprache";null;null;null;0;0;0;0;0;0;0
+"SG";"XM";"Unterricht in der Herkunftssprache - sonstige Sprache";null;null;null;0;0;0;0;0;0;0
+"SG";"YH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Koreanisch";null;null;null;0;0;0;0;0;0;0
+"SG";"YM";"Unterricht in der Herkunftssprache - Koreanisch";null;null;null;0;0;0;0;0;0;0
+"SG";"YR";"orthodoxe Religionslehre (Syrisch)";null;null;null;0;0;0;0;0;0;0
+"SG";"Z0";"Neugriechisch, regulärer Beginn in der Einführungsphase";null;null;null;0;0;0;0;0;0;0
+"SG";"Z5";"Neugriechisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"SG";"Z6";"Neugriechisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"SG";"Z7";"Neugriechisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"SG";"Z8";"Neugriechisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"SG";"ZH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Kurdische Sprachen";null;null;null;0;0;0;0;0;0;0
+"SG";"ZM";"Unterricht in der Herkunftssprache - Kurdische Sprachen (Sorani, Komanci, Zaza)";null;null;null;0;0;0;0;0;0;0
+"SG";"ZQ";"Neugriechisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"SK";"AH";"Arbeitslehre - Schwerpunkt Hauswirtschaft (nur Regelunterricht)";null;null;null;0;0;0;0;0;0;0
+"SK";"AL";"Arbeitslehre - Integration Hauswirtschaft, Technik, Wirtschaftslehre";null;null;null;0;0;0;0;0;0;0
+"SK";"AM";"Unterricht in der Herkunftssprache - Arabisch";null;null;null;0;0;0;0;0;0;0
+"SK";"AR";"Alevitische Religionslehre nach den Grundsätzen des AABF";null;null;null;0;0;0;0;0;0;0
+"SK";"AT";"Arbeitslehre - Schwerpunkt Technik (nur Regelunterricht)";null;null;null;0;0;0;0;0;0;0
+"SK";"AW";"Arbeitslehre - Schwerpunkt Wirtschaft (nur Regelunterricht)";null;null;null;0;0;0;0;0;0;0
+"SK";"AX";"Arbeitslehre - Technik/Wirtschaft (nur Wahlpflichtunterricht)";null;null;null;0;0;0;0;0;0;0
+"SK";"AY";"Arbeitslehre - Hauswirtschaft/Wirtschaft (nur Wahlpflichtunterricht)";null;null;null;0;0;0;0;0;0;0
+"SK";"BH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Bosnisch";null;null;null;0;0;0;0;0;0;0
+"SK";"BI";"Biologie";null;null;null;0;0;0;0;0;0;0
+"SK";"BM";"Unterricht in der Herkunftssprache - Bosnisch";null;null;null;0;0;0;0;0;0;0
+"SK";"C5";"Chinesisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"SK";"C6";"Chinesisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"SK";"C7";"Chinesisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"SK";"C8";"Chinesisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"SK";"CH";"Chemie";null;null;null;0;0;0;0;0;0;0
+"SK";"CM";"Unterricht in der Herkunftssprache - Kroatisch";null;null;null;0;0;0;0;0;0;0
+"SK";"CQ";"Chinesisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"SK";"D";"Deutsch";null;null;null;0;0;0;0;0;0;0
+"SK";"DH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Rumänisch";null;null;null;0;0;0;0;0;0;0
+"SK";"DS";"Darstellen und Gestalten";null;null;null;0;0;0;0;0;0;0
+"SK";"E";"Englisch";null;null;null;0;0;0;0;0;0;0
+"SK";"EB";"Erweitertes Bildungsangebot";null;null;null;0;0;0;0;0;0;0
+"SK";"EH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Serbisch";null;null;null;0;0;0;0;0;0;0
+"SK";"EK";"Erdkunde";null;null;null;0;0;0;0;0;0;0
+"SK";"EL";"Ernährungslehre";null;null;null;0;0;0;0;0;0;0
+"SK";"EM";"Unterricht in der Herkunftssprache - Serbisch";null;null;null;0;0;0;0;0;0;0
+"SK";"EN";"Evangelische Religionslehre (konfessionell kooperativ)";null;null;null;0;0;0;0;0;0;0
+"SK";"ER";"Evangelische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"SK";"F";"Französisch (nur auslaufender Hauptschulbildungsgang)";null;null;null;0;0;0;0;0;0;0
+"SK";"F5";"Französisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"SK";"F6";"Französisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"SK";"F7";"Französisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"SK";"F8";"Französisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"SK";"FQ";"Französisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"SK";"G5";"Altgriechisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"SK";"G6";"Altgriechisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"SK";"G7";"Altgriechisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"SK";"G8";"Altgriechisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"SK";"GE";"Geschichte";null;null;null;0;0;0;0;0;0;0
+"SK";"GH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Neugriechisch";null;null;null;0;0;0;0;0;0;0
+"SK";"GL";"Gesellschaftslehre (Integration: Erdkunde, Geschichte, Politik bzw. W-P))";null;null;null;0;0;0;0;0;0;0
+"SK";"GM";"Unterricht in der Herkunftssprache - Neugriechisch";null;null;null;0;0;0;0;0;0;0
+"SK";"GQ";"Altgriechisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"SK";"H5";"Hebräisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"SK";"H6";"Hebräisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"SK";"H7";"Hebräisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"SK";"H8";"Hebräisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"SK";"HH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Kroatisch";null;null;null;0;0;0;0;0;0;0
+"SK";"HQ";"Hebräisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"SK";"HR";"Jüdische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"SK";"HU";"Hausunterricht";null;null;null;0;0;0;0;0;0;0
+"SK";"HW";"Hauswirtschaft (einschließlich Ernährungslehre)";null;null;null;0;0;0;0;0;0;0
+"SK";"I5";"Italienisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"SK";"I6";"Italienisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"SK";"I7";"Italienisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"SK";"I8";"Italienisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"SK";"IE";"Individuelles Lernen (Ergänzungsstunden, Ganztag- und Betreuungsangebote)";null;null;null;0;0;0;0;0;0;0
+"SK";"IF";"Informatik";null;null;null;0;0;0;0;0;0;0
+"SK";"IH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Italienisch";null;null;null;0;0;0;0;0;0;0
+"SK";"IK";"Individuelles Lernen (dem Kernstundenkontingent entnommen)";null;null;null;0;0;0;0;0;0;0
+"SK";"IL";"Islamische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"SK";"IM";"Unterricht in der Herkunftssprache - Italienisch";null;null;null;0;0;0;0;0;0;0
+"SK";"IQ";"Italienisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"SK";"JH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Niederländisch";null;null;null;0;0;0;0;0;0;0
+"SK";"K5";"Japanisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"SK";"K6";"Japanisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"SK";"K7";"Japanisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"SK";"K8";"Japanisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"SK";"KN";"Katholische Religionslehre (konfessionell kooperativ)";null;null;null;0;0;0;0;0;0;0
+"SK";"KQ";"Japanisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"SK";"KR";"Katholische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"SK";"KU";"Kunst";null;null;null;0;0;0;0;0;0;0
+"SK";"L5";"Lateinisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"SK";"L6";"Lateinisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"SK";"L7";"Lateinisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"SK";"L8";"Lateinisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"SK";"LH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Albanisch";null;null;null;0;0;0;0;0;0;0
+"SK";"LM";"Unterricht in der Herkunftssprache - Albanisch";null;null;null;0;0;0;0;0;0;0
+"SK";"LQ";"Lateinisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"SK";"M";"Mathematik";null;null;null;0;0;0;0;0;0;0
+"SK";"MH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Mazedonisch";null;null;null;0;0;0;0;0;0;0
+"SK";"MM";"Unterricht in der Herkunftssprache - Mazedonisch";null;null;null;0;0;0;0;0;0;0
+"SK";"MU";"Musik";null;null;null;0;0;0;0;0;0;0
+"SK";"N";"Niederländisch (nur auslaufender Hauptschulbildungsgang)";null;null;null;0;0;0;0;0;0;0
+"SK";"N5";"Niederländisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"SK";"N6";"Niederländisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"SK";"N7";"Niederländisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"SK";"N8";"Niederländisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"SK";"NH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Polnisch";null;null;null;0;0;0;0;0;0;0
+"SK";"NM";"Unterricht in der Herkunftssprache - Niederländisch";null;null;null;0;0;0;0;0;0;0
+"SK";"NQ";"Niederländisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"SK";"NW";"Naturwissenschaften (Integration: Physik, Chemie, Biologie)";null;null;null;0;0;0;0;0;0;0
+"SK";"O5";"Portugiesisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"SK";"O6";"Portugiesisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"SK";"O7";"Portugiesisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"SK";"O8";"Portugiesisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"SK";"OH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Portugiesisch";null;null;null;0;0;0;0;0;0;0
+"SK";"OM";"Unterricht in der Herkunftssprache - Portugiesisch";null;null;null;0;0;0;0;0;0;0
+"SK";"OQ";"Portugiesisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"SK";"OR";"Orthodoxe Religionslehre";null;null;null;0;0;0;0;0;0;0
+"SK";"PA";"Pädagogik";null;null;null;0;0;0;0;0;0;0
+"SK";"PH";"Physik";null;null;null;0;0;0;0;0;0;0
+"SK";"PK";"Politik";null;null;null;0;0;0;0;0;0;0
+"SK";"PL";"Philosophie";null;null;null;0;0;0;0;0;0;0
+"SK";"PM";"Unterricht in der Herkunftssprache - Polnisch";null;null;null;0;0;0;0;0;0;0
+"SK";"PP";"Praktische Philosophie";null;null;null;0;0;0;0;0;0;0
+"SK";"PS";"Psychologie";null;null;null;0;0;0;0;0;0;0
+"SK";"PÖ";"Politik/Ökonomische Grundbildung (Realschulbildungsgang)";null;null;null;0;0;0;0;0;0;0
+"SK";"QH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Farsi";null;null;null;0;0;0;0;0;0;0
+"SK";"QM";"Unterricht in der Herkunftssprache - Farsi";null;null;null;0;0;0;0;0;0;0
+"SK";"R";"Russisch (nur auslaufender Hauptschulbildungsgang)";null;null;null;0;0;0;0;0;0;0
+"SK";"R5";"Russisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"SK";"R6";"Russisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"SK";"R7";"Russisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"SK";"R8";"Russisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"SK";"RH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Arabisch";null;null;null;0;0;0;0;0;0;0
+"SK";"RK";"Recht";null;null;null;0;0;0;0;0;0;0
+"SK";"RM";"Unterricht in der Herkunftssprache - Russisch";null;null;null;0;0;0;0;0;0;0
+"SK";"RQ";"Russisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"SK";"S3";"Sport für Jungen";null;null;null;0;0;0;0;0;0;0
+"SK";"S4";"Sport für Mädchen";null;null;null;0;0;0;0;0;0;0
+"SK";"S5";"Spanisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"SK";"S6";"Spanisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"SK";"S7";"Spanisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"SK";"S8";"Spanisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"SK";"SG";"sonderpädag. Förderung für Schüler/-innen mit sonderpädag. Förderbedarf";null;null;null;0;0;0;0;0;0;0
+"SK";"SH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Spanisch";null;null;null;0;0;0;0;0;0;0
+"SK";"SM";"Unterricht in der Herkunftssprache - Spanisch";null;null;null;0;0;0;0;0;0;0
+"SK";"SP";"Sport";null;null;null;0;0;0;0;0;0;0
+"SK";"SQ";"Spanisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"SK";"SR";"sonstige Sprachen";null;null;null;0;0;0;0;0;0;0
+"SK";"SW";"Sozialwissenschaften ( Wahlpflichtbereich  Jhg. 07 bis 10)";null;null;null;0;0;0;0;0;0;0
+"SK";"SZ";"Sozialwissenschaften/Wirtschaft";null;null;null;0;0;0;0;0;0;0
+"SK";"T";"Türkisch (nur auslaufender Hauptschulbildungsgang)";null;null;null;0;0;0;0;0;0;0
+"SK";"T5";"Türkisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"SK";"T6";"Türkisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"SK";"T7";"Türkisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"SK";"T8";"Türkisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"SK";"TC";"Technik";null;null;null;0;0;0;0;0;0;0
+"SK";"TH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Türkisch";null;null;null;0;0;0;0;0;0;0
+"SK";"TM";"Unterricht in der Herkunftssprache - Türkisch";null;null;null;0;0;0;0;0;0;0
+"SK";"TQ";"Türkisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"SK";"TX";"Textilgestaltung";null;null;null;0;0;0;0;0;0;0
+"SK";"UH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Russisch";null;null;null;0;0;0;0;0;0;0
+"SK";"UM";"Unterricht in der Herkunftssprache - Rumänisch";null;null;null;0;0;0;0;0;0;0
+"SK";"UW";"Unterweisung";null;null;null;0;0;0;0;0;0;0
+"SK";"VF";"Fächer im genehmigten Schulversuch und sonstige Fächer";null;null;null;0;0;0;0;0;0;0
+"SK";"VH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Bulgarisch";null;null;null;0;0;0;0;0;0;0
+"SK";"VM";"Unterricht in der Herkunftssprache - Bulgarisch";null;null;null;0;0;0;0;0;0;0
+"SK";"WP";"Wirtschaft-Politik";null;null;null;0;0;0;0;0;0;0
+"SK";"WW";"Wirtschaftslehre";null;null;null;0;0;0;0;0;0;0
+"SK";"XH";"Herkunftssprache anstelle einer Pflichtfremdsprache - sonstige Sprache";null;null;null;0;0;0;0;0;0;0
+"SK";"XM";"Unterricht in der Herkunftssprache - sonstige Sprache";null;null;null;0;0;0;0;0;0;0
+"SK";"YH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Koreanisch";null;null;null;0;0;0;0;0;0;0
+"SK";"YM";"Unterricht in der Herkunftssprache - Koreanisch";null;null;null;0;0;0;0;0;0;0
+"SK";"YR";"orthodoxe Religionslehre (Syrisch)";null;null;null;0;0;0;0;0;0;0
+"SK";"Z5";"Neugriechisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"SK";"Z6";"Neugriechisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"SK";"Z7";"Neugriechisch, regulärer Beginn in Jahrgang 7";null;null;null;0;0;0;0;0;0;0
+"SK";"Z8";"Neugriechisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"SK";"ZH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Kurdische Sprachen";null;null;null;0;0;0;0;0;0;0
+"SK";"ZM";"Unterricht in der Herkunftssprache - Kurdische Sprachen (Sorani, Komanci, Zaza)";null;null;null;0;0;0;0;0;0;0
+"SK";"ZQ";"Neugriechisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"SR";"AM";"Unterricht in der Herkunftssprache - Arabisch";null;null;null;0;0;0;0;0;0;0
+"SR";"AR";"Alevitische Religionslehre nach den Grundsätzen des AABF";null;null;null;0;0;0;0;0;0;0
+"SR";"BH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Bosnisch";null;null;null;0;0;0;0;0;0;0
+"SR";"BI";"Biologie";null;null;null;0;0;0;0;0;0;0
+"SR";"BM";"Unterricht in der Herkunftssprache - Bosnisch";null;null;null;0;0;0;0;0;0;0
+"SR";"CH";"Chemie";null;null;null;0;0;0;0;0;0;0
+"SR";"CM";"Unterricht in der Herkunftssprache - Kroatisch";null;null;null;0;0;0;0;0;0;0
+"SR";"D";"Deutsch";null;null;null;0;0;0;0;0;0;0
+"SR";"DH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Rumänisch";null;null;null;0;0;0;0;0;0;0
+"SR";"E";"Englisch";null;null;null;0;0;0;0;0;0;0
+"SR";"EH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Serbisch";null;null;null;0;0;0;0;0;0;0
+"SR";"EK";"Erdkunde";null;null;null;0;0;0;0;0;0;0
+"SR";"EM";"Unterricht in der Herkunftssprache - Serbisch";null;null;null;0;0;0;0;0;0;0
+"SR";"EN";"Evangelische Religionslehre (konfessionell kooperativ)";null;null;null;0;0;0;0;0;0;0
+"SR";"ER";"Evangelische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"SR";"F5";"Französisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"SR";"F6";"Französisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"SR";"F8";"Französisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"SR";"FQ";"Französisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"SR";"GE";"Geschichte";null;null;null;0;0;0;0;0;0;0
+"SR";"GH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Neugriechisch";null;null;null;0;0;0;0;0;0;0
+"SR";"GM";"Unterricht in der Herkunftssprache - Neugriechisch";null;null;null;0;0;0;0;0;0;0
+"SR";"HH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Kroatisch";null;null;null;0;0;0;0;0;0;0
+"SR";"HR";"Jüdische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"SR";"HU";"Hausunterricht";null;null;null;0;0;0;0;0;0;0
+"SR";"HW";"Hauswirtschaftswissenschaft";null;null;null;0;0;0;0;0;0;0
+"SR";"I5";"Italienisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"SR";"I6";"Italienisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"SR";"I8";"Italienisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"SR";"IE";"Individuelles Lernen (Ergänzungsstunden, Ganztag- und Betreuungsangebote)";null;null;null;0;0;0;0;0;0;0
+"SR";"IF";"Informatik";null;null;null;0;0;0;0;0;0;0
+"SR";"IH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Italienisch";null;null;null;0;0;0;0;0;0;0
+"SR";"IK";"Individuelles Lernen (dem Kernstundenkontingent entnommen)";null;null;null;0;0;0;0;0;0;0
+"SR";"IL";"Islamische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"SR";"IM";"Unterricht in der Herkunftssprache - Italienisch";null;null;null;0;0;0;0;0;0;0
+"SR";"IQ";"Italienisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"SR";"JH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Niederländisch";null;null;null;0;0;0;0;0;0;0
+"SR";"KN";"Katholische Religionslehre (konfessionell kooperativ)";null;null;null;0;0;0;0;0;0;0
+"SR";"KR";"Katholische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"SR";"KU";"Kunst";null;null;null;0;0;0;0;0;0;0
+"SR";"L5";"Latein, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"SR";"L6";"Latein, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"SR";"L8";"Latein, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"SR";"LH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Albanisch";null;null;null;0;0;0;0;0;0;0
+"SR";"LM";"Unterricht in der Herkunftssprache - Albanisch";null;null;null;0;0;0;0;0;0;0
+"SR";"LQ";"Latein , außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"SR";"M";"Mathematik";null;null;null;0;0;0;0;0;0;0
+"SR";"MH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Makedonisch";null;null;null;0;0;0;0;0;0;0
+"SR";"MM";"Unterricht in der Herkunftssprache - Makedonisch";null;null;null;0;0;0;0;0;0;0
+"SR";"MU";"Musik";null;null;null;0;0;0;0;0;0;0
+"SR";"N5";"Niederländisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"SR";"N6";"Niederländisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"SR";"N8";"Niederländisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"SR";"NH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Polnisch";null;null;null;0;0;0;0;0;0;0
+"SR";"NM";"Unterricht in der Herkunftssprache - Niederländisch";null;null;null;0;0;0;0;0;0;0
+"SR";"NQ";"Niederländisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"SR";"NW";"Lernbereich Naturwissenschaften (Jg. 05, 06)";null;null;null;0;0;0;0;0;0;0
+"SR";"O5";"Portugiesisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"SR";"O6";"Portugiesisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"SR";"O8";"Portugiesisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"SR";"OH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Portugiesisch";null;null;null;0;0;0;0;0;0;0
+"SR";"OM";"Unterricht in der Herkunftssprache - Portugiesisch";null;null;null;0;0;0;0;0;0;0
+"SR";"OQ";"Portugiesisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"SR";"OR";"Orthodoxe Religionslehre";null;null;null;0;0;0;0;0;0;0
+"SR";"PA";"Erziehungswissenschaft";null;null;null;0;0;0;0;0;0;0
+"SR";"PH";"Physik";null;null;null;0;0;0;0;0;0;0
+"SR";"PK";"Politik";null;null;null;0;0;0;0;0;0;0
+"SR";"PM";"Unterricht in der Herkunftssprache - Polnisch";null;null;null;0;0;0;0;0;0;0
+"SR";"PP";"Praktische Philosophie";null;null;null;0;0;0;0;0;0;0
+"SR";"PS";"Psychologie";null;null;null;0;0;0;0;0;0;0
+"SR";"PÖ";"Politik/Ökonomische Grundbildung";null;null;null;0;0;0;0;0;0;0
+"SR";"QH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Farsi";null;null;null;0;0;0;0;0;0;0
+"SR";"QM";"Unterricht in der Herkunftssprache - Farsi";null;null;null;0;0;0;0;0;0;0
+"SR";"R5";"Russisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"SR";"R6";"Russisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"SR";"R8";"Russisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"SR";"RH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Arabisch";null;null;null;0;0;0;0;0;0;0
+"SR";"RM";"Unterricht in der Herkunftssprache - Russisch";null;null;null;0;0;0;0;0;0;0
+"SR";"RQ";"Russisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"SR";"S3";"Sport für Jungen";null;null;null;0;0;0;0;0;0;0
+"SR";"S4";"Sport für Mädchen";null;null;null;0;0;0;0;0;0;0
+"SR";"S5";"Spanisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"SR";"S6";"Spanisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"SR";"S8";"Spanisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"SR";"SG";"sonderpädag. Förderung für Schüler/-innen mit sonderpädag. Förderbedarf";null;null;null;0;0;0;0;0;0;0
+"SR";"SH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Spanisch";null;null;null;0;0;0;0;0;0;0
+"SR";"SM";"Unterricht in der Herkunftssprache - Spanisch";null;null;null;0;0;0;0;0;0;0
+"SR";"SP";"Sport";null;null;null;0;0;0;0;0;0;0
+"SR";"SQ";"Spanisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"SR";"SR";"sonstige Sprachen";null;null;null;0;0;0;0;0;0;0
+"SR";"SW";"Sozialwissenschaften";null;null;null;0;0;0;0;0;0;0
+"SR";"T5";"Türkisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"SR";"T6";"Türkisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"SR";"T8";"Türkisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"SR";"TC";"Technik";null;null;null;0;0;0;0;0;0;0
+"SR";"TH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Türkisch";null;null;null;0;0;0;0;0;0;0
+"SR";"TM";"Unterricht in der Herkunftssprache - Türkisch";null;null;null;0;0;0;0;0;0;0
+"SR";"TQ";"Türkisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"SR";"TX";"Textilgestaltung";null;null;null;0;0;0;0;0;0;0
+"SR";"UH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Russisch";null;null;null;0;0;0;0;0;0;0
+"SR";"UM";"Unterricht in der Herkunftssprache - Rumänisch";null;null;null;0;0;0;0;0;0;0
+"SR";"VF";"Fächer im genehmigten Schulversuch und sonstige Fächer";null;null;null;0;0;0;0;0;0;0
+"SR";"VH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Bulgarisch";null;null;null;0;0;0;0;0;0;0
+"SR";"VM";"Unterricht in der Herkunftssprache - Bulgarisch";null;null;null;0;0;0;0;0;0;0
+"SR";"WP";"Wirtschaft-Politik";null;null;null;0;0;0;0;0;0;0
+"SR";"WW";"Wirtschaft";null;null;null;0;0;0;0;0;0;0
+"SR";"XH";"Herkunftssprache anstelle einer Pflichtfremdsprache - sonstige Sprache";null;null;null;0;0;0;0;0;0;0
+"SR";"XM";"Unterricht in der Herkunftssprache - sonstige Sprache";null;null;null;0;0;0;0;0;0;0
+"SR";"YH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Koreanisch";null;null;null;0;0;0;0;0;0;0
+"SR";"YM";"Unterricht in der Herkunftssprache - Koreanisch";null;null;null;0;0;0;0;0;0;0
+"SR";"YR";"orthodoxe Religionslehre (Syrisch)";null;null;null;0;0;0;0;0;0;0
+"SR";"Z5";"Neugriechisch, regulärer Beginn in Jahrgang 5";null;null;null;0;0;0;0;0;0;0
+"SR";"Z6";"Neugriechisch, regulärer Beginn in Jahrgang 6";null;null;null;0;0;0;0;0;0;0
+"SR";"Z8";"Neugriechisch, regulärer Beginn in Jahrgang 8";null;null;null;0;0;0;0;0;0;0
+"SR";"ZH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Kurdische Sprachen";null;null;null;0;0;0;0;0;0;0
+"SR";"ZM";"Unterricht in der Herkunftssprache - Kurdische Sprachen (Sorani, Komanci, Zaza)";null;null;null;0;0;0;0;0;0;0
+"SR";"ZQ";"Neugriechisch, außerhalb des regulären Fachunterrichts";null;null;null;0;0;0;0;0;0;0
+"V";"AH";"Arbeitslehre - Schwerpunkt Hauswirtschaft";null;null;null;0;0;0;0;0;0;0
+"V";"AM";"Unterricht in der Herkunftssprache - Arabisch";null;null;null;0;0;0;0;0;0;0
+"V";"AR";"Alevitische Religionslehre nach den Grundsätzen des AABF";null;null;null;0;0;0;0;0;0;0
+"V";"AT";"Arbeitslehre - Schwerpunkt Technik";null;null;null;0;0;0;0;0;0;0
+"V";"AW";"Arbeitslehre - Schwerpunkt Wirtschaft";null;null;null;0;0;0;0;0;0;0
+"V";"BI";"Biologie";null;null;null;0;0;0;0;0;0;0
+"V";"BM";"Unterricht in der Herkunftssprache - Bosnisch";null;null;null;0;0;0;0;0;0;0
+"V";"CH";"Chemie";null;null;null;0;0;0;0;0;0;0
+"V";"CM";"Unterricht in der Herkunftssprache - Kroatisch";null;null;null;0;0;0;0;0;0;0
+"V";"D";"Deutsch";null;null;null;0;0;0;0;0;0;0
+"V";"E";"Englisch";null;null;null;0;0;0;0;0;0;0
+"V";"EB";"Erweitertes Bildungsangebot";null;null;null;0;0;0;0;0;0;0
+"V";"EK";"Erdkunde";null;null;null;0;0;0;0;0;0;0
+"V";"EM";"Unterricht in der Herkunftssprache - Serbisch";null;null;null;0;0;0;0;0;0;0
+"V";"EN";"Evangelische Religionslehre (konfessionell kooperativ)";null;null;null;0;0;0;0;0;0;0
+"V";"ER";"Evangelische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"V";"F";"Französisch";null;null;null;0;0;0;0;0;0;0
+"V";"FU";"Förderunterricht";null;null;null;0;0;0;0;0;0;0
+"V";"GE";"Geschichte";null;null;null;0;0;0;0;0;0;0
+"V";"GM";"Unterricht in der Herkunftssprache - Neugriechisch";null;null;null;0;0;0;0;0;0;0
+"V";"HR";"Jüdische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"V";"HU";"Hausunterricht";null;null;null;0;0;0;0;0;0;0
+"V";"IE";"Individuelles Lernen (Ergänzungsstunden, Ganztag- und Betreuungsangebote)";null;null;null;0;0;0;0;0;0;0
+"V";"IF";"Informatik";null;null;null;0;0;0;0;0;0;0
+"V";"IK";"Individuelles Lernen (dem Kernstundenkontingent entnommen)";null;null;null;0;0;0;0;0;0;0
+"V";"IL";"Islamische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"V";"IM";"Unterricht in der Herkunftssprache - Italienisch";null;null;null;0;0;0;0;0;0;0
+"V";"KN";"Katholische Religionslehre (konfessionell kooperativ)";null;null;null;0;0;0;0;0;0;0
+"V";"KR";"Katholische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"V";"KU";"Kunst";null;null;null;0;0;0;0;0;0;0
+"V";"LM";"Unterricht in der Herkunftssprache - Albanisch";null;null;null;0;0;0;0;0;0;0
+"V";"M";"Mathematik";null;null;null;0;0;0;0;0;0;0
+"V";"MM";"Unterricht in der Herkunftssprache - Mazedonisch";null;null;null;0;0;0;0;0;0;0
+"V";"MU";"Musik";null;null;null;0;0;0;0;0;0;0
+"V";"N";"Niederländisch";null;null;null;0;0;0;0;0;0;0
+"V";"NM";"Unterricht in der Herkunftssprache - Niederländisch";null;null;null;0;0;0;0;0;0;0
+"V";"OM";"Unterricht in der Herkunftssprache - Portugiesisch";null;null;null;0;0;0;0;0;0;0
+"V";"OR";"Orthodoxe Religionslehre";null;null;null;0;0;0;0;0;0;0
+"V";"PH";"Physik";null;null;null;0;0;0;0;0;0;0
+"V";"PK";"Politik";null;null;null;0;0;0;0;0;0;0
+"V";"PM";"Unterricht in der Herkunftssprache - Polnisch";null;null;null;0;0;0;0;0;0;0
+"V";"PP";"Praktische Philosophie";null;null;null;0;0;0;0;0;0;0
+"V";"QM";"Unterricht in der Herkunftssprache - Farsi";null;null;null;0;0;0;0;0;0;0
+"V";"RM";"Unterricht in der Herkunftssprache - Russisch";null;null;null;0;0;0;0;0;0;0
+"V";"S3";"Sport für Jungen";null;null;null;0;0;0;0;0;0;0
+"V";"S4";"Sport für Mädchen";null;null;null;0;0;0;0;0;0;0
+"V";"SG";"sonderpädag. Förderung für Schüler/-innen mit sonderpädag. Förderbedarf";null;null;null;0;0;0;0;0;0;0
+"V";"SM";"Unterricht in der Herkunftssprache - Spanisch";null;null;null;0;0;0;0;0;0;0
+"V";"SP";"Sport";null;null;null;0;0;0;0;0;0;0
+"V";"SR";"sonstige Sprachen (z.B. Arabisch, Chinesisch)";null;null;null;0;0;0;0;0;0;0
+"V";"SU";"Sachunterricht";null;null;null;0;0;0;0;0;0;0
+"V";"SW";"Sozialwissenschaften";null;null;null;0;0;0;0;0;0;0
+"V";"TM";"Unterricht in der Herkunftssprache - Türkisch";null;null;null;0;0;0;0;0;0;0
+"V";"TX";"Textilgestaltung";null;null;null;0;0;0;0;0;0;0
+"V";"UM";"Unterricht in der Herkunftssprache - Rumänisch";null;null;null;0;0;0;0;0;0;0
+"V";"UU";"fächerübergreifender Unterricht (Sprache/Sachunt./Mathematik/Förderunt.)";null;null;null;0;0;0;0;0;0;0
+"V";"VF";"Fächer im genehmigten Schulversuch und sonstige Fächer";null;null;null;0;0;0;0;0;0;0
+"V";"VM";"Unterricht in der Herkunftssprache - Bulgarisch";null;null;null;0;0;0;0;0;0;0
+"V";"WP";"Wirtschaft-Politik";null;null;null;0;0;0;0;0;0;0
+"V";"WW";"Wirtschaft";null;null;null;0;0;0;0;0;0;0
+"V";"XM";"Unterricht in der Herkunftssprache - sonstige Sprache";null;null;null;0;0;0;0;0;0;0
+"V";"YM";"Unterricht in der Herkunftssprache - Koreanisch";null;null;null;0;0;0;0;0;0;0
+"V";"YR";"orthodoxe Religionslehre (Syrisch)";null;null;null;0;0;0;0;0;0;0
+"V";"ZF";"Zusätzliche Förderung in der Schuleingangsphase";null;null;null;0;0;0;0;0;0;0
+"V";"ZM";"Unterricht in der Herkunftssprache - Kurdische Sprachen (Sorani, Komanci, Zaza)";null;null;null;0;0;0;0;0;0;0
+"WB";"A";"Arabisch";null;null;null;0;0;0;0;0;0;0
+"WB";"BI";"Biologie";null;null;null;0;0;0;0;0;0;0
+"WB";"C";"Chinesisch";null;null;null;0;0;0;0;0;0;0
+"WB";"CH";"Chemie";null;null;null;0;0;0;0;0;0;0
+"WB";"D";"Deutsch";null;null;null;0;0;0;0;0;0;0
+"WB";"E";"Englisch";null;null;null;0;0;0;0;0;0;0
+"WB";"EK";"Erdkunde/Geographie";null;null;null;0;0;0;0;0;0;0
+"WB";"EN";"Evangelische Religionslehre (konfessionell kooperativ)";null;null;null;0;0;0;0;0;0;0
+"WB";"ER";"Evangelische Religionslehre/ Theologie";null;null;null;0;0;0;0;0;0;0
+"WB";"F";"Französisch";null;null;null;0;0;0;0;0;0;0
+"WB";"G";"Altgriechisch";null;null;null;0;0;0;0;0;0;0
+"WB";"GE";"Geschichte";null;null;null;0;0;0;0;0;0;0
+"WB";"GO";"Geologie                              (Oberstufenkolleg Bielefeld)";null;null;null;0;0;0;0;0;0;0
+"WB";"GW";"Geschichte und Sozialwissenschaft";null;null;null;0;0;0;0;0;0;0
+"WB";"H";"Hebräisch";null;null;null;0;0;0;0;0;0;0
+"WB";"HR";"Jüdische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"WB";"HU";"Hausunterricht";null;null;null;0;0;0;0;0;0;0
+"WB";"HW";"Hauswirtschaft";null;null;null;0;0;0;0;0;0;0
+"WB";"I";"Italienisch";null;null;null;0;0;0;0;0;0;0
+"WB";"IF";"Informatik";null;null;null;0;0;0;0;0;0;0
+"WB";"IL";"Islamische Religionslehre";null;null;null;0;0;0;0;0;0;0
+"WB";"K";"Japanisch";null;null;null;0;0;0;0;0;0;0
+"WB";"KN";"Katholische Religionslehre (konfessionell kooperativ)";null;null;null;0;0;0;0;0;0;0
+"WB";"KR";"Katholische Religionslehre/ Theologie";null;null;null;0;0;0;0;0;0;0
+"WB";"KU";"Kunst";null;null;null;0;0;0;0;0;0;0
+"WB";"L";"Latein";null;null;null;0;0;0;0;0;0;0
+"WB";"LI";"Literatur";null;null;null;0;0;0;0;0;0;0
+"WB";"M";"Mathematik";null;null;null;0;0;0;0;0;0;0
+"WB";"MU";"Musik";null;null;null;0;0;0;0;0;0;0
+"WB";"N";"Niederländisch";null;null;null;0;0;0;0;0;0;0
+"WB";"O";"Portugiesisch";null;null;null;0;0;0;0;0;0;0
+"WB";"OR";"Orthodoxe Religionslehre";null;null;null;0;0;0;0;0;0;0
+"WB";"PA";"Erziehungswissenschaft";null;null;null;0;0;0;0;0;0;0
+"WB";"PH";"Physik";null;null;null;0;0;0;0;0;0;0
+"WB";"PK";"Politik";null;null;null;0;0;0;0;0;0;0
+"WB";"PL";"Philosophie";null;null;null;0;0;0;0;0;0;0
+"WB";"PP";"Praktische Philosophie";null;null;null;0;0;0;0;0;0;0
+"WB";"PS";"Psychologie";null;null;null;0;0;0;0;0;0;0
+"WB";"PX";"Projektkurs (Pseudofach: nicht für ASD)";null;null;null;0;0;0;0;0;0;0
+"WB";"R";"Russisch";null;null;null;0;0;0;0;0;0;0
+"WB";"RK";"Recht";null;null;null;0;0;0;0;0;0;0
+"WB";"S";"Spanisch";null;null;null;0;0;0;0;0;0;0
+"WB";"SL";"Soziologie";null;null;null;0;0;0;0;0;0;0
+"WB";"SP";"Sport";null;null;null;0;0;0;0;0;0;0
+"WB";"SR";"Sonstige Sprachen";null;null;null;0;0;0;0;0;0;0
+"WB";"SW";"Sozialwissenschaften";null;null;null;0;0;0;0;0;0;0
+"WB";"SZ";"Sozialwissenschaften/Wirtschaft";null;null;null;0;0;0;0;0;0;0
+"WB";"T";"Türkisch";null;null;null;0;0;0;0;0;0;0
+"WB";"TC";"Technik";null;null;null;0;0;0;0;0;0;0
+"WB";"VF";"Fächer im genehmigten Schulversuch und sonstige Fächer";null;null;null;0;0;0;0;0;0;0
+"WB";"VW";"Volkswirtschaftslehre";null;null;null;0;0;0;0;0;0;0
+"WB";"VX";"Vertiefungsfach (Pseudofach: nicht für ASD)";null;null;null;0;0;0;0;0;0;0
+"WB";"YR";"orthodoxe Religionslehre (Syrisch)";null;null;null;0;0;0;0;0;0;0
+"WB";"Z";"Neugriechisch";null;null;null;0;0;0;0;0;0;0
