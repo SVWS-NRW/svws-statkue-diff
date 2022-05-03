@@ -137,16 +137,10 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "GM";"**";"**";"02";"E";"Fachleistungsebene: Erweiterungsebene/-kurs";0;"1";
 "GM";"**";"**";"02";"E";"Fachleistungsebene: Erweiterungsebene/-kurs";0;"2";
 "GM";"**";"**";"04";"FFU";"Fachbezogener Förderunterricht";0;"1";
-"GM";"**";"**";"04";"FFU";"Fachbezogener Förderunterricht";0;"1";
-"GM";"**";"**";"04";"FFU";"Fachbezogener Förderunterricht";0;"2";
 "GM";"**";"**";"04";"FFU";"Fachbezogener Förderunterricht";0;"2";
 "GM";"**";"**";"05";"FUF";"Fachunabhängiger Förderunterricht";0;"1";
-"GM";"**";"**";"05";"FUF";"Fachunabhängiger Förderunterricht";0;"1";
-"GM";"**";"**";"05";"FUF";"Fachunabhängiger Förderunterricht";0;"2";
 "GM";"**";"**";"05";"FUF";"Fachunabhängiger Förderunterricht";0;"2";
 "GM";"**";"**";"10";"WPI";"Wahlpflichtunterricht";0;"1";
-"GM";"**";"**";"10";"WPI";"Wahlpflichtunterricht";0;"1";
-"GM";"**";"**";"10";"WPI";"Wahlpflichtunterricht";0;"2";
 "GM";"**";"**";"10";"WPI";"Wahlpflichtunterricht";0;"2";
 "GM";"**";"**";"13";"G";"Grundkurs (Bildungsgang Hauptschule)";0;"1";
 "GM";"**";"**";"13";"G";"Grundkurs (Bildungsgang Hauptschule)";0;"2";

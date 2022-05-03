@@ -77,7 +77,7 @@ SF;FSP;Beschreibung;Flag;geaendert
 "SB";"KB";"Körperliche und motorische Entwicklung";"2";
 "SG";"KB";"Körperliche und motorische Entwicklung";"2";
 "SK";"KB";"Körperliche und motorische Entwicklung";"2";
-"V";"KB";"Körperbehinderte";"2";
+"V";"KB";"Körperliche und motorische Entwicklung";"2";
 "FW";"KR";"Schule für Kranke";"2";
 "S";"KR";"Schule für Kranke";"2";
 "BK";"LB";"Lernen";"2";
@@ -180,4 +180,4 @@ SF;FSP;Beschreibung;Flag;geaendert
 "SK";"SH";"Sehen (Sehbehinderte)";"2";
 "V";"SH";"Sehen (Sehbehinderte)";"2";
 "SB";"XX";"Kein Förderschwerpunkt";"2";
-"SG";"XX";"kein Förderschwerpunkt (SII  A-Bereich)";"2";
+"SG";"XX";"kein Förderschwerpunkt";"2";

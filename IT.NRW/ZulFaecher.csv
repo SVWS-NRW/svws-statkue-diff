@@ -1631,7 +1631,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SG";null;null;"LM";"Unterricht in der Herkunftssprache - Albanisch";null;"1";12;9;
 "SG";null;null;"LQ";"Lateinisch, außerhalb des regulären Fachunterrichts";0;"1";12;6;
 "SG";null;null;"M";"Mathematik";null;"1";13;1;
-"SG";null;null;"MH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Makedonisch";null;"1";13;2;
+"SG";null;null;"MH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Mazedonisch";null;"1";13;2;
 "SG";null;null;"MM";"Unterricht in der Herkunftssprache - Mazedonisch";null;"1";13;3;
 "SG";null;null;"MU";"Musik";null;"1";13;4;
 "SG";null;null;"MX";"Spezielle sonderpädagogische Maßnahme";0;"1";13;5;
@@ -2053,8 +2053,8 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SR";null;null;"LM";"Unterricht in der Herkunftssprache - Albanisch";null;"1";12;6;
 "SR";null;null;"LQ";"Latein , außerhalb des regulären Fachunterrichts";0;"1";12;4;
 "SR";null;null;"M";"Mathematik";null;"1";13;1;
-"SR";null;null;"MH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Makedonisch";null;"1";13;2;
-"SR";null;null;"MM";"Unterricht in der Herkunftssprache - Makedonisch";null;"1";13;3;
+"SR";null;null;"MH";"Herkunftssprache anstelle einer Pflichtfremdsprache - Mazedonisch";null;"1";13;2;
+"SR";null;null;"MM";"Unterricht in der Herkunftssprache - Mazedonisch";null;"1";13;3;
 "SR";null;null;"MU";"Musik";null;"1";13;4;
 "SR";null;null;"N5";"Niederländisch, regulärer Beginn in Jahrgang 5";0;"1";14;1;
 "SR";null;null;"N6";"Niederländisch, regulärer Beginn in Jahrgang 6";0;"1";14;2;
@@ -2214,7 +2214,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "V";null;null;"XM";"Unterricht in der Herkunftssprache - sonstige Sprache";null;"1";24;1;
 "V";null;null;"YM";"Unterricht in der Herkunftssprache - Koreanisch";0;"1";25;1;
 "V";null;null;"YR";"orthodoxe Religionslehre (Syrisch)";0;"1";25;2;
-"V";null;null;"ZF";"Zusätzliche Förderung in der Schuleingangsphase";0;"1";26;1;
+"V";null;null;"ZF";"Zusätzliche Förderung";0;"1";26;1;
 "V";null;null;"ZM";"Unterricht in der Herkunftssprache - Kurdische Sprachen (Sorani, Komanci, Zaza)";0;"1";26;2;
 "V";null;null;null;"Kein Eintrag";0;"2";0;0;
 "WB";null;null;"A";"Arabisch";0;"1";1;1;
