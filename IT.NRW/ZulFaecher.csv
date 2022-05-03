@@ -7,13 +7,16 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "BK";null;null;"BF";"Bürowirtschaft";-1;"1";2;0;
 "BK";null;null;"BG";"Betrieb und Gesellschaft/Politik";null;"1";2;0;
 "BK";null;null;"BI";"Biologie";-1;"1";2;0;
+"BK";null;null;"BK";"Betriebsinformatik";0;"1";2;0;
 "BK";null;null;"BP";"Betriebspraxis";-1;"1";2;0;
 "BK";null;null;"BR";"Betriebslehre";-1;"1";2;0;
 "BK";null;null;"BS";"Betriebssoziologie / Arbeitsrecht";-1;"1";2;0;
 "BK";null;null;"BW";"Betriebswirtschaftslehre";-1;"1";2;0;
+"BK";null;null;"BY";"Betriebssysteme / Netzwerke";0;"1";2;0;
 "BK";null;null;"C";"Chinesisch";0;"1";3;0;
 "BK";null;null;"CH";"Chemie";-1;"1";3;0;
 "BK";null;null;"D";"Deutsch";-1;"1";4;0;
+"BK";null;null;"DB";"Datenbanken";0;"1";4;0;
 "BK";null;null;"DM";"Didaktik u. Methodik der soz.päd. Praxis mit Übungen";-1;"1";4;0;
 "BK";null;null;"DV";"Datenverarbeitung";0;"1";4;0;
 "BK";null;null;"E";"Englisch";-1;"1";5;0;
@@ -69,6 +72,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "BK";null;null;"RE";"Rechnungswesen";-1;"1";18;0;
 "BK";null;null;"RW";"Recht und Verwaltung";-1;"1";18;0;
 "BK";null;null;"S";"Spanisch";-1;"1";19;0;
+"BK";null;null;"SE";"Softwareentwicklung und -engineering";0;"1";19;0;
 "BK";null;null;"SG";"sonderpädag. Förderung für Schüler/-innen mit sonderpädag. Förderbedarf";0;"1";19;0;
 "BK";null;null;"SI";"Spiel";-1;"1";19;0;
 "BK";null;null;"SL";"Soziologie";-1;"1";19;0;
@@ -77,6 +81,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "BK";null;null;"SW";"Sozialwissenschaften";0;"1";19;0;
 "BK";null;null;"T";"Türkisch";0;"1";20;0;
 "BK";null;null;"TG";"Technische Grundbildung";-1;"1";20;0;
+"BK";null;null;"TI";"Technische Informatik";0;"1";20;0;
 "BK";null;null;"TV";"Textverarbeitung";-1;"1";20;0;
 "BK";null;null;"TZ";"Technisches Zeichnen / Fachzeichnen";-1;"1";20;0;
 "BK";null;null;"UM";"Unterricht in der Herkunftssprache - Rumänisch";0;"1";21;0;
@@ -1430,13 +1435,16 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SB";null;null;"BF";"Bürowirtschaft";null;"1";2;0;
 "SB";null;null;"BG";"Betrieb und Gesellschaft/Politik";0;"1";2;0;
 "SB";null;null;"BI";"Biologie";null;"1";2;0;
+"SB";null;null;"BK";"Betriebsinformatik";0;"1";2;0;
 "SB";null;null;"BP";"Betriebspraxis";null;"1";2;0;
 "SB";null;null;"BR";"Betriebslehre";null;"1";2;0;
 "SB";null;null;"BS";"Betriebssoziologie / Arbeitsrecht";null;"1";2;0;
 "SB";null;null;"BW";"Betriebswirtschaftslehre";null;"1";2;0;
+"SB";null;null;"BY";"Betriebssysteme / Netzwerke";0;"1";2;0;
 "SB";null;null;"C";"Chinesisch";0;"1";3;0;
 "SB";null;null;"CH";"Chemie";null;"1";3;0;
 "SB";null;null;"D";"Deutsch";null;"1";4;0;
+"SB";null;null;"DB";"Datenbanken";0;"1";4;0;
 "SB";null;null;"DM";"Didaktik u. Methodik der soz.päd. Praxis mit Übungen";null;"1";4;0;
 "SB";null;null;"DV";"Datenverarbeitung";0;"1";4;0;
 "SB";null;null;"E";"Englisch";null;"1";5;0;
@@ -1490,6 +1498,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SB";null;null;"RE";"Rechnungswesen";null;"1";18;0;
 "SB";null;null;"RW";"Recht und Verwaltung";null;"1";18;0;
 "SB";null;null;"S";"Spanisch";null;"1";19;0;
+"SB";null;null;"SE";"Softwareentwicklung und -engineering";0;"1";19;0;
 "SB";null;null;"SG";"sonderpädag. Förderung für Schüler/-innen mit sonderpädag. Förderbedarf";0;"1";19;0;
 "SB";null;null;"SI";"Spiel";null;"1";19;0;
 "SB";null;null;"SL";"Soziologie";null;"1";19;0;
@@ -1498,6 +1507,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SB";null;null;"SW";"Sozialwissenschaften";0;"1";19;0;
 "SB";null;null;"T";"Türkisch";0;"1";20;0;
 "SB";null;null;"TG";"Technische Grundbildung";null;"1";20;0;
+"SB";null;null;"TI";"Technische Informatik";0;"1";20;0;
 "SB";null;null;"TV";"Textverarbeitung";null;"1";20;0;
 "SB";null;null;"TZ";"Technisches Zeichnen / Fachzeichnen";null;"1";20;0;
 "SB";null;null;"VE";"Verwaltungskunde";0;"1";22;0;

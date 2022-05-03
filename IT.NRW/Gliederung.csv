@@ -39,13 +39,15 @@ SF;Flag;BKAnlage;BKTyp;BKIndex;Beschreibung;geaendert
 "BK";"1";"A";"13";58;"Ausbildungsvorbereitung (BS 1j; TZ)";
 "SB";"1";"A";"13";58;"Ausbildungsvorbereitung (BS 1j; TZ)";
 "BK";"1";"A";"14";61;"Berufsabschluss (nach §50 BBiG/§40 HwO)/mittlerer Schulabschluss BAB/FOR; VZ";
-"SB";"1";"A";"14";59;"Berufsabschluss (nach §50 BBiG/§40 HwO)/mittlerer Schulabschluss (BAB/FOR; VZ)";
+"SB";"1";"A";"14";61;"Berufsabschluss (nach §50 BBiG/§40 HwO)/mittlerer Schulabschluss BAB/FOR; VZ";
 "BK";"3";"A";"14";59;"Berufsabschluss (nach §50 BBiG/§40 HwO)/mittlerer Schulabschluss BAB/FOR; VZ";
+"SB";"3";"A";"14";59;"Berufsabschluss (nach §50 BBiG/§40 HwO)/mittlerer Schulabschluss (BAB/FOR; VZ)";
 "BK";"1";"A";"15";62;"Berufsabschluss (nach §50 BBiG/§40 HwO)/mittlerer Schulabschluss BAB/FOR; VZ";
 "BK";"3";"A";"15";59;"Berufsabschluss (nach §50 BBiG/§40 HwO)/mittlerer Schulabschluss BAB/FOR; VZ";
 "BK";"1";"A";"16";63;"Fachklassen (nach §2 BKAZVO) BAB; VZ";
-"SB";"1";"A";"16";59;"Fachklassen (nach §2 BKAZVO) (BAB; VZ)";
+"SB";"1";"A";"16";63;"Fachklassen (nach §2 BKAZVO) BAB; VZ";
 "BK";"3";"A";"16";59;"Fachklassen (nach §2 BKAZVO) BAB; VZ";
+"SB";"3";"A";"16";59;"Fachklassen (nach §2 BKAZVO) (BAB; VZ)";
 "FW";"4";"A";"B";0;"Schule für Kranke: Allgemeinbildend";
 "S";"4";"A";"B";0;"Schule für Kranke: Allgemeinbildend";
 "BK";"3";"B";"01";60;"Berufsabschluss/Fachoberschulreife (BAB/FOR 2j; VZ)";

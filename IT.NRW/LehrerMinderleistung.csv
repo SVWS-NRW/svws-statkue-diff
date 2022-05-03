@@ -14,5 +14,6 @@ ID;Kurztext;Langtext;Beginn;Ende;Sort;geaendert
 11;"300";"Sonstige Ermäßigungen aus besonderen persönlichen Gründen";1900-01-01T00:00;null;300;
 12;"350";"Abrundung der Pflichtstundenzahl aufgrund von § 2 Abs. 1 AVO-RL";1900-01-01T00:00;null;350;
 13;"360";"Unterschreitung der Pflichtstundenzahl aus organisatorischen Gründen (z. B. Epochenunterricht)";1900-01-01T00:00;null;360;
+23;"365";"Unterschreitung der Pflichtstundenzahl wegen COVID-19";1900-01-01T00:00;null;365;
 14;"370";"Unterschreitung der Pflichtstundenzahl wegen Pflichstunden-Bandbreite";1900-01-01T00:00;null;370;
 21;"380";"Fortbildung: Nachträglicher Erwerb des sonderpädagogischen Lehramtes";2012-08-01T00:00;null;380;
