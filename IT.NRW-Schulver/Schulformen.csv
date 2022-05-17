@@ -1,0 +1,19 @@
+Schulform;SF;Bezeichnung;Flag;geaendert
+"02";"G";"Grundschule";"1";2012-08-13T09:21:57
+"04";"H";"Hauptschule";"1";null
+"06";"V";"nicht umorganisierte Volksschule";"1";null
+"08";"S";"Förderschule im Bereich G/H";"1";2006-04-06T13:56:30
+"10";"R";"Realschule";"1";null
+"13";"PS";"Schulversuch PRIMUS";"1";2013-04-10T09:04:23
+"14";"SK";"Sekundarschule";"1";2012-05-08T08:23:10
+"15";"GE";"Gesamtschule";"1";null
+"16";"GM";"Gemeinschaftsschule";"1";2011-02-22T12:09:08
+"17";"FW";"Freie Waldorfschule";"1";null
+"18";"FW";"Hibernia";"1";null
+"20";"GY";"Gymnasium";"1";null
+"25";"WB";"Weiterbildungskolleg";"1";null
+"30";"BK";"Berufskolleg";"1";null
+"83";"S";"Schule für Kranke";"1";2005-06-21T07:50:43
+"85";"SR";"Förderschule im Bereich Realschule";"1";2006-04-06T13:56:01
+"87";"SG";"Förderschule im Bereich Gymnasium";"1";2006-04-06T13:56:08
+"88";"SB";"Förderschule im Bereich Berufskolleg";"1";2006-04-06T13:56:20
