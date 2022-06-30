@@ -1,4 +1,4 @@
-Schulnr;Regschl;KoRe;KoHo;ABez1;ABez2;ABez3;PLZ;Ort;Strasse;TelVorw;Telefon;SF;OeffPri;KurzBez;SchBetrSchl;SchBetrSchlDatum;SchülerZahlASD;SchülerZahlVS;ArtderTrägerschaft;SchulträgerNr;Schulgliederung;Ganztagsbetrieb;aktiv
+SchulNr;RegSchl;KoRe;KoHo;ABez1;ABez2;ABez3;PLZ;Ort;Strasse;TelVorw;Telefon;SF;OeffPri;KurzBez;SchBetrSchl;SchBetrSchlDatum;SchülerZahlASD;SchülerZahlVS;ArtderTrägerschaft;SchulträgerNr;Schulgliederung;Ganztagsbetrieb;Aktiv
 "10001";"562012";"363089";"5731819";"Montessori Grundschule Dorsten gGmbH";"";"";"46286";"Dorsten";"Kleiner Ring 2";"02369";"2059909";"00";"2";"Dorsten, Mont. Grundschule Dorsten gGmbH";1;"20190801";0;0;"35";"0";"";"0";1
 "10002";"762004";"499949";"5724780";"Trägerverein Grundschule";"St. Walburga Neuenheerse";"";"33014";"Bad Driburg";"Taildor 8";"05259";"559";"00";"2";"Bad Driburg, Trägerverein St. Walburga";1;"20190801";0;0;"42";"0";"";"0";1
 "10003";"999999";"999999";"9999999";"Deutsche Angestellten-Akademie";"Wirtschaftsfachschule GmbH";"";"22081";"Hamburg";"Teichweg 19";"";"";"00";"2";"Hamburg, DAA Wirtschaftschule GmbH";1;"20190701";0;0;"35";"0";"";"0";1
