@@ -4,10 +4,12 @@ ID;Kurztext;Langtext;Beginn;Ende;Sort;geaendert
 87;"AR";"Alevitische Religionslehre nach den Grundsätzen des AABF";null;null;null;
 103;"BN";"Braille´sche Punktschrift";2019-08-01T00:00;null;null;
 106;"DF";"Design/Fotografie";2019-08-01T00:00;null;null;
+112;"DG";"Deutsche Gebärdensprache";2022-08-01T00:00;null;null;
 104;"DS";"Darstellen und Gestalten";2019-08-01T00:00;null;null;
 89;"DZ";"Deutsch für Schülerinnen und Schüler mit Zuwanderungsgeschichte";null;null;null;
 105;"EL";"Hauswirtschaft (Konsum/Ernährung/Gesundheit)";2019-08-01T00:00;null;null;
 107;"GW";"Gesellschaftswissenschaften";2019-08-01T00:00;null;null;
+113;"IG";"Ingenieurwissenschaften & Ingenieurtechnik";2022-08-01T00:00;null;null;
 93;"IL";"Islamische Religionslehre";1900-01-01T00:00;null;null;
 95;"MB";"Religionslehre der mennonitischen Brüdergemeinden in NRW (Lehrerlaubnis)";null;null;null;
 90;"MG";"Mathematische Grundbildung";null;null;null;
@@ -20,6 +22,7 @@ ID;Kurztext;Langtext;Beginn;Ende;Sort;geaendert
 110;"SI";"Sozialwesen";2019-08-01T00:00;null;null;
 101;"UM";"Rumänisch (Herkunftssprache)";null;null;null;
 96;"VM";"Bulgarisch (Herkunftssprache)";null;null;null;
+114;"WK";"Wirtschaft-Politik";2022-08-01T00:00;null;null;
 98;"YM";"Koreanisch (Herkunftssprache)";null;null;null;
 111;"ZB";"Zusatzqualifikation Bilinguales Lernen";2019-08-01T00:00;null;null;
 99;"ZM";"Kurdische Sprachen (Herkunftssprache) (Sorani, Komanci, Zaza)";null;null;null;
@@ -43,7 +46,7 @@ ID;Kurztext;Langtext;Beginn;Ende;Sort;geaendert
 24;"GU";"Gesamtunterricht";1900-01-01T00:00;null;1800;
 20;"GE";"Geschichte";1900-01-01T00:00;null;1900;
 22;"GP";"Geschichte / Politische Bildung";1900-01-01T00:00;null;2000;
-19;"G";"Altgriechisch";1900-01-01T00:00;null;2100;
+19;"G";"Griechisch";1900-01-01T00:00;null;2100;
 21;"GM";"Neugriechisch (Herkunftssprache)";1900-01-01T00:00;null;2200;
 51;"OR";"Orthodoxe Religionslehre";1900-01-01T00:00;null;2300;
 26;"HA";"Hauswirtschaft";1900-01-01T00:00;null;2400;

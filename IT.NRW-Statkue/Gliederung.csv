@@ -10,7 +10,6 @@ SF;Flag;BKAnlage;BKTyp;BKIndex;Beschreibung;geaendert
 "SR";"1";"*";"**";990;"Standard für diese Schulform";
 "V";"1";"*";"**";990;"Standard für diese Schulform";
 "G";"4";"*";"**";990;"Stammgliederung der Schule";
-"GE";"7";"*";"**";990;"Standard für diese Schulform";
 "GE";"8";"*";"**";990;"Standard für diese Schulform";
 "FW";"9";"*";"**";990;"Allgemeinbildender Bereich";
 "BK";"1";"A";"01";10;"Fachklassen (BS; TZ)";
@@ -43,8 +42,8 @@ SF;Flag;BKAnlage;BKTyp;BKIndex;Beschreibung;geaendert
 "BK";"1";"A";"15";62;"Berufsabschluss (nach §50 BBiG/§40 HwO)/mittlerer Schulabschluss BAB/FOR; VZ";
 "BK";"1";"A";"16";63;"Fachklassen (nach §2 BKAZVO) BAB; VZ";
 "SB";"1";"A";"16";63;"Fachklassen (nach §2 BKAZVO) BAB; VZ";
-"FW";"4";"A";"B";0;"Schule für Kranke: Allgemeinbildend";
-"S";"4";"A";"B";0;"Schule für Kranke: Allgemeinbildend";
+"FW";"4";"A";"B";0;"Klinikschule: Allgemeinbildend";
+"S";"4";"A";"B";0;"Klinikschule: Allgemeinbildend";
 "BK";"3";"B";"01";60;"Berufsabschluss/Fachoberschulreife (BAB/FOR 2j; VZ)";
 "SB";"3";"B";"01";60;"Berufsabschluss/Fachoberschulreife (BAB/FOR 2j; VZ)";
 "BK";"3";"B";"02";70;"Berufsgrundbildung/Fachoberschulreife (BG/FOR 2j; VZ)";
@@ -64,12 +63,11 @@ SF;Flag;BKAnlage;BKTyp;BKIndex;Beschreibung;geaendert
 "SB";"1";"B";"09";93;"Berufsabschl./Hauptschulab.Kl. 10 oder mittl. Schulab. (BAB/HSA10-FOR, 3j. TZ)";
 "BK";"1";"B";"10";93;"Berufsabschl./Hauptschulab.Kl. 10 oder mittl. Schulab. (BAB/HSA10-FOR, 4j. TZ)";
 "SB";"1";"B";"10";93;"Berufsabschl./Hauptschulab.Kl. 10 oder mittl. Schulab. (BAB/HSA10-FOR, 4j. TZ)";
-"BK";"4";"B";"11";94;"Berufsab./Hauptschulab.Kl. 10 oder mittl. Schulab. (BAB/HSA10-FOR, 3j. TZ berufsb.)";
 "SB";"4";"B";"11";94;"Berufsab./Hauptschulab.Kl. 10 oder mittl. Schulab. (BAB/HSA10-FOR, 3j. TZ berufsb.)";
-"FW";"4";"B";"T";0;"Schule für Kranke: Berufsbildend (Teilzeit)";
-"S";"4";"B";"T";0;"Schule für Kranke: Berufsbildend (Teilzeit)";
-"FW";"4";"B";"V";0;"Schule für Kranke: Berufsbildend (Vollzeit)";
-"S";"4";"B";"V";0;"Schule für Kranke: Berufsbildend (Vollzeit)";
+"FW";"4";"B";"T";0;"Klinikschule: Berufsbildend (Teilzeit)";
+"S";"4";"B";"T";0;"Klinikschule: Berufsbildend (Teilzeit)";
+"FW";"4";"B";"V";0;"Klinikschule: Berufsbildend (Vollzeit)";
+"S";"4";"B";"V";0;"Klinikschule: Berufsbildend (Vollzeit)";
 "BK";"1";"C";"01";100;"Berufsabschluss/Fachhochschulreife (ohne Berufspraktikum) BAB/FHR 3j; VZ";
 "SB";"1";"C";"01";100;"Berufsabschluss/Fachhochschulreife (ohne Berufspraktikum) (BAB/FHR 3j;VZ) BFS";
 "BK";"1";"C";"02";110;"Berufsabschluss f. Hochschulzugangsberechtigte (BAB 2j; VZ) BFS";
@@ -170,6 +168,5 @@ SF;Flag;BKAnlage;BKTyp;BKIndex;Beschreibung;geaendert
 "BK";"3";"X";"06";330;"Ehem. Kollegschule: Berufsabschluss und Allgemeine Hochschulreife (BAB/AHR 3j; VZ) - ausgelaufen!";
 "BK";"3";"X";"07";340;"Ehem. Kollegschule: Berufsabschluss und Fachoberschulreife (BAB/FOR 3j; VZ) - ausgelaufen!";
 "BK";"3";"X";"08";350;"Ehem. Kollegschule: Berufsabschluss mit Zusatzqualifikation (BAB/ZQ 3j; VZ) - ausgelaufen!";
-"GE";"7";"Y";"8";990;"Lehrplan G8, nur Jahrgang Q2";
 "BK";"3";"Z";"01";370;"Kooperationsklasse Hauptschule (HS 2j; VZ)";
 "SB";"4";"Z";"01";370;"Kooperationsklasse Hauptschule (HS 2j; VZ)";

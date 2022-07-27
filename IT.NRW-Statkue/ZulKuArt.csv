@@ -69,14 +69,10 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "GE";"**";"**";"56";"UMPF";"Unterricht in der Herkunftssprache anstelle einer Pflichtfremdsprache oder eines Wahlpflichtfaches";0;"2";
 "GE";"**";"**";"61";"WPIG";"Wahlfplichtunterricht: 2. Fremdsprache (Bildungsgang Gymnasium)";0;"1";
 "GE";"**";"**";"61";"WPIG";"Wahlfplichtunterricht: 2. Fremdsprache (Bildungsgang Gymnasium)";0;"2";
-"GE";"**";"**";"62";"WP1SW";"Wahlpflichtunterricht: Fächerkombination im math.-naturwiss, gesellschaftswiss. oder künstlerischen Schwerpunkt (GY)";0;"1";
-"GE";"**";"**";"62";"WP1SW";"Wahlpflichtunterricht: Fächerkombination im math.-naturwiss, gesellschaftswiss. oder künstlerischen Schwerpunkt (GY)";0;"2";
-"GE";"**";"**";"63";"SPA";"Wahlpflichtunterricht: Schwerpunktübergreifende Angebote (GY)";0;"1";
-"GE";"**";"**";"63";"SPA";"Wahlpflichtunterricht: Schwerpunktübergreifende Angebote (GY)";0;"2";
-"GE";"**";"**";"64";"F3";"Nur Bildungsgang Gymnasium: Einzelfach im math.-naturwiss., techn., gesellschaftswiss,künstlerischen Schwerpunkt";0;"1";
-"GE";"**";"**";"64";"F3";"Nur Bildungsgang Gymnasium: Einzelfach im math.-naturwiss., techn., gesellschaftswiss,künstlerischen Schwerpunkt";0;"2";
-"GE";"**";"**";"65";"FS3";"Wahlpflichtunterricht der Klassen 09 und 10 (08 bis 09 bei G8): 3. Fremdsprache (Bildungsgang Gymnasium)";0;"1";
-"GE";"**";"**";"65";"FS3";"Wahlpflichtunterricht der Klassen 09 und 10 (08 bis 09 bei G8): 3. Fremdsprache (Bildungsgang Gymnasium)";0;"2";
+"GE";"**";"**";"62";"WP1SW";"Wahlpflichtunterricht GY: Fächerkombination aus dem Fächerspektrum der APO-SI oder gemäß § 7 Abs. 1 APO-GOSt";0;"1";
+"GE";"**";"**";"62";"WP1SW";"Wahlpflichtunterricht GY: Fächerkombination aus dem Fächerspektrum der APO-SI oder gemäß § 7 Abs. 1 APO-GOSt";0;"2";
+"GE";"**";"**";"64";"F3";"Wahlpflichtunterricht: Einzelfach aus Fächerspektrum APO-SI oder gemäß § 7 Abs. 1 APO-GOSt (inklusive 3. Fremdsprache)";0;"1";
+"GE";"**";"**";"64";"F3";"Wahlpflichtunterricht: Einzelfach aus Fächerspektrum APO-SI oder gemäß § 7 Abs. 1 APO-GOSt (inklusive 3. Fremdsprache)";0;"2";
 "GE";"**";"**";"67";"WPU";"Nur Bildungsgang Gymnasium: Arbeitsgemeinschaften aufgrund der Regelung in § 3 Abs. 6 APO-SI";0;"1";
 "GE";"**";"**";"67";"WPU";"Nur Bildungsgang Gymnasium: Arbeitsgemeinschaften aufgrund der Regelung in § 3 Abs. 6 APO-SI";0;"2";
 "GE";"**";"**";"71";"AB3";"3. Abiturfach";0;"1";
@@ -115,8 +111,6 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "GE";"**";"**";"91";"TAL";"Unterricht im Rahmen des Schulversuchs Talentschule";0;"2";
 "GE";"**";"**";"94";"BUS";"Unterricht im Rahmen der Initiative 'Kein Abschluss ohne Anschluss' einschl. 'Schule trifft Arbeitswelt'";0;"1";
 "GE";"**";"**";"94";"BUS";"Unterricht im Rahmen der Initiative 'Kein Abschluss ohne Anschluss' einschl. 'Schule trifft Arbeitswelt'";0;"2";
-"GE";"**";"**";"95";"KMFÖ";"Zusätzlicher Förderunterricht im Rahmen der Initiative 'Komm mit'";0;"1";
-"GE";"**";"**";"95";"KMFÖ";"Zusätzlicher Förderunterricht im Rahmen der Initiative 'Komm mit'";0;"2";
 "GE";"**";"**";"96";"EGS1";"Ergänzungsstunden ohne Benotung 
 (§ 3 Abs. 1, 3  und  § 19 Abs. 3  Nr.1 und 3  APO-SI)";0;"1";
 "GE";"**";"**";"96";"EGS1";"Ergänzungsstunden ohne Benotung 
@@ -161,19 +155,15 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "GM";"**";"**";"61";"WP1FS";"Wahlpflichtbereich, Fremdsprachlich (Bildungsgang Realschule)";0;"2";
 "GM";"**";"**";"61";"WPI";"Wahlfplichtunterricht: 2. Fremdsprache (Bildungsgang Gymnasium)";0;"2";
 "GM";"**";"**";"62";"WP1SW";"Wahlpflichtbereich: Sozialwissenschaftlich (Bildungsgang Realschule)";0;"1";
-"GM";"**";"**";"62";"WPII";"Wahlpflichtunterricht: Fächerkombination im math.-naturwiss, gesellschaftswiss. oder künstlerischen Schwerpunkt (GY)";0;"1";
+"GM";"**";"**";"62";"WPII";"Wahlpflichtunterricht GY: Fächerkombination aus dem Fächerspektrum der APO-SI oder gemäß § 7 Abs. 1 APO-GOSt";0;"1";
 "GM";"**";"**";"62";"WP1SW";"Wahlpflichtbereich: Sozialwissenschaftlich (Bildungsgang Realschule)";0;"2";
-"GM";"**";"**";"62";"WPII";"Wahlpflichtunterricht: Fächerkombination im math.-naturwiss, gesellschaftswiss. oder künstlerischen Schwerpunkt (GY)";0;"2";
-"GM";"**";"**";"63";"SPA";"Wahlpflichtunterricht: Schwerpunktübergreifende Angebote (GY)";0;"1";
+"GM";"**";"**";"62";"WPII";"Wahlpflichtunterricht GY: Fächerkombination aus dem Fächerspektrum der APO-SI oder gemäß § 7 Abs. 1 APO-GOSt";0;"2";
 "GM";"**";"**";"63";"WP1NT";"Wahlpflichtbereich: Naturwissenschaftlich - technisch (Bildungsgang Realschule)";0;"1";
-"GM";"**";"**";"63";"SPA";"Wahlpflichtunterricht: Schwerpunktübergreifende Angebote (GY)";0;"2";
 "GM";"**";"**";"63";"WP1NT";"Wahlpflichtbereich: Naturwissenschaftlich - technisch (Bildungsgang Realschule)";0;"2";
-"GM";"**";"**";"64";"F3";"Wahlplflichtunterricht: Einzelfach im math.-natur., techn., gesellschafts, künstlerischen Schwerpunkt (GY)";0;"1";
+"GM";"**";"**";"64";"F3";"Wahlpflichtunterricht GY: Einzelfach aus Fächerspektrum APO-SI oder gemäß § 7 Abs. 1 APO-GOSt (inkl. 3. Fremdsprache)";0;"1";
 "GM";"**";"**";"64";"WP1MU";"Wahlpflichtbereich: Musisch-künstlerisch (Bildungsgang Realschule)";0;"1";
-"GM";"**";"**";"64";"F3";"Wahlplflichtunterricht: Einzelfach im math.-natur., techn., gesellschafts, künstlerischen Schwerpunkt (GY)";0;"2";
+"GM";"**";"**";"64";"F3";"Wahlpflichtunterricht GY: Einzelfach aus Fächerspektrum APO-SI oder gemäß § 7 Abs. 1 APO-GOSt (inkl. 3. Fremdsprache)";0;"2";
 "GM";"**";"**";"64";"WP1MU";"Wahlpflichtbereich: Musisch-künstlerisch (Bildungsgang Realschule)";0;"2";
-"GM";"**";"**";"65";"FS3";"Wahlpflichtunterricht der Klassen 09 und 10: 3. Fremdsprache (Bildungsgang Gymnasium)";0;"1";
-"GM";"**";"**";"65";"FS3";"Wahlpflichtunterricht der Klassen 09 und 10: 3. Fremdsprache (Bildungsgang Gymnasium)";0;"2";
 "GM";"**";"**";"67";"WPII";"Arbeitsgemeinschaften aufgrund der Regelung in § 3 Abs. 6 APO-SI (Bildungsgang Hauptschule)";0;"1";
 "GM";"**";"**";"67";"WPII";"Arbeitsgemeinschaften aufgrund der Regelung in § 3 Abs. 6 APO-SI (Bildungsgang Realschule)";0;"1";
 "GM";"**";"**";"67";"WPII";"Arbeitsgemeinschaften aufgrund der Regelung in § 3 Abs. 6 APO-SI (Bildungsgang Gymnasium)";0;"1";
@@ -220,8 +210,6 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "GM";"**";"**";"91";"TAL";"Unterricht im Rahmen des Schulversuchs Talentschule";0;"2";
 "GM";"**";"**";"94";"BUS";"Unterricht im Rahmen der Initiative 'Kein Abschluss ohne Anschluss' einschl. 'Schule trifft Arbeitswelt'";0;"1";
 "GM";"**";"**";"94";"BUS";"Unterricht im Rahmen der Initiative 'Kein Abschluss ohne Anschluss' einschl. 'Schule trifft Arbeitswelt'";0;"2";
-"GM";"**";"**";"95";"KMFÖ";"Zusätzlicher Förderunterricht im Rahmen der Initiative 'Komm mit'";0;"1";
-"GM";"**";"**";"95";"KMFÖ";"Zusätzlicher Förderunterricht im Rahmen der Initiative 'Komm mit'";0;"2";
 "GM";"**";"**";"96";"EGS1";"Ergänzungsstunden gem. § 3 Abs. 1, 3 und § 19 Abs. 3 APO-SI";0;"1";
 "GM";"**";"**";"96";"EGS1";"Ergänzungsstunden gem. § 3 Abs. 1, 3 und § 19 Abs. 3 APO-SI";0;"2";
 "GM";"**";"**";"99";"PUK";"Unterricht im Klassenverband";0;"1";
@@ -235,11 +223,9 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "GY";"**";"**";"55";"PROJ";"Profilklasse gem. § 21 Abs. 3 APO-SI";0;"1";
 "GY";"**";"**";"56";"UMPF";"Unterricht in der Herkunftssprache anstelle einer Pflichtfremdsprache oder eines Wahlpflichtfaches";0;"1";
 "GY";"**";"**";"61";"WPI";"Wahlpflichtunterricht: 2. Fremdsprache";0;"1";
-"GY";"**";"**";"62";"WPII";"Wahlpflichtunterricht: Fächerkombination im math.-naturwiss, gesellschaftswiss. oder künstlerischen Schwerpunkt";0;"1";
-"GY";"**";"**";"63";"SPA";"Wahlpflichtunterricht: Schwerpunktübergreifende Angebote";0;"1";
-"GY";"**";"**";"64";"F3";"Wahlplflichtunterricht: Einzelfach im math.-natur., techn., gesellschaftswiss, künstlerischen Schwerpunkt";0;"1";
-"GY";"**";"**";"65";"FS3";"Wahlpflichtunterricht der Klassen 09 und 10 (08 und 09 bei G8) 3. Fremdsprache";0;"1";
-"GY";"**";"**";"67";"WPU";"Wahlplflichtbereich: Arbeitsgemeinschaften aufgrund der Regelung in § 3 Abs. 6 APO-SI";0;"1";
+"GY";"**";"**";"62";"WPII";"Wahlpflichtunterricht: Fächerkombination aus dem Fächerspektrum der APO-SI oder gemäß § 7 Abs. 1 APO-GOSt";0;"1";
+"GY";"**";"**";"64";"F3";"Wahlpflichtunterricht: Einzelfach aus Fächerspektrum APO-SI oder gemäß § 7 Abs. 1 APO-GOSt (inklusive 3. Fremdsprache)";0;"1";
+"GY";"**";"**";"67";"WPU";"Arbeitsgemeinschaften aufgrund der Regelung in § 3 Abs. 6 APO-SI";0;"1";
 "GY";"**";"**";"71";"AB3";"3. Abiturfach";0;"1";
 "GY";"**";"**";"71";"AB4";"4. Abiturfach";0;"1";
 "GY";"**";"**";"71";"EFSP";"Ersatzfach für Sport als 4. Abiturfach";0;"1";
@@ -258,7 +244,6 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "GY";"**";"**";"90";"FS";"Förderung neu zugewanderter Schüler in Deutschförderklassen (vollständige äußere Differenzierung)";0;"1";
 "GY";"**";"**";"91";"TAL";"Unterricht im Rahmen des Schulversuchs Talentschule";0;"1";
 "GY";"**";"**";"94";"BUS";"Unterricht im Rahmen der Initiative 'Kein Abschluss ohne Anschluss' einschl. 'Schule trifft Arbeitswelt'";0;"1";
-"GY";"**";"**";"95";"KMFÖ";"Zusätzlicher Förderunterricht im Rahmen der Initiative 'Komm mit'";0;"1";
 "GY";"**";"**";"96";"EGS1";"Sonstige Ergänzungsstunden gem. § 3 Abs. 1, 3 und § 19 Abs. 3 APO-SI";0;"1";
 "GY";"**";"**";"99";"HU";"Hausunterricht";0;"1";
 "GY";"**";"**";"99";"PUK";"Unterricht im Klassenverband";0;"1";
@@ -314,8 +299,6 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "H";"**";"**";"91";"TAL";"Unterricht im Rahmen des Schulversuchs Talentschule";0;"2";
 "H";"**";"**";"94";"BUS";"Unterricht im Rahmen der Initiative 'Kein Abschluss ohne Anschluss' einschl. 'Schule trifft Arbeitswelt'";0;"1";
 "H";"**";"**";"94";"BUS";"Unterricht im Rahmen der Initiative 'Kein Abschluss ohne Anschluss' einschl. 'Schule trifft Arbeitswelt'";0;"2";
-"H";"**";"**";"95";"KMFÖ";"Zusätzlicher Förderunterricht im Rahmen der Initiative 'Komm mit'";0;"1";
-"H";"**";"**";"95";"KMFÖ";"Zusätzlicher Förderunterricht im Rahmen der Initiative 'Komm mit'";0;"2";
 "H";"**";"**";"96";"EGS1";"Ergänzungsstunden gem. § 3 Abs. 1, 3 und § 19 Abs. 3 APO-SI";0;"1";
 "H";"**";"**";"96";"EGS1";"Ergänzungsstunden gem. § 3 Abs. 1, 3 und § 19 Abs. 3 APO-SI";0;"2";
 "H";"**";"**";"99";"HU";"Hausunterricht";0;"1";
@@ -351,7 +334,6 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "PS";"**";"**";"89";"FS";"Förderung neu zugewanderter Schüler in Deutschfördergruppen (teilweise äußere und innere Differenzierung)";0;"1";
 "PS";"**";"**";"90";"FS";"Förderung neu zugewanderter Schüler in Deutschförderklassen (vollständige äußere Differenzierung)";0;"1";
 "PS";"**";"**";"94";"BUS";"Unterricht im Rahmen der Initiative 'Kein Abschluss ohne Anschluss' einschl. 'Schule trifft Arbeitswelt'";0;"1";
-"PS";"**";"**";"95";"KMFÖ";"Zusätzlicher Förderunterricht im Rahmen der Initiative 'Komm mit'";0;"1";
 "PS";"**";"**";"96";"EGS1";"Ergänzungsstunden ohne Benotung 
 (§ 3 Abs. 1, 3  und  § 19 Abs. 3  Nr.1 und 3  APO-SI)";0;"1";
 "PS";"**";"**";"97";"EGSN";"Ergänzungsstunden mit  Benotung 
@@ -411,8 +393,6 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "R";"**";"**";"91";"TAL";"Unterricht im Rahmen des Schulversuchs Talentschule";0;"2";
 "R";"**";"**";"94";"BUS";"Unterricht im Rahmen der Initiativen 'Kein Abschluss ohne Anschluss' einschl. 'Schule trifft Arbeitswelt'";0;"1";
 "R";"**";"**";"94";"BUS";"Unterricht im Rahmen der Initiative 'Kein Abschluss ohne Anschluss' einschl. 'Schule trifft Arbeitswelt'";0;"2";
-"R";"**";"**";"95";"KMFÖ";"Zusätzlicher Förderunterricht im Rahmen der Initiative 'Komm mit'";0;"1";
-"R";"**";"**";"95";"KMFÖ";"Zusätzlicher Förderunterricht im Rahmen der Initiative 'Komm mit'";0;"2";
 "R";"**";"**";"96";"EGS1";"Ergänzungsstunden entsprechend § 3 Abs. 1, 3 sowie § 15 Abs. 3 (auslaufend Abs. 4) APO-SI";0;"1";
 "R";"**";"**";"96";"EGS1";"Ergänzungsstunden gem. § 3 Abs. 1, 3 und § 15 Abs. 3 APO-SI";0;"2";
 "R";"**";"**";"99";"HU";"Hausunterricht";0;"1";
@@ -484,10 +464,8 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "SG";"**";"**";"37";"FOGT";"Förderangebot entsprechend § 9 Abs. 2, 3  SchulG";0;"1";
 "SG";"**";"**";"56";"UMPF";"Unterricht in der Herkunftssprache anstelle einer Pflichtfremdsprache oder eines Wahlpflichtfaches";0;"1";
 "SG";"**";"**";"61";"WPI";"Wahlpflichtunterricht: 2. Fremdsprache";0;"1";
-"SG";"**";"**";"62";"WPII";"Wahlpflichtunterricht: Fächerkombination im math.-naturwiss, gesellschaftswiss. oder künstlerischen Schwerpunkt";0;"1";
-"SG";"**";"**";"63";"SPA";"Wahlpflichtunterricht: Schwerpunktübergreifende Angebote (GY)";0;"1";
-"SG";"**";"**";"64";"F3";"Wahlplflichtunterricht: Einzelfach im math.-natur., techn., gesellschaftswiss,künstlerischen Schwerpunkt";0;"1";
-"SG";"**";"**";"65";"FS3";"Wahlpflichtunterricht der Klassen 08 und 09: 3. Fremdsprache";0;"1";
+"SG";"**";"**";"62";"WPII";"Wahlpflichtunterricht: Fächerkombination aus dem Fächerspektrum der APO-SI oder gemäß § 7 Abs. 1 APO-GOSt";0;"1";
+"SG";"**";"**";"64";"F3";"Wahlpflichtunterricht: Einzelfach aus Fächerspektrum APO-SI oder gemäß § 7 Abs. 1 APO-GOSt (inklusive 3. Fremdsprache)";0;"1";
 "SG";"**";"**";"67";"WPU";"Arbeitsgemeinschaften aufgrund der Regelung in § 3 Abs. 6 APO-SI";0;"1";
 "SG";"**";"**";"71";"AB3";"3. Abiturfach";0;"1";
 "SG";"**";"**";"71";"AB4";"4. Abiturfach";0;"1";
@@ -505,7 +483,6 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "SG";"**";"**";"89";"FS";"Förderung neu zugewanderter Schüler in Deutschfördergruppen (teilweise äußere und innere Differenzierung)";0;"1";
 "SG";"**";"**";"90";"FS";"Förderung neu zugewanderter Schüler in Deutschförderklassen (vollständige äußere Differenzierung)";0;"1";
 "SG";"**";"**";"94";"BUS";"Unterricht im Rahmen der Initiative 'Kein Abschluss ohne Anschluss' einschl. 'Schule trifft Arbeitswelt'";0;"1";
-"SG";"**";"**";"95";"KMFÖ";"Zusätzlicher Förderunterricht im Rahmen der Initiative 'Komm mit'";0;"1";
 "SG";"**";"**";"96";"EGS1";"Ergänzungsstunden gem. § 3 Abs. 1, 3 und § 19 Abs. 3 APO-SI";0;"1";
 "SG";"**";"**";"99";"HU";"Hausunterricht";0;"1";
 "SG";"**";"**";"99";"PUK";"Unterricht im Klassenverband";0;"1";
@@ -541,22 +518,22 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "SK";"**";"**";"37";"FOGT";"Förderangebot entsprechend § 9 Abs. 2, 3  SchulG";0;"2";
 "SK";"**";"**";"55";"PROJ";"Profilklasse gem. § 21 Abs. 3 APO-SI";0;"1";
 "SK";"**";"**";"55";"PROJ";"Profilklasse gem. § 21 Abs. 3 APO-SI";0;"2";
-"SK";"**";"**";"56";"UMPF";"Unterricht in der Herkunftssprache anstelle einer Pflichtfremdspr. oder eines Wahlpflichtf. (nicht im BG Hauptschule";0;"1";
+"SK";"**";"**";"56";"UMPF";"Unterricht in der Herkunftssprache anstelle einer Pflichtfremdsprache oder eines Wahlpflichtfaches";0;"1";
 "SK";"**";"**";"56";"UMPF";"Unterricht in der Herkunftssprache anstelle einer Pflichtfremdspr. oder eines Wahlpflichtf. (nicht im BG Hauptschule)";0;"2";
 "SK";"**";"**";"61";"WP1FS";"Wahlpflichtbereich: Fremdsprachlich (nur Bildungsgang Realschule)";0;"1";
 "SK";"**";"**";"61";"WPI";"Wahlfplichtunterricht: 2. Fremdsprache (Bildungsgang Gymnasium)";0;"1";
 "SK";"**";"**";"61";"WP1FS";"Wahlpflichtbereich: Fremdsprachlich (nur im Bildungsgang Realschule)";0;"2";
 "SK";"**";"**";"61";"WPI";"Wahlfplichtunterricht: 2. Fremdsprache (Bildungsgang Gymnasium)";0;"2";
 "SK";"**";"**";"62";"WP1SW";"Wahlpflichtbereich: Sozialwissenschaftlich (nur im Bildungsgang Realschule)";0;"1";
-"SK";"**";"**";"62";"WPII";"Wahlpflichtunterricht: Fächerkombination im math.-naturwiss, gesellschaftswiss. oder künstlerischen Schwerpunkt (GY)";0;"1";
+"SK";"**";"**";"62";"WPII";"Wahlpflichtunterricht: Fächerkombination aus dem Fächerspektrum der APO-SI oder gemäß § 7 Abs. 1 APO-GOSt";0;"1";
 "SK";"**";"**";"62";"WP1SW";"Wahlpflichtbereich: Sozialwissenschaftlich (nur im Bildungsgang Realschule)";0;"2";
-"SK";"**";"**";"62";"WPII";"Wahlpflichtunterricht: Fächerkombination im math.-naturwiss, gesellschaftswiss. oder künstlerischen Schwerpunkt (GY)";0;"2";
+"SK";"**";"**";"62";"WPII";"Wahlpflichtunterricht GY: Fächerkombination aus dem Fächerspektrum der APO-SI oder gemäß § 7 Abs. 1 APO-GOSt";0;"2";
 "SK";"**";"**";"63";"WP1NT";"Wahlpflichtbereich: Naturwissenschaftlich - technisch (nur im Bildungsgang Realschule)";0;"1";
 "SK";"**";"**";"63";"WP1NT";"Wahlpflichtbereich: Naturwissenschaftlich - technisch (nur im Bildungsgang Realschule)";0;"2";
+"SK";"**";"**";"64";"F3";"Wahlpflichtunterricht GY: Einzelfach aus Fächerspektrum APO-SI oder gemäß § 7 Abs. 1 APO-GOSt (inkl. 3. Fremdsprache)";0;"1";
 "SK";"**";"**";"64";"WP1MU";"Wahlpflichtbereich: Musisch-künstlerisch (nur im Bildungsgang Realschule)";0;"1";
+"SK";"**";"**";"64";"F3";"Wahlpflichtunterricht GY: Einzelfach aus Fächerspektrum APO-SI oder gemäß § 7 Abs. 1 APO-GOSt (inkl. 3. Fremdsprache)";0;"2";
 "SK";"**";"**";"64";"WP1MU";"Wahlpflichtbereich: Musisch-künstlerisch (nur im Bildungsgang Realschule)";0;"2";
-"SK";"**";"**";"65";"FS3";"Wahlpflichtunterricht der Klassen 09 und 10: 3. Fremdsprache (Bildungsgang Gymnasium)";0;"1";
-"SK";"**";"**";"65";"FS3";"Wahlpflichtunterricht der Klassen 09 und 10: 3. Fremdsprache (Bildungsgang Gymnasium)";0;"2";
 "SK";"**";"**";"67";"WPII";"Arbeitsgemeinschaften aufgrund Regelung § 3 Abs. 6 APO-SI  (nur im Bildungsgang Haupt-, Realschule und Gymnasium)";0;"1";
 "SK";"**";"**";"67";"WPII";"Arbeitsgemeinschaften aufgrund Regelung § 3 Abs. 6 APO-SI  (nur im Bildungsgang Haupt-, Realschule und Gymnasium)";0;"2";
 "SK";"**";"**";"68";"WP1WW";"Wahlpflichtbereich: Wirtschaftlich (nur im Bildungsgang Realschule)";0;"1";
@@ -579,8 +556,6 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "SK";"**";"**";"91";"TAL";"Unterricht im Rahmen des Schulversuchs Talentschule";0;"2";
 "SK";"**";"**";"94";"BUS";"Unterricht im Rahmen der Initiative 'Kein Abschluss ohne Anschluss' einschl. 'Schule trifft Arbeitswelt'";0;"1";
 "SK";"**";"**";"94";"BUS";"Unterricht im Rahmen der Initiative 'Kein Abschluss ohne Anschluss' einschl. 'Schule trifft Arbeitswelt'";0;"2";
-"SK";"**";"**";"95";"KMFÖ";"Zusätzlicher Förderunterricht im Rahmen der Initiative 'Komm mit'";0;"1";
-"SK";"**";"**";"95";"KMFÖ";"Zusätzlicher Förderunterricht im Rahmen der Initiative 'Komm mit'";0;"2";
 "SK";"**";"**";"96";"EGS1";"Ergänzungsstunden gem. § 3 Abs. 1, 3 und § 19 Abs. 3 APO-SI";0;"1";
 "SK";"**";"**";"96";"EGS1";"Ergänzungsstunden gem. § 3 Abs. 1, 3 und § 19 Abs. 3 APO-SI";0;"2";
 "SK";"**";"**";"99";"HU";"Hausunterricht";0;"1";
@@ -606,7 +581,6 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "SR";"**";"**";"89";"FS";"Förderung neu zugewanderter Schüler in Deutschfördergruppen (teilweise äußere und innere Differenzierung)";0;"1";
 "SR";"**";"**";"90";"FS";"Förderung neu zugewanderter Schüler in Deutschförderklassen (vollständige äußere Differenzierung)";0;"1";
 "SR";"**";"**";"94";"BUS";"Unterricht im Rahmen der Initiative 'Kein Abschluss ohne Anschluss' einschl. 'Schule trifft Arbeitswelt'";0;"1";
-"SR";"**";"**";"95";"KMFÖ";"Zusätzlicher Förderunterricht im Rahmen der Initiative 'Komm mit'";0;"1";
 "SR";"**";"**";"96";"EGS1";"Ergänzungsstunden gem. § 3 Abs. 1, 3 und § 19 Abs. 3 APO-SI";0;"1";
 "SR";"**";"**";"99";"HU";"Hausunterricht";0;"1";
 "SR";"**";"**";"99";"PUK";"Unterricht im Klassenverband";0;"1";
@@ -630,7 +604,6 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "V";"**";"**";"89";"FS";"Förderung neu zugewanderter Schüler in Deutschfördergruppen (teilweise äußere und innere Differenzierung)";0;"1";
 "V";"**";"**";"90";"FS";"Förderung neu zugewanderter Schüler in Deutschförderklassen (vollständige äußere Differenzierung)";0;"1";
 "V";"**";"**";"94";"BUS";"Unterricht im Rahmen der Initiative 'Kein Abschluss ohne Anschluss' einschl. 'Schule trifft Arbeitswelt'";0;"1";
-"V";"**";"**";"95";"KMFÖ";"Zusätzlicher Förderunterricht im Rahmen der Initiative 'Komm mit'";0;"1";
 "V";"**";"**";"96";"EGS1";"Ergänzungsstunden gem. § 3 Abs. 1, 3 und § 19 Abs. 3 APO-SI";0;"1";
 "V";"**";"**";"99";"HU";"Hausunterricht";0;"1";
 "V";"**";"**";"99";"PUK";"Unterricht im Klassenverband";0;"1";

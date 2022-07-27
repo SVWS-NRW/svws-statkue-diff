@@ -22,11 +22,11 @@ ID;Kurztext;Langtext;Beginn;Ende;Sort;geaendert
 20;"31";"für die Sekundarstufe II und Sonderpädagogik";1900-01-01T00:00;null;2000;
 21;"32";"für die Sekundarstufe II (mit beruflicher Fachrichtung)";1900-01-01T00:00;null;2100;
 22;"35";"Berufskolleg";1900-01-01T00:00;null;2200;
-46;"49";"Berufskolleg mit einer beruflichen Fachrichtung (§ 59 LVO)";2019-08-01T00:00;null;2250;
+46;"49";"Berufskolleg mit einer beruflichen Fachrichtung (§ 40 LVO)";2019-08-01T00:00;null;2250;
 23;"40";"Fachhochschullehrer/-in";1900-01-01T00:00;null;2300;
 24;"50";"Fachlehrer/-in an Sonderschulen";1900-01-01T00:00;null;2400;
 25;"51";"Religionslehrer/-in, Geistliche/-r, Katechet/-in";1900-01-01T00:00;null;2500;
-26;"52";"Fachlehrer/-in mit der Befähigung für die Laufbahn des Werkstattlehrers";1900-01-01T00:00;null;2600;
+26;"52";"Fachlehrer/-in mit der Befähigung für die Laufbahn des Werkstattlehrers  (§ 36 LVO)";1900-01-01T00:00;null;2600;
 27;"53";"Fachlehrer/-in";1900-01-01T00:00;null;2700;
 28;"54";"Fachlehrer/-in für Kurzschrift und Maschinenschreiben";1900-01-01T00:00;null;2800;
 29;"55";"Fachlehrer/-in mit der Befähigung für die Laufbahn des technischen Lehrers an beruflichen Schulen";1900-01-01T00:00;null;2900;
@@ -40,7 +40,7 @@ ID;Kurztext;Langtext;Beginn;Ende;Sort;geaendert
 37;"96";"Lehrer, der eine Qualifikation erworben hat, die der 1. Staatsprüfung entspricht (z.B. Diplom, sofern nicht Schlüssel 98)";1900-01-01T00:00;null;3700;
 38;"97";"Lehrer, der außerhalb des Geltungsbereichs des Grundgesetzes seine Qualifikation erworben hat";1900-01-01T00:00;null;3800;
 39;"98";"Lehramtsanwärter/-in / Studienreferendar/-in";1900-01-01T00:00;null;3900;
-40;"99";"Sonstige (Gymnastik-, Werk-, Hauswirtschaftslehrer/-in, Übungsleiter/-in)";1900-01-01T00:00;null;4000;
+40;"99";"Sonstige (z.B. Gymnastik-, Werk-, Hauswirtschaftslehrer/-in, Übungsleiter/-in)";1900-01-01T00:00;null;4000;
 41;"70";"Schulverwaltungsassistent/-in";1900-01-01T00:00;null;4100;
 42;"04";"Grundschule";2011-08-01T00:00;null;4200;
 43;"17";"Haupt-, Real- und  Gesamtschule";2011-08-01T00:00;null;4300;

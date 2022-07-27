@@ -67,8 +67,8 @@ ID;Schulform;Flag;SNR;FSP;Jahrgang;KZ_Bereich;Beschreibung;geaendert
 260;"FW";"1";null;"LB";"12";0;"12. Jahrgang";
 107;"FW";"1";"164264";null;"12";0;"12. Jahrgang, Berufskolleg";
 137;"FW";"1";null;null;"13";0;"13. Jahrgang (Sekundarstufe II)";
-77;"FW";"1";null;null;"71";0;"Schule für Kranke";
-220;"FW";"1";null;"KR";"71";0;"Schule für Kranke";
+77;"FW";"1";null;null;"71";0;"Klinikschule";
+220;"FW";"1";null;"KR";"71";0;"Klinikschule";
 78;"FW";"1";null;null;"85";0;"Schule für Geistigbehinderte: Berufspraxisstufe in Vollzeitform";
 117;"FW";"1";null;"GB";"85";0;"Schule für Geistigbehinderte: Berufspraxisstufe in Vollzeitform";
 79;"FW";"1";null;null;"86";0;"Schule für Geistigbehinderte: Berufspraxisstufe in Teilzeitform";
@@ -201,7 +201,7 @@ ID;Schulform;Flag;SNR;FSP;Jahrgang;KZ_Bereich;Beschreibung;geaendert
 43;"S";"1";null;null;"08";null;"  8. Jahrgang";
 44;"S";"1";null;null;"09";null;"  9. Jahrgang";
 46;"S";"1";null;null;"10";null;"10. Jahrgang";
-47;"S";"1";null;null;"71";null;"Jahrgang der Schule für Kranke";
+47;"S";"1";null;null;"71";null;"Klinikschule";
 48;"S";"1";null;null;"85";null;"Schule für Geistigbehinderte: Berufspraxisstufe in Vollzeitform";
 49;"S";"1";null;null;"86";null;"Schule für Geistigbehinderte: Berufspraxisstufe in Teilzeitform";
 50;"S";"1";null;null;"90";null;"Hausfrüherziehung für hör- bzw. sehgeschädigte Kinder";

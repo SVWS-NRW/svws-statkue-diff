@@ -37,7 +37,6 @@ SF;OrgForm;FSP;Beschreibung;Flag;geaendert
 "PS";"4";null;"Teilnahme am offenen Ganztag";"1";
 "R";"1";null;"Halbtagsunterricht";"1";
 "R";"2";null;"Teilnahme am gebundenen Ganztag";"1";
-"R";"3";null;"Teilnahme am erweiterten Ganztag (Nur im Hauptschulzweig von Verbundschulen)";"1";
 "S";null;null;"Nicht zuordbar (ambulante Maßnahmen und Hausfrüherziehung für hör- und sehgeschädigte Kinder)";"1";
 "S";"1";null;"Halbtagsunterricht";"1";
 "S";"2";null;"Teilnahme am gebundenen Ganztag";"1";
