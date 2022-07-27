@@ -1,0 +1,191 @@
+ID;Schulform;SchulformKuerzel;Jahrgang;Beschreibung;Beginn;Ende;geaendert;Sortierung
+4;"02";"G";"03";"3. Jahrgang";1900-01-01T00:00;null;;4
+5;"02";"G";"04";"4. Jahrgang";1900-01-01T00:00;null;;5
+1;"02";"G";"E1";"Schuleingangsphase, 1. Schulbesuchsjahr";1900-01-01T00:00;null;;1
+2;"02";"G";"E2";"Schuleingangsphase, 2. Schulbesuchsjahr";1900-01-01T00:00;null;;2
+3;"02";"G";"E3";"Schuleingangsphase, 3. Schulbesuchsjahr";1900-01-01T00:00;null;;3
+6;"04";"H";"05";"5. Jahrgang";1900-01-01T00:00;null;;1
+7;"04";"H";"06";"6. Jahrgang";1900-01-01T00:00;null;;2
+8;"04";"H";"07";"7. Jahrgang";1900-01-01T00:00;null;;3
+9;"04";"H";"08";"8. Jahrgang";1900-01-01T00:00;null;;4
+10;"04";"H";"09";"9. Jahrgang";1900-01-01T00:00;null;;5
+11;"04";"H";"10";"10. Jahrgang";1900-01-01T00:00;null;;6
+15;"06";"V";"03";"3. Jahrgang";1900-01-01T00:00;null;;4
+16;"06";"V";"04";"4. Jahrgang";1900-01-01T00:00;null;;5
+17;"06";"V";"05";"5. Jahrgang";1900-01-01T00:00;null;;6
+18;"06";"V";"06";"6. Jahrgang";1900-01-01T00:00;null;;7
+19;"06";"V";"07";"7. Jahrgang";1900-01-01T00:00;null;;8
+20;"06";"V";"08";"8. Jahrgang";1900-01-01T00:00;null;;9
+21;"06";"V";"09";"9. Jahrgang";1900-01-01T00:00;null;;10
+22;"06";"V";"10";"10. Jahrgang";1900-01-01T00:00;null;;11
+12;"06";"V";"E1";"Schuleingangsphase, 1. Schulbesuchsjahr";1900-01-01T00:00;null;;1
+13;"06";"V";"E2";"Schuleingangsphase, 2. Schulbesuchsjahr";1900-01-01T00:00;null;;2
+14;"06";"V";"E3";"Schuleingangsphase, 3. Schulbesuchsjahr";1900-01-01T00:00;null;;3
+35;"08";"S";"00";"Frühkindliche Förderung, Förderschulkindergarten";1900-01-01T00:00;null;;13
+26;"08";"S";"03";"3. Jahrgang";1900-01-01T00:00;null;;4
+27;"08";"S";"04";"4. Jahrgang";1900-01-01T00:00;null;;5
+28;"08";"S";"05";"5. Jahrgang";1900-01-01T00:00;null;;6
+29;"08";"S";"06";"6. Jahrgang";1900-01-01T00:00;null;;7
+30;"08";"S";"07";"7. Jahrgang";1900-01-01T00:00;null;;8
+31;"08";"S";"08";"8. Jahrgang";1900-01-01T00:00;null;;9
+32;"08";"S";"09";"9. Jahrgang";1900-01-01T00:00;null;;10
+33;"08";"S";"10";"10. Jahrgang";1900-01-01T00:00;null;;11
+38;"08";"S";"71";"Jahrgang der Schule für Kranke";1900-01-01T00:00;null;;16
+36;"08";"S";"85";"Schule für Geistigbehinderte: Berufspraxisstufe in Vollzeitform";1900-01-01T00:00;null;;14
+37;"08";"S";"86";"Schule für Geistigbehinderte: Berufspraxisstufe in Teilzeitform";1900-01-01T00:00;null;;15
+34;"08";"S";"90";"Hausfrüherziehung für Hör- bzw. Sehgeschädigte";1900-01-01T00:00;null;;12
+23;"08";"S";"E1";"Schuleingangsphase, 1. Schulbesuchsjahr";1900-01-01T00:00;null;;1
+24;"08";"S";"E2";"Schuleingangsphase, 2. Schulbesuchsjahr";1900-01-01T00:00;null;;2
+25;"08";"S";"E3";"Schuleingangsphase, 3. Schulbesuchsjahr";1900-01-01T00:00;null;;3
+39;"10";"R";"05";"5. Jahrgang";1900-01-01T00:00;null;;1
+40;"10";"R";"06";"6. Jahrgang";1900-01-01T00:00;null;;2
+41;"10";"R";"07";"7. Jahrgang";1900-01-01T00:00;null;;3
+42;"10";"R";"08";"8. Jahrgang";1900-01-01T00:00;null;;4
+43;"10";"R";"09";"9. Jahrgang";1900-01-01T00:00;null;;5
+44;"10";"R";"10";"10. Jahrgang";1900-01-01T00:00;null;;6
+48;"13";"PS";"03";"3. Jahrgang";1900-01-01T00:00;null;;4
+49;"13";"PS";"04";"4. Jahrgang";1900-01-01T00:00;null;;5
+50;"13";"PS";"05";"5. Jahrgang";1900-01-01T00:00;null;;6
+51;"13";"PS";"06";"6. Jahrgang";1900-01-01T00:00;null;;7
+52;"13";"PS";"07";"7. Jahrgang";1900-01-01T00:00;null;;8
+53;"13";"PS";"08";"8. Jahrgang";1900-01-01T00:00;null;;9
+54;"13";"PS";"09";"9. Jahrgang";1900-01-01T00:00;null;;10
+55;"13";"PS";"10";"10. Jahrgang";1900-01-01T00:00;null;;11
+45;"13";"PS";"E1";"Schuleingangsphase, 1. Schulbesuchsjahr";1900-01-01T00:00;null;;1
+46;"13";"PS";"E2";"Schuleingangsphase, 2. Schulbesuchsjahr";1900-01-01T00:00;null;;2
+47;"13";"PS";"E3";"Schuleingangsphase, 3. Schulbesuchsjahr";1900-01-01T00:00;null;;3
+56;"13";"PS";"EF";"Einführungsphase";1900-01-01T00:00;null;;12
+57;"13";"PS";"Q1";"Qualifikationsphase 1";1900-01-01T00:00;null;;13
+58;"13";"PS";"Q2";"Qualifikationsphase 2";1900-01-01T00:00;null;;14
+59;"14";"SK";"05";"5. Jahrgang";1900-01-01T00:00;null;;1
+60;"14";"SK";"06";"6. Jahrgang";1900-01-01T00:00;null;;2
+61;"14";"SK";"07";"7. Jahrgang";1900-01-01T00:00;null;;3
+62;"14";"SK";"08";"8. Jahrgang";1900-01-01T00:00;null;;4
+63;"14";"SK";"09";"9. Jahrgang";1900-01-01T00:00;null;;5
+64;"14";"SK";"10";"10. Jahrgang";1900-01-01T00:00;null;;6
+65;"15";"GE";"05";"5. Jahrgang";1900-01-01T00:00;null;;1
+66;"15";"GE";"06";"6. Jahrgang";1900-01-01T00:00;null;;2
+67;"15";"GE";"07";"7. Jahrgang";1900-01-01T00:00;null;;3
+68;"15";"GE";"08";"8. Jahrgang";1900-01-01T00:00;null;;4
+69;"15";"GE";"09";"9. Jahrgang";1900-01-01T00:00;null;;5
+70;"15";"GE";"10";"10. Jahrgang";1900-01-01T00:00;null;;6
+71;"15";"GE";"EF";"Einführungsphase";1900-01-01T00:00;null;;7
+72;"15";"GE";"Q1";"Qualifikationsphase 1";1900-01-01T00:00;null;;8
+73;"15";"GE";"Q2";"Qualifikationsphase 2";1900-01-01T00:00;null;;9
+74;"16";"GM";"05";"5. Jahrgang";1900-01-01T00:00;null;;1
+75;"16";"GM";"06";"6. Jahrgang";1900-01-01T00:00;null;;2
+76;"16";"GM";"07";"7. Jahrgang";1900-01-01T00:00;null;;3
+77;"16";"GM";"08";"8. Jahrgang";1900-01-01T00:00;null;;4
+78;"16";"GM";"09";"9. Jahrgang";1900-01-01T00:00;null;;5
+79;"16";"GM";"10";"10. Jahrgang";1900-01-01T00:00;null;;6
+80;"16";"GM";"EF";"Einführungsphase";1900-01-01T00:00;null;;7
+81;"16";"GM";"Q1";"Qualifikationsphase 1";1900-01-01T00:00;null;;8
+82;"16";"GM";"Q2";"Qualifikationsphase 2";1900-01-01T00:00;null;;9
+86;"17";"FW";"03";"3. Jahrgang";1900-01-01T00:00;null;;4
+87;"17";"FW";"04";"4. Jahrgang";1900-01-01T00:00;null;;5
+88;"17";"FW";"05";"5. Jahrgang";1900-01-01T00:00;null;;6
+89;"17";"FW";"06";"6. Jahrgang";1900-01-01T00:00;null;;7
+90;"17";"FW";"07";"7. Jahrgang";1900-01-01T00:00;null;;8
+91;"17";"FW";"08";"8. Jahrgang";1900-01-01T00:00;null;;9
+92;"17";"FW";"09";"9. Jahrgang";1900-01-01T00:00;null;;10
+93;"17";"FW";"10";"10. Jahrgang";1900-01-01T00:00;null;;11
+94;"17";"FW";"11";"11. Jahrgang";1900-01-01T00:00;null;;12
+95;"17";"FW";"12";"12. Jahrgang (Sekundarstufe II)";1900-01-01T00:00;null;;13
+96;"17";"FW";"13";"13. Jahrgang (Sekundarstufe II)";1900-01-01T00:00;null;;14
+99;"17";"FW";"71";"Schule für Kranke";1900-01-01T00:00;null;;17
+97;"17";"FW";"85";"Schule für Geistigbehinderte: Berufspraxisstufe in Vollzeitform";1900-01-01T00:00;null;;15
+98;"17";"FW";"86";"Schule für Geistigbehinderte: Berufspraxisstufe in Teilzeitform";1900-01-01T00:00;null;;16
+83;"17";"FW";"E1";"Schuleingangsphase, 1. Schulbesuchsjahr";1900-01-01T00:00;null;;1
+84;"17";"FW";"E2";"Schuleingangsphase, 2. Schulbesuchsjahr";1900-01-01T00:00;null;;2
+85;"17";"FW";"E3";"Schuleingangsphase, 3. Schulbesuchsjahr";1900-01-01T00:00;null;;3
+113;"18";"FW";"01";"Semester 01, Hiberniakolleg (Seiteneinsteiger)";1900-01-01T00:00;null;;14
+114;"18";"FW";"02";"Semester 02, Hiberniakolleg (Seiteneinsteiger)";1900-01-01T00:00;null;;15
+103;"18";"FW";"03";"3. Jahrgang";1900-01-01T00:00;null;;4
+115;"18";"FW";"03";"Semester 03, Hiberniakolleg";1900-01-01T00:00;null;;16
+104;"18";"FW";"04";"4. Jahrgang";1900-01-01T00:00;null;;5
+116;"18";"FW";"04";"Semester 04, Hiberniakolleg";1900-01-01T00:00;null;;17
+105;"18";"FW";"05";"5. Jahrgang";1900-01-01T00:00;null;;6
+117;"18";"FW";"05";"Semester 05, Hiberniakolleg";1900-01-01T00:00;null;;18
+106;"18";"FW";"06";"6. Jahrgang";1900-01-01T00:00;null;;7
+118;"18";"FW";"06";"Semester 06, Hiberniakolleg";1900-01-01T00:00;null;;19
+107;"18";"FW";"07";"7. Jahrgang";1900-01-01T00:00;null;;8
+108;"18";"FW";"08";"8. Jahrgang";1900-01-01T00:00;null;;9
+109;"18";"FW";"09";"9. Jahrgang";1900-01-01T00:00;null;;10
+110;"18";"FW";"10";"10. Jahrgang";1900-01-01T00:00;null;;11
+111;"18";"FW";"11";"11. Jahrgang, Berufskolleg";1900-01-01T00:00;null;;12
+112;"18";"FW";"12";"12. Jahrgang, Berufskolleg";1900-01-01T00:00;null;;13
+100;"18";"FW";"E1";"Schuleingangsphase, 1. Schulbesuchsjahr";1900-01-01T00:00;null;;1
+101;"18";"FW";"E2";"Schuleingangsphase, 2. Schulbesuchsjahr";1900-01-01T00:00;null;;2
+102;"18";"FW";"E3";"Schuleingangsphase, 3. Schulbesuchsjahr";1900-01-01T00:00;null;;3
+178;"19";"FW";"03";"3. Jahrgang";1900-01-01T00:00;null;;4
+179;"19";"FW";"04";"4. Jahrgang";1900-01-01T00:00;null;;5
+180;"19";"FW";"05";"5. Jahrgang";1900-01-01T00:00;null;;6
+181;"19";"FW";"06";"6. Jahrgang";1900-01-01T00:00;null;;7
+182;"19";"FW";"07";"7. Jahrgang";1900-01-01T00:00;null;;8
+183;"19";"FW";"08";"8. Jahrgang";1900-01-01T00:00;null;;9
+184;"19";"FW";"09";"9. Jahrgang";1900-01-01T00:00;null;;10
+185;"19";"FW";"10";"10. Jahrgang";1900-01-01T00:00;null;;11
+186;"19";"FW";"11";"11. Jahrgang";1900-01-01T00:00;null;;12
+187;"19";"FW";"12";"12. Jahrgang";1900-01-01T00:00;null;;13
+191;"19";"FW";"71";"Schule für Kranke";1900-01-01T00:00;null;;17
+189;"19";"FW";"85";"Schule für Geistigbehinderte: Berufspraxisstufe in Vollzeitform";1900-01-01T00:00;null;;15
+190;"19";"FW";"86";"Schule für Geistigbehinderte: Berufspraxisstufe in Teilzeitform";1900-01-01T00:00;null;;16
+175;"19";"FW";"E1";"Schuleingangsphase, 1. Schulbesuchsjahr";1900-01-01T00:00;null;;1
+176;"19";"FW";"E2";"Schuleingangsphase, 2. Schulbesuchsjahr";1900-01-01T00:00;null;;2
+177;"19";"FW";"E3";"Schuleingangsphase, 3. Schulbesuchsjahr";1900-01-01T00:00;null;;3
+119;"20";"GY";"05";"5. Jahrgang";1900-01-01T00:00;null;;1
+120;"20";"GY";"06";"6. Jahrgang";1900-01-01T00:00;null;;2
+121;"20";"GY";"07";"7. Jahrgang";1900-01-01T00:00;null;;3
+122;"20";"GY";"08";"8. Jahrgang";1900-01-01T00:00;null;;4
+123;"20";"GY";"09";"9. Jahrgang";1900-01-01T00:00;null;;5
+124;"20";"GY";"10";"10. Jahrgang";1900-01-01T00:00;null;;6
+125;"20";"GY";"EF";"Einführungsphase";1900-01-01T00:00;null;;7
+126;"20";"GY";"Q1";"Qualifikationsphase 1";1900-01-01T00:00;null;;8
+127;"20";"GY";"Q2";"Qualifikationsphase 2";1900-01-01T00:00;null;;9
+130;"25";"WB";"01";"1. Semester (Einführungs-/Hauptphase)";1900-01-01T00:00;null;;3
+131;"25";"WB";"02";"2. Semester (Einführungs-/Hauptphase)";1900-01-01T00:00;null;;4
+132;"25";"WB";"03";"3. Semester (Einführungs-/Hauptphase)";1900-01-01T00:00;null;;5
+133;"25";"WB";"04";"4. Semester (Einführungs-/Hauptphase)";1900-01-01T00:00;null;;6
+134;"25";"WB";"05";"5. Semester (Qualifikationsphase)";1900-01-01T00:00;null;;7
+135;"25";"WB";"06";"6. Semester (Qualifikationsphase)";1900-01-01T00:00;null;;8
+128;"25";"WB";"91";"Vorkurs/ 1. Semester";1900-01-01T00:00;null;;1
+129;"25";"WB";"92";"Vorkurs/ 2. Semester";1900-01-01T00:00;null;;2
+136;"30";"BK";"01";"1. Jahrgang dieser Schulgliederung";1900-01-01T00:00;null;;1
+137;"30";"BK";"02";"2. Jahrgang dieser Schulgliederung";1900-01-01T00:00;null;;2
+138;"30";"BK";"03";"3. Jahrgang dieser Schulgliederung";1900-01-01T00:00;null;;3
+139;"30";"BK";"04";"4. Jahrgang dieser Schulgliederung";1900-01-01T00:00;null;;4
+140;"30";"BK";"05";"5. Jahrgang dieser Schulgliederung";1900-01-01T00:00;null;;5
+141;"30";"BK";"06";"6. Jahrgang dieser Schulgliederung";1900-01-01T00:00;null;;6
+146;"83";"S";"03";"3. Jahrgang";1900-01-01T00:00;null;;5
+147;"83";"S";"04";"4. Jahrgang";1900-01-01T00:00;null;;6
+148;"83";"S";"05";"5. Jahrgang";1900-01-01T00:00;null;;7
+149;"83";"S";"06";"6. Jahrgang";1900-01-01T00:00;null;;8
+150;"83";"S";"07";"7. Jahrgang";1900-01-01T00:00;null;;9
+151;"83";"S";"08";"8. Jahrgang";1900-01-01T00:00;null;;10
+152;"83";"S";"09";"9. Jahrgang";1900-01-01T00:00;null;;11
+153;"83";"S";"10";"10. Jahrgang";1900-01-01T00:00;null;;12
+142;"83";"S";"71";"Jahrgang der Schule für Kranke";1900-01-01T00:00;null;;1
+143;"83";"S";"E1";"Schuleingangsphase, 1. Schulbesuchsjahr";1900-01-01T00:00;null;;2
+144;"83";"S";"E2";"Schuleingangsphase, 2. Schulbesuchsjahr";1900-01-01T00:00;null;;3
+145;"83";"S";"E3";"Schuleingangsphase, 3. Schulbesuchsjahr";1900-01-01T00:00;null;;4
+154;"85";"SR";"05";"5. Jahrgang";1900-01-01T00:00;null;;1
+155;"85";"SR";"06";"6. Jahrgang";1900-01-01T00:00;null;;2
+156;"85";"SR";"07";"7. Jahrgang";1900-01-01T00:00;null;;3
+157;"85";"SR";"08";"8. Jahrgang";1900-01-01T00:00;null;;4
+158;"85";"SR";"09";"9. Jahrgang";1900-01-01T00:00;null;;5
+159;"85";"SR";"10";"10. Jahrgang";1900-01-01T00:00;null;;6
+160;"87";"SG";"05";"5. Jahrgang";1900-01-01T00:00;null;;1
+161;"87";"SG";"06";"6. Jahrgang";1900-01-01T00:00;null;;2
+162;"87";"SG";"07";"7. Jahrgang";1900-01-01T00:00;null;;3
+163;"87";"SG";"08";"8. Jahrgang";1900-01-01T00:00;null;;4
+164;"87";"SG";"09";"9. Jahrgang";1900-01-01T00:00;null;;5
+165;"87";"SG";"10";"10. Jahrgang";1900-01-01T00:00;null;;6
+166;"87";"SG";"EF";"Einführungsphase";1900-01-01T00:00;null;;7
+167;"87";"SG";"Q1";"Qualifikationsphase 1";1900-01-01T00:00;null;;8
+168;"87";"SG";"Q2";"Qualifikationsphase 2";1900-01-01T00:00;null;;9
+169;"88";"SB";"01";"1. Jahrgang dieser Schulgliederung";1900-01-01T00:00;null;;1
+170;"88";"SB";"02";"2. Jahrgang dieser Schulgliederung";1900-01-01T00:00;null;;2
+171;"88";"SB";"03";"3. Jahrgang dieser Schulgliederung";1900-01-01T00:00;null;;3
+172;"88";"SB";"04";"4. Jahrgang dieser Schulgliederung";1900-01-01T00:00;null;;4
+173;"88";"SB";"05";"5. Jahrgang dieser Schulgliederung";1900-01-01T00:00;null;;5
+174;"88";"SB";"06";"6. Jahrgang dieser Schulgliederung";1900-01-01T00:00;null;;6

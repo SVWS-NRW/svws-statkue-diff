@@ -1,0 +1,76 @@
+SF;Betreuung;Beschreibung;Flag;geaendert
+"FW";"0";"keine Teilnahme an Ganztagsangeboten und/oder Übermittagbetreuung";"1";
+"FW";"5";"Übermittagbetreuung 
+ Primarstufe: Nur für Schulen mit Genehmigung für den offenen Ganztagsbetrieb";"1";
+"FW";"6";"ausschließlich Übermittagbetreuung
+(Sekundarstufe)";"1";
+"FW";"7";"Übermittagbetreuung und zusätzliches Ganztagsangebot (Sekundarstufe)";"1";
+"FW";"8";"ausschließlich Schule von acht bis eins
+Primarstufe: Nicht für Schulen mit Genehmigung für den offenen Ganztagsbetrieb";"1";
+"FW";"9";"Schule von acht bis eins und Dreizehn Plus
+Primarstufe: Nicht für Schulen mit Ge
+
+Nicht für Schulen mit Genehmigung für den offenen Ganztagsbetrieb";"1";
+"G";"0";"keine Teilnahme an Ganztagsangeboten und/oder Übermittagbetreuung";"1";
+"G";"5";"Übermittagbetreuung
+Nur für Schulen  mit Genehmigung für den offenen Ganztagsbetrieb";"1";
+"G";"8";"ausschließlich Schule von acht bis eins
+Nicht für Schulen mit Genehmigung für den offenen Ganztagsbetrieb";"1";
+"G";"9";"Schule von acht bis eins und Dreizehn Plus
+Nicht für Schulen mit Genehmigung für den offenen Ganztagsbetrieb";"1";
+"GE";"0";"keine Teilnahme an Ganztagsangeboten und/oder Übermittagbetreuung";"1";
+"GE";"6";"ausschließlich Übermittagbetreuung";"1";
+"GE";"7";"Übermittagbetreuung und zusätzliches Ganztagsangebot";"1";
+"GM";"0";"keine Teilnahme an Ganztagsangeboten und/oder Übermittagbetreuung";"1";
+"GM";"6";"ausschließlich Übermittagbetreuung";"1";
+"GM";"7";"Übermittagbetreuung und zusätzliches Ganztagsangebot";"1";
+"GY";"0";"keine Teilnahme an Ganztagsangeboten und/oder Übermittagbetreuung";"1";
+"GY";"6";"ausschließlich Übermittagbetreuung";"1";
+"GY";"7";"Übermittagbetreuung und zusätzliches Ganztagsangebot";"1";
+"H";"0";"keine Teilnahme an Ganztagsangeboten und/oder Übermittagbetreuung";"1";
+"H";"6";"ausschließlich Übermittagbetreuung";"1";
+"H";"7";"Übermittagbetreuung und zusätzliches Ganztagsangebot";"1";
+"PS";"0";"keine Teilnahme an Ganztagsangeboten und/oder Übermittagbetreuung";"1";
+"PS";"5";"Übermittagbetreuung
+Nur für Schulen  mit Genehmigung für den offenen Ganztagsbetrieb";"1";
+"PS";"6";"ausschließlich Übermittagbetreuung";"1";
+"PS";"7";"Übermittagbetreuung und zusätzliches Ganztagsangebot";"1";
+"PS";"8";"ausschließlich Schule von acht bis eins
+Nicht für Schulen mit Genehmigung für den offenen Ganztagsbetrieb";"1";
+"PS";"9";"Schule von acht bis eins und Dreizehn Plus
+Nicht für Schulen mit Genehmigung für den offenen Ganztagsbetrieb";"1";
+"R";"0";"keine Teilnahme an Ganztagsangeboten und/oder Übermittagbetreuung";"1";
+"R";"6";"ausschließlich Übermittagbetreuung";"1";
+"R";"7";"Übermittagbetreuung und zusätzliches Ganztagsangebot";"1";
+"S";"0";"keine Teilnahme an Ganztagsangeboten und/oder Übermittagbetreuung";"1";
+"S";"5";"Übermittagbetreuung 
+ Primarstufe: Nur für Schulen mit Genehmigung für den offenen Ganztagsbetrieb";"1";
+"S";"6";"ausschließlich Übermittagbetreuung
+(Sekundarstufe)";"1";
+"S";"7";"Übermittagbetreuung und zusätzliches Ganztagsangebot (Sekundarstufe)";"1";
+"S";"8";"ausschließlich Schule von acht bis eins
+Primarstufe: Nicht für Schulen mit Genehmigung für den offenen Ganztagsbetrieb";"1";
+"S";"9";"Schule von acht bis eins und Dreizehn Plus
+Primarstufe: Nicht für Schulen mit Ge
+
+Nicht für Schulen mit Genehmigung für den offenen Ganztagsbetrieb";"1";
+"SG";"0";"keine Teilnahme an Ganztagsangeboten und/oder Übermittagbetreuung";"1";
+"SG";"6";"Übermittagbetreuung";"1";
+"SG";"7";"Übermittagbetreuung und zusätzliches Ganztagsangebot am Nachmittag";"1";
+"SK";"0";"keine Teilnahme an Ganztagsangeboten und/oder Übermittagbetreuung";"1";
+"SK";"6";"ausschließlich Übermittagbetreuung";"1";
+"SK";"7";"Übermittagbetreuung und zusätzliches Ganztagsangebot";"1";
+"SR";"0";"keine Teilnahme an Ganztagsangeboten und/oder Übermittagbetreuung";"1";
+"SR";"6";"Übermittagbetreuung";"1";
+"SR";"7";"Übermittagbetreuung und zusätzliches Ganztagsangebot am Nachmittag";"1";
+"V";"0";"keine Teilnahme an Ganztagsangeboten und/oder Übermittagbetreuung";"1";
+"V";"5";"Übermittagbetreuung 
+ Primarstufe: Nur für Schulen mit Genehmigung für den offenen Ganztagsbetrieb";"1";
+"V";"6";"ausschließlich Übermittagbetreuung";"1";
+"V";"7";"Übermittagbetreuung und zusätzliches Ganztagsangebot";"1";
+"V";"8";"ausschließlich Schule von acht bis eins
+Primarstufe: Nicht für Schulen mit Genehmigung für den offenen Ganztagsbetrieb";"1";
+"V";"9";"Schule von acht bis eins und Dreizehn Plus
+Primarstufe: Nicht für Schulen mit Ge
+
+Nicht für Schulen mit Genehmigung für den offenen Ganztagsbetrieb";"1";

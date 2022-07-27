@@ -1,0 +1,27 @@
+Schulform;SF;Bezeichnung;Flag;geaendert
+"**";"AS";"Ausländische Schüler, die zugewandert sind";"1";
+"**";"HU";"Hochschule, Universität";"1";
+"**";"SO";"Sonstige Förderschulen";"1";
+"**";"SP";"Ausgesiedelte Schüler, die zugewandert sind";"1";
+"**";"WZ";"Wehrdienst bzw. Zivildienst";"1";
+"**";"XB";"Berufstätigkeit, z.B. vor Besuch einer Fachschule";"1";
+"**";"XS";"Sonstige Schulen bzw. keine Schule";"1";
+"02";"G";"Grundschule";"1";
+"04";"H";"Hauptschule";"1";
+"06";"V";"Volksschule";"1";
+"08";"S";"Förderschule im Bildungsbereich Grund-/Hauptschule";"1";
+"10";"R";"Realschule";"1";
+"13";"PS";"Schulversuch PRIMUS";"1";
+"14";"SK";"Sekundarschule";"1";
+"15";"GE";"Gesamtschule";"1";
+"16";"GM";"Gemeinschaftsschule";"1";
+"17";"FW";"Freie Waldorfschule";"1";
+"18";"FW";"Hibernia";"1";
+"19";"FW";"Freie Waldorfförderschule";"1";
+"20";"GY";"Gymnasium";"1";
+"25";"WB";"Weiterbildungskolleg";"1";
+"30";"BK";"Berufskolleg";"1";
+"83";"S";"Schule für Kranke";"1";
+"85";"SR";"Förderschule im Bildungsbereich Realschule";"1";
+"87";"SG";"Förderschule im Bildungsbereich Gymnasium";"1";
+"88";"SB";"Förderschule im Bildungsbereich Berufskolleg";"1";
