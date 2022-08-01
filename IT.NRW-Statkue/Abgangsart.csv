@@ -85,6 +85,7 @@ SF;Art;Beschreibung;KZ_Bereich;KZ_Bereich_JG;AbgangsJG;Flag;geaendert
 "SB";"0D";"Ein dem Hauptschulabschluss nach Klasse 10 gleichwertiger Abschluss (für G8 Schüler)";28;8;"**";"1";
 "BK";"0D";"ein dem Hauptschulabschluss nach Klasse 10 gleichwertiger Schulabschluss (für G8 Schüler)";38;8;"**";"1";
 "SB";"0D";"ein dem Hauptschulabschluss nach Klasse 10 gleichwertiger Schulabschluss (für G8 Schüler)";38;8;"**";"1";
+"SB";"0D";"ein dem Hauptschulabschluss nach Klasse 10 gleichwertiger Schulabschluss (für G8 Schüler)";38;8;"**";"1";
 "BK";"0F";"Mittlerer Schulabschluss (Fachoberschulreife ohne Qualifikationsvermerk)";7;13;"**";"1";
 "SB";"0F";"Mittlerer Schulabschluss (Fachoberschulreife ohne Qualifikationsvermerk)";7;13;"**";"1";
 "BK";"0F";"Mittlerer Schulabschluss (Fachoberschulreife ohne Qualifikationsvermerk)";8;13;"**";"1";
