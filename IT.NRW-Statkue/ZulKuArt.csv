@@ -35,7 +35,7 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "G";"**";"**";"37";"FOGT";"Förderangebot entsprechend § 9 Abs. 2, 3  SchulG";0;"1";
 "G";"**";"**";"81";"SPFU";"Sportförderunterricht";0;"1";
 "G";"**";"**";"82";"LRS";"Schülerinnen und Schüler mit besonderen Schwierigkeiten im Erlernen des Lesens und Rechtschreibens (LRS)";0;"1";
-"G";"**";"**";"84";"MEU";"Unterricht in der Herkunftssprache (Muttersprachlicher Unterricht)";0;"1";
+"G";"**";"**";"84";"MEU";"Unterricht in der Herkunftssprache";0;"1";
 "G";"**";"**";"85";"FDS";"Förderung in der deutschen Sprache außerhalb von Sprachfördermaßnahmen gemäß Erlass 13-63 Nr. 3";0;"1";
 "G";"**";"**";"89";"DFG";"Förderung neu zugewanderter Schüler in Deutschfördergruppen (teilweise äußere und innere Differenzierung)";0;"1";
 "G";"**";"**";"90";"DFK";"Förderung neu zugewanderter Schüler in Deutschförderklassen (vollständige äußere Differenzierung)";0;"1";
@@ -65,8 +65,6 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "GE";"**";"**";"37";"FOGT";"Förderangebot entsprechend § 9 Abs. 2, 3  SchulG";0;"2";
 "GE";"**";"**";"55";"PROJ";"Profilklasse gem. § 21 Abs. 3 APO-SI";0;"1";
 "GE";"**";"**";"55";"PROJ";"Profilklasse gem. § 21 Abs. 3 APO-SI";0;"2";
-"GE";"**";"**";"56";"UMPF";"Unterricht in der Herkunftssprache anstelle einer Pflichtfremdsprache oder eines Wahlpflichtfaches";0;"1";
-"GE";"**";"**";"56";"UMPF";"Unterricht in der Herkunftssprache anstelle einer Pflichtfremdsprache oder eines Wahlpflichtfaches";0;"2";
 "GE";"**";"**";"61";"WPIG";"Wahlfplichtunterricht: 2. Fremdsprache (Bildungsgang Gymnasium)";0;"1";
 "GE";"**";"**";"61";"WPIG";"Wahlfplichtunterricht: 2. Fremdsprache (Bildungsgang Gymnasium)";0;"2";
 "GE";"**";"**";"62";"WP1SW";"Wahlpflichtunterricht GY: Fächerkombination aus dem Fächerspektrum der APO-SI oder gemäß § 7 Abs. 1 APO-GOSt";0;"1";
@@ -99,8 +97,8 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "GE";"**";"**";"81";"SPFU";"Sportförderunterricht";0;"2";
 "GE";"**";"**";"82";"LRS";"Schülerinnen und Schüler mit besonderen Schwierigkeiten im Erlernen des Lesens und Rechtschreibens (LRS)";0;"1";
 "GE";"**";"**";"82";"LRS";"Schülerinnen und Schüler mit besonderen Schwierigkeiten im Erlernen des Lesens und Rechtschreibens (LRS)";0;"2";
-"GE";"**";"**";"84";"MEU";"Unterricht in der Herkunftssprache (Muttersprachlicher Unterricht)";0;"1";
-"GE";"**";"**";"84";"MEU";"Unterricht in der Herkunftssprache (Muttersprachlicher Unterricht)";0;"2";
+"GE";"**";"**";"84";"MEU";"Unterricht in der Herkunftssprache";0;"1";
+"GE";"**";"**";"84";"MEU";"Unterricht in der Herkunftssprache";0;"2";
 "GE";"**";"**";"85";"FDS";"Förderung in der deutschen Sprache außerhalb von Sprachfördermaßnahmen gemäß Erlass 13-63 Nr. 3";0;"1";
 "GE";"**";"**";"85";"FDS";"Förderung in der deutschen Sprache außerhalb von Sprachfördermaßnahmen gemäß Erlass 13-63 Nr. 3";0;"2";
 "GE";"**";"**";"89";"DFG";"Förderung neu zugewanderter Schüler in Deutschfördergruppen (teilweise äußere und innere Differenzierung)";0;"1";
@@ -148,8 +146,6 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "GM";"**";"**";"36";"AGGT";"Arbeitsgemeinschaft entsprechend § 9 Abs. 2, 3  SchulG";0;"2";
 "GM";"**";"**";"37";"FOGT";"Förderangebot entsprechend § 9 Abs. 2, 3  SchulG";0;"1";
 "GM";"**";"**";"37";"FOGT";"Förderangebot entsprechend § 9 Abs. 2, 3  SchulG";0;"2";
-"GM";"**";"**";"56";"UMPF";"Unterricht in der Herkunftssprache anstelle einer Pflichtfremdsprache oder eines Wahlpflichtfaches";0;"1";
-"GM";"**";"**";"56";"UMPF";"Unterricht in der Herkunftssprache anstelle einer Pflichtfremdsprache oder eines Wahlpflichtfaches";0;"2";
 "GM";"**";"**";"61";"WP1FS";"Wahlpflichtbereich, Fremdsprachlich (Bildungsgang Realschule)";0;"1";
 "GM";"**";"**";"61";"WPIGY";"Wahlfplichtunterricht: 2. Fremdsprache (Bildungsgang Gymnasium)";0;"1";
 "GM";"**";"**";"61";"WP1FS";"Wahlpflichtbereich, Fremdsprachlich (Bildungsgang Realschule)";0;"2";
@@ -196,8 +192,8 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "GM";"**";"**";"81";"SPFU";"Sportförderunterricht";0;"2";
 "GM";"**";"**";"82";"LRS";"Schülerinnen und Schüler mit besonderen Schwierigkeiten im Erlernen des Lesens und Rechtschreibens (LRS)";0;"1";
 "GM";"**";"**";"82";"LRS";"Schülerinnen und Schüler mit besonderen Schwierigkeiten im Erlernen des Lesens und Rechtschreibens (LRS)";0;"2";
-"GM";"**";"**";"84";"MEU";"Unterricht in der Herkunftssprache (Muttersprachlicher Unterricht)";0;"1";
-"GM";"**";"**";"84";"MEU";"Unterricht in der Herkunftssprache (Muttersprachlicher Unterricht)";0;"2";
+"GM";"**";"**";"84";"MEU";"Unterricht in der Herkunftssprache";0;"1";
+"GM";"**";"**";"84";"MEU";"Unterricht in der Herkunftssprache";0;"2";
 "GM";"**";"**";"85";"FDS";"Förderung in der deutschen Sprache außerhalb von Sprachfördermaßnahmen gemäß Erlass 13-63 Nr. 3";0;"1";
 "GM";"**";"**";"85";"FDS";"Förderung in der deutschen Sprache außerhalb von Sprachfördermaßnahmen gemäß Erlass 13-63 Nr. 3";0;"2";
 "GM";"**";"**";"88";"EBA";"Erweitertes Bildungsangebot (nur im Bildungsgang Hauptschule auslaufend)";0;"1";
@@ -221,7 +217,6 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "GY";"**";"**";"36";"AGGT";"Arbeitsgemeinschaft entsprechend § 9 Abs. 2, 3  SchulG";0;"1";
 "GY";"**";"**";"37";"FOGT";"Förderangebot entsprechend § 9 Abs. 2, 3  SchulG";0;"1";
 "GY";"**";"**";"55";"PROJ";"Profilklasse gem. § 21 Abs. 3 APO-SI";0;"1";
-"GY";"**";"**";"56";"UMPF";"Unterricht in der Herkunftssprache anstelle einer Pflichtfremdsprache oder eines Wahlpflichtfaches";0;"1";
 "GY";"**";"**";"61";"WPIGY";"Wahlpflichtunterricht: 2. Fremdsprache";0;"1";
 "GY";"**";"**";"62";"WPII";"Wahlpflichtunterricht: Fächerkombination aus dem Fächerspektrum der APO-SI oder gemäß § 7 Abs. 1 APO-GOSt";0;"1";
 "GY";"**";"**";"64";"F3";"Wahlpflichtunterricht: Einzelfach aus Fächerspektrum APO-SI oder gemäß § 7 Abs. 1 APO-GOSt (inklusive 3. Fremdsprache)";0;"1";
@@ -238,7 +233,7 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "GY";"**";"**";"78";"PJK";"Projektkurs § 11 Abs. 8  APO - GOSt";0;"1";
 "GY";"**";"**";"81";"SPFU";"Sportförderunterricht";0;"1";
 "GY";"**";"**";"82";"LRS";"Schülerinnen und Schüler mit besonderen Schwierigkeiten im Erlernen des Lesens und Rechtschreibens (LRS)";0;"1";
-"GY";"**";"**";"84";"MEU";"Unterricht in der Herkunftssprache (Muttersprachlicher Unterricht)";0;"1";
+"GY";"**";"**";"84";"MEU";"Unterricht in der Herkunftssprache";0;"1";
 "GY";"**";"**";"85";"FDS";"Förderung in der deutschen Sprache außerhalb von Sprachfördermaßnahmen gemäß Erlass 13-63 Nr. 3";0;"1";
 "GY";"**";"**";"89";"DFG";"Förderung neu zugewanderter Schüler in Deutschfördergruppen (teilweise äußere und innere Differenzierung)";0;"1";
 "GY";"**";"**";"90";"DFK";"Förderung neu zugewanderter Schüler in Deutschförderklassen (vollständige äußere Differenzierung)";0;"1";
@@ -267,8 +262,6 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "H";"**";"**";"36";"AGGT";"Arbeitsgemeinschaft entsprechend § 9 Abs. 2, 3  SchulG";0;"2";
 "H";"**";"**";"37";"FOGT";"Förderangebot entsprechend § 9 Abs. 2, 3  SchulG";0;"1";
 "H";"**";"**";"37";"FOGT";"Förderangebot entsprechend § 9 Abs. 2, 3  SchulG";0;"2";
-"H";"**";"**";"56";"UMPF";"Unterricht in der Herkunftssprache anstelle einer Pflichtfremdsprache oder eines Wahlpflichtfaches (Nur BG Realschule)";0;"1";
-"H";"**";"**";"56";"UMPF";"Unterricht in der Herkunftssprache anstelle einer Pflichtfremdsprache oder eines Wahlpflichtfaches (Nur BG Realschule)";0;"2";
 "H";"**";"**";"61";"WP1FS";"Wahlpflichtbereich, Fremdsprachlich  (Nur Bildungsgang Realschule)";0;"1";
 "H";"**";"**";"61";"WP1FS";"Wahlpflichtbereich, Fremdsprachlich  (Nur Bildungsgang Realschule)";0;"2";
 "H";"**";"**";"62";"WP1SW";"Wahlpflichtbereich: Sozialwissenschaftlich (Nur Bildungsgang Realschule)";0;"1";
@@ -285,8 +278,8 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "H";"**";"**";"81";"SPFU";"Sportförderunterricht";0;"2";
 "H";"**";"**";"82";"LRS";"Schülerinnen und Schüler mit besonderen Schwierigkeiten im Erlernen des Lesens und Rechtschreibens (LRS)";0;"1";
 "H";"**";"**";"82";"LRS";"Schülerinnen und Schüler mit besonderen Schwierigkeiten im Erlernen des Lesens und Rechtschreibens (LRS)";0;"2";
-"H";"**";"**";"84";"MEU";"Unterricht in der Herkunftssprache (Muttersprachlicher Unterricht)";0;"1";
-"H";"**";"**";"84";"MEU";"Unterricht in der Herkunftssprache (Muttersprachlicher Unterricht)";0;"2";
+"H";"**";"**";"84";"MEU";"Unterricht in der Herkunftssprache";0;"1";
+"H";"**";"**";"84";"MEU";"Unterricht in der Herkunftssprache";0;"2";
 "H";"**";"**";"85";"FDS";"Förderung in der deutschen Sprache außerhalb von Sprachfördermaßnahmen gemäß Erlass 13-63 Nr. 3";0;"1";
 "H";"**";"**";"85";"FDS";"Förderung in der deutschen Sprache außerhalb von Sprachfördermaßnahmen gemäß Erlass 13-63 Nr. 3";0;"2";
 "H";"**";"**";"88";"EBA";"Erweitertes Bildungsangebot";0;"1";
@@ -316,7 +309,6 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "PS";"**";"**";"33";"AST";"Arbeitsstunde entsprechend § 9 Abs. 2, 3  SchulG";0;"1";
 "PS";"**";"**";"36";"AGGT";"Arbeitsgemeinschaft entsprechend § 9 Abs. 2, 3  SchulG";0;"1";
 "PS";"**";"**";"37";"FOGT";"Förderangebot entsprechend § 9 Abs. 2, 3  SchulG";0;"1";
-"PS";"**";"**";"56";"UMPF";"Unterricht in der Herkunftssprache anstelle einer Pflichtfremdsprache oder eines Wahlpflichtfaches";0;"1";
 "PS";"**";"**";"71";"AB3";"3. Abiturfach";0;"1";
 "PS";"**";"**";"71";"AB4";"4. Abiturfach";0;"1";
 "PS";"**";"**";"71";"EFSP";"Ersatzfach für Sport als 4. Abiturfach";0;"1";
@@ -329,7 +321,7 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "PS";"**";"**";"78";"PJK";"Projektkurs";0;"1";
 "PS";"**";"**";"81";"SPFU";"Sportförderunterricht";0;"1";
 "PS";"**";"**";"82";"LRS";"Schülerinnen und Schüler mit besonderen Schwierigkeiten im Erlernen des Lesens und Rechtschreibens (LRS)";0;"1";
-"PS";"**";"**";"84";"MEU";"Unterricht in der Herkunftssprache (Muttersprachlicher Unterricht)";0;"1";
+"PS";"**";"**";"84";"MEU";"Unterricht in der Herkunftssprache";0;"1";
 "PS";"**";"**";"85";"FDS";"Förderung in der deutschen Sprache außerhalb von Sprachfördermaßnahmen gemäß Erlass 13-63 Nr. 3";0;"1";
 "PS";"**";"**";"89";"DFG";"Förderung neu zugewanderter Schüler in Deutschfördergruppen (teilweise äußere und innere Differenzierung)";0;"1";
 "PS";"**";"**";"90";"DFK";"Förderung neu zugewanderter Schüler in Deutschförderklassen (vollständige äußere Differenzierung)";0;"1";
@@ -361,8 +353,6 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "R";"**";"**";"36";"AGGT";"Arbeitsgemeinschaft entsprechend § 9 Abs. 2, 3  SchulG";0;"2";
 "R";"**";"**";"37";"FOGT";"Förderangebot entsprechend § 9 Abs. 2, 3  SchulG";0;"1";
 "R";"**";"**";"37";"FOGT";"Förderangebot entsprechend § 9 Abs. 2, 3  SchulG";0;"2";
-"R";"**";"**";"56";"UMPF";"Unterricht in der Herkunftssprache anstelle einer Pflichtfremdsprache oder eines Wahlpflichtfaches";0;"1";
-"R";"**";"**";"56";"UMPF";"Unterricht in der Herkunftssprache anstelle einer Pflichtfremdsprache oder eines Wahlpflichtfaches";0;"2";
 "R";"**";"**";"61";"WP1FS";"Wahlpflichtbereich, Fremdsprachlich";0;"1";
 "R";"**";"**";"61";"WP1FS";"Wahlpflichtbereich, Fremdsprachlich";0;"2";
 "R";"**";"**";"62";"WP1SW";"Wahlpflichtbereich: Sozialwissenschaftlich";0;"1";
@@ -379,8 +369,8 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "R";"**";"**";"81";"SPFU";"Sportförderunterricht";0;"2";
 "R";"**";"**";"82";"LRS";"Schülerinnen und Schüler mit besonderen Schwierigkeiten im Erlernen des Lesens und Rechtschreibens (LRS)";0;"1";
 "R";"**";"**";"82";"LRS";"Schülerinnen und Schüler mit besonderen Schwierigkeiten im Erlernen des Lesens und Rechtschreibens (LRS)";0;"2";
-"R";"**";"**";"84";"MEU";"Unterricht in der Herkunftssprache (Muttersprachlicher Unterricht)";0;"1";
-"R";"**";"**";"84";"MEU";"Unterricht in der Herkunftssprache (Muttersprachlicher Unterricht)";0;"2";
+"R";"**";"**";"84";"MEU";"Unterricht in der Herkunftssprache";0;"1";
+"R";"**";"**";"84";"MEU";"Unterricht in der Herkunftssprache";0;"2";
 "R";"**";"**";"85";"FDS";"Förderung in der deutschen Sprache außerhalb von Sprachfördermaßnahmen gemäß Erlass 13-63 Nr. 3";0;"1";
 "R";"**";"**";"85";"FDS";"Förderung in der deutschen Sprache außerhalb von Sprachfördermaßnahmen gemäß Erlass 13-63 Nr. 3";0;"2";
 "R";"**";"**";"88";"EBA";"Erweitertes Bildungsangebot (nur Bildungsgang Hauptschule)";0;"1";
@@ -409,7 +399,6 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "S";"**";"**";"33";"AST";"Arbeitsstunde entsprechend § 9 Abs. 2, 3  SchulG";0;"1";
 "S";"**";"**";"36";"AGGT";"Arbeitsgemeinschaft entsprechend § 9 Abs. 2, 3  SchulG";0;"1";
 "S";"**";"**";"37";"FOGT";"Förderangebot entsprechend § 9 Abs. 2, 3  SchulG";0;"1";
-"S";"**";"**";"56";"UMPF";"Unterricht in der Herkunftssprache anstelle einer Pflichtfremdsprache oder eines Wahlpflichtfaches";0;"1";
 "S";"**";"**";"61";"WP1FS";"Wahlpflichtbereich, Fremdsprachlich  (Nur Bildungsgang Realschule)";0;"1";
 "S";"**";"**";"62";"WP1SW";"Wahlpflichtbereich: Sozialwissenschaftlich (Nur Bildungsgang Realschule)";0;"1";
 "S";"**";"**";"63";"WP1NT";"Wahlpflichtbereich: Naturwissenschaftlich - technisch (Nur Bildungsgang Realschule)";0;"1";
@@ -417,7 +406,7 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "S";"**";"**";"68";"WP1WW";"Wahlpflichtbereich: Wirtschaftlich (Nur Bildungsgang Realschule)";0;"1";
 "S";"**";"**";"81";"SPFU";"Sportförderunterricht";0;"1";
 "S";"**";"**";"82";"LRS";"Schülerinnen und Schüler mit besonderen Schwierigkeiten im Erlernen des Lesens und Rechtschreibens (LRS)";0;"1";
-"S";"**";"**";"84";"MEU";"Unterricht in der Herkunftssprache (Muttersprachlicher Unterricht)";0;"1";
+"S";"**";"**";"84";"MEU";"Unterricht in der Herkunftssprache";0;"1";
 "S";"**";"**";"85";"FDS";"Förderung in der deutschen Sprache außerhalb von Sprachfördermaßnahmen gemäß Erlass 13-63 Nr. 3";0;"1";
 "S";"**";"**";"89";"DFG";"Förderung neu zugewanderter Schüler in Deutschfördergruppen (teilweise äußere und innere Differenzierung)";0;"1";
 "S";"**";"**";"90";"DFK";"Förderung neu zugewanderter Schüler in Deutschförderklassen (vollständige äußere Differenzierung)";0;"1";
@@ -462,7 +451,6 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "SG";"**";"**";"33";"AST";"Arbeitsstunde entsprechend § 9 Abs. 2, 3  SchulG";0;"1";
 "SG";"**";"**";"36";"AGGT";"Arbeitsgemeinschaft entsprechend § 9 Abs. 2, 3  SchulG";0;"1";
 "SG";"**";"**";"37";"FOGT";"Förderangebot entsprechend § 9 Abs. 2, 3  SchulG";0;"1";
-"SG";"**";"**";"56";"UMPF";"Unterricht in der Herkunftssprache anstelle einer Pflichtfremdsprache oder eines Wahlpflichtfaches";0;"1";
 "SG";"**";"**";"61";"WPIGY";"Wahlpflichtunterricht: 2. Fremdsprache";0;"1";
 "SG";"**";"**";"62";"WPII";"Wahlpflichtunterricht: Fächerkombination aus dem Fächerspektrum der APO-SI oder gemäß § 7 Abs. 1 APO-GOSt";0;"1";
 "SG";"**";"**";"64";"F3";"Wahlpflichtunterricht: Einzelfach aus Fächerspektrum APO-SI oder gemäß § 7 Abs. 1 APO-GOSt (inklusive 3. Fremdsprache)";0;"1";
@@ -478,7 +466,7 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "SG";"**";"**";"77";"VTF";"Vertiefungsfach  § 8, 11  APO - GOSt";0;"1";
 "SG";"**";"**";"81";"SPFU";"Sportförderunterricht";0;"1";
 "SG";"**";"**";"82";"LRS";"Schülerinnen und Schüler mit besonderen Schwierigkeiten im Erlernen des Lesens und Rechtschreibens (LRS)";0;"1";
-"SG";"**";"**";"84";"MEU";"Unterricht in der Herkunftssprache (Muttersprachlicher Unterricht)";0;"1";
+"SG";"**";"**";"84";"MEU";"Unterricht in der Herkunftssprache";0;"1";
 "SG";"**";"**";"85";"FDS";"Förderung in der deutschen Sprache außerhalb von Sprachfördermaßnahmen gemäß Erlass 13-63 Nr. 3";0;"1";
 "SG";"**";"**";"89";"DFG";"Förderung neu zugewanderter Schüler in Deutschfördergruppen (teilweise äußere und innere Differenzierung)";0;"1";
 "SG";"**";"**";"90";"DFK";"Förderung neu zugewanderter Schüler in Deutschförderklassen (vollständige äußere Differenzierung)";0;"1";
@@ -518,8 +506,6 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "SK";"**";"**";"37";"FOGT";"Förderangebot entsprechend § 9 Abs. 2, 3  SchulG";0;"2";
 "SK";"**";"**";"55";"PROJ";"Profilklasse gem. § 21 Abs. 3 APO-SI";0;"1";
 "SK";"**";"**";"55";"PROJ";"Profilklasse gem. § 21 Abs. 3 APO-SI";0;"2";
-"SK";"**";"**";"56";"UMPF";"Unterricht in der Herkunftssprache anstelle einer Pflichtfremdsprache oder eines Wahlpflichtfaches";0;"1";
-"SK";"**";"**";"56";"UMPF";"Unterricht in der Herkunftssprache anstelle einer Pflichtfremdspr. oder eines Wahlpflichtf. (nicht im BG Hauptschule)";0;"2";
 "SK";"**";"**";"61";"WP1FS";"Wahlpflichtbereich: Fremdsprachlich (nur Bildungsgang Realschule)";0;"1";
 "SK";"**";"**";"61";"WPIGY";"Wahlfplichtunterricht: 2. Fremdsprache (Bildungsgang Gymnasium)";0;"1";
 "SK";"**";"**";"61";"WP1FS";"Wahlpflichtbereich: Fremdsprachlich (nur im Bildungsgang Realschule)";0;"2";
@@ -542,8 +528,8 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "SK";"**";"**";"81";"SPFU";"Sportförderunterricht";0;"2";
 "SK";"**";"**";"82";"LRS";"Schülerinnen und Schüler mit besonderen Schwierigkeiten im Erlernen des Lesens und Rechtschreibens (LRS)";0;"1";
 "SK";"**";"**";"82";"LRS";"Schülerinnen und Schüler mit besonderen Schwierigkeiten im Erlernen des Lesens und Rechtschreibens (LRS)";0;"2";
-"SK";"**";"**";"84";"MEU";"Unterricht in der Herkunftssprache (Muttersprachlicher Unterricht)";0;"1";
-"SK";"**";"**";"84";"MEU";"Unterricht in der Herkunftssprache (Muttersprachlicher Unterricht)";0;"2";
+"SK";"**";"**";"84";"MEU";"Unterricht in der Herkunftssprache";0;"1";
+"SK";"**";"**";"84";"MEU";"Unterricht in der Herkunftssprache";0;"2";
 "SK";"**";"**";"85";"FDS";"Förderung in der deutschen Sprache außerhalb von Sprachfördermaßnahmen gemäß Erlass 13-63 Nr. 3";0;"1";
 "SK";"**";"**";"85";"FDS";"Förderung in der deutschen Sprache außerhalb von Sprachfördermaßnahmen gemäß Erlass 13-63 Nr. 3";0;"2";
 "SK";"**";"**";"88";"EBA";"Erweitertes Bildungsangebot (nur im Bildungsgang Hauptschule)";0;"1";
@@ -567,7 +553,6 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "SR";"**";"**";"33";"AST";"Arbeitsstunde entsprechend § 9 Abs. 2, 3  SchulG";0;"1";
 "SR";"**";"**";"36";"AGGT";"Arbeitsgemeinschaft entsprechend § 9 Abs. 2, 3  SchulG";0;"1";
 "SR";"**";"**";"37";"FOGT";"Förderangebot entsprechend § 9 Abs. 2, 3  SchulG";0;"1";
-"SR";"**";"**";"56";"UMPF";"Unterricht in der Herkunftssprache anstelle einer Pflichtfremdsprache oder eines Wahlpflichtfaches";0;"1";
 "SR";"**";"**";"61";"WP1FS";"Wahlpflichtbereich: Fremdsprachlich";0;"1";
 "SR";"**";"**";"62";"WP1SW";"Wahlpflichtbereich: Sozialwissenschaftlich";0;"1";
 "SR";"**";"**";"63";"WP1NT";"Wahlpflichtbereich: Naturwissenschaftlich - technisch";0;"1";
@@ -576,7 +561,7 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "SR";"**";"**";"68";"WP1WW";"Wahlpflichtbereich: Wirtschaftlich";0;"1";
 "SR";"**";"**";"81";"SPFU";"Sportförderunterricht";0;"1";
 "SR";"**";"**";"82";"LRS";"Schülerinnen und Schüler mit besonderen Schwierigkeiten im Erlernen des Lesens und Rechtschreibens (LRS)";0;"1";
-"SR";"**";"**";"84";"MEU";"Unterricht in der Herkunftssprache (Muttersprachlicher Unterricht)";0;"1";
+"SR";"**";"**";"84";"MEU";"Unterricht in der Herkunftssprache";0;"1";
 "SR";"**";"**";"85";"FDS";"Förderung in der deutschen Sprache außerhalb von Sprachfördermaßnahmen gemäß Erlass 13-63 Nr. 3";0;"1";
 "SR";"**";"**";"89";"DFG";"Förderung neu zugewanderter Schüler in Deutschfördergruppen (teilweise äußere und innere Differenzierung)";0;"1";
 "SR";"**";"**";"90";"DFK";"Förderung neu zugewanderter Schüler in Deutschförderklassen (vollständige äußere Differenzierung)";0;"1";
@@ -595,10 +580,9 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "V";"**";"**";"33";"AST";"Arbeitsstunde entsprechend § 9 Abs. 2, 3  SchulG";0;"1";
 "V";"**";"**";"36";"AGGT";"Arbeitsgemeinschaft entsprechend § 9 Abs. 2, 3  SchulG";0;"1";
 "V";"**";"**";"37";"FOGT";"Förderangebot entsprechend § 9 Abs. 2, 3  SchulG";0;"1";
-"V";"**";"**";"56";"UMPF";"Unterricht in der Herkunftssprache anstelle einer Pflichtfremdsprache oder eines Wahlpflichtfaches";0;"1";
 "V";"**";"**";"81";"SPFU";"Sportförderunterricht";0;"1";
 "V";"**";"**";"82";"LRS";"Schülerinnen und Schüler mit besonderen Schwierigkeiten im Erlernen des Lesens und Rechtschreibens (LRS)";0;"1";
-"V";"**";"**";"84";"MEU";"Unterricht in der Herkunftssprache (Muttersprachlicher Unterricht)";0;"1";
+"V";"**";"**";"84";"MEU";"Unterricht in der Herkunftssprache";0;"1";
 "V";"**";"**";"85";"FDS";"Förderung in der deutschen Sprache außerhalb von Sprachfördermaßnahmen gemäß Erlass 13-63 Nr. 3";0;"1";
 "V";"**";"**";"88";"EBA";"Erweitertes Bildungsangebot";0;"1";
 "V";"**";"**";"89";"DFG";"Förderung neu zugewanderter Schüler in Deutschfördergruppen (teilweise äußere und innere Differenzierung)";0;"1";

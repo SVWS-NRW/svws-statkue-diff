@@ -72,15 +72,6 @@ ID;Schulform;SchulformKuerzel;Jahrgang;Beschreibung;Beginn;Ende;geaendert;Sortie
 71;"15";"GE";"EF";"Einführungsphase";1900-01-01T00:00;null;;7
 72;"15";"GE";"Q1";"Qualifikationsphase 1";1900-01-01T00:00;null;;8
 73;"15";"GE";"Q2";"Qualifikationsphase 2";1900-01-01T00:00;null;;9
-74;"16";"GM";"05";"5. Jahrgang";1900-01-01T00:00;null;;1
-75;"16";"GM";"06";"6. Jahrgang";1900-01-01T00:00;null;;2
-76;"16";"GM";"07";"7. Jahrgang";1900-01-01T00:00;null;;3
-77;"16";"GM";"08";"8. Jahrgang";1900-01-01T00:00;null;;4
-78;"16";"GM";"09";"9. Jahrgang";1900-01-01T00:00;null;;5
-79;"16";"GM";"10";"10. Jahrgang";1900-01-01T00:00;null;;6
-80;"16";"GM";"EF";"Einführungsphase";1900-01-01T00:00;null;;7
-81;"16";"GM";"Q1";"Qualifikationsphase 1";1900-01-01T00:00;null;;8
-82;"16";"GM";"Q2";"Qualifikationsphase 2";1900-01-01T00:00;null;;9
 86;"17";"FW";"03";"3. Jahrgang";1900-01-01T00:00;null;;4
 87;"17";"FW";"04";"4. Jahrgang";1900-01-01T00:00;null;;5
 88;"17";"FW";"05";"5. Jahrgang";1900-01-01T00:00;null;;6

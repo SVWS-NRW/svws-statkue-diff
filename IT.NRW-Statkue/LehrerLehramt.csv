@@ -10,7 +10,6 @@ ID;Kurztext;Langtext;Beginn;Ende;Sort;geaendert
 9;"14";"Sonderpädagogik LPO 03";1900-01-01T00:00;null;900;
 10;"15";"Grund-, Haupt- u. Realschule u. entspr. Jahrg.stufen d. Gesamtschule -Schwerp.- Grundschule";1900-01-01T00:00;null;1000;
 11;"16";"Grund-, Haupt- u. Realschule u. entspr. Jahrg.stufen d. Gesamtsch. -Schwerp.- H/R/Gesamtsch.";1900-01-01T00:00;null;1100;
-45;"18";"Haupt-, Real-, Sekundar- und Gesamtschule";2019-08-01T00:00;null;1150;
 12;"19";"für die Sekundarstufe I und die Primarstufe";1900-01-01T00:00;null;1200;
 13;"20";"für die Sekundarstufe I";1900-01-01T00:00;null;1300;
 14;"21";"an der Realschule";1900-01-01T00:00;null;1400;
@@ -22,7 +21,6 @@ ID;Kurztext;Langtext;Beginn;Ende;Sort;geaendert
 20;"31";"für die Sekundarstufe II und Sonderpädagogik";1900-01-01T00:00;null;2000;
 21;"32";"für die Sekundarstufe II (mit beruflicher Fachrichtung)";1900-01-01T00:00;null;2100;
 22;"35";"Berufskolleg";1900-01-01T00:00;null;2200;
-46;"49";"Berufskolleg mit einer beruflichen Fachrichtung (§ 40 LVO)";2019-08-01T00:00;null;2250;
 23;"40";"Fachhochschullehrer/-in";1900-01-01T00:00;null;2300;
 24;"50";"Fachlehrer/-in an Sonderschulen";1900-01-01T00:00;null;2400;
 25;"51";"Religionslehrer/-in, Geistliche/-r, Katechet/-in";1900-01-01T00:00;null;2500;
@@ -31,13 +29,13 @@ ID;Kurztext;Langtext;Beginn;Ende;Sort;geaendert
 28;"54";"Fachlehrer/-in für Kurzschrift und Maschinenschreiben";1900-01-01T00:00;null;2800;
 29;"55";"Fachlehrer/-in mit der Befähigung für die Laufbahn des technischen Lehrers an beruflichen Schulen";1900-01-01T00:00;null;2900;
 30;"56";"Schulkindergärtner/-in";1900-01-01T00:00;null;3000;
-31;"57";"ohne sonderpädagogische Zusatzausbildung: Sozialarbeiter/-in, Sozialpädagoge/-in";1900-01-01T00:00;null;3100;
+31;"57";"Sozialarbeiter/-in, Sozialpädagoge/-in, Diplom-Pädagoge/-in (ohne sonderpädagogische Zusatzausbildung)";1900-01-01T00:00;null;3100;
 32;"58";"ohne sonderpädagogische Zusatzausbildung: Erzieher/-in.";1900-01-01T00:00;null;3200;
 33;"59";"ohne sonderpädagogische Zusatzausbildung: Sonstige pädagogische Unterrichtshilfe";1900-01-01T00:00;null;3300;
-34;"60";"mit sonderpädagogischer Zusatzausbildung: Sozialarbeiter/-in, Sozialpädagoge/-in";1900-01-01T00:00;null;3400;
+34;"60";"Sozialarbeiter/-in, Sozialpädagoge/-in, Diplom-Pädagoge/-in (mit sonderpädagogischer Zusatzausbildung)";1900-01-01T00:00;null;3400;
 35;"61";"mit sonderpädagogischer Zusatzausbildung: Erzieher/-in.";1900-01-01T00:00;null;3500;
 36;"62";"mit sonderpädagogischer Zusatzausbildung: Sonstige pädagogische Unterrichtshilfe";1900-01-01T00:00;null;3600;
-37;"96";"Lehrer, der eine Qualifikation erworben hat, die der 1. Staatsprüfung entspricht (z.B. Diplom, sofern nicht Schlüssel 98)";1900-01-01T00:00;null;3700;
+37;"96";"Qualifikation mit Hochschulabschluss ohne 2. Staatsprüfung";1900-01-01T00:00;null;3700;
 38;"97";"Lehrer, der außerhalb des Geltungsbereichs des Grundgesetzes seine Qualifikation erworben hat";1900-01-01T00:00;null;3800;
 39;"98";"Lehramtsanwärter/-in / Studienreferendar/-in";1900-01-01T00:00;null;3900;
 40;"99";"Sonstige (z.B. Gymnastik-, Werk-, Hauswirtschaftslehrer/-in, Übungsleiter/-in)";1900-01-01T00:00;null;4000;
@@ -45,3 +43,8 @@ ID;Kurztext;Langtext;Beginn;Ende;Sort;geaendert
 42;"04";"Grundschule";2011-08-01T00:00;null;4200;
 43;"17";"Haupt-, Real- und  Gesamtschule";2011-08-01T00:00;null;4300;
 44;"08";"Sonderpädagogische Förderung";2011-08-01T00:00;null;4400;
+45;"18";"Haupt-, Real-, Sekundar- und Gesamtschule";2019-08-01T00:00;null;4500;
+46;"49";"Berufskolleg mit einer beruflichen Fachrichtung (§ 40 LVO)";2019-08-01T00:00;null;4600;
+47;"63";"Heilpädagoge/-in";2023-03-01T00:00;null;4700;
+48;"64";"Handwerksmeister/-in";2023-03-01T00:00;null;4800;
+49;"65";"Alltagshelfer/-in";2023-03-01T00:00;null;4900;

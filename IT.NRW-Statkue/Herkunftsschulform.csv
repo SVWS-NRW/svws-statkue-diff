@@ -11,8 +11,8 @@ SF;HSF;Beschreibung;Flag;geaendert
 "SB";"A12";"Berufsschule, Ausbildungsvorbereitung (1-jährig, Vollzeit)";"1";
 "BK";"A13";"Berufsschule, Ausbildungsvorbereitung (1-jährig, Teilzeit)";"1";
 "SB";"A13";"Berufsschule, Ausbildungsvorbereitung (1-jährig, (Teilzeit)";"1";
-"BK";"A14";"Berufsabschluss (nach §50 BBiG/§40 HwO)/mittlerer Schulabschluss";"1";
-"SB";"A14";"Berufsabschluss (nach §50 BBiG/§40 HwO)/mittlerer Schulabschluss";"1";
+"BK";"A14";"Berufsabschluss (nach §50 BBiG/§40 HwO)/Mittlerer Schulabschluss";"1";
+"SB";"A14";"Berufsabschluss (nach §50 BBiG/§40 HwO)/Mittlerer Schulabschluss";"1";
 "BK";"A15";"Berufsabschluss (nach §50 BBiG/§40 HwO)/Fachhochschulreife";"1";
 "BK";"A16";"Fachklassen (nach §2 BKAZVO)";"1";
 "SB";"A16";"Fachklassen (nach §2 BKAZVO)";"1";
@@ -22,7 +22,6 @@ SF;HSF;Beschreibung;Flag;geaendert
 "FW";"AS";"Ausländische Schüler, die aus dem Ausland zugezogen sind";"1";
 "G";"AS";"Ausländische Schüler, die aus dem Ausland zugezogen sind";"1";
 "GE";"AS";"Ausländische Schüler, die aus dem Ausland zugezogen sind";"1";
-"GM";"AS";"Ausländische Schüler, die aus dem Ausland zugezogen sind";"1";
 "GY";"AS";"Ausländische Schüler, die aus dem Ausland zugezogen sind";"1";
 "H";"AS";"Ausländische Schüler, die aus dem Ausland zugezogen sind";"1";
 "PS";"AS";"Ausländische Schüler, die aus dem Ausland zugezogen sind";"1";
@@ -34,16 +33,16 @@ SF;HSF;Beschreibung;Flag;geaendert
 "SR";"AS";"Ausländische Schüler, die aus dem Ausland zugezogen sind";"1";
 "V";"AS";"Ausländische Schüler, die aus dem Ausland zugezogen sind";"1";
 "WB";"AS";"Ausländische Studierende, die aus dem Ausland zugezogen sind";"1";
-"BK";"B06";"Berufsfachschule, Berufliche Kenntnisse/Hauptschulabschluss Kl. 10 (1-jährig, Vollzeit)";"1";
-"SB";"B06";"Berufsfachschule, Berufliche Kenntnisse/Hauptschulabschluss Kl. 10 (1-jährig, Vollzeit)";"1";
-"BK";"B07";"Berufsfachschule, Berufliche Kenntnisse/mittlerer Schulabschluss (1-jährig, Vollzeit)";"1";
-"SB";"B07";"Berufsfachschule, Berufliche Kenntnisse/mittlerer Schulabschluss (1-jährig, Vollzeit)";"1";
-"BK";"B08";"Berufsfachschule, Berufsabschluss/Hauptschulabschluss Kl. 10 oder mittlerer Schulabschluss (2-jährig, Vollzeit)";"1";
-"SB";"B08";"Berufsfachschule, Berufsabschluss/Hauptschulabschluss Kl. 10 oder mittlerer Schulabschluss (2-jährig, Vollzeit)";"1";
-"BK";"B09";"Berufsfachschule, Berufsabschluss/Hauptschulabschluss Kl. 10 oder mittlerer Schulabschluss (3-jährig, Teilzeit)";"1";
-"SB";"B09";"Berufsfachschule, Berufsabschluss/Hauptschulabschluss Kl. 10 oder mittlerer Schulabschluss (3-jährig, Teilzeit)";"1";
-"BK";"B10";"Berufsfachschule, Berufsabschluss/Hauptschulabschluss Kl. 10 oder mittlerer Schulabschluss (4-jährig, Teilzeit)";"1";
-"SB";"B10";"Berufsfachschule, Berufsabschluss/Hauptschulabschluss Kl. 10 oder mittlerer Schulabschluss (4-jährig, Teilzeit)";"1";
+"BK";"B06";"Berufsfachschule, Berufliche Kenntnisse/Erweiterter Erster Schulabschluss (1-jährig, Vollzeit)";"1";
+"SB";"B06";"Berufsfachschule, Berufliche Kenntnisse/Erweiterter Erster Schulabschluss (1-jährig, Vollzeit)";"1";
+"BK";"B07";"Berufsfachschule, Berufliche Kenntnisse/Mittlerer Schulabschluss (1-jährig, Vollzeit)";"1";
+"SB";"B07";"Berufsfachschule, Berufliche Kenntnisse/Mittlerer Schulabschluss (1-jährig, Vollzeit)";"1";
+"BK";"B08";"Berufsfachschule, Berufsabschluss/Erweiterter Erster Schulabschlaschluss oder Mittlerer Schulabschluss (2-jährig, Vollzeit)";"1";
+"SB";"B08";"Berufsfachschule, Berufsabschluss//Erweiterter Erster Schulabschluss oder Mittlerer Schulabschluss (2-jährig, Vollzeit)";"1";
+"BK";"B09";"Berufsfachschule, Berufsabschluss/Erweiterter Erster Schulabschlabschluss oder Mittlerer Schulabschluss (3-jährig, Teilzeit)";"1";
+"SB";"B09";"Berufsfachschule, Berufsabschluss//Erweiterter Erster Schulabschluss oder Mittlerer Schulabschluss (3-jährig, Teilzeit)";"1";
+"BK";"B10";"Berufsfachschule, Berufsabschluss/Erweiterter Erster Schulabschlabschluss oder Mittlerer Schulabschluss (4-jährig, Teilzeit)";"1";
+"SB";"B10";"Berufsfachschule, Berufsabschluss//Erweiterter Erster Schulabschluss oder Mittlerer Schulabschluss (4-jährig, Teilzeit)";"1";
 "WB";"BF";"Berufskolleg: Berufsfachschule";"1";
 "FW";"BK";"Berufskolleg";"1";
 "GE";"BK";"Berufskolleg";"1";
@@ -106,7 +105,6 @@ SF;HSF;Beschreibung;Flag;geaendert
 "FW";"FW";"Freie Waldorfschule oder Hiberniaschule";"1";
 "G";"FW";"Freie Waldorfschule oder Hiberniaschule";"1";
 "GE";"FW";"Freie Waldorfschule oder Hiberniaschule";"1";
-"GM";"FW";"Freie Waldorfschule oder Hiberniaschule";"1";
 "GY";"FW";"Freie Waldorfschule oder Hiberniaschule";"1";
 "H";"FW";"Freie Waldorfschule oder Hiberniaschule";"1";
 "PS";"FW";"Freie Waldorfschule oder Hiberniaschule";"1";
@@ -121,7 +119,6 @@ SF;HSF;Beschreibung;Flag;geaendert
 "FW";"G";"Grundschule (auch Primarstufe der Volksschule)";"1";
 "G";"G";"Grundschule";"1";
 "GE";"G";"Grundschule (auch Primarstufe der Volksschule)";"1";
-"GM";"G";"Grundschule (auch Primarstufe der Volksschule)";"1";
 "GY";"G";"Grundschule (auch Primarstufe der Volksschule)";"1";
 "H";"G";"Grundschule (auch Primarstufe der Volksschule)";"1";
 "PS";"G";"Grundschule (auch Primarstufe der Volksschule)";"1";
@@ -134,7 +131,6 @@ SF;HSF;Beschreibung;Flag;geaendert
 "BK";"GE";"Gesamtschule";"1";
 "FW";"GE";"Gesamtschule";"1";
 "GE";"GE";"Gesamtschule";"1";
-"GM";"GE";"Gesamtschule";"1";
 "GY";"GE";"Gesamtschule";"1";
 "H";"GE";"Gesamtschule";"1";
 "PS";"GE";"Gesamtschule";"1";
@@ -149,7 +145,6 @@ SF;HSF;Beschreibung;Flag;geaendert
 "BK";"GM";"Gemeinschaftsschule";"1";
 "FW";"GM";"Gemeinschaftsschule";"1";
 "GE";"GM";"Gemeinschaftsschule";"1";
-"GM";"GM";"Gemeinschaftsschule";"1";
 "GY";"GM";"Gemeinschaftsschule";"1";
 "H";"GM";"Gemeinschaftsschule";"1";
 "PS";"GM";"Gemeinschaftsschule";"1";
@@ -164,7 +159,6 @@ SF;HSF;Beschreibung;Flag;geaendert
 "BK";"GY";"Gymnasium (auch Aufbaugymnasium)";"1";
 "FW";"GY";"Gymnasium (auch Aufbaugymnasium)";"1";
 "GE";"GY";"Gymnasium (auch Aufbaugymnasium)";"1";
-"GM";"GY";"Gymnasium (auch Aufbaugymnasium)";"1";
 "GY";"GY";"Gymnasium (auch Aufbaugymnasium)";"1";
 "H";"GY";"Gymnasium (auch Aufbaugymnasium)";"1";
 "PS";"GY";"Gymnasium (auch Aufbaugymnasium)";"1";
@@ -179,7 +173,6 @@ SF;HSF;Beschreibung;Flag;geaendert
 "BK";"H";"Hauptschule (auch Volksschule JG 05-10)";"1";
 "FW";"H";"Hauptschule (auch Sekundarstufe I der Volksschule)";"1";
 "GE";"H";"Hauptschule (auch Sekundarstufe I der Volksschule)";"1";
-"GM";"H";"Hauptschule (auch Sekundarstufe I der Volksschule)";"1";
 "GY";"H";"Hauptschule (auch Sekundarstufe I der Volksschule)";"1";
 "H";"H";"Hauptschule (auch Sekundarstufe I der Volksschule)";"1";
 "PS";"H";"Hauptschule (auch Sekundarstufe I der Volksschule)";"1";
@@ -198,7 +191,6 @@ SF;HSF;Beschreibung;Flag;geaendert
 "FW";"PS";"Schulversuch PRIMUS";"1";
 "G";"PS";"Schulversuch PRIMUS";"1";
 "GE";"PS";"Schulversuch PRIMUS";"1";
-"GM";"PS";"Schulversuch PRIMUS";"1";
 "GY";"PS";"Schulversuch PRIMUS";"1";
 "H";"PS";"Schulversuch PRIMUS";"1";
 "PS";"PS";"Schulversuch PRIMUS";"1";
@@ -213,7 +205,6 @@ SF;HSF;Beschreibung;Flag;geaendert
 "BK";"R";"Realschule (auch Aufbaurealschule)";"1";
 "FW";"R";"Realschule (auch Aufbaurealschule)";"1";
 "GE";"R";"Realschule (auch Aufbaurealschule)";"1";
-"GM";"R";"Realschule (auch Aufbaurealschule)";"1";
 "GY";"R";"Realschule (auch Aufbaurealschule)";"1";
 "H";"R";"Realschule (auch Aufbaurealschule)";"1";
 "PS";"R";"Realschule (auch Aufbaurealschule)";"1";
@@ -229,7 +220,6 @@ SF;HSF;Beschreibung;Flag;geaendert
 "FW";"S";"Förderschule oder Klinikschule";"1";
 "G";"S";"Förderschule oder Klinikschule";"1";
 "GE";"S";"Förderschule oder Klinikschule";"1";
-"GM";"S";"Förderschule oder Klinikschule";"1";
 "GY";"S";"Förderschule oder Klinikschule";"1";
 "H";"S";"Förderschule oder Klinikschule";"1";
 "PS";"S";"Förderschule oder Klinikschule";"1";
@@ -244,7 +234,6 @@ SF;HSF;Beschreibung;Flag;geaendert
 "BK";"SE";"Sekundarschule";"1";
 "FW";"SE";"Sekundarschule";"1";
 "GE";"SE";"Sekundarschule";"1";
-"GM";"SE";"Sekundarschule";"1";
 "GY";"SE";"Sekundarschule";"1";
 "H";"SE";"Sekundarschule";"1";
 "PS";"SE";"Sekundarschule";"1";
@@ -280,7 +269,6 @@ SF;HSF;Beschreibung;Flag;geaendert
 "FW";"XS";"Sonstige Schule bzw. keine Schule, auch aus dem Ausland zugezogene deutsche Schüler";"1";
 "G";"XS";"Sonstige Schule bzw. keine Schule, auch aus dem Ausland zugezogene deutsche Schüler";"1";
 "GE";"XS";"Sonstige Schule bzw. keine Schule, auch aus dem Ausland zugezogene deutsche Schüler";"1";
-"GM";"XS";"Sonstige Schule bzw. keine Schule, auch aus dem Ausland zugezogene deutsche Schüler";"1";
 "GY";"XS";"Sonstige Schule bzw. keine Schule, auch aus dem Ausland zugezogene deutsche Schüler";"1";
 "H";"XS";"Sonstige Schule bzw. keine Schule, auch aus dem Ausland zugezogene deutsche Schüler";"1";
 "PS";"XS";"Sonstige Schule bzw. keine Schule, auch aus dem Ausland zugezogene deutsche Schüler";"1";
