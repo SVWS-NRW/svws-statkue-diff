@@ -9,11 +9,6 @@ KlArt;FSP;Bezeichnung;Schulform;geaendert
 "PK";"**";"Profilklasse (gemäß § 21 Abs. 3 APO-S I) (nur Bildungsgang GY9)";"GE";
 "RK";"**";"Regelklasse";"GE";
 "SG";"**";"Deutschförderklasse (gemäß BASS 13-63 Nr. 3, Nummer 3.5.1)";"GE";
-"1A";"**";"Klasse 10 Typ A (nur Bildungsgang Hauptschule)";"GM";
-"1B";"**";"Klasse 10 Typ B (nur Bildungsgang Hauptschule)";"GM";
-"AB";"**";"Klassen im Jahrgang 10 ohne Differenzierung in Typ A und Typ B (nur Bildungsgang Hauptschule)";"GM";
-"RK";"**";"Regelklasse";"GM";
-"SG";"**";"Deutschförderklasse (gemäß BASS 13-63 Nr. 3, Nummer 3.5.1)";"GM";
 "PK";"**";"Profilklasse (gemäß § 21 Abs. 3 APO-S I)";"GY";
 "RK";"**";"Regelklasse";"GY";
 "SG";"**";"Deutschförderklasse (gemäß BASS 13-63 Nr. 3, Nummer 3.5.1)";"GY";

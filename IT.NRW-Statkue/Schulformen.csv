@@ -1,11 +1,4 @@
 Schulform;SF;Bezeichnung;Flag;geaendert
-"**";"AS";"Ausländische Schüler, die zugewandert sind";"1";
-"**";"HU";"Hochschule, Universität";"1";
-"**";"SO";"Sonstige Förderschulen";"1";
-"**";"SP";"Ausgesiedelte Schüler, die zugewandert sind";"1";
-"**";"WZ";"Wehrdienst bzw. Zivildienst";"1";
-"**";"XB";"Berufstätigkeit, z.B. vor Besuch einer Fachschule";"1";
-"**";"XS";"Sonstige Schulen bzw. keine Schule";"1";
 "02";"G";"Grundschule";"1";
 "04";"H";"Hauptschule";"1";
 "06";"V";"Volksschule";"1";

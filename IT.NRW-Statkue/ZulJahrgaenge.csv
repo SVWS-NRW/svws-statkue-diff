@@ -124,16 +124,6 @@ ID;Schulform;Flag;SNR;FSP;Jahrgang;KZ_Bereich;Beschreibung;geaendert
 85;"GE";"1";null;null;"Q2";0;"Qualifikationsphase 2";
 160;"GE";"1";"GE";null;"Q2";0;"Qualifikationsphase 2";
 56;"GE";"1";"GX";null;"Q2";0;"Qualifikationsphase 2";
-192;"GM";"1";null;null;null;0;null;
-119;"GM";"1";null;null;"05";0;"05 Jahrgang";
-195;"GM";"1";null;null;"06";0;"06 Jahrgang";
-190;"GM";"1";null;null;"07";0;"07 Jahrgang";
-234;"GM";"1";null;null;"08";0;"08 Jahrgang";
-236;"GM";"1";null;null;"09";0;"09 Jahrgang";
-253;"GM";"1";null;null;"10";0;"10 Jahrgang";
-264;"GM";"1";null;null;"EF";0;"Einführungsphase";
-265;"GM";"1";null;null;"Q1";0;"Qualifikationsphase 1";
-266;"GM";"1";null;null;"Q2";0;"Qualifikationsphase 2";
 35;"GY";"1";null;null;null;null;null;
 163;"GY";"1";"AG";null;null;0;null;
 171;"GY";"1";"VA";null;null;0;null;

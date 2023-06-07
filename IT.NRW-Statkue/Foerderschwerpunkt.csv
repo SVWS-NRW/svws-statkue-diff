@@ -3,7 +3,7 @@ SF;FSP;Beschreibung;Flag;geaendert
 "FW";null;"kein Förderschwerpunkt";"2";
 "G";null;"kein Förderschwerpunkt";"1";
 "GE";null;"kein Förderschwerpunkt";"2";
-"GM";null;"kein Förderschwerpunkt";"2";
+"GM";null;"kein Förderschwerpunkt";"4";
 "GY";null;"kein Förderschwerpunkt";"2";
 "H";null;"kein Förderschwerpunkt";"2";
 "PS";null;"kein Förderschwerpunkt";"2";
@@ -15,7 +15,7 @@ SF;FSP;Beschreibung;Flag;geaendert
 "FW";"BL";"Sehen (Blinde)";"2";
 "G";"BL";"Sehen (Blinde)";"1";
 "GE";"BL";"Sehen (Blinde)";"2";
-"GM";"BL";"Sehen (Blinde)";"2";
+"GM";"BL";"Sehen (Blinde)";"4";
 "GY";"BL";"Sehen (Blinde)";"2";
 "H";"BL";"Sehen (Blinde)";"2";
 "PS";"BL";"Sehen (Blinde)";"2";
@@ -24,11 +24,11 @@ SF;FSP;Beschreibung;Flag;geaendert
 "SB";"BL";"Sehen (Blinde)";"2";
 "SK";"BL";"Sehen (Blinde)";"2";
 "V";"BL";"Sehen (Blinde)";"2";
-"BK";"EZ";"Emotionale und soziale Entwicklung";"2";
+"BK";"EZ";"Emotionale und soziale Entwicklung";"4";
 "FW";"EZ";"Emotionale und soziale Entwicklung";"2";
 "G";"EZ";"Emotionale und soziale Entwicklung";"1";
 "GE";"EZ";"Emotionale und soziale Entwicklung";"2";
-"GM";"EZ";"Emotionale und soziale Entwicklung";"2";
+"GM";"EZ";"Emotionale und soziale Entwicklung";"4";
 "GY";"EZ";"Emotionale und soziale Entwicklung";"2";
 "H";"EZ";"Emotionale und soziale Entwicklung";"2";
 "PS";"EZ";"Emotionale und soziale Entwicklung";"2";
@@ -41,7 +41,7 @@ SF;FSP;Beschreibung;Flag;geaendert
 "FW";"GB";"Geistige Entwicklung";"2";
 "G";"GB";"Geistige Entwicklung";"1";
 "GE";"GB";"Geistige Entwicklung";"2";
-"GM";"GB";"Geistige Entwicklung";"2";
+"GM";"GB";"Geistige Entwicklung";"4";
 "GY";"GB";"Geistige Entwicklung";"2";
 "H";"GB";"Geistige Entwicklung";"2";
 "PS";"GB";"Geistige Entwicklung";"2";
@@ -54,7 +54,7 @@ SF;FSP;Beschreibung;Flag;geaendert
 "FW";"GH";"Hören und Kommunikation (Gehörlose)";"2";
 "G";"GH";"Hören und Kommunikation (Gehörlose)";"1";
 "GE";"GH";"Hören und Kommunikation (Gehörlose)";"2";
-"GM";"GH";"Hören und Kommunikation (Gehörlose)";"2";
+"GM";"GH";"Hören und Kommunikation (Gehörlose)";"4";
 "GY";"GH";"Hören und Kommunikation (Gehörlose)";"2";
 "H";"GH";"Hören und Kommunikation (Gehörlose)";"2";
 "PS";"GH";"Hören und Kommunikation (Gehörlose)";"2";
@@ -68,7 +68,7 @@ SF;FSP;Beschreibung;Flag;geaendert
 "FW";"KB";"Körperliche und motorische Entwicklung";"2";
 "G";"KB";"Körperliche und motorische Entwicklung";"1";
 "GE";"KB";"Körperliche und motorische Entwicklung";"2";
-"GM";"KB";"Körperliche und motorische Entwicklung";"2";
+"GM";"KB";"Körperliche und motorische Entwicklung";"4";
 "GY";"KB";"Körperliche und motorische Entwicklung";"2";
 "H";"KB";"Körperliche und motorische Entwicklung";"2";
 "PS";"KB";"Körperliche und motorische Entwicklung";"2";
@@ -80,11 +80,11 @@ SF;FSP;Beschreibung;Flag;geaendert
 "V";"KB";"Körperliche und motorische Entwicklung";"2";
 "FW";"KR";"Klinikschule";"2";
 "S";"KR";"Klinikschule";"2";
-"BK";"LB";"Lernen";"2";
+"BK";"LB";"Lernen";"4";
 "FW";"LB";"Lernen";"2";
 "G";"LB";"Lernen";"1";
 "GE";"LB";"Lernen";"2";
-"GM";"LB";"Lernen";"2";
+"GM";"LB";"Lernen";"4";
 "GY";"LB";"Lernen";"2";
 "H";"LB";"Lernen";"2";
 "PS";"LB";"Lernen";"2";
@@ -139,11 +139,11 @@ SF;FSP;Beschreibung;Flag;geaendert
 "SB";"PS";"Präventive Förderung im Bereich Sprache";"3";
 "SK";"PS";"Präventive Förderung im Bereich Sprache";"3";
 "V";"PS";"Präventive Förderung im Bereich Sprache";"3";
-"BK";"SB";"Sprache";"2";
+"BK";"SB";"Sprache";"4";
 "FW";"SB";"Sprache";"2";
 "G";"SB";"Sprache";"1";
 "GE";"SB";"Sprache";"2";
-"GM";"SB";"Sprache";"2";
+"GM";"SB";"Sprache";"4";
 "GY";"SB";"Sprache";"2";
 "H";"SB";"Sprache";"2";
 "PS";"SB";"Sprache";"2";
@@ -156,7 +156,7 @@ SF;FSP;Beschreibung;Flag;geaendert
 "FW";"SG";"Hören und Kommunikation (Schwerhörige)";"2";
 "G";"SG";"Hören und Kommunikation (Schwerhörige)";"1";
 "GE";"SG";"Hören und Kommunikation (Schwerhörige)";"2";
-"GM";"SG";"Hören und Kommunikation (Schwerhörige)";"2";
+"GM";"SG";"Hören und Kommunikation (Schwerhörige)";"4";
 "GY";"SG";"Hören und Kommunikation (Schwerhörige)";"2";
 "H";"SG";"Hören und Kommunikation (Schwerhörige)";"2";
 "PS";"SG";"Hören und Kommunikation (Schwerhörige)";"2";
@@ -170,7 +170,7 @@ SF;FSP;Beschreibung;Flag;geaendert
 "FW";"SH";"Sehen (Sehbehinderte)";"2";
 "G";"SH";"Sehen (Sehbehinderte)";"1";
 "GE";"SH";"Sehen (Sehbehinderte)";"2";
-"GM";"SH";"Sehen (Sehbehinderte)";"2";
+"GM";"SH";"Sehen (Sehbehinderte)";"4";
 "GY";"SH";"Sehen (Sehbehinderte)";"2";
 "H";"SH";"Sehen (Sehbehinderte)";"2";
 "PS";"SH";"Sehen (Sehbehinderte)";"2";

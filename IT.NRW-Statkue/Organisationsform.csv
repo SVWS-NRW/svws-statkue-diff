@@ -25,8 +25,6 @@ SF;OrgForm;FSP;Beschreibung;Flag;geaendert
 "G";"4";null;"Teilnahme am offenen Ganztag (Nur für Schulen mit Genehmigung für den offenen Ganztagsbetrieb)";"1";
 "GE";"1";null;"Halbtagsunterricht";"1";
 "GE";"2";null;"Teilnahme am gebundenen Ganztag";"1";
-"GM";"1";null;"Halbtagsunterricht";"1";
-"GM";"2";null;"Teilnahme am gebundenen Ganztag";"1";
 "GY";"1";null;"Halbtagsunterricht";"1";
 "GY";"2";null;"Teilnahme am gebundenen Ganztag";"1";
 "H";"1";null;"Halbtagsunterricht";"1";

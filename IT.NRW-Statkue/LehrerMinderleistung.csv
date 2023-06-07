@@ -7,7 +7,6 @@ ID;Kurztext;Langtext;Beginn;Ende;Sort;geaendert
 6;"250";"Abwesend wegen Beschäftigungsverbot gem. § 3 MuSchG";1900-01-01T00:00;null;250;
 22;"255";"Abwesend wegen Teilbeschäftigungsverbot gem. § 3 MuSchG";1900-01-01T00:00;null;255;
 7;"260";"Wiedereingliederungsmaßnahme";1900-01-01T00:00;null;260;
-23;"265";"Abwesenheit aufgrund eines ärztlichen Beschäftigungsverbots";2023-01-01T00:00;null;265;
 8;"270";"Rückgabe vorgeleisteter Stunden wegen Nichtinanspruchnahme von Altersteilzeit";1900-01-01T00:00;null;270;
 15;"275";"Rückgabe der Vorgriffsstunden";2008-08-01T00:00;null;275;
 9;"280";"Seiteneinsteigerentlastung";1900-01-01T00:00;"31.07.2010";280;

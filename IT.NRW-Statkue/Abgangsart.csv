@@ -661,7 +661,9 @@ SF;Art;Beschreibung;KZ_Bereich;KZ_Bereich_JG;AbgangsJG;Flag;geaendert
 "S";"G";"Mittlerer Schulabschluss - Fachoberschulreife mit Berechtigung zum Besuch der gymnasialen Oberstufe";0;0;"71";"1";
 "FW";"H";"Fachhochschulreife (schulischer Teil) (ohne Abitur)";0;0;"71";"1";
 "FW";"K";"Abitur (allgemeine Hochschulreife)";0;0;"71";"1";
+"FW";"M";"Abschlusszeugnis im zieldifferenten Bildungsgang Geistige Entwicklung";0;0;"71";"1";
 "S";"M";"Abschlusszeugnis im zieldifferenten Bildungsgang Geistige Entwicklung";0;0;"71";"1";
+"FW";"V";"Abschluss des zieldifferenten Bildungsgangs Lernen";0;0;"71";"1";
 "S";"V";"Abschluss des zieldifferenten Bildungsgangs Lernen";0;0;"71";"1";
 "FW";"W";"Zeugnis der Waldorfschule";0;0;"71";"1";
 "FW";"M";"Abschlusszeugnis im zieldifferenten Bildungsgang Geistige Entwicklung";0;0;"85";"1";
