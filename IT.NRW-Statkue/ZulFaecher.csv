@@ -38,6 +38,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "BK";null;null;"HY";"Hygiene";-1;"1";8;0;
 "BK";null;null;"I";"Italienisch";-1;"1";9;0;
 "BK";null;null;"IF";"Informatik";0;"1";9;0;
+"BK";null;null;"IG";"Ingenieurwissenschaften / Ingenieurtechnik";0;"1";9;0;
 "BK";null;null;"IL";"Islamischer Religionsunterricht";0;"1";9;0;
 "BK";null;null;"K";"Japanisch";0;"1";11;0;
 "BK";null;null;"KN";"Katholische Religionslehre (konfessionell kooperativ)";0;"1";11;0;
@@ -55,7 +56,6 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "BK";null;null;"MU";"Musik";-1;"1";13;0;
 "BK";null;null;"MW";"Methodik des wissenschaftl. orientierten Arbeitens";-1;"1";13;0;
 "BK";null;null;"N";"Niederländisch";-1;"1";14;0;
-"BK";null;null;"NM";"Unterricht in der Herkunftssprache - Niederländisch";0;"1";14;0;
 "BK";null;null;"NW";"Naturwissenschaften";0;"1";14;0;
 "BK";null;null;"OL";"Organisationslehre/Büroorganisation";0;"1";15;0;
 "BK";null;null;"OR";"Orthodoxe Religionslehre";-1;"1";15;0;
@@ -67,7 +67,6 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "BK";null;null;"PS";"Psychologie";-1;"1";16;0;
 "BK";null;null;"PU";"Fachübergreifender Unterricht";-1;"1";16;0;
 "BK";null;null;"PW";"Personalwirtschaft und Soziologie/Politik";null;"1";16;0;
-"BK";null;null;"QM";"Unterricht in der Herkunftssprache - Farsi";0;"1";17;0;
 "BK";null;null;"R";"Russisch";-1;"1";18;0;
 "BK";null;null;"RE";"Rechnungswesen";-1;"1";18;0;
 "BK";null;null;"RW";"Recht und Verwaltung";-1;"1";18;0;
@@ -84,20 +83,16 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "BK";null;null;"TI";"Technische Informatik";0;"1";20;0;
 "BK";null;null;"TV";"Textverarbeitung";-1;"1";20;0;
 "BK";null;null;"TZ";"Technisches Zeichnen / Fachzeichnen";-1;"1";20;0;
-"BK";null;null;"UM";"Unterricht in der Herkunftssprache - Rumänisch";0;"1";21;0;
 "BK";null;null;"VE";"Verwaltungskunde";0;"1";22;0;
 "BK";null;null;"VK";"Verkaufskunde";0;"1";22;0;
-"BK";null;null;"VM";"Unterricht in der Herkunftssprache - Bulgarisch";0;"1";22;0;
 "BK";null;null;"VP";"Volkswirtschaftslehre/Politik";null;"1";22;0;
 "BK";null;null;"VT";"Verfahrenstechnik";-1;"1";22;0;
 "BK";null;null;"VW";"Volkswirtschaftslehre";-1;"1";22;0;
 "BK";null;null;"WG";"Wirtschaftsgeographie";-1;"1";23;0;
 "BK";null;null;"WI";"Wirtschaftsinformatik/Organisationslehre";null;"1";23;0;
 "BK";null;null;"WW";"Wirtschaftslehre";-1;"1";23;0;
-"BK";null;null;"YM";"Unterricht in der Herkunftssprache - Koreanisch";0;"1";25;0;
 "BK";null;null;"YR";"Syrisch Orthodoxe Religionslehre";0;"1";25;0;
 "BK";null;null;"Z";"Neugriechisch";0;"1";26;0;
-"BK";null;null;"ZM";"Unterricht in der Herkunftssprache - Kurdische Sprachen (Sorani, Komanci, Zaza)";0;"1";26;0;
 "BK";null;null;"ZW";"Zeichnen / Werken";-1;"1";26;0;
 "FW";null;null;"E";"Englisch";0;"1";5;1;
 "FW";null;null;"F";"Französisch";0;"1";6;1;
@@ -108,20 +103,24 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "FW";null;null;"SR";"Sonstige Sprachen";0;"1";19;1;
 "FW";null;null;"XX";"Sonstige Fächer ohne Fremdsprachen (kein Import nach ASDPC)";0;"3";24;1;
 "G";null;null;"AM";"Unterricht in der Herkunftssprache - Arabisch";null;"1";1;1;
+"G";null;null;"AN";"Unterricht in der Herkunftssprache - Aramäisch";0;"1";1;2;
 "G";null;null;"AR";"Alevitische Religionslehre nach den Grundsätzen des AABF";0;"1";1;2;
 "G";null;null;"BM";"Unterricht in der Herkunftssprache - Bosnisch";null;"1";2;1;
 "G";null;null;"CM";"Unterricht in der Herkunftssprache - Kroatisch";null;"1";3;1;
+"G";null;null;"CN";"Unterricht in der Herkunftssprache - Chinesisch";0;"1";3;2;
 "G";null;null;"D";"Deutsch";0;"1";4;1;
 "G";null;null;"E";"Englisch";0;"1";5;1;
 "G";null;null;"EM";"Unterricht in der Herkunftssprache - Serbisch";null;"1";5;2;
 "G";null;null;"EN";"Evangelische Religionslehre (konfessionell kooperativ)";0;"1";5;4;
 "G";null;null;"ER";"Evangelische Religionslehre";null;"1";5;3;
+"G";null;null;"FM";"Unterricht in der Herkunftssprache - Französisch";0;"1";6;2;
 "G";null;null;"FU";"Förderunterricht";null;"1";6;1;
 "G";null;null;"GM";"Unterricht in der Herkunftssprache - Neugriechisch";null;"1";7;1;
 "G";null;null;"HR";"Jüdische Religionslehre";0;"1";8;1;
 "G";null;null;"HU";"Hausunterricht";null;"1";8;2;
 "G";null;null;"IL";"Islamischer Religionsunterricht";0;"1";9;3;
 "G";null;null;"IM";"Unterricht in der Herkunftssprache - Italienisch";null;"1";9;1;
+"G";null;null;"JM";"Unterricht in der Herkunftssprache - Japanisch";0;"1";10;2;
 "G";null;null;"KN";"Katholische Religionslehre (konfessionell kooperativ)";0;"1";11;2;
 "G";null;null;"KR";"Katholische Religionslehre";null;"1";11;1;
 "G";null;null;"KU";"Kunst";null;"1";11;3;
@@ -129,6 +128,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "G";null;null;"M";"Mathematik";null;"1";13;1;
 "G";null;null;"MB";"Religionsunterricht der mennonitischen Brüdergemeinden in NRW";0;"1";13;3;
 "G";null;null;"MM";"Unterricht in der Herkunftssprache - Mazedonisch";null;"1";13;2;
+"G";null;null;"MN";"Unterricht in der Herkunftssprache - Ungarisch";0;"1";13;3;
 "G";null;null;"MU";"Musik";null;"1";13;4;
 "G";null;null;"NM";"Unterricht in der Herkunftssprache - Niederländisch";0;"1";14;1;
 "G";null;null;"OM";"Unterricht in der Herkunftssprache - Portugiesisch";null;"1";15;1;
@@ -137,6 +137,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "G";null;null;"PP";"Praktische Philosophie";0;"1";16;1;
 "G";null;null;"QM";"Unterricht in der Herkunftssprache - Farsi";0;"1";17;1;
 "G";null;null;"RM";"Unterricht in der Herkunftssprache - Russisch";null;"1";18;1;
+"G";null;null;"RN";"Unterricht in der Herkunftssprache - Romanes";0;"1";18;2;
 "G";null;null;"S3";"Sport für Jungen";null;"1";19;4;
 "G";null;null;"S4";"Sport für Mädchen";null;"1";19;5;
 "G";null;null;"SG";"Sonderpädag. Förderung für Schüler/-innen mit sonderpädag. Förderbedarf";0;"1";19;1;
@@ -144,7 +145,9 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "G";null;null;"SP";"Sport";0;"1";19;3;
 "G";null;null;"SU";"Sachunterricht";null;"1";19;6;
 "G";null;null;"TM";"Unterricht in der Herkunftssprache - Türkisch";null;"1";20;1;
+"G";null;null;"TN";"Unterricht in der Herkunftssprache - Thai";0;"1";20;2;
 "G";null;null;"UM";"Unterricht in der Herkunftssprache - Rumänisch";0;"1";21;1;
+"G";null;null;"UN";"Unterricht in der Herkunftssprache - Ukrainisch";0;"1";21;2;
 "G";null;null;"UU";"Fächerübergreifender Unterricht (Sprache/Sachunt./Mathematik/Förderunt.)";null;"1";21;2;
 "G";null;null;"VF";"Fächer im genehmigten Schulversuch und sonstige Fächer";null;"1";22;1;
 "G";null;null;"VM";"Unterricht in der Herkunftssprache - Bulgarisch";0;"1";22;2;
@@ -157,6 +160,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "GE";null;null;"AH";"Arbeitslehre - Schwerpunkt Hauswirtschaft (nur Regelunterricht)";0;"1";1;2;
 "GE";null;null;"AL";"Arbeitslehre - Integration Hauswirtschaft, Technik, Wirtschaftslehre";0;"1";1;1;
 "GE";null;null;"AM";"Unterricht in der Herkunftssprache - Arabisch";null;"1";1;7;
+"GE";null;null;"AN";"Unterricht in der Herkunftssprache - Aramäisch";0;"1";1;8;
 "GE";null;null;"AR";"Alevitische Religionslehre nach den Grundsätzen des AABF";0;"1";1;8;
 "GE";null;null;"AT";"Arbeitslehre - Schwerpunkt Technik (nur Regelunterricht)";0;"1";1;3;
 "GE";null;null;"AW";"Arbeitslehre - Schwerpunkt Wirtschaft (nur Regelunterricht)";0;"1";1;4;
@@ -173,6 +177,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "GE";null;null;"C9";"Chinesisch, regulärer Beginn in Jahrgang 9";0;"1";3;5;
 "GE";null;null;"CH";"Chemie";null;"1";3;9;
 "GE";null;null;"CM";"Unterricht in der Herkunftssprache - Kroatisch";null;"1";3;8;
+"GE";null;null;"CN";"Unterricht in der Herkunftssprache - Chinesisch";0;"1";3;8;
 "GE";null;null;"CQ";"Chinesisch, außerhalb des regulären Fachunterrichts";0;"1";3;7;
 "GE";null;null;"D";"Deutsch";null;"1";4;1;
 "GE";null;null;"DS";"Darstellen und Gestalten";null;"1";4;3;
@@ -188,6 +193,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "GE";null;null;"F7";"Französisch, regulärer Beginn in Jahrgang 7";0;"1";6;3;
 "GE";null;null;"F8";"Französisch, regulärer Beginn in Jahrgang 8";null;"1";6;4;
 "GE";null;null;"F9";"Französisch, regulärer Beginn in Jahrgang 9";0;"1";6;5;
+"GE";null;null;"FM";"Unterricht in der Herkunftssprache - Französisch";0;"1";6;8;
 "GE";null;null;"FQ";"Französisch, außerhalb des regulären Fachunterrichts";0;"1";6;7;
 "GE";null;null;"G0";"Griechisch, regulärer Beginn in der Einführungsphase";0;"1";7;6;
 "GE";null;null;"G5";"Griechisch, regulärer Beginn in Jahrgang 5";null;"1";7;1;
@@ -222,6 +228,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "GE";null;null;"IM";"Unterricht in der Herkunftssprache - Italienisch";null;"1";9;9;
 "GE";null;null;"IN";"Instrumentalpraktischer Grundkurs";0;"1";9;14;
 "GE";null;null;"IQ";"Italienisch, außerhalb des regulären Fachunterrichts";0;"1";9;7;
+"GE";null;null;"JM";"Unterricht in der Herkunftssprache - Japanisch";0;"1";10;8;
 "GE";null;null;"K0";"Japanisch, regulärer Beginn in der Einführungsphase";0;"1";11;6;
 "GE";null;null;"K5";"Japanisch, regulärer Beginn in Jahrgang 5";0;"1";11;1;
 "GE";null;null;"K6";"Japanisch, regulärer Beginn in Jahrgang 6";0;"1";11;2;
@@ -244,6 +251,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "GE";null;null;"M";"Mathematik";0;"1";13;1;
 "GE";null;null;"MB";"Religionsunterricht der mennonitischen Brüdergemeinden in NRW";0;"1";13;2;
 "GE";null;null;"MM";"Unterricht in der Herkunftssprache - Mazedonisch";null;"1";13;3;
+"GE";null;null;"MN";"Unterricht in der Herkunftssprache - Ungarisch";0;"1";13;4;
 "GE";null;null;"MU";"Musik";null;"1";13;4;
 "GE";null;null;"N0";"Niederländisch, regulärer Beginn in der Einführungsphase";0;"1";14;6;
 "GE";null;null;"N5";"Niederländisch, regulärer Beginn in Jahrgang 5";null;"1";14;1;
@@ -279,6 +287,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "GE";null;null;"R9";"Russisch, regulärer Beginn in Jahrgang 9";0;"1";18;5;
 "GE";null;null;"RK";"Recht (nur SII)";null;"1";18;10;
 "GE";null;null;"RM";"Unterricht in der Herkunftssprache - Russisch";null;"1";18;9;
+"GE";null;null;"RN";"Unterricht in der Herkunftssprache - Romanes";0;"1";18;10;
 "GE";null;null;"RQ";"Russisch, außerhalb des regulären Fachunterrichts";0;"1";18;7;
 "GE";null;null;"S0";"Spanisch, regulärer Beginn in der Einführungsphase";0;"1";19;6;
 "GE";null;null;"S3";"Sport für Jungen";null;"1";19;13;
@@ -303,9 +312,11 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "GE";null;null;"T9";"Türkisch, regulärer Beginn in Jahrgang 9";0;"1";20;5;
 "GE";null;null;"TC";"Technik";null;"1";20;10;
 "GE";null;null;"TM";"Unterricht in der Herkunftssprache - Türkisch";null;"1";20;9;
+"GE";null;null;"TN";"Unterricht in der Herkunftssprache - Thai";0;"1";20;10;
 "GE";null;null;"TQ";"Türkisch, außerhalb des regulären Fachunterrichts";0;"1";20;7;
 "GE";null;null;"TX";"Textilgestaltung (nur SI)";null;"1";20;11;
 "GE";null;null;"UM";"Unterricht in der Herkunftssprache - Rumänisch";0;"1";21;3;
+"GE";null;null;"UN";"Unterricht in der Herkunftssprache - Ukrainisch";0;"1";21;4;
 "GE";null;null;"UW";"Unterweisung";null;"1";21;4;
 "GE";null;null;"VF";"Fächer im genehmigten Schulversuch und sonstige Fächer";0;"1";22;1;
 "GE";null;null;"VM";"Unterricht in der Herkunftssprache - Bulgarisch";0;"1";22;3;
@@ -406,6 +417,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "GE";null;null;"PX";"Projektkurs (Pseudofach: nicht für ASD)";0;"3";16;9;
 "GE";null;null;"VX";"Vertiefungsfach (Pseudofach: nicht für ASD)";0;"3";22;4;
 "GY";null;null;"AM";"Unterricht in der Herkunftssprache - Arabisch";0;"1";1;2;
+"GY";null;null;"AN";"Unterricht in der Herkunftssprache - Aramäisch";0;"1";1;3;
 "GY";null;null;"AR";"Alevitische Religionslehre nach den Grundsätzen des AABF";0;"1";1;3;
 "GY";null;null;"BI";"Biologie";null;"1";2;2;
 "GY";null;null;"BM";"Unterricht in der Herkunftssprache - Bosnisch";null;"1";2;3;
@@ -417,6 +429,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "GY";null;null;"C9";"Chinesisch, regulärer Beginn in Jahrgang 9";0;"1";3;5;
 "GY";null;null;"CH";"Chemie";null;"1";3;9;
 "GY";null;null;"CM";"Unterricht in der Herkunftssprache - Kroatisch";null;"1";3;8;
+"GY";null;null;"CN";"Unterricht in der Herkunftssprache - Chinesisch";0;"1";3;3;
 "GY";null;null;"CQ";"Chinesisch, außerhalb des regulären Fachunterrichts";0;"1";3;7;
 "GY";null;null;"D";"Deutsch";null;"1";4;1;
 "GY";null;null;"DS";"Darstellen und Gestalten";0;"1";4;3;
@@ -432,6 +445,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "GY";null;null;"F7";"Französisch, regulärer Beginn in Jahrgang 7";null;"1";6;3;
 "GY";null;null;"F8";"Französisch, regulärer Beginn in Jahrgang 8";null;"1";6;4;
 "GY";null;null;"F9";"Französisch, regulärer Beginn in Jahrgang 9";0;"1";6;5;
+"GY";null;null;"FM";"Unterricht in der Herkunftssprache - Französisch";0;"1";6;3;
 "GY";null;null;"FQ";"Französisch, außerhalb des regulären Fachunterrichts";0;"1";6;7;
 "GY";null;null;"G0";"Griechisch, regulärer Beginn in der Einführungsphase";0;"1";7;6;
 "GY";null;null;"G5";"Griechisch, regulärer Beginn in Jahrgang 5";null;"1";7;1;
@@ -465,6 +479,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "GY";null;null;"IM";"Unterricht in der Herkunftssprache - Italienisch";null;"1";9;9;
 "GY";null;null;"IN";"Instrumentalpraktischer Grundkurs";0;"1";9;14;
 "GY";null;null;"IQ";"Italienisch, außerhalb des regulären Fachunterrichts";0;"1";9;7;
+"GY";null;null;"JM";"Unterricht in der Herkunftssprache - Japanisch";0;"1";10;3;
 "GY";null;null;"K0";"Japanisch, regulärer Beginn in der Einführungsphase";0;"1";11;6;
 "GY";null;null;"K5";"Japanisch, regulärer Beginn in Jahrgang 5";null;"1";11;1;
 "GY";null;null;"K6";"Japanisch, regulärer Beginn in Jahrgang 6";0;"1";11;2;
@@ -487,6 +502,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "GY";null;null;"M";"Mathematik";null;"1";13;1;
 "GY";null;null;"MB";"Religionsunterricht der mennonitischen Brüdergemeinden in NRW";0;"1";13;2;
 "GY";null;null;"MM";"Unterricht in der Herkunftssprache - Mazedonisch";null;"1";13;3;
+"GY";null;null;"MN";"Unterricht in der Herkunftssprache - Ungarisch";0;"1";13;4;
 "GY";null;null;"MU";"Musik";null;"1";13;4;
 "GY";null;null;"N0";"Niederländisch, regulärer Beginn in der Einführungsphase";0;"1";14;6;
 "GY";null;null;"N5";"Niederländisch, regulärer Beginn in Jahrgang 5";null;"1";14;1;
@@ -521,6 +537,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "GY";null;null;"R9";"Russisch, regulärer Beginn in Jahrgang 9";0;"1";18;5;
 "GY";null;null;"RK";"Recht (nur SII)";null;"1";18;10;
 "GY";null;null;"RM";"Unterricht in der Herkunftssprache - Russisch";null;"1";18;9;
+"GY";null;null;"RN";"Unterricht in der Herkunftssprache - Romanes";0;"1";18;10;
 "GY";null;null;"RQ";"Russisch, außerhalb des regulären Fachunterrichts";0;"1";18;7;
 "GY";null;null;"S0";"Spanisch, regulärer Beginn in der Einführungsphase";0;"1";19;6;
 "GY";null;null;"S3";"Sport für Jungen";null;"1";19;12;
@@ -545,9 +562,11 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "GY";null;null;"T9";"Türkisch, regulärer Beginn in Jahrgang 9";0;"1";20;5;
 "GY";null;null;"TC";"Technik (nur SII)";null;"1";20;7;
 "GY";null;null;"TM";"Unterricht in der Herkunftssprache - Türkisch";null;"1";20;9;
+"GY";null;null;"TN";"Unterricht in der Herkunftssprache - Thai";0;"1";20;10;
 "GY";null;null;"TQ";"Türkisch, außerhalb des regulären Fachunterrichts";0;"1";20;10;
 "GY";null;null;"TX";"Textilgestaltung";null;"1";20;11;
 "GY";null;null;"UM";"Unterricht in der Herkunftssprache - Rumänisch";0;"1";21;2;
+"GY";null;null;"UN";"Unterricht in der Herkunftssprache - Ukrainisch";0;"1";21;3;
 "GY";null;null;"VF";"Fächer im genehmigten Schulversuch und sonstige Fächer";null;"1";22;1;
 "GY";null;null;"VM";"Unterricht in der Herkunftssprache - Bulgarisch";0;"1";22;3;
 "GY";null;null;"VO";"vokalpraktischer Grundkurs";0;"1";22;4;
@@ -647,6 +666,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "GY";null;null;"VX";"Vertiefungsfach (Pseudofach: nicht für ASD)";0;"3";22;5;
 "H";null;null;"AH";"Arbeitslehre - Schwerpunkt Hauswirtschaft";0;"1";1;1;
 "H";null;null;"AM";"Unterricht in der Herkunftssprache - Arabisch";0;"1";1;4;
+"H";null;null;"AN";"Unterricht in der Herkunftssprache - Aramäisch";0;"1";1;5;
 "H";null;null;"AR";"Alevitische Religionslehre nach den Grundsätzen des AABF";0;"1";1;5;
 "H";null;null;"AT";"Arbeitslehre - Schwerpunkt Technik";0;"1";1;2;
 "H";null;null;"AW";"Arbeitslehre - Schwerpunkt Wirtschaft";0;"1";1;3;
@@ -655,6 +675,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "H";null;null;"C";"Chinesisch (nur BG Realschule)";0;"1";3;1;
 "H";null;null;"CH";"Chemie";0;"1";3;2;
 "H";null;null;"CM";"Unterricht in der Herkunftssprache - Kroatisch";null;"1";3;3;
+"H";null;null;"CN";"Unterricht in der Herkunftssprache - Chinesisch";0;"1";3;5;
 "H";null;null;"D";"Deutsch";null;"1";4;1;
 "H";null;null;"E";"Englisch";null;"1";5;1;
 "H";null;null;"EB";"Erweitertes Bildungsangebot";null;"1";5;2;
@@ -663,6 +684,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "H";null;null;"EN";"Evangelische Religionslehre (konfessionell kooperativ)";0;"1";5;7;
 "H";null;null;"ER";"Evangelische Religionslehre";null;"1";5;6;
 "H";null;null;"F";"Französisch";null;"1";6;1;
+"H";null;null;"FM";"Unterricht in der Herkunftssprache - Französisch";0;"1";6;5;
 "H";null;null;"GE";"Geschichte";0;"1";7;1;
 "H";null;null;"GM";"Unterricht in der Herkunftssprache - Neugriechisch";null;"1";7;3;
 "H";null;null;"HR";"Jüdische Religionslehre";null;"1";8;2;
@@ -674,6 +696,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "H";null;null;"IK";"Individuelles Lernen (dem Kernstundenkontingent entnommen)";0;"1";9;3;
 "H";null;null;"IL";"Islamischer Religionsunterricht";0;"1";9;8;
 "H";null;null;"IM";"Unterricht in der Herkunftssprache - Italienisch";null;"1";9;6;
+"H";null;null;"JM";"Unterricht in der Herkunftssprache - Japanisch";0;"1";10;5;
 "H";null;null;"K";"Japanisch (nur BG Realschule)";0;"1";11;4;
 "H";null;null;"KN";"Katholische Religionslehre (konfessionell kooperativ)";0;"1";11;2;
 "H";null;null;"KR";"Katholische Religionslehre";null;"1";11;1;
@@ -683,6 +706,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "H";null;null;"M";"Mathematik";null;"1";13;1;
 "H";null;null;"MB";"Religionsunterricht der mennonitischen Brüdergemeinden in NRW";0;"1";13;2;
 "H";null;null;"MM";"Unterricht in der Herkunftssprache - Mazedonisch";null;"1";13;3;
+"H";null;null;"MN";"Unterricht in der Herkunftssprache - Ungarisch";0;"1";13;4;
 "H";null;null;"MU";"Musik";null;"1";13;4;
 "H";null;null;"N";"Niederländisch";null;"1";14;1;
 "H";null;null;"NM";"Unterricht in der Herkunftssprache - Niederländisch";0;"1";14;3;
@@ -697,6 +721,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "H";null;null;"QM";"Unterricht in der Herkunftssprache - Farsi";0;"1";17;2;
 "H";null;null;"R";"Russisch";0;"1";18;1;
 "H";null;null;"RM";"Unterricht in der Herkunftssprache - Russisch";null;"1";18;4;
+"H";null;null;"RN";"Unterricht in der Herkunftssprache - Romanes";0;"1";18;5;
 "H";null;null;"S";"Spanisch (nur Bildungsgang Realschule)";0;"1";19;1;
 "H";null;null;"S3";"Sport für Jungen";null;"1";19;6;
 "H";null;null;"S4";"Sport für Mädchen";null;"1";19;7;
@@ -708,8 +733,10 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "H";null;null;"T";"Türkisch";0;"1";20;1;
 "H";null;null;"TC";"Technik (nur Bildungsgang Realschule)";0;"1";20;2;
 "H";null;null;"TM";"Unterricht in der Herkunftssprache - Türkisch";null;"1";20;4;
+"H";null;null;"TN";"Unterricht in der Herkunftssprache - Thai";0;"1";20;5;
 "H";null;null;"TX";"Textilgestaltung";null;"1";20;5;
 "H";null;null;"UM";"Unterricht in der Herkunftssprache - Rumänisch";0;"1";21;2;
+"H";null;null;"UN";"Unterricht in der Herkunftssprache - Ukrainisch";0;"1";21;3;
 "H";null;null;"VF";"Fächer im genehmigten Schulversuch und sonstige Fächer";null;"1";22;1;
 "H";null;null;"VM";"Unterricht in der Herkunftssprache - Bulgarisch";0;"1";22;3;
 "H";null;null;"WP";"Wirtschaft-Politik (nur Realschulbildungsgang)";0;"1";23;4;
@@ -725,6 +752,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "PS";null;null;"AH";"Arbeitslehre - Schwerpunkt Hauswirtschaft (nur Regelunterricht)";0;"1";1;2;
 "PS";null;null;"AL";"Arbeitslehre - Integration Hauswirtschaft, Technik, Wirtschaftslehre";0;"1";1;1;
 "PS";null;null;"AM";"Unterricht in der Herkunftssprache - Arabisch";0;"1";1;7;
+"PS";null;null;"AN";"Unterricht in der Herkunftssprache - Aramäisch";0;"1";1;8;
 "PS";null;null;"AR";"Alevitische Religionslehre nach den Grundsätzen des AABF";0;"1";1;8;
 "PS";null;null;"AT";"Arbeitslehre - Schwerpunkt Technik (nur Regelunterricht)";0;"1";1;3;
 "PS";null;null;"AW";"Arbeitslehre - Schwerpunkt Wirtschaft (nur Regelunterricht)";0;"1";1;4;
@@ -741,6 +769,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "PS";null;null;"C9";"Chinesisch, regulärer Beginn in Jahrgang 9";0;"1";3;5;
 "PS";null;null;"CH";"Chemie";0;"1";3;8;
 "PS";null;null;"CM";"Unterricht in der Herkunftssprache - Kroatisch";0;"1";3;9;
+"PS";null;null;"CN";"Unterricht in der Herkunftssprache - Chinesisch";0;"1";3;8;
 "PS";null;null;"CQ";"Chinesisch, außerhalb des regulären Fachunterrichts";0;"1";3;7;
 "PS";null;null;"D";"Deutsch";0;"1";4;1;
 "PS";null;null;"DS";"Darstellen und Gestalten";0;"1";4;3;
@@ -756,6 +785,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "PS";null;null;"F7";"Französisch, regulärer Beginn in Jahrgang 7";0;"1";6;3;
 "PS";null;null;"F8";"Französisch, regulärer Beginn in Jahrgang 8";0;"1";6;4;
 "PS";null;null;"F9";"Französisch, regulärer Beginn in Jahrgang 9";0;"1";6;5;
+"PS";null;null;"FM";"Unterricht in der Herkunftssprache - Französisch";0;"1";6;8;
 "PS";null;null;"FQ";"Französisch, außerhalb des regulären Fachunterrichts";0;"1";6;7;
 "PS";null;null;"FU";"Förderunterricht";0;"1";6;8;
 "PS";null;null;"G0";"Griechisch, regulärer Beginn in der Einführungsphase";0;"1";7;6;
@@ -791,6 +821,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "PS";null;null;"IM";"Unterricht in der Herkunftssprache - Italienisch";0;"1";9;9;
 "PS";null;null;"IN";"Instrumentalpraktischer  Grundkurs";0;"1";9;14;
 "PS";null;null;"IQ";"Italienisch, außerhalb des regulären Fachunterrichts";0;"1";9;7;
+"PS";null;null;"JM";"Unterricht in der Herkunftssprache - Japanisch";0;"1";10;8;
 "PS";null;null;"K0";"Japanisch, regulärer Beginn in der Einführungsphase";0;"1";11;6;
 "PS";null;null;"K5";"Japanisch, regulärer Beginn in Jahrgang 5";0;"1";11;1;
 "PS";null;null;"K6";"Japanisch, regulärer Beginn in Jahrgang 6";0;"1";11;2;
@@ -813,6 +844,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "PS";null;null;"M";"Mathematik";0;"1";13;1;
 "PS";null;null;"MB";"Religionsunterricht der mennonitischen Brüdergemeinden in NRW";0;"1";13;2;
 "PS";null;null;"MM";"Unterricht in der Herkunftssprache - Mazedonisch";0;"1";13;3;
+"PS";null;null;"MN";"Unterricht in der Herkunftssprache - Ungarisch";0;"1";13;4;
 "PS";null;null;"MU";"Musik";0;"1";13;4;
 "PS";null;null;"N0";"Niederländisch, regulärer Beginn in der Einführungsphase";0;"1";14;6;
 "PS";null;null;"N5";"Niederländisch, regulärer Beginn in Jahrgang 5";0;"1";14;1;
@@ -847,6 +879,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "PS";null;null;"R8";"Russisch, regulärer Beginn in Jahrgang 8";0;"1";18;4;
 "PS";null;null;"R9";"Russisch, regulärer Beginn in Jahrgang 9";0;"1";18;5;
 "PS";null;null;"RM";"Unterricht in der Herkunftssprache - Russisch";0;"1";18;8;
+"PS";null;null;"RN";"Unterricht in der Herkunftssprache - Romanes";0;"1";18;9;
 "PS";null;null;"RQ";"Russisch, außerhalb des regulären Fachunterrichts";0;"1";18;7;
 "PS";null;null;"S0";"Spanisch, regulärer Beginn in der Einführungsphase";0;"1";19;6;
 "PS";null;null;"S3";"Sport für Jungen";0;"1";19;12;
@@ -872,9 +905,11 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "PS";null;null;"T9";"Türkisch, regulärer Beginn in Jahrgang 9";0;"1";20;5;
 "PS";null;null;"TC";"Technik (nur SII)";0;"1";20;10;
 "PS";null;null;"TM";"Unterricht in der Herkunftssprache - Türkisch";0;"1";20;9;
+"PS";null;null;"TN";"Unterricht in der Herkunftssprache - Thai";0;"1";20;10;
 "PS";null;null;"TQ";"Türkisch, außerhalb des regulären Fachunterrichts";0;"1";20;7;
 "PS";null;null;"TX";"Textilgestaltung";0;"1";20;11;
 "PS";null;null;"UM";"Unterricht in der Herkunftssprache - Rumänisch";0;"1";21;3;
+"PS";null;null;"UN";"Unterricht in der Herkunftssprache - Ukrainisch";0;"1";21;4;
 "PS";null;null;"UU";"fächerübergreifender Unterricht (Sprache/Sachunt./Mathematik/Förderunt.)";0;"1";21;4;
 "PS";null;null;"UW";"Unterweisung";0;"1";21;5;
 "PS";null;null;"VF";"Fächer im genehmigten Schulversuch und sonstige Fächer";0;"1";22;1;
@@ -976,6 +1011,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "PS";null;null;"Z9";"Neugriechisch, regulärer Beginn in Jahrgang 9";0;"2";26;5;
 "R";null;null;"AH";"Arbeitslehre - Schwerpunkt Hauswirtschaft (nur Bildungsgang Hauptschule)";0;"1";1;1;
 "R";null;null;"AM";"Unterricht in der Herkunftssprache - Arabisch";null;"1";1;4;
+"R";null;null;"AN";"Unterricht in der Herkunftssprache - Aramäisch";0;"1";1;5;
 "R";null;null;"AR";"Alevitische Religionslehre nach den Grundsätzen des AABF";0;"1";1;5;
 "R";null;null;"AT";"Arbeitslehre - Schwerpunkt Technik (nur Bildungsgang Hauptschule)";0;"1";1;2;
 "R";null;null;"AW";"Arbeitslehre - Schwerpunkt Wirtschaft (nur Bildungsgang Hauptschule)";0;"1";1;3;
@@ -988,6 +1024,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "R";null;null;"C9";"Chinesisch, regulärer Beginn in Jahrgang 9";0;"1";3;5;
 "R";null;null;"CH";"Chemie";null;"1";3;6;
 "R";null;null;"CM";"Unterricht in der Herkunftssprache - Kroatisch";null;"1";3;7;
+"R";null;null;"CN";"Unterricht in der Herkunftssprache - Chinesisch";0;"1";3;5;
 "R";null;null;"CQ";"Chinesisch, außerhalb des regulären Fachunterrichts";0;"1";3;8;
 "R";null;null;"D";"Deutsch";null;"1";4;1;
 "R";null;null;"E";"Englisch";null;"1";5;1;
@@ -1001,6 +1038,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "R";null;null;"F7";"Französisch, regulärer Beginn in Jahrgang 7";0;"1";6;3;
 "R";null;null;"F8";"Französisch, regulärer Beginn in Jahrgang 8";0;"1";6;4;
 "R";null;null;"F9";"Französisch, regulärer Beginn in Jahrgang 9";0;"1";6;5;
+"R";null;null;"FM";"Unterricht in der Herkunftssprache - Französisch";0;"1";6;5;
 "R";null;null;"FQ";"Französisch, außerhalb des regulären Fachunterrichts";0;"1";6;6;
 "R";null;null;"GE";"Geschichte";null;"1";7;1;
 "R";null;null;"GM";"Unterricht in der Herkunftssprache - Neugriechisch";null;"1";7;3;
@@ -1018,6 +1056,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "R";null;null;"IL";"Islamischer Religionsunterricht";0;"1";9;10;
 "R";null;null;"IM";"Unterricht in der Herkunftssprache - Italienisch";null;"1";9;11;
 "R";null;null;"IQ";"Italienisch, außerhalb des regulären Fachunterrichts";0;"1";9;5;
+"R";null;null;"JM";"Unterricht in der Herkunftssprache - Japanisch";0;"1";10;5;
 "R";null;null;"K5";"Japanisch, regulärer Beginn in Jahrgang 5";0;"1";11;1;
 "R";null;null;"K6";"Japanisch, regulärer Beginn in Jahrgang 6";0;"1";11;2;
 "R";null;null;"K7";"Japanisch, regulärer Beginn in Jahrgang 7";0;"1";11;3;
@@ -1037,6 +1076,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "R";null;null;"M";"Mathematik";null;"1";13;1;
 "R";null;null;"MB";"Religionsunterricht der mennonitischen Brüdergemeinden in NRW";0;"1";13;2;
 "R";null;null;"MM";"Unterricht in der Herkunftssprache - Mazedonisch";null;"1";13;3;
+"R";null;null;"MN";"Unterricht in der Herkunftssprache - Ungarisch";0;"1";13;4;
 "R";null;null;"MU";"Musik";null;"1";13;4;
 "R";null;null;"N5";"Niederländisch, regulärer Beginn in Jahrgang 5";0;"1";14;1;
 "R";null;null;"N6";"Niederländisch, regulärer Beginn in Jahrgang 6";0;"1";14;2;
@@ -1065,6 +1105,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "R";null;null;"R8";"Russisch, regulärer Beginn in Jahrgang 8";0;"1";18;4;
 "R";null;null;"R9";"Russisch, regulärer Beginn in Jahrgang 9";0;"1";18;5;
 "R";null;null;"RM";"Unterricht in der Herkunftssprache - Russisch";null;"1";18;7;
+"R";null;null;"RN";"Unterricht in der Herkunftssprache - Romanes";0;"1";18;8;
 "R";null;null;"RQ";"Russisch, außerhalb des regulären Fachunterrichts";0;"1";18;6;
 "R";null;null;"S3";"Sport für Jungen";null;"1";19;10;
 "R";null;null;"S4";"Sport für Mädchen";null;"1";19;11;
@@ -1086,9 +1127,11 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "R";null;null;"T9";"Türkisch, regulärer Beginn in Jahrgang 9";0;"1";20;5;
 "R";null;null;"TC";"Technik";null;"1";20;7;
 "R";null;null;"TM";"Unterricht in der Herkunftssprache - Türkisch";null;"1";20;8;
+"R";null;null;"TN";"Unterricht in der Herkunftssprache - Thai";0;"1";20;9;
 "R";null;null;"TQ";"Türkisch, außerhalb des regulären Fachunterrichts";0;"1";20;6;
 "R";null;null;"TX";"Textilgestaltung";null;"1";20;9;
 "R";null;null;"UM";"Unterricht in der Herkunftssprache - Rumänisch";0;"1";21;2;
+"R";null;null;"UN";"Unterricht in der Herkunftssprache - Ukrainisch";0;"1";21;3;
 "R";null;null;"VF";"Fächer im genehmigten Schulversuch und sonstige Fächer";null;"1";22;1;
 "R";null;null;"VM";"Unterricht in der Herkunftssprache - Bulgarisch";0;"1";22;3;
 "R";null;null;"WP";"Wirtschaft-Politik";0;"1";23;2;
@@ -1153,12 +1196,14 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "R";null;null;"T9";"Türkisch, regulärer Beginn in Jahrgang 9";0;"2";20;5;
 "S";null;null;"AL";"Arbeitslehre/ Unterricht in der Werkstufe";0;"1";1;1;
 "S";null;null;"AM";"Unterricht in der Herkunftssprache - Arabisch";0;"1";1;2;
+"S";null;null;"AN";"Unterricht in der Herkunftssprache - Aramäisch";0;"1";1;3;
 "S";null;null;"AR";"Alevitische Religionslehre nach den Grundsätzen des AABF";0;"1";1;3;
 "S";null;null;"BI";"Biologie";0;"1";2;2;
 "S";null;null;"BM";"Unterricht in der Herkunftssprache - Bosnisch";null;"1";2;3;
 "S";null;null;"BN";"Braille'sche Punktschrift";0;"1";2;4;
 "S";null;null;"CH";"Chemie";0;"1";3;1;
 "S";null;null;"CM";"Unterricht in der Herkunftssprache - Kroatisch";null;"1";3;2;
+"S";null;null;"CN";"Unterricht in der Herkunftssprache - Chinesisch";0;"1";3;3;
 "S";null;null;"D";"Sprache und Kommunikation";0;"1";4;3;
 "S";null;null;"D";"Sprache, Sprachgestaltung";0;"1";4;2;
 "S";null;null;"D";"Sprache, Lesen und Schreiben";0;"1";4;4;
@@ -1170,6 +1215,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "S";null;null;"EN";"Evangelische Religionslehre (konfessionell kooperativ)";0;"1";5;6;
 "S";null;null;"ER";"Evangelische Religionslehre";0;"1";5;5;
 "S";null;null;"F";"Französisch";0;"1";6;1;
+"S";null;null;"FM";"Unterricht in der Herkunftssprache - Französisch";0;"1";6;3;
 "S";null;null;"G";"Aufbaurealschule/Klinikschule: Griechisch";0;"1";7;1;
 "S";null;null;"GE";"Geschichte";0;"1";7;2;
 "S";null;null;"GM";"Unterricht in der Herkunftssprache - Neugriechisch";0;"1";7;4;
@@ -1184,6 +1230,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "S";null;null;"IF";"Informatik";0;"1";9;2;
 "S";null;null;"IL";"Islamischer Religionsunterricht";0;"1";9;6;
 "S";null;null;"IM";"Unterricht in der Herkunftssprache - Italienisch";0;"1";9;4;
+"S";null;null;"JM";"Unterricht in der Herkunftssprache - Japanisch";0;"1";10;3;
 "S";null;null;"KN";"Katholische Religionslehre (konfessionell kooperativ)";0;"1";11;2;
 "S";null;null;"KR";"Katholische Religionslehre";0;"1";11;1;
 "S";null;null;"KU";"Kunst / Design, Kunst";0;"1";11;3;
@@ -1193,6 +1240,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "S";null;null;"M";"Umgang mit Mengen, Zahlen und Größen";0;"1";13;2;
 "S";null;null;"MB";"Religionsunterricht der mennonitischen Brüdergemeinden in NRW";0;"1";13;3;
 "S";null;null;"MM";"Unterricht in der Herkunftssprache - Mazedonisch";null;"1";13;4;
+"S";null;null;"MN";"Unterricht in der Herkunftssprache - Ungarisch";0;"1";13;4;
 "S";null;null;"MU";"Musik";0;"1";13;5;
 "S";null;null;"MU";"rhythmisch- musikalische Erziehung";0;"1";13;6;
 "S";null;null;"MU";"musisch-ästhetische Erziehung";0;"1";13;7;
@@ -1214,6 +1262,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "S";null;null;"QM";"Unterricht in der Herkunftssprache - Farsi";0;"1";17;1;
 "S";null;null;"R";"Aufbaurealschule/Klinikschule: Russisch";0;"1";18;1;
 "S";null;null;"RM";"Unterricht in der Herkunftssprache - Russisch";null;"1";18;4;
+"S";null;null;"RN";"Unterricht in der Herkunftssprache - Romanes";0;"1";18;5;
 "S";null;null;"S";"Aufbaurealschule/Klinikschule: Spanisch";0;"1";19;1;
 "S";null;null;"S3";"Sport für Jungen";0;"1";19;7;
 "S";null;null;"S4";"Sport für Mädchen";0;"1";19;8;
@@ -1226,8 +1275,10 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "S";null;null;"SW";"Aufbaurealschule/Klinikschule: Sozialwissenschaften";0;"1";19;11;
 "S";null;null;"TC";"Technik";0;"1";20;1;
 "S";null;null;"TM";"Unterricht in der Herkunftssprache - Türkisch";0;"1";20;3;
+"S";null;null;"TN";"Unterricht in der Herkunftssprache - Thai";0;"1";20;4;
 "S";null;null;"TX";"Textilgestaltung";0;"1";20;4;
 "S";null;null;"UM";"Unterricht in der Herkunftssprache - Rumänisch";0;"1";21;2;
+"S";null;null;"UN";"Unterricht in der Herkunftssprache - Ukrainisch";0;"1";21;3;
 "S";null;null;"UU";"fächerübergreifender Unterricht (Sprache/Sachunt./Mathematik/Förderunt.)";0;"1";21;3;
 "S";null;null;"VF";"Fächer im genehmigten Schulversuch und sonstige Fächer";0;"1";22;1;
 "S";null;null;"VM";"Unterricht in der Herkunftssprache - Bulgarisch";0;"1";22;3;
@@ -1280,6 +1331,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SB";null;null;"HY";"Hygiene";null;"1";8;0;
 "SB";null;null;"I";"Italienisch";null;"1";9;0;
 "SB";null;null;"IF";"Informatik";0;"1";9;0;
+"SB";null;null;"IG";"Ingenieurwissenschaften / Ingenieurtechnik";0;"1";9;0;
 "SB";null;null;"IL";"Islamischer Religionsunterricht";0;"1";9;0;
 "SB";null;null;"K";"Japanisch";0;"1";11;0;
 "SB";null;null;"KN";"Katholische Religionslehre (konfessionell kooperativ)";0;"1";11;0;
@@ -1337,6 +1389,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SB";null;null;"ZW";"Zeichnen / Werken";null;"1";26;0;
 "SG";null;null;"AL";"Arbeitslehre - Integration Hauswirtschaft, Technik, Wirtschaftslehre";0;"1";1;2;
 "SG";null;null;"AM";"Unterricht in der Herkunftssprache - Arabisch";null;"1";1;3;
+"SG";null;null;"AN";"Unterricht in der Herkunftssprache - Aramäisch";0;"1";1;4;
 "SG";null;null;"AR";"Alevitische Religionslehre nach den Grundsätzen des AABF";0;"1";1;4;
 "SG";null;null;"BI";"Biologie";null;"1";2;2;
 "SG";null;null;"BM";"Unterricht in der Herkunftssprache - Bosnisch";null;"1";2;3;
@@ -1348,6 +1401,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SG";null;null;"C9";"Chinesisch, regulärer Beginn in Jahrgang 9";0;"1";3;5;
 "SG";null;null;"CH";"Chemie";null;"1";3;8;
 "SG";null;null;"CM";"Unterricht in der Herkunftssprache - Kroatisch";null;"1";3;9;
+"SG";null;null;"CN";"Unterricht in der Herkunftssprache - Chinesisch";0;"1";3;4;
 "SG";null;null;"CQ";"Chinesisch, außerhalb des regulären Fachunterrichts";0;"1";3;7;
 "SG";null;null;"D";"Deutsch";null;"1";4;1;
 "SG";null;null;"E";"Englisch";0;"1";5;2;
@@ -1362,6 +1416,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SG";null;null;"F7";"Französisch, regulärer Beginn in Jahrgang 7";0;"1";6;3;
 "SG";null;null;"F8";"Französisch, regulärer Beginn in Jahrgang 8";0;"1";6;4;
 "SG";null;null;"F9";"Französisch, regulärer Beginn in Jahrgang 9";0;"1";6;5;
+"SG";null;null;"FM";"Unterricht in der Herkunftssprache - Französisch";0;"1";6;4;
 "SG";null;null;"FQ";"Französisch, außerhalb des regulären Fachunterrichts";0;"1";6;7;
 "SG";null;null;"G0";"Griechisch, regulärer Beginn in der Einführungsphase";0;"1";7;6;
 "SG";null;null;"G5";"Griechisch, regulärer Beginn in Jahrgang 5";null;"1";7;1;
@@ -1395,6 +1450,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SG";null;null;"IM";"Unterricht in der Herkunftssprache - Italienisch";null;"1";9;9;
 "SG";null;null;"IN";"Instrumentalpraktischer Grundkurs";0;"1";9;14;
 "SG";null;null;"IQ";"Italienisch, außerhalb des regulären Fachunterrichts";0;"1";9;7;
+"SG";null;null;"JM";"Unterricht in der Herkunftssprache - Japanisch";0;"1";10;4;
 "SG";null;null;"K0";"Japanisch, regulärer Beginn in der Einführungsphase";0;"1";11;6;
 "SG";null;null;"K5";"Japanisch, regulärer Beginn in Jahrgang 5";null;"1";11;1;
 "SG";null;null;"K6";"Japanisch, regulärer Beginn in Jahrgang 6";0;"1";11;2;
@@ -1417,6 +1473,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SG";null;null;"M";"Mathematik";null;"1";13;1;
 "SG";null;null;"MB";"Religionsunterricht der mennonitischen Brüdergemeinden in NRW";0;"1";13;2;
 "SG";null;null;"MM";"Unterricht in der Herkunftssprache - Mazedonisch";null;"1";13;3;
+"SG";null;null;"MN";"Unterricht in der Herkunftssprache - Ungarisch";0;"1";13;4;
 "SG";null;null;"MU";"Musik";null;"1";13;4;
 "SG";null;null;"MX";"Spezielle sonderpädagogische Maßnahme";0;"1";13;5;
 "SG";null;null;"N0";"Niederländisch, regulärer Beginn in der Einführungsphase";null;"1";14;6;
@@ -1453,6 +1510,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SG";null;null;"R9";"Russisch, regulärer Beginn in Jahrgang 9";0;"1";18;5;
 "SG";null;null;"RK";"Recht (nur SII)";null;"1";18;10;
 "SG";null;null;"RM";"Unterricht in der Herkunftssprache - Russisch";null;"1";18;8;
+"SG";null;null;"RN";"Unterricht in der Herkunftssprache - Romanes";0;"1";18;9;
 "SG";null;null;"RQ";"Russisch, außerhalb des regulären Fachunterrichts";0;"1";18;7;
 "SG";null;null;"S0";"Spanisch, regulärer Beginn in der Einführungsphase";0;"1";19;6;
 "SG";null;null;"S3";"Sport für Jungen";null;"1";19;13;
@@ -1477,9 +1535,11 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SG";null;null;"T9";"Türkisch, regulärer Beginn in Jahrgang 9";0;"1";20;5;
 "SG";null;null;"TC";"Technik";null;"1";20;10;
 "SG";null;null;"TM";"Unterricht in der Herkunftssprache - Türkisch";null;"1";20;9;
+"SG";null;null;"TN";"Unterricht in der Herkunftssprache - Thai";0;"1";20;10;
 "SG";null;null;"TQ";"Türkisch, außerhalb des regulären Fachunterrichts";0;"1";20;7;
 "SG";null;null;"TX";"Textilgestaltung";null;"1";20;11;
 "SG";null;null;"UM";"Unterricht in der Herkunftssprache - Rumänisch";0;"1";21;2;
+"SG";null;null;"UN";"Unterricht in der Herkunftssprache - Ukrainisch";0;"1";21;3;
 "SG";null;null;"VF";"Fächer im genehmigten Schulversuch und sonstige Fächer";null;"1";22;1;
 "SG";null;null;"VM";"Unterricht in der Herkunftssprache - Bulgarisch";0;"1";22;3;
 "SG";null;null;"VO";"vokalpraktischer Grundkurs";0;"1";22;4;
@@ -1581,6 +1641,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SK";null;null;"AH";"Arbeitslehre - Schwerpunkt Hauswirtschaft (nur Regelunterricht)";0;"1";1;2;
 "SK";null;null;"AL";"Arbeitslehre - Integration Hauswirtschaft, Technik, Wirtschaftslehre";0;"1";1;1;
 "SK";null;null;"AM";"Unterricht in der Herkunftssprache - Arabisch";0;"1";1;7;
+"SK";null;null;"AN";"Unterricht in der Herkunftssprache - Aramäisch";0;"1";1;8;
 "SK";null;null;"AR";"Alevitische Religionslehre nach den Grundsätzen des AABF";0;"1";1;8;
 "SK";null;null;"AT";"Arbeitslehre - Schwerpunkt Technik (nur Regelunterricht)";0;"1";1;3;
 "SK";null;null;"AW";"Arbeitslehre - Schwerpunkt Wirtschaft (nur Regelunterricht)";0;"1";1;4;
@@ -1595,6 +1656,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SK";null;null;"C9";"Chinesisch, regulärer Beginn in Jahrgang 9";0;"1";3;5;
 "SK";null;null;"CH";"Chemie";0;"1";3;8;
 "SK";null;null;"CM";"Unterricht in der Herkunftssprache - Kroatisch";0;"1";3;7;
+"SK";null;null;"CN";"Unterricht in der Herkunftssprache - Chinesisch";0;"1";3;8;
 "SK";null;null;"CQ";"Chinesisch, außerhalb des regulären Fachunterrichts";0;"1";3;6;
 "SK";null;null;"D";"Deutsch";0;"1";4;1;
 "SK";null;null;"DS";"Darstellen und Gestalten";0;"1";4;3;
@@ -1611,6 +1673,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SK";null;null;"F7";"Französisch, regulärer Beginn in Jahrgang 7";0;"1";6;3;
 "SK";null;null;"F8";"Französisch, regulärer Beginn in Jahrgang 8";0;"1";6;4;
 "SK";null;null;"F9";"Französisch, regulärer Beginn in Jahrgang 9";0;"1";6;5;
+"SK";null;null;"FM";"Unterricht in der Herkunftssprache - Französisch";0;"1";6;8;
 "SK";null;null;"FQ";"Französisch, außerhalb des regulären Fachunterrichts";0;"1";6;6;
 "SK";null;null;"G7";"Griechisch, regulärer Beginn in Jahrgang 7";0;"1";7;3;
 "SK";null;null;"G8";"Griechisch, regulärer Beginn in Jahrgang 8";0;"1";7;4;
@@ -1639,6 +1702,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SK";null;null;"IL";"Islamischer Religionsunterricht";0;"1";9;12;
 "SK";null;null;"IM";"Unterricht in der Herkunftssprache - Italienisch";0;"1";9;8;
 "SK";null;null;"IQ";"Italienisch, außerhalb des regulären Fachunterrichts";0;"1";9;6;
+"SK";null;null;"JM";"Unterricht in der Herkunftssprache - Japanisch";0;"1";10;8;
 "SK";null;null;"K5";"Japanisch, regulärer Beginn in Jahrgang 5";0;"1";11;1;
 "SK";null;null;"K6";"Japanisch, regulärer Beginn in Jahrgang 6";0;"1";11;2;
 "SK";null;null;"K7";"Japanisch, regulärer Beginn in Jahrgang 7";0;"1";11;3;
@@ -1658,6 +1722,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SK";null;null;"M";"Mathematik";0;"1";13;1;
 "SK";null;null;"MB";"Religionsunterricht der mennonitischen Brüdergemeinden in NRW";0;"1";13;2;
 "SK";null;null;"MM";"Unterricht in der Herkunftssprache - Mazedonisch";0;"1";13;3;
+"SK";null;null;"MN";"Unterricht in der Herkunftssprache - Ungarisch";0;"1";13;4;
 "SK";null;null;"MU";"Musik";0;"1";13;4;
 "SK";null;null;"N";"Niederländisch (nur auslaufender Hauptschulbildungsgang)";0;"1";14;7;
 "SK";null;null;"N5";"Niederländisch, regulärer Beginn in Jahrgang 5";0;"1";14;1;
@@ -1693,6 +1758,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SK";null;null;"R9";"Russisch, regulärer Beginn in Jahrgang 9";0;"1";18;5;
 "SK";null;null;"RK";"Recht";0;"1";18;10;
 "SK";null;null;"RM";"Unterricht in der Herkunftssprache - Russisch";0;"1";18;8;
+"SK";null;null;"RN";"Unterricht in der Herkunftssprache - Romanes";0;"1";18;9;
 "SK";null;null;"RQ";"Russisch, außerhalb des regulären Fachunterrichts";0;"1";18;6;
 "SK";null;null;"S3";"Sport für Jungen";0;"1";19;11;
 "SK";null;null;"S4";"Sport für Mädchen";0;"1";19;12;
@@ -1716,9 +1782,11 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SK";null;null;"T9";"Türkisch, regulärer Beginn in Jahrgang 9";0;"1";20;5;
 "SK";null;null;"TC";"Technik";0;"1";20;10;
 "SK";null;null;"TM";"Unterricht in der Herkunftssprache - Türkisch";0;"1";20;9;
+"SK";null;null;"TN";"Unterricht in der Herkunftssprache - Thai";0;"1";20;10;
 "SK";null;null;"TQ";"Türkisch, außerhalb des regulären Fachunterrichts";0;"1";20;6;
 "SK";null;null;"TX";"Textilgestaltung";0;"1";20;11;
 "SK";null;null;"UM";"Unterricht in der Herkunftssprache - Rumänisch";0;"1";21;3;
+"SK";null;null;"UN";"Unterricht in der Herkunftssprache - Ukrainisch";0;"1";21;4;
 "SK";null;null;"UW";"Unterweisung";0;"1";21;4;
 "SK";null;null;"VF";"Fächer im genehmigten Schulversuch und sonstige Fächer";0;"1";22;1;
 "SK";null;null;"VM";"Unterricht in der Herkunftssprache - Bulgarisch";0;"1";22;3;
@@ -1803,6 +1871,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SK";null;null;"Z8";"Neugriechisch, regulärer Beginn in Jahrgang 8";0;"2";26;4;
 "SK";null;null;"Z9";"Neugriechisch, regulärer Beginn in Jahrgang 9";0;"2";26;5;
 "SR";null;null;"AM";"Unterricht in der Herkunftssprache - Arabisch";null;"1";1;1;
+"SR";null;null;"AN";"Unterricht in der Herkunftssprache - Aramäisch";0;"1";1;2;
 "SR";null;null;"AR";"Alevitische Religionslehre nach den Grundsätzen des AABF";0;"1";1;2;
 "SR";null;null;"BI";"Biologie";null;"1";2;2;
 "SR";null;null;"BM";"Unterricht in der Herkunftssprache - Bosnisch";null;"1";2;3;
@@ -1813,6 +1882,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SR";null;null;"C9";"Chinesisch, regulärer Beginn in Jahrgang 9";0;"1";3;5;
 "SR";null;null;"CH";"Chemie";null;"1";3;6;
 "SR";null;null;"CM";"Unterricht in der Herkunftssprache - Kroatisch";null;"1";3;7;
+"SR";null;null;"CN";"Unterricht in der Herkunftssprache - Chinesisch";0;"1";3;2;
 "SR";null;null;"D";"Deutsch";null;"1";4;1;
 "SR";null;null;"E";"Englisch";null;"1";5;1;
 "SR";null;null;"EK";"Erdkunde";null;"1";5;3;
@@ -1824,6 +1894,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SR";null;null;"F7";"Französisch, regulärer Beginn in Jahrgang 7";0;"1";6;3;
 "SR";null;null;"F8";"Französisch, regulärer Beginn in Jahrgang 8";0;"1";6;4;
 "SR";null;null;"F9";"Französisch, regulärer Beginn in Jahrgang 9";0;"1";6;5;
+"SR";null;null;"FM";"Unterricht in der Herkunftssprache - Französisch";0;"1";6;2;
 "SR";null;null;"FQ";"Französisch, außerhalb des regulären Fachunterrichts";0;"1";6;6;
 "SR";null;null;"GE";"Geschichte";null;"1";7;2;
 "SR";null;null;"GM";"Unterricht in der Herkunftssprache - Neugriechisch";null;"1";7;4;
@@ -1841,6 +1912,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SR";null;null;"IL";"Islamischer Religionsunterricht";0;"1";9;10;
 "SR";null;null;"IM";"Unterricht in der Herkunftssprache - Italienisch";null;"1";9;11;
 "SR";null;null;"IQ";"Italienisch, außerhalb des regulären Fachunterrichts";0;"1";9;6;
+"SR";null;null;"JM";"Unterricht in der Herkunftssprache - Japanisch";0;"1";10;2;
 "SR";null;null;"K5";"Japanisch, regulärer Beginn in Jahrgang 5";0;"1";11;1;
 "SR";null;null;"K6";"Japanisch, regulärer Beginn in Jahrgang 6";0;"1";11;2;
 "SR";null;null;"K7";"Japanisch, regulärer Beginn in Jahrgang 7";0;"1";11;3;
@@ -1859,6 +1931,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SR";null;null;"M";"Mathematik";null;"1";13;1;
 "SR";null;null;"MB";"Religionsunterricht der mennonitischen Brüdergemeinden in NRW";0;"1";13;2;
 "SR";null;null;"MM";"Unterricht in der Herkunftssprache - Mazedonisch";null;"1";13;3;
+"SR";null;null;"MN";"Unterricht in der Herkunftssprache - Ungarisch";0;"1";13;4;
 "SR";null;null;"MU";"Musik";null;"1";13;4;
 "SR";null;null;"N5";"Niederländisch, regulärer Beginn in Jahrgang 5";0;"1";14;1;
 "SR";null;null;"N6";"Niederländisch, regulärer Beginn in Jahrgang 6";0;"1";14;2;
@@ -1888,6 +1961,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SR";null;null;"R8";"Russisch, regulärer Beginn in Jahrgang 8";0;"1";18;4;
 "SR";null;null;"R9";"Russisch, regulärer Beginn in Jahrgang 9";0;"1";18;5;
 "SR";null;null;"RM";"Unterricht in der Herkunftssprache - Russisch";null;"1";18;7;
+"SR";null;null;"RN";"Unterricht in der Herkunftssprache - Romanes";0;"1";18;8;
 "SR";null;null;"RQ";"Russisch, außerhalb des regulären Fachunterrichts";0;"1";18;6;
 "SR";null;null;"S3";"Sport für Jungen";null;"1";19;9;
 "SR";null;null;"S4";"Sport für Mädchen";null;"1";19;10;
@@ -1909,9 +1983,11 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SR";null;null;"T9";"Türkisch, regulärer Beginn in Jahrgang 9";0;"1";20;5;
 "SR";null;null;"TC";"Technik";null;"1";20;6;
 "SR";null;null;"TM";"Unterricht in der Herkunftssprache - Türkisch";null;"1";20;8;
+"SR";null;null;"TN";"Unterricht in der Herkunftssprache - Thai";0;"1";20;9;
 "SR";null;null;"TQ";"Türkisch, außerhalb des regulären Fachunterrichts";0;"1";20;4;
 "SR";null;null;"TX";"Textilgestaltung";null;"1";20;7;
 "SR";null;null;"UM";"Unterricht in der Herkunftssprache - Rumänisch";0;"1";21;2;
+"SR";null;null;"UN";"Unterricht in der Herkunftssprache - Ukrainisch";0;"1";21;3;
 "SR";null;null;"VF";"Fächer im genehmigten Schulversuch und sonstige Fächer";null;"1";22;1;
 "SR";null;null;"VM";"Unterricht in der Herkunftssprache - Bulgarisch";0;"1";22;3;
 "SR";null;null;"WP";"Wirtschaft-Politik";0;"1";23;2;
@@ -1973,6 +2049,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SR";null;null;"T9";"Türkisch, regulärer Beginn in Jahrgang 9";0;"2";20;5;
 "V";null;null;"AH";"Arbeitslehre - Schwerpunkt Hauswirtschaft";0;"1";1;1;
 "V";null;null;"AM";"Unterricht in der Herkunftssprache - Arabisch";null;"1";1;4;
+"V";null;null;"AN";"Unterricht in der Herkunftssprache - Aramäisch";0;"1";1;5;
 "V";null;null;"AR";"Alevitische Religionslehre nach den Grundsätzen des AABF";0;"1";1;5;
 "V";null;null;"AT";"Arbeitslehre - Schwerpunkt Technik";null;"1";1;2;
 "V";null;null;"AW";"Arbeitslehre - Schwerpunkt Wirtschaft";null;"1";1;3;
@@ -1980,6 +2057,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "V";null;null;"BM";"Unterricht in der Herkunftssprache - Bosnisch";null;"1";2;2;
 "V";null;null;"CH";"Chemie";null;"1";3;1;
 "V";null;null;"CM";"Unterricht in der Herkunftssprache - Kroatisch";null;"1";3;2;
+"V";null;null;"CN";"Unterricht in der Herkunftssprache - Chinesisch";0;"1";3;5;
 "V";null;null;"D";"Deutsch";null;"1";4;1;
 "V";null;null;"E";"Englisch";null;"1";5;1;
 "V";null;null;"EB";"Erweitertes Bildungsangebot";0;"1";5;2;
@@ -1988,6 +2066,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "V";null;null;"EN";"Evangelische Religionslehre (konfessionell kooperativ)";0;"1";5;6;
 "V";null;null;"ER";"Evangelische Religionslehre";null;"1";5;5;
 "V";null;null;"F";"Französisch";null;"1";6;1;
+"V";null;null;"FM";"Unterricht in der Herkunftssprache - Französisch";0;"1";6;5;
 "V";null;null;"FU";"Förderunterricht";null;"1";6;2;
 "V";null;null;"GE";"Geschichte";null;"1";7;1;
 "V";null;null;"GM";"Unterricht in der Herkunftssprache - Neugriechisch";null;"1";7;2;
@@ -1998,6 +2077,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "V";null;null;"IK";"Individuelles Lernen (dem Kernstundenkontingent entnommen)";0;"1";9;2;
 "V";null;null;"IL";"Islamischer Religionsunterricht";0;"1";9;6;
 "V";null;null;"IM";"Unterricht in der Herkunftssprache - Italienisch";null;"1";9;4;
+"V";null;null;"JM";"Unterricht in der Herkunftssprache - Japanisch";0;"1";10;5;
 "V";null;null;"KN";"Katholische Religionslehre (konfessionell kooperativ)";0;"1";11;2;
 "V";null;null;"KR";"Katholische Religionslehre";null;"1";11;1;
 "V";null;null;"KU";"Kunst";null;"1";11;3;
@@ -2005,6 +2085,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "V";null;null;"M";"Mathematik";null;"1";13;1;
 "V";null;null;"MB";"Religionsunterricht der mennonitischen Brüdergemeinden in NRW";0;"1";13;2;
 "V";null;null;"MM";"Unterricht in der Herkunftssprache - Mazedonisch";null;"1";13;3;
+"V";null;null;"MN";"Unterricht in der Herkunftssprache - Ungarisch";0;"1";13;4;
 "V";null;null;"MU";"Musik";null;"1";13;4;
 "V";null;null;"N";"Niederländisch";null;"1";14;1;
 "V";null;null;"NM";"Unterricht in der Herkunftssprache - Niederländisch";0;"1";14;2;
@@ -2016,6 +2097,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "V";null;null;"PP";"Praktische Philosophie";null;"1";16;4;
 "V";null;null;"QM";"Unterricht in der Herkunftssprache - Farsi";0;"1";17;1;
 "V";null;null;"RM";"Unterricht in der Herkunftssprache - Russisch";null;"1";18;2;
+"V";null;null;"RN";"Unterricht in der Herkunftssprache - Romanes";0;"1";18;3;
 "V";null;null;"S3";"Sport für Jungen";null;"1";19;1;
 "V";null;null;"S4";"Sport für Mädchen";null;"1";19;2;
 "V";null;null;"SG";"sonderpädag. Förderung für Schüler/-innen mit sonderpädag. Förderbedarf";0;"1";19;3;
@@ -2025,8 +2107,10 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "V";null;null;"SU";"Sachunterricht";null;"1";19;7;
 "V";null;null;"SW";"Sozialwissenschaften";null;"1";19;8;
 "V";null;null;"TM";"Unterricht in der Herkunftssprache - Türkisch";null;"1";20;1;
+"V";null;null;"TN";"Unterricht in der Herkunftssprache - Thai";0;"1";20;2;
 "V";null;null;"TX";"Textilgestaltung";null;"1";20;2;
 "V";null;null;"UM";"Unterricht in der Herkunftssprache - Rumänisch";0;"1";21;1;
+"V";null;null;"UN";"Unterricht in der Herkunftssprache - Ukrainisch";0;"1";21;2;
 "V";null;null;"UU";"fächerübergreifender Unterricht (Sprache/Sachunt./Mathematik/Förderunt.)";null;"1";21;2;
 "V";null;null;"VF";"Fächer im genehmigten Schulversuch und sonstige Fächer";null;"1";22;1;
 "V";null;null;"VM";"Unterricht in der Herkunftssprache - Bulgarisch";0;"1";22;2;

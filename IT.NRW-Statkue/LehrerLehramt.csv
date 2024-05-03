@@ -45,6 +45,7 @@ ID;Kurztext;Langtext;Beginn;Ende;Sort;geaendert
 44;"08";"Sonderpädagogische Förderung";2011-08-01T00:00;null;4400;
 45;"18";"Haupt-, Real-, Sekundar- und Gesamtschule";2019-08-01T00:00;null;4500;
 46;"49";"Berufskolleg mit einer beruflichen Fachrichtung (§ 40 LVO)";2019-08-01T00:00;null;4600;
-47;"63";"Heilpädagoge/-in";2023-03-01T00:00;null;4700;
-48;"64";"Handwerksmeister/-in";2023-03-01T00:00;null;4800;
-49;"65";"Alltagshelfer/-in";2023-03-01T00:00;null;4900;
+47;"63";"Heilpädagoge/-in";2023-08-01T00:00;null;4700;
+48;"64";"Handwerksmeister/-in";2023-08-01T00:00;null;4800;
+49;"65";"Alltagshelfer/-in";2023-08-01T00:00;null;4900;
+50;"90";"Studierende";2024-08-01T00:00;null;5000;

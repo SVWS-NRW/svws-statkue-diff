@@ -7,7 +7,7 @@ ID;Kurztext;Langtext;Beginn;Ende;Sort;geaendert
 6;"TS";"Teilzeitbeschäftigung im Blockmodell (§ 65 LBG) (Sabbatjahr)";1900-01-01T00:00;null;600;
 8;"SB";"Nebenberufliche Beschäftigung";1900-01-01T00:00;null;800;
 9;"GB";"Geringfügige Beschäftigung";1900-01-01T00:00;null;900;
-11;"ST";"Studierende";1900-01-01T00:00;null;1000;
+11;"ST";"Studierende";1900-01-01T00:00;"31.07.2024";1000;
 12;"NA";"Beamte, nebenamtlich (nicht hauptamtlich im Schuldienst)";1900-01-01T00:00;null;1100;
 13;"G";"Gestellungsvertrag";1900-01-01T00:00;null;1200;
 15;"X";"Unentgeltlich Beschäftigte";1900-01-01T00:00;null;1400;

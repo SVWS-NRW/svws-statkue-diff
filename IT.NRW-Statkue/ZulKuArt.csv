@@ -65,8 +65,8 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "GE";"**";"**";"37";"FOGT";"Förderangebot entsprechend § 9 Abs. 2, 3  SchulG";0;"2";
 "GE";"**";"**";"55";"PROJ";"Profilklasse gem. § 21 Abs. 3 APO-SI";0;"1";
 "GE";"**";"**";"55";"PROJ";"Profilklasse gem. § 21 Abs. 3 APO-SI";0;"2";
-"GE";"**";"**";"61";"WPIG";"Wahlfplichtunterricht: 2. Fremdsprache (Bildungsgang Gymnasium)";0;"1";
-"GE";"**";"**";"61";"WPIG";"Wahlfplichtunterricht: 2. Fremdsprache (Bildungsgang Gymnasium)";0;"2";
+"GE";"**";"**";"61";"WPIGY";"Wahlfplichtunterricht: 2. Fremdsprache (Bildungsgang Gymnasium)";0;"1";
+"GE";"**";"**";"61";"WPIGY";"Wahlfplichtunterricht: 2. Fremdsprache (Bildungsgang Gymnasium)";0;"2";
 "GE";"**";"**";"62";"WP1SW";"Wahlpflichtunterricht GY: Fächerkombination aus dem Fächerspektrum der APO-SI oder gemäß § 7 Abs. 1 APO-GOSt";0;"1";
 "GE";"**";"**";"62";"WP1SW";"Wahlpflichtunterricht GY: Fächerkombination aus dem Fächerspektrum der APO-SI oder gemäß § 7 Abs. 1 APO-GOSt";0;"2";
 "GE";"**";"**";"64";"F3";"Wahlpflichtunterricht: Einzelfach aus Fächerspektrum APO-SI oder gemäß § 7 Abs. 1 APO-GOSt (inklusive 3. Fremdsprache)";0;"1";

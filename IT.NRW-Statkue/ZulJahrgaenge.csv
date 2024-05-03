@@ -171,9 +171,6 @@ ID;Schulform;Flag;SNR;FSP;Jahrgang;KZ_Bereich;Beschreibung;geaendert
 210;"PS";"1";null;null;"E1";0;"Schuleingangsphase, 1. Schulbesuchsjahr";
 215;"PS";"1";null;null;"E2";0;"Schuleingangsphase, 2. Schulbesuchsjahr";
 216;"PS";"1";null;null;"E3";0;"Schuleingangsphase, 3. Schulbesuchsjahr";
-217;"PS";"1";null;null;"EF";0;"Einführungsphase";
-218;"PS";"1";null;null;"Q1";0;"Qualifikationsphase 1";
-219;"PS";"1";null;null;"Q2";0;"Qualifikationsphase 2";
 34;"R";"1";null;null;null;null;null;
 7;"R";"1";null;null;"05";null;"  5. Jahrgang";
 8;"R";"1";null;null;"06";null;"  6. Jahrgang";
