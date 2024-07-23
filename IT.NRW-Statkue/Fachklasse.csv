@@ -597,6 +597,8 @@ BKIndex;Flag;FKS;AP;BGrp;BFeld;Ebene3;BAKLALT;BAGRALT;Sortierung;Status;Flag_APO
 10;"1";"901";"00";"*";"**";"MB";"**";"****";30;"********************";"*";"Fachpraktiker Maler und Lackierer";"Fachpraktikerin Maler und Lackierer";"Fachpraktiker/-in Maler und Lackierer";;"*****";"********";"TN";"**"
 10;"1";"902";"00";"*";"**";"MB";"**";"****";30;"********************";"2";"Werker in der Pferdehaltung";"Werker/-in in der Pferdehaltung";"Werker/-in in der Pferdehaltung";;"*****";"********";"AW";"**"
 10;"1";"903";"00";"O";"OH";"MB";"**";"****";30;"********************";"2";"Fachpraktiker für Büromanagement";"Fachpraktikerin für Büromanagement";"Fachpraktiker/-in für Büromanagement";;"*****";"********";"WV";"**"
+10;"4";"904";"00";"*";"**";"MB";"**";"****";30;"********************";"1";"Fachpraktiker Friseur";"Fachpraktikerin Friseur";"Fachpraktiker/-in Friseur";;"*****";"********";"GS";"**"
+10;"4";"905";"00";"*";"**";"MB";"**";"****";30;"********************";"*";"Fachpraktiker im Gesundheitswesen";"Fachpraktikerin im Gesundheitswesen";"Fachpraktiker/-in im Gesundheitswesen";;"*****";"********";"GS";"**"
 20;"3";"101";"00";"A";"AW";"**";"**";"****";40;"Ausgelaufen";"3";"BV/Agrarwirtschaft";"BV/Agrarwirtschaft";"BV/Agrarwirtschaft";;"11";"********";"**";"**"
 20;"3";"102";"00";"O";"OH";"**";"**";"****";40;"Ausgelaufen";"3";"BV/Ausgesiedelte Jugendliche als Förderklasse";"BV/Ausgesiedelte Jugendliche als Förderklasse";"BV/Ausgesiedelte Jugendliche als Förderklasse";;"99";"********";"**";"**"
 20;"3";"103";"00";"T";"BT";"**";"**";"****";40;"Ausgelaufen";"3";"BV/Bautechnik";"BV/Bautechnik";"BV/Bautechnik";;"32";"********";"**";"**"

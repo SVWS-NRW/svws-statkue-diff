@@ -219,16 +219,6 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "PS";"**";"**";"33";"AST";"Arbeitsstunde entsprechend § 9 Abs. 2, 3  SchulG";0;"1";
 "PS";"**";"**";"36";"AGGT";"Arbeitsgemeinschaft entsprechend § 9 Abs. 2, 3  SchulG";0;"1";
 "PS";"**";"**";"37";"FOGT";"Förderangebot entsprechend § 9 Abs. 2, 3  SchulG";0;"1";
-"PS";"**";"**";"71";"AB3";"3. Abiturfach";0;"1";
-"PS";"**";"**";"71";"AB4";"4. Abiturfach";0;"1";
-"PS";"**";"**";"71";"EFSP";"Ersatzfach für Sport als 4. Abiturfach";0;"1";
-"PS";"**";"**";"71";"GKM";"Grundkurs mündlich";0;"1";
-"PS";"**";"**";"71";"GKS";"Grundkurs schriftlich";0;"1";
-"PS";"**";"**";"72";"LK1";"Leistungskurs I";0;"1";
-"PS";"**";"**";"72";"LK2";"Leistungskurs II";0;"1";
-"PS";"**";"**";"76";"ZK";"Zusatzkurs gem. § 12 APO-GOSt";0;"1";
-"PS";"**";"**";"77";"VTF";"Vertiefungsfach";0;"1";
-"PS";"**";"**";"78";"PJK";"Projektkurs";0;"1";
 "PS";"**";"**";"81";"SPFU";"Sportförderunterricht";0;"1";
 "PS";"**";"**";"82";"LRS";"Schülerinnen und Schüler mit besonderen Schwierigkeiten im Erlernen des Lesens und Rechtschreibens (LRS)";0;"1";
 "PS";"**";"**";"84";"MEU";"Unterricht in der Herkunftssprache";0;"1";
