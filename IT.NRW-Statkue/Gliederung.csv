@@ -30,8 +30,8 @@ SF;Flag;BKAnlage;BKTyp;BKIndex;Beschreibung;geaendert
 "SB";"3";"A";"08";50;"Vorpraktikum (VP)";
 "BK";"3";"A";"09";55;"Klassen für Schüler/innen ohne Ausbildungsverhältnis (BS 1j; VZ)";
 "SB";"3";"A";"09";55;"Klassen für Schüler/innen ohne Ausbildungsverhältnis (BS 1j; VZ)";
-"SB";"2";"A";"10";56;"Berufsabschluss/Mittlerer Schulabschluss (BKAZVO) (BAB/FOR; VZ)";
 "BK";"3";"A";"10";56;"Berufsabschluss/Mittlerer Schulabschluss (BKAZVO) (BAB/FOR; VZ)";
+"SB";"3";"A";"10";56;"Berufsabschluss/Mittlerer Schulabschluss (BKAZVO) (BAB/FOR; VZ)";
 "BK";"3";"A";"11";56;"Berufsabschluss/Fachhochschulreife (BKAZVO) (BAB/FHR; VZ)";
 "BK";"1";"A";"12";57;"Ausbildungsvorbereitung (BS 1j; VZ)";
 "SB";"1";"A";"12";57;"Ausbildungsvorbereitung (BS 1j; VZ)";
@@ -42,6 +42,12 @@ SF;Flag;BKAnlage;BKTyp;BKIndex;Beschreibung;geaendert
 "BK";"1";"A";"15";62;"Berufsabschluss (nach §50 BBiG/§40 HwO)/Fachhochschulreife BAB/FHR; VZ";
 "BK";"1";"A";"16";63;"Fachklassen (nach §2 BKAZVO)/Fachhochschulreife BAB/FHR; VZ";
 "SB";"1";"A";"16";63;"Fachklassen (nach §2 BKAZVO) BAB; VZ";
+"BK";"4";"A";"17";65;"Internationale Förderklasse";
+"SB";"4";"A";"17";65;"Internationale Förderklasse";
+"BK";"4";"A";"18";66;"Fit für mehr";
+"SB";"4";"A";"18";66;"Fit für mehr";
+"BK";"4";"A";"19";67;"Förderzentrum";
+"SB";"4";"A";"19";67;"Förderzentrum";
 "FW";"4";"A";"B";0;"Klinikschule: Allgemeinbildend";
 "S";"4";"A";"B";0;"Klinikschule: Allgemeinbildend";
 "BK";"3";"B";"01";60;"Berufsabschluss/Fachoberschulreife (BAB/FOR 2j; VZ)";

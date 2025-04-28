@@ -12,10 +12,8 @@ KlArt;FSP;Bezeichnung;Schulform;geaendert
 "DF";"**";"Deutschförderung (ohne Bildungsgangzuordnung, BASS 13-63 Nr. 3)";"G";
 "RK";"**";"Regelklasse";"G";
 "DF";"**";"Deutschförderung (ohne Bildungsgangzuordnung, BASS 13-63 Nr. 3)";"GE";
-"PK";"**";"Profilklasse (gemäß § 21 Abs. 3 APO-S I) (nur Bildungsgang GY9)";"GE";
 "RK";"**";"Regelklasse";"GE";
 "DF";"**";"Deutschförderung (ohne Bildungsgangzuordnung, BASS 13-63 Nr. 3)";"GY";
-"PK";"**";"Profilklasse (gemäß § 21 Abs. 3 APO-S I)";"GY";
 "RK";"**";"Regelklasse";"GY";
 "DF";"**";"Deutschförderung (ohne Bildungsgangzuordnung, BASS 13-63 Nr. 3)";"H";
 "RK";"**";"Regelklasse";"H";
@@ -30,7 +28,6 @@ KlArt;FSP;Bezeichnung;Schulform;geaendert
 "DF";"**";"Deutschförderung (ohne Bildungsgangzuordnung, BASS 13-63 Nr. 3)";"SG";
 "RK";"**";"Regelklasse  (-Jahrgang SII)";"SG";
 "DF";"**";"Deutschförderung (ohne Bildungsgangzuordnung, BASS 13-63 Nr. 3)";"SK";
-"PK";"**";"Profilklasse (gemäß § 21 Abs. 3 APO-S I) (nur Bildungsgang GY)";"SK";
 "RK";"**";"Regelklasse";"SK";
 "DF";"**";"Deutschförderung (ohne Bildungsgangzuordnung, BASS 13-63 Nr. 3)";"SR";
 "RK";"**";"Regelklasse";"SR";
