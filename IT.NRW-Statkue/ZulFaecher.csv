@@ -157,15 +157,9 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "G";null;null;"ZF";"Zusätzliche Förderung";0;"1";26;1;
 "G";null;null;"ZM";"Unterricht in der Herkunftssprache - Kurdische Sprachen (Sorani, Komanci, Zaza)";0;"1";26;2;
 "G";null;null;null;"Kein Eintrag";0;"2";0;0;
-"GE";null;null;"AH";"Arbeitslehre - Schwerpunkt Hauswirtschaft (nur Regelunterricht)";0;"1";1;2;
-"GE";null;null;"AL";"Arbeitslehre - Integration Hauswirtschaft, Technik, Wirtschaftslehre";0;"1";1;1;
 "GE";null;null;"AM";"Unterricht in der Herkunftssprache - Arabisch";null;"1";1;7;
 "GE";null;null;"AN";"Unterricht in der Herkunftssprache - Aramäisch";0;"1";1;8;
 "GE";null;null;"AR";"Alevitische Religionslehre nach den Grundsätzen des AABF";0;"1";1;8;
-"GE";null;null;"AT";"Arbeitslehre - Schwerpunkt Technik (nur Regelunterricht)";0;"1";1;3;
-"GE";null;null;"AW";"Arbeitslehre - Schwerpunkt Wirtschaft (nur Regelunterricht)";0;"1";1;4;
-"GE";null;null;"AX";"Arbeitslehre - Technik/Wirtschaft (nur Wahlpflichtunterricht)";0;"1";1;5;
-"GE";null;null;"AY";"Arbeitslehre - Hauswirtschaft/Wirtschaft (nur Wahlpflichtunterricht)";0;"1";1;6;
 "GE";null;null;"BI";"Biologie";null;"1";2;2;
 "GE";null;null;"BM";"Unterricht in der Herkunftssprache - Bosnisch";null;"1";2;3;
 "GE";null;null;"BV";"Berufsvorbereitung";0;"1";2;4;
@@ -273,7 +267,6 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "GE";null;null;"OR";"Orthodoxe Religionslehre";null;"1";15;10;
 "GE";null;null;"PA";"Erziehungswissenschaft (nur SII)";null;"1";16;2;
 "GE";null;null;"PH";"Physik";null;"1";16;3;
-"GE";null;null;"PK";"Politik (nur SI)";null;"1";16;4;
 "GE";null;null;"PL";"Philosophie (nur SII)";null;"1";16;5;
 "GE";null;null;"PM";"Unterricht in der Herkunftssprache - Polnisch";null;"1";16;6;
 "GE";null;null;"PP";"Praktische Philosophie (nur SI)";null;"1";16;7;
@@ -323,7 +316,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "GE";null;null;"VO";"vokalpraktischer Grundkurs";0;"1";22;4;
 "GE";null;null;"WA";"Wirtschaft & Arbeitswelt (nur Wahlpflichtunt.) - Wirtschaft, Hauswirt. & Technik";0;"1";23;1;
 "GE";null;null;"WP";"Wirtschaft-Politik (nur SI)";0;"1";23;2;
-"GE";null;null;"WW";"Wirtschaftslehre (nur SI)";0;"1";23;3;
+"GE";null;null;"WW";"Wirtschaft (nur SI)";0;"1";23;3;
 "GE";null;null;"XM";"Unterricht in der Herkunftssprache - sonstige Sprache";0;"1";24;2;
 "GE";null;null;"YM";"Unterricht in der Herkunftssprache - Koreanisch";0;"1";25;3;
 "GE";null;null;"YR";"Syrisch Orthodoxe Religionslehre";0;"1";25;1;
@@ -523,7 +516,6 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "GY";null;null;"OR";"Orthodoxe Religionslehre";null;"1";15;10;
 "GY";null;null;"PA";"Erziehungswissenschaft (nur SII)";null;"1";16;2;
 "GY";null;null;"PH";"Physik";null;"1";16;3;
-"GY";null;null;"PK";"Politik (nur SI)";null;"1";16;4;
 "GY";null;null;"PL";"Philosophie (nur SII)";null;"1";16;5;
 "GY";null;null;"PM";"Unterricht in der Herkunftssprache - Polnisch";null;"1";16;6;
 "GY";null;null;"PP";"Praktische Philosophie (nur SI)";null;"1";16;7;
@@ -664,12 +656,9 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "GY";null;null;"Z9";"Neugriechisch, regulärer Beginn in Jahrgang 9";0;"2";26;5;
 "GY";null;null;"PX";"Projektkurs (Pseudofach: nicht für ASD)";0;"3";16;9;
 "GY";null;null;"VX";"Vertiefungsfach (Pseudofach: nicht für ASD)";0;"3";22;5;
-"H";null;null;"AH";"Arbeitslehre - Schwerpunkt Hauswirtschaft";0;"1";1;1;
 "H";null;null;"AM";"Unterricht in der Herkunftssprache - Arabisch";0;"1";1;4;
 "H";null;null;"AN";"Unterricht in der Herkunftssprache - Aramäisch";0;"1";1;5;
 "H";null;null;"AR";"Alevitische Religionslehre nach den Grundsätzen des AABF";0;"1";1;5;
-"H";null;null;"AT";"Arbeitslehre - Schwerpunkt Technik";0;"1";1;2;
-"H";null;null;"AW";"Arbeitslehre - Schwerpunkt Wirtschaft";0;"1";1;3;
 "H";null;null;"BI";"Biologie";0;"1";2;2;
 "H";null;null;"BM";"Unterricht in der Herkunftssprache - Bosnisch";null;"1";2;3;
 "H";null;null;"C";"Chinesisch (nur BG Realschule)";0;"1";3;1;
@@ -717,7 +706,6 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "H";null;null;"PK";"Politik";null;"1";16;4;
 "H";null;null;"PM";"Unterricht in der Herkunftssprache - Polnisch";null;"1";16;5;
 "H";null;null;"PP";"Praktische Philosophie";null;"1";16;7;
-"H";null;null;"PÖ";"Politik/Ökonomische Grundbildung (Realschulbildungsgang)";0;"1";16;6;
 "H";null;null;"QM";"Unterricht in der Herkunftssprache - Farsi";0;"1";17;2;
 "H";null;null;"R";"Russisch";0;"1";18;1;
 "H";null;null;"RM";"Unterricht in der Herkunftssprache - Russisch";null;"1";18;4;
@@ -749,15 +737,9 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "H";null;null;"YR";"Syrisch Orthodoxe Religionslehre";0;"1";25;3;
 "H";null;null;"ZM";"Unterricht in der Herkunftssprache - Kurdische Sprachen (Sorani, Komanci, Zaza)";0;"1";26;3;
 "H";null;null;null;"Kein Eintrag";0;"2";0;0;
-"PS";null;null;"AH";"Arbeitslehre - Schwerpunkt Hauswirtschaft (nur Regelunterricht)";0;"1";1;2;
-"PS";null;null;"AL";"Arbeitslehre - Integration Hauswirtschaft, Technik, Wirtschaftslehre";0;"1";1;1;
 "PS";null;null;"AM";"Unterricht in der Herkunftssprache - Arabisch";0;"1";1;7;
 "PS";null;null;"AN";"Unterricht in der Herkunftssprache - Aramäisch";0;"1";1;8;
 "PS";null;null;"AR";"Alevitische Religionslehre nach den Grundsätzen des AABF";0;"1";1;8;
-"PS";null;null;"AT";"Arbeitslehre - Schwerpunkt Technik (nur Regelunterricht)";0;"1";1;3;
-"PS";null;null;"AW";"Arbeitslehre - Schwerpunkt Wirtschaft (nur Regelunterricht)";0;"1";1;4;
-"PS";null;null;"AX";"Arbeitslehre - Technik/Wirtschaft (nur Wahlpflichtunterricht)";0;"1";1;5;
-"PS";null;null;"AY";"Arbeitslehre - Hauswirtschaft/Wirtschaft (nur Wahlpflichtunterricht)";0;"1";1;6;
 "PS";null;null;"BI";"Biologie";0;"1";2;2;
 "PS";null;null;"BM";"Unterricht in der Herkunftssprache - Bosnisch";0;"1";2;3;
 "PS";null;null;"BV";"Berufsvorbereitung";0;"1";2;4;
@@ -854,7 +836,6 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "PS";null;null;"OQ";"Portugiesisch, außerhalb des regulären Fachunterrichts";0;"1";15;7;
 "PS";null;null;"OR";"Orthodoxe Religionslehre";0;"1";15;10;
 "PS";null;null;"PH";"Physik";0;"1";16;3;
-"PS";null;null;"PK";"Politik (nur SI)";0;"1";16;4;
 "PS";null;null;"PM";"Unterricht in der Herkunftssprache - Polnisch";0;"1";16;6;
 "PS";null;null;"PP";"Praktische Philosophie";0;"1";16;7;
 "PS";null;null;"QM";"Unterricht in der Herkunftssprache - Farsi";0;"1";17;2;
@@ -897,7 +878,6 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "PS";null;null;"VM";"Unterricht in der Herkunftssprache - Bulgarisch";0;"1";22;3;
 "PS";null;null;"WA";"Wirtschaft & Arbeitswelt (nur Wahlpflichtunt.) - Wirtschaft, Hauswirt. & Technik";0;"1";23;1;
 "PS";null;null;"WP";"Wirtschaft-Politik (nur SI)";0;"1";23;2;
-"PS";null;null;"WW";"Wirtschaftslehre (nur SI)";0;"1";23;4;
 "PS";null;null;"XM";"Unterricht in der Herkunftssprache - sonstige Sprache";0;"1";24;2;
 "PS";null;null;"YM";"Unterricht in der Herkunftssprache - Koreanisch";0;"1";25;2;
 "PS";null;null;"YR";"Syrisch-Orthodoxe Religionslehre";0;"1";25;3;
@@ -975,12 +955,9 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "PS";null;null;"Z7";"Neugriechisch, regulärer Beginn in Jahrgang 7";0;"2";26;3;
 "PS";null;null;"Z8";"Neugriechisch, regulärer Beginn in Jahrgang 8";0;"2";26;4;
 "PS";null;null;"Z9";"Neugriechisch, regulärer Beginn in Jahrgang 9";0;"2";26;5;
-"R";null;null;"AH";"Arbeitslehre - Schwerpunkt Hauswirtschaft (nur Bildungsgang Hauptschule)";0;"1";1;1;
 "R";null;null;"AM";"Unterricht in der Herkunftssprache - Arabisch";null;"1";1;4;
 "R";null;null;"AN";"Unterricht in der Herkunftssprache - Aramäisch";0;"1";1;5;
 "R";null;null;"AR";"Alevitische Religionslehre nach den Grundsätzen des AABF";0;"1";1;5;
-"R";null;null;"AT";"Arbeitslehre - Schwerpunkt Technik (nur Bildungsgang Hauptschule)";0;"1";1;2;
-"R";null;null;"AW";"Arbeitslehre - Schwerpunkt Wirtschaft (nur Bildungsgang Hauptschule)";0;"1";1;3;
 "R";null;null;"BI";"Biologie";null;"1";2;2;
 "R";null;null;"BM";"Unterricht in der Herkunftssprache - Bosnisch";null;"1";2;3;
 "R";null;null;"C5";"Chinesisch, regulärer Beginn in Jahrgang 5";0;"1";3;1;
@@ -1063,7 +1040,6 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "R";null;null;"PK";"Politik";null;"1";16;4;
 "R";null;null;"PM";"Unterricht in der Herkunftssprache - Polnisch";null;"1";16;5;
 "R";null;null;"PP";"Praktische Philosophie";null;"1";16;7;
-"R";null;null;"PÖ";"Politik/Ökonomische Grundbildung";0;"1";16;6;
 "R";null;null;"QM";"Unterricht in der Herkunftssprache - Farsi";0;"1";17;2;
 "R";null;null;"R5";"Russisch, regulärer Beginn in Jahrgang 5";0;"1";18;1;
 "R";null;null;"R6";"Russisch, regulärer Beginn in Jahrgang 6";0;"1";18;2;
@@ -1160,7 +1136,6 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "R";null;null;"T7";"Türkisch, regulärer Beginn in Jahrgang 7";0;"2";20;3;
 "R";null;null;"T8";"Türkisch, regulärer Beginn in Jahrgang 8";0;"2";20;4;
 "R";null;null;"T9";"Türkisch, regulärer Beginn in Jahrgang 9";0;"2";20;5;
-"S";null;null;"AL";"Arbeitslehre/ Unterricht in der Werkstufe";0;"1";1;1;
 "S";null;null;"AM";"Unterricht in der Herkunftssprache - Arabisch";0;"1";1;2;
 "S";null;null;"AN";"Unterricht in der Herkunftssprache - Aramäisch";0;"1";1;3;
 "S";null;null;"AR";"Alevitische Religionslehre nach den Grundsätzen des AABF";0;"1";1;3;
@@ -1224,7 +1199,6 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "S";null;null;"PM";"Unterricht in der Herkunftssprache - Polnisch";null;"1";16;5;
 "S";null;null;"PP";"Praktische Philosophie";null;"1";16;7;
 "S";null;null;"PS";"Klinikschule: Psychologie";0;"1";16;8;
-"S";null;null;"PÖ";"Politik/Ökonomische Grundbildung (Realschulbildungsgang)";0;"1";16;6;
 "S";null;null;"QM";"Unterricht in der Herkunftssprache - Farsi";0;"1";17;1;
 "S";null;null;"R";"Aufbaurealschule/Klinikschule: Russisch";0;"1";18;1;
 "S";null;null;"RM";"Unterricht in der Herkunftssprache - Russisch";null;"1";18;4;
@@ -1353,7 +1327,6 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SB";null;null;"YR";"Syrisch Orthodoxe Religionslehre";0;"1";25;0;
 "SB";null;null;"Z";"Neugriechisch";0;"1";26;0;
 "SB";null;null;"ZW";"Zeichnen / Werken";null;"1";26;0;
-"SG";null;null;"AL";"Arbeitslehre - Integration Hauswirtschaft, Technik, Wirtschaftslehre";0;"1";1;2;
 "SG";null;null;"AM";"Unterricht in der Herkunftssprache - Arabisch";null;"1";1;3;
 "SG";null;null;"AN";"Unterricht in der Herkunftssprache - Aramäisch";0;"1";1;4;
 "SG";null;null;"AR";"Alevitische Religionslehre nach den Grundsätzen des AABF";0;"1";1;4;
@@ -1462,7 +1435,6 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SG";null;null;"OR";"Orthodoxe Religionslehre";null;"1";15;10;
 "SG";null;null;"PA";"Erziehungswissenschaft";null;"1";16;2;
 "SG";null;null;"PH";"Physik";null;"1";16;3;
-"SG";null;null;"PK";"Politik";null;"1";16;4;
 "SG";null;null;"PL";"Philosophie (nur SII)";null;"1";16;5;
 "SG";null;null;"PM";"Unterricht in der Herkunftssprache - Polnisch";null;"1";16;6;
 "SG";null;null;"PP";"Praktische Philosophie";null;"1";16;7;
@@ -1604,15 +1576,9 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SG";null;null;"Z9";"Neugriechisch, regulärer Beginn in Jahrgang 9";0;"2";26;5;
 "SG";null;null;"PX";"Projektkurs (Pseudofach: nicht für ASD)";0;"3";16;9;
 "SG";null;null;"VX";"Vertiefungsfach (Pseudofach: nicht für ASD)";0;"3";22;5;
-"SK";null;null;"AH";"Arbeitslehre - Schwerpunkt Hauswirtschaft (nur Regelunterricht)";0;"1";1;2;
-"SK";null;null;"AL";"Arbeitslehre - Integration Hauswirtschaft, Technik, Wirtschaftslehre";0;"1";1;1;
 "SK";null;null;"AM";"Unterricht in der Herkunftssprache - Arabisch";0;"1";1;7;
 "SK";null;null;"AN";"Unterricht in der Herkunftssprache - Aramäisch";0;"1";1;8;
 "SK";null;null;"AR";"Alevitische Religionslehre nach den Grundsätzen des AABF";0;"1";1;8;
-"SK";null;null;"AT";"Arbeitslehre - Schwerpunkt Technik (nur Regelunterricht)";0;"1";1;3;
-"SK";null;null;"AW";"Arbeitslehre - Schwerpunkt Wirtschaft (nur Regelunterricht)";0;"1";1;4;
-"SK";null;null;"AX";"Arbeitslehre - Technik/Wirtschaft (nur Wahlpflichtunterricht)";0;"1";1;5;
-"SK";null;null;"AY";"Arbeitslehre - Hauswirtschaft/Wirtschaft (nur Wahlpflichtunterricht)";0;"1";1;6;
 "SK";null;null;"BI";"Biologie";0;"1";2;2;
 "SK";null;null;"BM";"Unterricht in der Herkunftssprache - Bosnisch";0;"1";2;3;
 "SK";null;null;"C5";"Chinesisch, regulärer Beginn in Jahrgang 5";0;"1";3;1;
@@ -1714,7 +1680,6 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SK";null;null;"PM";"Unterricht in der Herkunftssprache - Polnisch";0;"1";16;6;
 "SK";null;null;"PP";"Praktische Philosophie";0;"1";16;8;
 "SK";null;null;"PS";"Psychologie (nur Bildungsgang Realschule und Gymnasium)";0;"1";16;9;
-"SK";null;null;"PÖ";"Politik/Ökonomische Grundbildung (Realschulbildungsgang)";0;"1";16;7;
 "SK";null;null;"QM";"Unterricht in der Herkunftssprache - Farsi";0;"1";17;2;
 "SK";null;null;"R";"Russisch (nur auslaufender Hauptschulbildungsgang)";0;"1";18;7;
 "SK";null;null;"R5";"Russisch, regulärer Beginn in Jahrgang 5";0;"1";18;1;
@@ -1758,7 +1723,7 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SK";null;null;"VM";"Unterricht in der Herkunftssprache - Bulgarisch";0;"1";22;3;
 "SK";null;null;"WA";"Wirtschaft und Arbeitswelt";0;"1";23;1;
 "SK";null;null;"WP";"Wirtschaft-Politik";0;"1";23;2;
-"SK";null;null;"WW";"Wirtschaftslehre";0;"1";23;3;
+"SK";null;null;"WW";"Wirtschaft";0;"1";23;3;
 "SK";null;null;"WX";"Wirtschaft und Arbeitswelt - Schwerpunkt Hauswirtschaft";0;"1";23;4;
 "SK";null;null;"WY";"Wirtschaft und Arbeitswelt - Schwerpunkt Technik";0;"1";23;5;
 "SK";null;null;"WZ";"Wirtschaft und Arbeitswelt - Schwerpunkt Wirtschaft";0;"1";23;6;
@@ -1919,7 +1884,6 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SR";null;null;"PK";"Politik";null;"1";16;4;
 "SR";null;null;"PM";"Unterricht in der Herkunftssprache - Polnisch";null;"1";16;5;
 "SR";null;null;"PP";"Praktische Philosophie";null;"1";16;7;
-"SR";null;null;"PÖ";"Politik/Ökonomische Grundbildung";0;"1";16;6;
 "SR";null;null;"QM";"Unterricht in der Herkunftssprache - Farsi";0;"1";17;2;
 "SR";null;null;"R5";"Russisch, regulärer Beginn in Jahrgang 5";0;"1";18;1;
 "SR";null;null;"R6";"Russisch, regulärer Beginn in Jahrgang 6";0;"1";18;2;
@@ -2013,12 +1977,9 @@ Schulform;FSP;BG;Fach;Bezeichnung;KZ_Bereich;Flag;Sortierung;Sortierung2;geaende
 "SR";null;null;"T7";"Türkisch, regulärer Beginn in Jahrgang 7";0;"2";20;3;
 "SR";null;null;"T8";"Türkisch, regulärer Beginn in Jahrgang 8";0;"2";20;4;
 "SR";null;null;"T9";"Türkisch, regulärer Beginn in Jahrgang 9";0;"2";20;5;
-"V";null;null;"AH";"Arbeitslehre - Schwerpunkt Hauswirtschaft";0;"1";1;1;
 "V";null;null;"AM";"Unterricht in der Herkunftssprache - Arabisch";null;"1";1;4;
 "V";null;null;"AN";"Unterricht in der Herkunftssprache - Aramäisch";0;"1";1;5;
 "V";null;null;"AR";"Alevitische Religionslehre nach den Grundsätzen des AABF";0;"1";1;5;
-"V";null;null;"AT";"Arbeitslehre - Schwerpunkt Technik";null;"1";1;2;
-"V";null;null;"AW";"Arbeitslehre - Schwerpunkt Wirtschaft";null;"1";1;3;
 "V";null;null;"BI";"Biologie";null;"1";2;1;
 "V";null;null;"BM";"Unterricht in der Herkunftssprache - Bosnisch";null;"1";2;2;
 "V";null;null;"CH";"Chemie";null;"1";3;1;

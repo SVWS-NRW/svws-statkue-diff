@@ -16,6 +16,12 @@ SF;HSF;Beschreibung;Flag;geaendert
 "BK";"A15";"Berufsabschluss (nach §50 BBiG/§40 HwO)/Fachhochschulreife";"1";
 "BK";"A16";"Fachklassen (nach §2 BKAZVO)";"1";
 "SB";"A16";"Fachklassen (nach §2 BKAZVO)";"1";
+"BK";"A17";"Internationale Förderklasse";"1";
+"SB";"A17";"Internationale Förderklasse";"1";
+"BK";"A18";"Fit für Mehr";"1";
+"SB";"A18";"Fit für Mehr";"1";
+"BK";"A19";"Förderzentrum";"1";
+"SB";"A19";"Förderzentrum";"1";
 "WB";"AG";"Weiterbildungskolleg: Abendgymnasium";"1";
 "WB";"AR";"Weiterbildungskolleg: Abendrealschule";"1";
 "BK";"AS";"Ausländische Schüler/-innen, die aus dem Ausland zugezogen sind";"1";

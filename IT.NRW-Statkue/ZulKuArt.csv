@@ -63,8 +63,6 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "GE";"**";"**";"36";"AGGT";"Arbeitsgemeinschaft entsprechend § 9 Abs. 2, 3  SchulG";0;"2";
 "GE";"**";"**";"37";"FOGT";"Förderangebot entsprechend § 9 Abs. 2, 3  SchulG";0;"1";
 "GE";"**";"**";"37";"FOGT";"Förderangebot entsprechend § 9 Abs. 2, 3  SchulG";0;"2";
-"GE";"**";"**";"55";"PROJ";"Profilklasse gem. § 21 Abs. 3 APO-SI";0;"1";
-"GE";"**";"**";"55";"PROJ";"Profilklasse gem. § 21 Abs. 3 APO-SI";0;"2";
 "GE";"**";"**";"61";"WPIGY";"Wahlfplichtunterricht: 2. Fremdsprache (Bildungsgang Gymnasium)";0;"1";
 "GE";"**";"**";"61";"WPIGY";"Wahlfplichtunterricht: 2. Fremdsprache (Bildungsgang Gymnasium)";0;"2";
 "GE";"**";"**";"62";"WP1SW";"Wahlpflichtunterricht GY: Fächerkombination aus dem Fächerspektrum der APO-SI oder gemäß § 7 Abs. 1 APO-GOSt";0;"1";
@@ -164,8 +162,6 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "H";"**";"**";"17";"VSU";"Förderunterricht";0;"2";
 "H";"**";"**";"26";"WPU";"Wahlpflichtunterricht";0;"1";
 "H";"**";"**";"26";"WPU";"Wahlpflichtunterricht";0;"2";
-"H";"**";"**";"29";"WPF";"Wahlpflichtfach";0;"1";
-"H";"**";"**";"29";"WPF";"Wahlpflichtfach";0;"2";
 "H";"**";"**";"33";"AST";"Arbeits- bzw. Übungsstunde entsprechend § 9 Abs. 2, 3  SchulG";0;"1";
 "H";"**";"**";"33";"AST";"Arbeits- bzw. Übungsstunde entsprechend § 9 Abs. 2, 3  SchulG";0;"2";
 "H";"**";"**";"36";"AGGT";"Arbeitsgemeinschaft entsprechend § 9 Abs. 2, 3  SchulG";0;"1";
@@ -245,8 +241,6 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "R";"**";"**";"17";"VSU";"Förderunterricht (nur Bildungsgang Hauptschule)";0;"2";
 "R";"**";"**";"26";"WPU";"Wahlpflichtunterricht (nur Bildungsgang Hauptschule)";0;"1";
 "R";"**";"**";"26";"WPU";"Wahlpflichtunterricht (nur Bildungsgang Hauptschule)";0;"2";
-"R";"**";"**";"29";"WPF";"Wahlpflichtfach  (nur Bildungsgang Hauptschule)";0;"1";
-"R";"**";"**";"29";"WPF";"Wahlpflichtfach  (nur Bildungsgang Hauptschule)";0;"2";
 "R";"**";"**";"33";"AST";"Arbeits- bzw. Übungsstunde entsprechend § 9 Abs. 2, 3  SchulG";0;"1";
 "R";"**";"**";"33";"AST";"Arbeits- bzw. Übungsstunde entsprechend § 9 Abs. 2, 3  SchulG";0;"2";
 "R";"**";"**";"36";"AGGT";"Arbeitsgemeinschaft entsprechend § 9 Abs. 2, 3  SchulG";0;"1";
@@ -295,7 +289,6 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "S";"**";"**";"13";"G_H";"Grundkurs";0;"1";
 "S";"**";"**";"16";"E_H";"Erweiterungskurs";0;"1";
 "S";"**";"**";"26";"WPU";"Wahlpflichtunterricht";0;"1";
-"S";"**";"**";"29";"WPF";"Wahlpflichtunterricht";0;"1";
 "S";"**";"**";"33";"AST";"Arbeitsstunde entsprechend § 9 Abs. 2, 3  SchulG";0;"1";
 "S";"**";"**";"36";"AGGT";"Arbeitsgemeinschaft entsprechend § 9 Abs. 2, 3  SchulG";0;"1";
 "S";"**";"**";"37";"FOGT";"Förderangebot entsprechend § 9 Abs. 2, 3  SchulG";0;"1";
@@ -396,16 +389,12 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "SK";"**";"**";"17";"VSU";"Förderunterricht (nur Bildungsgang Hauptschule)";0;"2";
 "SK";"**";"**";"26";"WPU";"Wahlpflichtunterricht (nur Bildungsgang Hauptschule)";0;"1";
 "SK";"**";"**";"26";"WPU";"Wahlpflichtunterricht (nur Bildungsgang Hauptschule)";0;"2";
-"SK";"**";"**";"29";"WPF";"Wahlpflichtfach (nur Bildungsgang Hauptschule)";0;"1";
-"SK";"**";"**";"29";"WPF";"Wahlpflichtfach (nur Bildungsgang Hauptschule)";0;"2";
 "SK";"**";"**";"33";"AST";"Arbeits- bzw. Übungsstunde entsprechend § 9 Abs. 2, 3  SchulG";0;"1";
 "SK";"**";"**";"33";"AST";"Arbeits- bzw. Übungsstunde entsprechend § 9 Abs. 2, 3  SchulG";0;"2";
 "SK";"**";"**";"36";"AGGT";"Arbeitsgemeinschaft entsprechend § 9 Abs. 2, 3  SchulG";0;"1";
 "SK";"**";"**";"36";"AGGT";"Arbeitsgemeinschaft entsprechend § 9 Abs. 2, 3  SchulG";0;"2";
 "SK";"**";"**";"37";"FOGT";"Förderangebot entsprechend § 9 Abs. 2, 3  SchulG";0;"1";
 "SK";"**";"**";"37";"FOGT";"Förderangebot entsprechend § 9 Abs. 2, 3  SchulG";0;"2";
-"SK";"**";"**";"55";"PROJ";"Profilklasse gem. § 21 Abs. 3 APO-SI";0;"1";
-"SK";"**";"**";"55";"PROJ";"Profilklasse gem. § 21 Abs. 3 APO-SI";0;"2";
 "SK";"**";"**";"61";"WP1FS";"Wahlpflichtbereich: Fremdsprachlich (nur Bildungsgang Realschule)";0;"1";
 "SK";"**";"**";"61";"WPIGY";"Wahlfplichtunterricht: 2. Fremdsprache (Bildungsgang Gymnasium)";0;"1";
 "SK";"**";"**";"61";"WP1FS";"Wahlpflichtbereich: Fremdsprachlich (nur im Bildungsgang Realschule)";0;"2";
@@ -476,7 +465,6 @@ SF;FSP;BG;Kursart;Kursart2;Bezeichnung;SGLBereich;Flag;geaendert
 "V";"**";"**";"16";"E_H";"Erweiterungskurs";0;"1";
 "V";"**";"**";"17";"VSU";"Förderunterricht";0;"1";
 "V";"**";"**";"26";"WPU";"Wahlpflichtunterricht";0;"1";
-"V";"**";"**";"29";"WPF";"Wahlpflichtfach";0;"1";
 "V";"**";"**";"33";"AST";"Arbeitsstunde entsprechend § 9 Abs. 2, 3  SchulG";0;"1";
 "V";"**";"**";"36";"AGGT";"Arbeitsgemeinschaft entsprechend § 9 Abs. 2, 3  SchulG";0;"1";
 "V";"**";"**";"37";"FOGT";"Förderangebot entsprechend § 9 Abs. 2, 3  SchulG";0;"1";
