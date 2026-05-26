@@ -42,11 +42,11 @@ SF;Flag;BKAnlage;BKTyp;BKIndex;Beschreibung;geaendert
 "BK";"1";"A";"15";62;"Berufsabschluss (nach §50 BBiG/§40 HwO)/Fachhochschulreife BAB/FHR; VZ";
 "BK";"1";"A";"16";63;"Fachklassen (nach §2 BKAZVO)/Fachhochschulreife BAB/FHR; VZ";
 "SB";"1";"A";"16";63;"Fachklassen (nach §2 BKAZVO) BAB; VZ";
-"BK";"4";"A";"17";65;"Internationale Förderklasse";
+"BK";"1";"A";"17";65;"Internationale Förderklasse";
 "SB";"4";"A";"17";65;"Internationale Förderklasse";
-"BK";"4";"A";"18";66;"Fit für mehr";
+"BK";"1";"A";"18";66;"Fit für mehr";
 "SB";"4";"A";"18";66;"Fit für mehr";
-"BK";"4";"A";"19";67;"Förderzentrum";
+"BK";"1";"A";"19";67;"Förderzentrum";
 "SB";"4";"A";"19";67;"Förderzentrum";
 "FW";"4";"A";"B";0;"Klinikschule: Allgemeinbildend";
 "S";"4";"A";"B";0;"Klinikschule: Allgemeinbildend";
@@ -133,7 +133,6 @@ SF;Flag;BKAnlage;BKTyp;BKIndex;Beschreibung;geaendert
 "GY";"1";"G";"01";990;"Aufbaugymnasium";
 "WB";"1";"G";"02";990;"Bildungsgang Abendgymnasium";
 "GE";"1";"G";"GS";990;"Gemeinschaftsschule auslaufend: integrierte Form";
-"SK";"1";"G";"GS";990;"Gemeinschaftsschule auslaufend: integrierte Form";
 "G";"4";"G";"MS";990;"angeschlossene Gemeinschaftsschule";
 "SK";"1";"G";"R";990;"kooperative Form: Grundebene";
 "SK";"1";"G";"Y";990;"kooperative Form: Gymnasialbildungsgang";
