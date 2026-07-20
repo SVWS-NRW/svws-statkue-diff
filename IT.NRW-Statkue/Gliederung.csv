@@ -43,11 +43,11 @@ SF;Flag;BKAnlage;BKTyp;BKIndex;Beschreibung;geaendert
 "BK";"1";"A";"16";63;"Fachklassen (nach §2 BKAZVO)/Fachhochschulreife BAB/FHR; VZ";
 "SB";"1";"A";"16";63;"Fachklassen (nach §2 BKAZVO) BAB; VZ";
 "BK";"1";"A";"17";65;"Internationale Förderklasse";
-"SB";"4";"A";"17";65;"Internationale Förderklasse";
+"SB";"1";"A";"17";65;"Internationale Förderklasse";
 "BK";"1";"A";"18";66;"Fit für mehr";
-"SB";"4";"A";"18";66;"Fit für mehr";
+"SB";"1";"A";"18";66;"Fit für mehr";
 "BK";"1";"A";"19";67;"Förderzentrum";
-"SB";"4";"A";"19";67;"Förderzentrum";
+"SB";"1";"A";"19";67;"Förderzentrum";
 "FW";"4";"A";"B";0;"Klinikschule: Allgemeinbildend";
 "S";"4";"A";"B";0;"Klinikschule: Allgemeinbildend";
 "BK";"3";"B";"01";60;"Berufsabschluss/Fachoberschulreife (BAB/FOR 2j; VZ)";
